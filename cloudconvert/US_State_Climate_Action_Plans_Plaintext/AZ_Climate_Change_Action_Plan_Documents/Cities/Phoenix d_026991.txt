@@ -1,0 +1,1094 @@
+City of Phoenix
+
+Climate Action Plan
+for
+Government Operations
+
+October, 2009
+
+Credits and Acknowledgments
+This report was a collaborative process with the City of Phoenix and ICLEI-Local
+Governments for Sustainability
+ICLEI-Local Governments for Sustainability USA
+Michael Currey, Webmaster
+R. Alden Feldon, Project Manager
+Jonathan Knauer, Program Officer
+Kim Lundgren, U.S. Services Director
+Alex Ramel, Senior Program Officer
+Eli Yewdall, Regional Program Associate
+Jim Yienger, Technical Director
+City of Phoenix, Project Manager
+Gaye Knight, Air Quality - Climate Change Specialist
+
+City of Phoenix Climate Action Plan for Government Operations
+
+ii
+
+Table of Contents
+.
+
+EXECUTIVE SUMMARY ............................................................................................................................-11. BACKGROUND...................................................................................................................................- 2 Climate Change.....................................................................................................................................- 2 The Role of Local Governments............................................................................................................- 2 AZ Climate Change Project ...................................................................................................................- 3 2. CITY OF PHOENIX SUSTAINABILITY PROGRAMS ........................................................................- 4 3. EMISSIONS INVENTORY AND FORECAST .....................................................................................- 5 GHG Reporting Format .........................................................................................................................- 5 Baseline Year Emissions.......................................................................................................................- 5 GHG Emissions Growth Forecast for 2005 - 2015................................................................................- 7 4. GHG REDUCTION GOAL ...................................................................................................................- 8 5. GHG REDUCTION MEASURES OVERVIEW.....................................................................................- 9 Climate Action Plan Measures and GHG Reduction Estimates............................................................- 9 6. ENERGY EFFICIENCY & RENEWABLE ENERGY (EN).................................................................- 11 EN-1. Wastewater Treatment (WWT) Digester Gas Projects ............................................................- 11 EN-2. Renewable Energy Goal ..........................................................................................................- 11 EN-3. Energy Efficient Traffic Signals ...............................................................................................- 12 EN-4. Energy Efficiency in Existing Buildings and Facilities ..............................................................- 13 EN-5. Energy Efficiency for New Construction...................................................................................- 14 7. TRANSPORTATION (TR) .................................................................................................................- 16 TR-1. Alternative Fuels........................................................................................................................- 16 TR-2. Automated Train at Sky Harbor Airport .....................................................................................- 17 TR-3. Employee Rideshare Program ..................................................................................................- 18 8. SOLID WASTE (SW) .........................................................................................................................- 19 SW-1. Methane Capture at Landfills ..................................................................................................- 19 SW-2. Green-Waste Mulching & Recycling.........................................................................................- 20 9. CONCLUSION ...................................................................................................................................- 21 -
+
+City of Phoenix Climate Action Plan for Government Operations
+
+iii
+
+Acronyms
+CACP
+CARB
+CCAR
+CH4
+CNG
+CO2
+CO2e
+EAS
+EPA
+GHG
+GWP
+IPCC
+JPA
+LandGEM
+LEED
+LGOP
+LNG
+LPG
+N 2O
+
+Clean Air and Climate Protection Software (2009)
+California Air Resources Board (2008)
+California Climate Action Registry
+Methane
+Compressed Natural Gas
+Carbon Dioxide
+Carbon Dioxide Equivalent Emissions
+Engineering and Architectural Services Department
+Environmental Protection Agency
+Greenhouse Gas
+Global Warming Potential
+Intergovernmental Panel on Climate Change
+Joint Powers Authority
+Landfill Gas Emissions Model
+Leadership in Energy and Environmental Design
+Local Government Operations Protocol
+Liquid Natural Gas
+Liquefied Petroleum Gas
+Nitrous Oxide
+
+Figures
+Figure 1 – Greenhouse Gas Emissions by Sector……………………………………………………..…
+Figure 2 – Detailed GHG Emission Source ………………………………………….…………………...
+Figure 3 – Forecast GHG Emissions ……………………………………………………………..……….
+Figure 4 – City of Phoenix Operations: GHG Reduction Goal ………………………………….……...
+Figure 5 – Impact of Phoenix GHG Measures ………………………………………………….………..
+
+Page
+-6-6-7-8-10-
+
+Tables
+Table 1 – Summary of Measures ………………………………………………………………….……..
+
+City of Phoenix Climate Action Plan for Government Operations
+
+-9-
+
+iv
+
+This page was intentionally left blank.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+v
+
+EXECUTIVE SUMMARY
+Phoenix has been recognized as a leader in environmental
+stewardship and sustainability and has a long history of
+implementing pollution control and natural resource
+conservation programs. These efforts are summarized in the
+city’s sustainability web site Phoenix.gov/sustainability. Most
+of the sustainability programs have also helped reduce GHG
+emissions in city operations and the community.
+In 2008, the city expanded these efforts to include a focus on
+reducing greenhouse gas (GHG) emissions from city operations. In December 2008,
+the City Council adopted a goal to:
+Reduce emissions from city operations to
+5 percent below the 2005 levels by 2015
+The emissions inventory found that municipal operations produced approximately
+618,682 metric tons CO2e in 2005. The relative contribution from each of the major
+sectors is listed below.
+61%
+20%
+12%
+4%
+3%
+
+Electricity and natural gas used in buildings and facilities
+Fleet vehicles
+Landfills
+Employee commute
+Wastewater treatment
+
+The emissions inventory also estimates that GHG emissions will increase to 706,416
+metric tons CO2e in 2015 under a No Action scenario. As a result, the city would need
+to reduce emissions by 19 percent from the 2015 forecast levels to overcome this 14
+percent growth in GHG and achieve an additional 5 percent reduction below the base
+year of 2005.
+The city has identified ten broad measures that are expected to reduce emissions by an
+estimated 120,428 metric tons CO2e – achieving the goal. The measures include
+renewable energy, energy efficiency, alternative fuels, the automated train at Sky
+Harbor International Airport, landfill methane collection efficiency, and other programs.
+At the time this plan was being finalized, new federal funding became available for
+renewable energy, energy efficiency, and other programs to reduce GHG emissions
+while stimulating economic growth. The city has applied for a number of federal grants
+which could achieve additional GHG reductions. The impact from any successful
+applications will be addressed in future updates to this plan.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+-1-
+
+1. BACKGROUND
+Climate Change: Scientific evidence has shown that
+since the beginning of the industrial revolution, human
+activities have been adding measurably to natural
+background levels of greenhouse gases (GHG). This
+conclusion is detailed in the Fourth Assessment Report1 by
+the Intergovernmental Panel on Climate Change (IPCC),
+the preeminent global scientific authority on climate
+change. During the 20th century, the Earth’s average
+temperature increased at rates unparalleled in the geologic
+record. Climatologists at the NASA Goddard Institute for
+Space Studies reported in 2008 that the eight warmest
+years have all occurred since 1998, and the 14 warmest
+years have all occurred since 1990.2
+The 2006 Arizona Climate Action Plan reports that significant global warming impacts
+are expected throughout the state. The Arizona plan reports that in western North
+America, the climate has warmed on average by 1.4 degrees Fahrenheit over the past
+50 years. Higher temperatures and increased evaporation can lower water levels in
+reservoirs, lakes and streams, resulting in water supply and quality issues. Conservative
+estimates of climate change predict significant impacts on the Colorado River by the
+end of this century. The Arizona plan also reports that those impacts include up to a 15
+percent reduction in annual runoff, a 40 percent decrease in water basin storage, and a
+decline in hydroelectric power of 45 to 56 percent compared to the historical average.
+Climate change could also reduce Arizona’s forested areas by 15 to 30 percent,
+exacerbate wildfires and air pollution, and reduce Arizona’s crop production.3
+There are six greenhouse gases recognized in the 1997 Kyoto Protocol, an international
+agreement linked to the United Nations Framework Convention on Climate Change.
+These include: carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O),
+hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and sulfur hexafluoride (SF6).
+Most of these gases are emitted by the burning of fossil fuels by power plants, vehicles,
+and other combustion engines. The heat-trapping properties of these gases contribute
+to increases in global temperatures and changes in precipitation, rising sea levels, and
+adverse effects on many ecological systems.
+
+The Role of Local Governments: The City of Phoenix has recognized that
+climate change is a reality, with potentially disruptive effects on Phoenix’s residents,
+businesses, and natural resources. The City of Phoenix also recognizes that the federal
+government has the primary authority to affect global warming through national
+1
+
+http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr.pdf
+http://www.nasa.gov/centers/goddard/news/topstory/2008/earth_temp.html
+3
+http://www.azclimatechange.gov
+2
+
+City of Phoenix Climate Action Plan for Government Operations
+
+-2-
+
+regulation and international policies. However, local governments can also impact
+greenhouse gas emissions through changes in operations and policies.
+Phoenix can reduce the emissions from city operations by increasing energy efficiency
+in buildings and vehicles, expanding alternative fuels, utilizing renewable energy
+sources, waste reduction, and promoting alternative modes of transportation for
+employees. The co-benefits of these measures may include lower energy bills,
+improved air quality, and more efficient government operations. This Climate Action
+Plan represents another effort by the City of Phoenix to lead by example through the
+GHG reduction measures outlined in this report.
+
+AZ Climate Change Project: Prior to the development of this Action Plan for city
+operations, the City of Phoenix participated in the development of the AZ Climate Action
+Plan. In 2005, Governor Janet Napolitano established the Climate Change Advisory
+Group to study potential climate change impacts in Arizona, conduct an emissions
+inventory and GHG forecast, and develop recommendations for action. The emissions
+inventory for statewide GHG emissions in AZ found that the two largest sources of GHG
+emissions were transportation/mobile sources (39 percent) and electricity production
+(38 percent). Other sources include electricity use in residential and commercial uses
+(5 percent), industrial processes and fuel use (11 percent), waste management (2
+percent), and agriculture/deforestation (5 percent).
+The AZ Climate Change Action Plan estimates that Arizona’s GHG emissions will
+increase from 59.3 million metric tons of carbon dioxide equivalent (CO2e) in 1990 to an
+estimated 147 million metric tons CO2e in 2020, a 148 percent increase.
+The AZ Climate Change Advisory Group identified 49 actions that could reduce GHG
+emissions from energy production, energy use, mobile sources, waste management,
+agriculture, forestry, and other sources. Several examples from the City of Phoenix
+were included in the proposed actions for state-wide implementation including in-fill
+development incentives, transit/light rail services, energy conservation codes, and other
+programs.
+Based on recommendations in the AZ Climate Change Action Plan, Governor
+Napolitano established a goal to reduce statewide GHG emissions to the 2000 levels by
+the year 2020, and 50 percent below the 2000 levels by 2040.4
+
+4
+
+Executive Order 2006-13
+
+City of Phoenix Climate Action Plan for Government Operations
+
+-3-
+
+2. CITY OF PHOENIX SUSTAINABILITY
+PROGRAMS
+Phoenix has consistently demonstrated its commitment to
+environmental stewardship and sustainability through
+numerous pollution control and natural resource
+conservation programs. Those efforts have also helped
+reduce GHG emissions in city operations and the
+community. A full report of more than 80 sustainability
+programs is available at the city’s sustainability web site
+Phoenix.gov/sustainability. The measures included in this Action Plan support the
+sustainability programs. Because this plan focuses on city operations, the city’s wide
+range of community-based sustainability programs are not included. Examples are
+provided below.
+•
+
+Adoption of Energy Conservation standards in the Building Codes
+
+•
+
+Residential recycling program with curbside collection of plastic, glass, paper,
+cardboard, and metal
+
+•
+
+Pedestrian-friendly development Zoning Code standards
+
+•
+
+Zoning Overlay Districts to protect sensitive areas
+
+•
+
+New light rail service with 20 miles of service opening in December 2008 and 37
+miles of planned expansions
+
+•
+
+A Heat Island Task Force to study options for reducing urban temperatures
+
+•
+
+Innovative research on Downtown Urban Form development scenarios
+
+•
+
+Water conservation, wetlands habitat restoration, and aquifer re-charge projects
+
+•
+
+Open space preservation of more than 30,000 acres through bond funding
+
+•
+
+Urban Forestry program to increase trees and promote community action
+
+•
+
+Recycled asphalt overlay program for noise reduction and street maintenance
+
+•
+
+District cooling projects that chill water at night for daytime cooling of buildings
+
+City of Phoenix Climate Action Plan for Government Operations
+
+-4-
+
+3. EMISSIONS INVENTORY AND FORECAST
+In January 2008, the city began the Climate Action Plan project
+with ICLEI – Local Governments for Sustainability USA (ICLEI)
+as the consultant. The first step in the process was to conduct a
+comprehensive inventory of GHG emissions from municipal
+operations.
+The City of Phoenix 2005 GHG Emissions
+Inventory for Government Operations is summarized in this
+section. The full report is available as the companion document
+to this Action Plan.
+The emissions inventory required collection and review of extensive records on energy
+use, methane emission data from landfills and wastewater treatment (WWT) plants,
+vehicle fuel consumption, and other sources of GHG in municipal operations. City staff
+provided data used to create an emissions inventory, and assisted with the analysis of
+the data.
+The city’s preliminary emissions inventory was first reported to the City Council in
+December 2008. The final inventory reflects minor changes that did not impact the
+adopted GHG reduction goal.
+
+GHG Reporting Format: In this plan, GHG emissions are reported as carbon
+dioxide equivalent (CO2e) metric tons to be consistent with the established international
+standard for comparison of the global warming potential (GWP) of different GHG
+relative to CO2. For example, the Intergovernmental Panel on Climate Change (IPCC)
+indicates that methane (CH4) is 21 times more potent than CO2 and nitrous oxide (N20)
+is 310 times more potent in heat trapping potential. Based on these GWP equivalents,
+one metric ton of CH4 is reported as 21 metric tons CO2e and one metric ton of N20 is
+reported as 310 metric tons CO2e.
+
+Baseline Year Emissions: The city selected 2005 as the baseline year to serve as
+the reference point for predicting growth and measuring progress in the future. The
+year of 2005 was selected because city records for that year offer the most reliable data
+to accurately compare progress in reducing emissions in future years. The emissions
+inventory organizes GHG emission sources into five sectors, consistent with the
+standard Local Government Operational Protocol:
+•
+•
+•
+•
+•
+
+Energy Use in Buildings and Facilities
+Vehicles
+Solid Waste (landfills)
+Wastewater Treatment (WWT)
+Employee Commute
+
+The emissions inventory found city operations generated approximately 618,682 metric
+tons CO2e in 2005. The GHG contribution from each sector is shown in Figure 1.
+Approximately 61 percent of the CO2e emissions came from energy use in buildings
+
+City of Phoenix Climate Action Plan for Government Operations
+
+-5-
+
+and other facilities, 20 percent from the municipal fleet vehicles, 12 percent from solid
+waste, 4 percent from employee commute, and 3 percent from the N20 and CH4 gasses
+emitted in the WWT process.
+Figure 1. Greenhouse Gas Emissions by Sector
+
+GHG Emissions Inventory
+City of Phoenix Operations 2005
+WWT Gases 3%
+Vehicles 20%
+
+Solid Waste 12%
+
+Employee
+Commute 4%
+
+Buildings and Facilities Energy Use
+61%
+
+Figure 2 provides more detail on the emissions from energy use and fleet vehicles.
+Electricity used in the treatment of drinking water and wastewater combined contributes
+approximately 24 percent of the total emissions while energy use in all other buildings
+and facilities contributes 37 percent. Transit buses contribute 7 percent compared to all
+other vehicles in the fleet which contribute 13 percent.
+Figure 2. Detailed GHG Emission Sources
+
+Greenhouse Gas Emissions
+City of Phoenix Operations
+Methane: Landfills 12%
+
+WWT Gases 3%
+Transit Buses 7%
+Fleet 13%
+Worker
+Commute 4%
+
+WWT Electricity
+10%
+
+Traffic & Street
+Lights 7%
+Water Treatment
+Electricity
+14%
+
+Aviation
+Energy 14%
+Other Facilities
+& Natural Gas
+14%
+
+Convention Center
+Energy 2%
+
+City of Phoenix Climate Action Plan for Government Operations
+
+-6-
+
+GHG Emissions Growth Forecast for 2005 - 2015: The GHG forecast is
+used to predict future emissions based on a No Action scenario which assumes the city
+would not implement new or expanded programs. GHG emissions were forecast for
+2015 because this year allows adequate time to estimate probable growth trends.
+Estimates of energy needs, population growth, and other key factors beyond 2015 were
+considered to be overly speculative.
+Under the No Action scenario, the GHG emissions from city operations are expected to
+increase from 618,682 metric tons CO2e in 2005 to 706,416 metric tons CO2e in 2015
+(Figure 3). This is an increase of 87,734 metric tons CO2e or approximately 14 percent.
+Figure 3. Forecast GHG Emissions
+
+Forecast GHG Growth
+City of Phoenix Operations
+
+CO2e Metric Tons
+
+750,000
+14% Growth
+
+700,000
+
+650,000
+Maintain 2005
+Levels
+
+600,000
+
+550,000
+2005
+ Growth: 706,416
+
+2015
+ 2005 Levels: 618,682
+
+It is important to note that this GHG emissions forecast is highly dependent upon
+estimates of future growth. For example, the forecast assumes a core energy use
+growth rate of 1.5 percent per year for WWT and water processing. If the actual
+average growth rate were 2.0 percent per year through 2015, the total GHG emissions
+for city operations would increase to more than 715,000 metric tons CO2e.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+-7-
+
+4. GHG REDUCTION GOAL
+The selection of a GHG emission reduction goal can be
+a complex issue for any organization. Because the City
+of Phoenix is one of the fastest growing areas in the
+nation, the goal must recognize the challenges of
+providing services for an increasing population. Some
+cities have selected a longer term aspirational goal as
+the first step in the process, followed by an emissions
+inventory and identification of measures necessary to
+meet the goal. Others choose to start with the emissions inventory and review of
+feasible measures before selecting a reduction goal.
+After consideration of several approaches, the Phoenix City Council approved funding
+to conduct a comprehensive emissions inventory and develop an Action Plan with a
+goal that is based on realistic but challenging GHG reduction measures. In December
+2008, the Phoenix City Council adopted Resolution Number 20759, which states the
+city’s goal to:
+Reduce GHG emissions from city operations to
+5 percent below the 2005 levels by 2015.
+Because the GHG emissions were expected to increase by 14 percent from 2005 to
+2015, the city will actually need to reduce emissions by 19 percent from the 2015 levels
+to first overcome the GHG growth and then achieve an additional 5 percent below the
+base year of 2005.
+Figure 4. City of Phoenix Operations: GHG Reduction Goal
+
+GHG Goal: City of Phoenix Operations
+5% Below 2005 Levels by 2015
+CO2e Metric Tons
+
+750,000
+14% Growth
+
+700,000
+
+650,000
+Maintain 2005
+Levels
+
+600,000
+
+Goal
+
+550,000
+2005
+ Growth: 706,416
+
+Year
+
+ 2005 Levels: 618,682
+
+2015
+ Goal: 587,748
+
+City of Phoenix Climate Action Plan for Government Operations
+
+-8-
+
+5. GHG REDUCTION MEASURES
+OVERVIEW
+The GHG reduction measures presented in this Action Plan
+were developed from a review of the city’s sustainability
+programs, options for new or enhanced programs, measures
+used by other cities, and discussions with key department staff
+and management. These GHG reduction measures were
+selected based upon their ability to provide cost effective and
+measurable GHG reductions over time.
+The preliminary list of measures was originally reported to the City Council in December
+2008. Although this Action Plan includes minor changes and reorganization of the
+measures, the final list of measures provide adequate GHG reduction to meet the
+adopted GHG reduction goal.
+This Action Plan is being prepared at a time of great fluctuation in the national and local
+economy. The GHG reduction measures included in this plan were finalized after the
+city budget cuts of $156 million were implemented early in 2009. Additional budget cuts
+may be necessary in fiscal year 2009/10. Conversely, new federal funding has become
+available for a wide range of transportation and energy programs and the city is actively
+developing proposals to compete for those funds. If funded, these projects may achieve
+additional GHG emission reductions. The impact from those projects will be included in
+future updates to this plan.
+
+Climate Action Plan Measures and GHG Reduction Estimates: The city
+identified ten GHG reduction measures that will be implemented to reach the adopted
+goal. These measures are grouped into three sectors that reflect the major sources of
+GHG emissions identified in the emissions inventory: energy use, transportation, and
+solid waste. The measures under each sector are listed below. The sectors have been
+consolidated from the five sectors in the emissions inventory.
+Table 1. Summary of Measures
+GHG Reduction
+•
+
+•
+
+•
+
+Energy Efficiency & Renewable Energy (EN)
+st
+rd
+EN-1: WWT Digester Gas Projects (91 and 23 Avenue plants)
+EN-2: Renewable Energy Goal (15% renewable by 2025)
+EN-3: Energy Efficient Traffic Signals
+EN-4: Energy Efficiency: Existing Buildings
+EN-5 Energy Efficiency: New Construction
+Transportation (TR)
+TR-1: Alternative Fuels: Bio-diesel & Ethanol
+TR-2 Automated Train at Sky Harbor Airport: Phase I
+TR-3 Employee Rideshare Program
+Solid Waste (SW)
+SW-1: Methane Collection at Landfills (SR-85 & Skunk Creek)
+SW-2 Green Waste Mulching & Recycling
+Total GHG Reduction
+
+City of Phoenix Climate Action Plan for Government Operations
+
+CO2e metric tons
+
+40,916
+35,000
+1,885
+1,215
+697
+9,028
+5,519
+3,019
+21,432
+1,717
+120,428
+
+-9-
+
+The measures in this plan are expected to reduce GHG emissions by 120,428 metric
+tons CO2e achieving an estimated 5.3 percent reduction from the 2005 levels. The
+relative GHG reduction for each measure is shown in Figure 5. The top three projects
+will be responsible for reducing GHG emissions by 97,347 metric tons CO2e, or
+81percent of the total GHG reductions in the Action Plan. These include the WWT
+digester gas projects, the renewable energy goal, and the enhanced methane collection
+systems at the Skunk Creek and 27th Avenue landfills. Future updates to this plan may
+also include renewable energy projects for SR-85 Landfill and additional solar projects.
+Figure 5: Impact of Phoenix GHG Measures
+
+Impact of Phoenix GHG Measures
+Reduction in 2015
+WWT Digester Gas Project
+15% Renewable Energy Goal
+Methane Collection SR 85 & Skunk Creek
+Alternative Fuel
+Automated Train - Sky Harbor
+Employee Rideshare
+LED Street Signals
+Recycling / Mulching
+Energy Efficiency - Existing Buildings
+Energy Efficiency - New Construction
+
+0
+
+10,000
+
+20,000
+
+30,000
+
+40,000
+
+CO2 e Tons
+
+The GHG reduction measures are described in the following sections of this report. As
+discussed previously, the measures represent only a portion of the city’s wide range of
+GHG reduction/sustainability programs. These measures will be used to evaluate
+progress toward achieving the adopted GHG reduction goal.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 10 -
+
+6. ENERGY EFFICIENCY & RENEWABLE
+ENERGY (EN)
+This section describes the energy efficiency and renewable
+energy measures to reduce (or off-set) the GHG emissions
+associated with electricity and natural gas used to operate city
+buildings and facilities.
+The estimated 79,713 CO2e ton
+reduction from these measures represents 66 percent of the total
+reductions in this Action Plan.
+
+EN-1. Wastewater Treatment (WWT) Digester Gas
+Projects: The 91st Avenue and 23rd Avenue WWT plants currently capture methane
+generated in the treatment process. The methane is combusted in flares at these
+facilities. In 2008, the city issued a request for qualifications (RFQ) to solicit projects
+that could use this methane to produce electricity or substitute for natural gas. The GHG
+reduction from this measure comes from displacing the electricity or natural gas used
+elsewhere with the methane generated fuel from WWT process.
+•
+
+Cost Information: Cost information is pending and will be available after the bid
+process is complete. This measure may not require specific city funding to
+construct and operate the system, but additional staff may be necessary for
+project management.
+
+•
+
+Greenhouse Gas Reduction Potential by 2015: 40,916 metric tons CO2e.
+
+•
+
+Assumptions: This measure assumes the implementation of successful
+projects to use an estimated 3.2 million cubic feet per day of methane from the
+WWT plants to produce electricity or to replace natural gas. This is equal to the
+amount of methane flared at the 91st Avenue and 23rd Avenue WWT plants in
+2007.
+Note: An additional 0.31 million cubic feet per day of the methane generated in
+the WWT process at the 91st Avenue WWT plant was used on site to operate the
+boilers for heating the digesters. This methane is not included in this measure
+because the system has been in operation before the 2005 baseline year.
+
+EN-2.
+
+Renewable Energy Goal:
+
+In 2008, the City Council approved a
+Renewable Energy Goal that 15 percent of the total energy-use in municipal operations
+would be generated from renewable sources by 2025. This includes gas-to-energy
+projects at 27th and Skunk Creek landfills and undefined solar projects. In these
+renewable energy projects, the city may be the owner, a partner, or a sponsor.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 11 -
+
+The city is also pursuing additional renewable energy projects that were not considered
+during the adoption of the Renewable Energy Goal. If these projects are successful,
+they will be addressed in future updates to this Action Plan.
+•
+
+Cost Information: The landfill gas-to-energy projects are not expected to require
+additional funding. By 2015, the annual costs are currently estimated to be
+$15,300 for solar agreements, based on a $0.03/kWh premium for solar.
+
+•
+
+Greenhouse Gas Reduction Potential by 2015: 35,000 metric tons CO2e.
+
+•
+
+Assumptions: This measure assumes displacing approximately 61,295,474
+kWh of electricity with renewable energy. The specific combination of projects
+may vary in the future, but this measure assumes a landfill gas-to-energy project
+at Skunk Creek and 27th Avenue landfills and a variety of solar projects.
+
+EN-3. Energy Efficient Traffic Signals: The use of energy efficient traffic
+signals can reduce energy consumption and associated GHG emissions. Traffic signals
+include traffic and pedestrian control signals at street intersections.
+The city has been implementing a phased program to replace incandescent traffic
+signals with more efficient Light Emitting Diode (LED) technology. The city also
+requires the use of LED signals for new intersections or when an existing intersection is
+modified. Based on current funding levels, the complete replacement of all incandescent
+traffic signals is expected to be completed by 2025 - ten years beyond the scope of this
+Action Plan. This measure evaluates the GHG reduction from the portion of the project
+that will be completed by 2015.
+The Street Transportation Department is currently evaluating options for additional
+energy savings through the use of induction and LED street lighting (street lights and
+signs). Future updates to this Action Plan will address these programs as the testing of
+more efficient street lighting evolves past the pilot phase.
+•
+
+Cost Information: The LED traffic signals cost between $10,100 and $11,300
+per intersection (parts & labor including pedestrian walk/don’t walk signals).
+Funding for the equipment is currently available through the Public Works Energy Conservation Fund with a portion of the funding for pedestrian traffic
+signals comes from the 2006 municipal bond program. This measure assumes
+that funding and staff resources are maintained at current levels.
+
+•
+
+Greenhouse Gas Reduction Potential by 2015: 1,885 metric tons CO2e.
+Assumptions: This measure assumes that the traffic and pedestrian signals at
+approximately 40 percent of the street intersections will be converted to LED
+traffic signals between 2005 and the 2015 goal year and that the electricity use at
+each of these intersections will be 54 percent less than the electricity use by the
+same signals in 2005.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 12 -
+
+EN-4. Energy Efficiency in Existing Buildings and Facilities: Since the
+early 1970’s, the City of Phoenix has implemented a wide range of projects to improve
+energy efficiency and conservation in buildings, city parks, drinking water treatment and
+WWT systems, and other facilities. The city's unique Energy Savings Reinvestment
+Fund (Energy Conservation Fund) provides funding for energy efficiency retrofit projects
+including heating, ventilation and air conditioning, lighting retrofits, energy efficient
+pumps for the water distribution systems and public pools, and LED traffic signals. The
+fund is managed by Public Works Department and projects are conducted with the
+General Fund departments, the Water Services Department, and the Phoenix
+Convention Center.
+Improved energy efficiency is also achieved through the Environmentally Preferable
+Products program which adds contract bid specifications to require environmentally
+sustainable equipment that has been certified by Energy Star, Electronic Product
+Environmental Assessment Tool or other certification program. Examples include
+computers, monitors, copiers, and other general appliances used in city operations.
+Products continue to be added to the list. The GHG reductions from this program are
+not included in the emission reduction calculations for this measure because accurate
+data is not currently available. Future updates to this Action Plan may address these
+programs.
+The Aviation Department has implemented a wide range of energy efficiency and
+conservation measures including upgraded air conditioning units, lighting and other
+energy improvements. In addition, the department has created a Sustainability Fund
+that is currently used to support an energy audit of Terminal 4 at Sky Harbor airport to
+document current operational systems and identify initial energy conservation
+opportunities. The fund will support other projects in the future.
+•
+
+Cost Information: This measure includes annual funding of approximately
+$150,000 in the Aviation Department Sustainability Fund and $1.5M from the
+Energy Conservation Fund which is supported by the General Fund, Water
+Services Department and the Convention Center.
+
+•
+
+Greenhouse Gas Reduction Potential by 2015: 1,215 metric tons CO2e.
+
+•
+
+Assumptions: This measure assumes that a reduction of 1.5 percent of 2005
+electricity use can be achieved in approximately 60 percent of the buildings
+managed by the Public Works Department. (A list of these buildings can be
+found in the emissions inventory supporting documents). Implementation of this
+measure also assumes that Aviation will achieve a 1.0 percent reduction in
+energy use compared to 2005, based upon ongoing equipment replacements
+and projects.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 13 -
+
+EN-5.
+
+Energy Efficiency for New Construction: Energy efficiency is an
+
+important consideration in the design of new buildings and facilities. In the city of
+Phoenix, new construction is managed by three departments. Engineering and
+Architectural Services Department (EAS) manages the construction of building projects
+funded by the General Fund and municipal bonds. The Aviation and Water Services
+departments are fee-supported “Enterprise” departments that manage their own
+construction projects.
+The GHG reduction estimates of this measure include only the expected impact from
+EAS-managed projects because that program is more clearly defined. The Aviation and
+Water Services programs are discussed briefly below but the impact from those
+programs will be calculated in future updates to this plan.
+The construction projects managed by the EAS Department are constructed in
+compliance with the EAS Building Standards Manual which includes a goal that
+buildings meet the basic Leadership in Energy and Environmental Design (LEED)
+certification standard. Updates to the manual in 2006 added a requirement for new
+buildings to achieve at least two LEED points for energy performance. This is expected
+to result in an energy savings of approximately 14 percent when compared to national
+building code standards (ASHRAE/IESNA Standard 90.1-2004).
+The Aviation Department has included energy efficiency features in new construction at
+the airport terminals and other facilities. The automated train stations for the airport are
+being designed to (LEED) standards. The department will also consider the feasibility of
+using the energy standards in the EAS Building Standards Manual for design of future
+building construction.
+The Water Services Department evaluates energy efficiencies and energy use
+avoidance as part of designing, constructing, and operating new facilities. Motors and
+pumps are carefully sized to minimize energy use. Where a large spectrum of service is
+needed, variable frequency drives are used to operate the equipment in the most
+efficient manner. The department also adapts operations to take advantage of time-ofday electrical rates to minimize the impact on the electric utility service and reduce cost.
+The Water Services Department has also created a Green Team that will consider
+energy conservation options in new WWT and water treatment processes and buildings.
+The department will also consider the feasibility of using the EAS Building Standards
+Manual standards in design of new administrative and other buildings. The water
+energy efficiency projects are not included in this plan because adequate data is not
+available to calculate the GHG reduction impact. New water treatment and WWT energy
+efficiency projects may be included in future updates to the plan.
+•
+
+Cost Information: New construction projects managed by the EAS department
+are supported by the 2006 municipal bond program. The budget estimates for
+these projects included an additional 2 percent for the cost of meeting the
+enhanced LEED standards. This small cost premium has been shown to reduce
+the operating costs of facilities over time. Based on this success, this premium is
+likely to be included for buildings constructed under future bond programs.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 14 -
+
+•
+
+Greenhouse Gas Reduction Potential by 2015: 697 metric tons CO2e.
+
+•
+
+Assumptions: The emissions inventory estimates that energy use in buildings
+and facilities will increase by 1 percent per year. This measure assumes that
+approximately half of that growth will come from the energy used in new buildings
+constructed under the 2006 municipal bond program. This measure assumes
+that these buildings will achieve 14 percent better energy efficiency – consistent
+with the intent of the LEED energy standards in the EAS Buildings Standards
+Manual.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 15 -
+
+7. TRANSPORTATION (TR)
+The transportation measures in this section includes alternative fuels, the automated
+train at Sky Harbor airport, and an employee rideshare program. These measures are
+expected to reduce GHG emissions by 17,566 metric tons CO2e by 2015, representing
+a 15 percent of the total reductions in the Action Plan.
+
+TR-1. Alternative Fuels: The city operates one of the largest alternative fuel fleets
+in the nation with approximately 2,900 vehicles using CNG, LNG, ethanol flex-fuel, or
+electric hybrid technology. The alternative fuel measures below focus on the transition
+to biodiesel and the expansion of the ethanol because those fuels are expected to
+experience the greatest increase during the 2005-2015 timeframe.
+TR-1.a. Biodiesel: In November 2007, after a successful pilot program, the city
+started using a blend of 80 percent diesel and 20 percent biodiesel (B-20) in the nontransit vehicle fleets and diesel equipment.
+Because biodiesel is produced from plants that absorb CO2 during their life, the use of
+biodiesel does not add new carbon to the atmosphere - therefore reducing GHG
+emissions compared to fossil fuels. It is important to consider the source of the
+biodiesel because some fuel crops can have significant environmental and social
+impacts. Therefore, city staff carefully selects the bio-diesel supplier to ensure the fuels
+meet stringent state quality standards and minimize energy used in production and
+other adverse impacts.
+•
+
+Cost Information: The biodiesel program costs approximately $100,000/year based on costs of $0.01 to $0.02 per gallon more than diesel fuel.
+
+•
+
+Greenhouse Gas Reduction Potential by 2015: 5,752 metric tons CO2e. The
+emissions from N2O and CH4 were not included because they are dependent on
+vehicle type, and are minimal compared to CO2.
+
+•
+
+Assumptions: The energy savings and emissions reduction are calculated
+based on the use of B-20 in non-transit diesel vehicles and equipment. The
+emission calculation includes a 2 percent reduction in fuel energy density for the
+biodiesel.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 16 -
+
+TR-1.b. Ethanol (E-85): The city currently owns flex-fuel vehicles that are capable of
+using a blend of 85 percent ethanol (E-85). However, the vehicles are currently
+operated on gasoline because of the limited access to the fuel and the lack of E-85
+compatible fuel tanks. This measure includes the continued purchase of flex-fuel
+vehicles and the construction of four E-85 compatible fuel tanks to fuel approximately
+500 vehicles by 2015.
+•
+
+Cost Information: This measure assumes that there is no incremental cost
+difference for flex-fuel vehicles.
+E-85 Fuel Cost: Although E-85 fuel costs have been lower than gasoline,
+ethanol has approximately 28 percent lower energy density. As a result, more
+fuel is required to travel the same distance. Therefore, the Public Works
+Department has planned for an additional cost of approximately $115,000/year.
+E-85 Fuel Tanks: Public Works plans to install approximately three new E-85 fuel
+storage tanks and Aviation plans to upgrade one fueling site to handle E-85 fuel.
+This measure assumes that the average cost of the new tank installation will be
+approximately $175,000 each by 2015.
+
+•
+
+Greenhouse Gas Reduction Potential by 2015: 3,276 metric tons CO2e. The
+emissions calculation accounts for the 28 percent decrease in energy density
+noted above. The emissions from N2O and CH4 were not included because they
+are dependent on vehicle type, and are minimal compared to CO2.
+
+•
+
+Assumptions: 500 vehicles operating on E-85 fuel by 2015.
+
+TR-2. Automated Train at Sky Harbor Airport: This measure assumes that
+Phase I of the automated train at Sky Harbor airport will be completed to provide service
+from the Light Rail to Terminal 4 by the goal year of 2015. The GHG reductions are
+based upon the elimination of 29 CNG buses currently providing service to the longterm and employee parking lots. Because Phase II of the automated train (service to
+Terminals 2 and 3 as well as the consolidated rental car facility) is currently scheduled
+for completion in 2020, the emission reductions are not included in this Action Plan.
+•
+
+Cost Information: This measure is currently funded.
+
+•
+
+Greenhouse Gas Reduction Potential by 2015: 5,519 metric tons CO2e.
+
+•
+
+Assumptions: The GHG emissions reduction associated with this measure is
+based on eliminating 29 CNG-fueled buses from the 36 buses in the Aviation
+fleet. These calculations also assume that the electricity for the automated train
+energy is included within the one percent electricity growth rate predicted for the
+Aviation buildings.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 17 -
+
+TR-3. Employee Rideshare Program:
+
+The city’s travel reduction program
+includes carpool parking subsidies, free bus/light rail passes for employees, emergency
+ride home cab vouchers, telecommuting, bicycle facilities, and other incentives.
+•
+
+Cost Information: This measure assumes current funding is maintained for
+bus/light rail passes, and other program costs. Increased funding may be needed
+in the future but has not been assumed in this measure.
+
+•
+
+Greenhouse Gas Reduction Potential by 2015: 3,019 metric tons CO2e.
+
+•
+
+Assumptions:
+This measure assumes that the city will increase the
+participation in the travel reduction program from approximately 30 percent in
+2005 to 40 percent in 2015. The calculation is based on the number of city staff
+who work at sites with 50 or more employees; consistent with the regional
+rideshare program.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 18 -
+
+8. SOLID WASTE (SW)
+The solid waste measures discussed below will
+achieve an estimated 23,149 CO2e metric ton
+reduction in GHG by 2015. This represents 19
+percent of the total reductions in this Action Plan.
+Renewable energy projects which use the
+emissions from landfills are discussed in the Renewable Energy Goal measure (EN-2).
+
+SW-1.
+
+Methane Capture at Landfills: This measure includes enhanced
+methane collection systems at two landfills: Skunk Creek and SR-85. The GHG impact
+from this measure is based on the incremental improvement for the methane collection
+efficiency which goes beyond the industry standard.
+
+Skunk Creek Landfill was closed in December 2005. In 2006, the final cap was installed
+and the methane collection system was expanded – resulting in increased methane
+collection efficiency from a baseline of 50 percent in 2005 to 85 percent. This exceeds
+the 75 percent methane collection rate that is used as the industry standard default
+value from EPA models. This incremental increase from 75 to 85 percent efficiency in
+the landfill methane system provides the basis for the GHG reduction achieved by this
+measure. The improved efficiency from 50 percent to 75 percent is included in the 2015
+Forecast for the No Action scenario.
+The SR-85 Landfill opened in January 2006 as the Skunk Creek Landfill closed. The
+methane collection system is designed to achieve an estimated 90 percent methane
+capture rate. This exceeds the 75 percent methane capture rate that is used as the
+industry standard default value in EPA models. This incremental increase from 75 to 90
+percent efficiency provides the basis for the GHG reduction achieved by this measure.
+
+•
+
+Cost Information: Assumes no incremental cost for the continued installation
+and operation of the methane collection system at the SR-85 landfill and
+operation of the expanded system at the Skunk Creek Landfill.
+
+•
+
+Greenhouse Gas Reduction Potential by 2015: 21,432 metric tons CO2e.
+
+•
+
+Assumption: The GHG reduction from this measure includes the improved
+methane recovery at two landfills:
+Skunk Creek: Emissions reductions are based on improved methane collection
+efficiency from the industry standard of 75 percent to the 85 percent achieved by
+improvements to the system completed in 2006, as discussed above.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 19 -
+
+SR-85: Emissions reductions are based on the incremental improvement in the
+methane collection efficiency from the industry standard of 75 percent to the 90
+percent achieved by the system at this new landfill, as discussed above.
+
+SW-2. Green-Waste Mulching & Recycling: Mulching and recycling programs
+divert waste from landfills and reduce the volume of organic materials that generate
+methane emissions. The city provides green waste mulching services through a
+contractor at the 27th Avenue Transfer Station where 15,616 U.S. tons of green waste
+were mulched in 2005. The mulching services contract includes funding for up to
+25,000 U.S. tons annually and this level is expected to be reached in 2009 and continue
+through 2015.
+The city also provides citywide residential curbside recycling services for the collection
+of glass, metal, plastic, cardboard, and paper. This program was initiated in the early
+1990s. The program is not included as a GHG reduction measure because the
+curbside recycling collection rates are expected to remain generally consistent through
+2015.
+•
+
+Greenhouse Gas Reduction Potential by 2015: 1,717 metric tons CO2e.
+
+•
+
+Assumptions: This measure assumes that green waste mulching will increase
+from 15,616 U.S. tons in 2005 to 25,000 U.S. tons in 2009 and continue at that
+level through 2015 (an increase of 9,384 tons per year).
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 20 -
+
+9. CONCLUSION
+Climate change is an issue of growing concern for communities
+across the United States and around the world. The City of
+Phoenix has displayed leadership and foresight in choosing to
+confront this issue now. By reducing the amount of greenhouse
+gases emitted in city operations, Phoenix joins other cities around
+the world taking early action to address global warming and the
+associated risks, such as increasingly severe weather events,
+disrupted water and agricultural systems, and rising sea levels.
+The measures in this Action Plan are expected to reduce GHG emissions in Phoenix’s
+government operations by 120,428 metric tons CO2e in 2015, which will achieve the
+GHG reduction goal of 5 percent below 2005 levels by 2015.
+As this plan was being finalized, the city was actively seeking new federal funds to
+support additional renewable energy projects, expanded energy efficiency projects, and
+support for alternative fuels. These new programs may provide additional GHG
+reductions.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 21 -
+
+This page was intentionally left blank.
+
+City of Phoenix Climate Action Plan for Government Operations
+
+- 22 -
+
+

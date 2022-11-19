@@ -1,0 +1,3760 @@
+City of Tempe 2019
+
+tempe.gov/Sustainability
+
+Letter from the Mayor
+To City of Tempe Residents:
+Tempe demonstrates how taking local action can have a global impact. As a commitment
+to sustainability, our city joined the Global Covenant of Mayors for Climate and Energy to
+cut our greenhouse gas (GHG) emissions and prepare for the effects of climate change.
+We are setting Tempe on a path to sustainability and resilience with our first ever Climate
+Action Plan (CAP). Our plan focuses on transportation and energy use because they are
+the main sources of emissions in our community. In addition to reducing our emissions,
+we must adapt to our already changing climate by making sure our city is prepared for
+extreme heat. Through this plan and the work of our Office of Diversity and Strategic
+Management, we are ensuring our climate actions address vulnerable populations and
+frontline communities. Tempe will take local action, to be part of global solutions, by
+reducing emissions and preparing for the impacts of extreme heat.
+Alongside the community actions in the Climate Action Plan, we are also taking steps
+as a city to embed sustainability into municipal operations. One of our Council-adopted
+performance measures is to achieve carbon neutrality in municipal operations by 2050,
+with a strategy of using 100% renewable electricity sources by 2035. Tempe moved
+towards carbon neutrality by investing in the Johnny G Martinez Water Treatment Plant
+Solar Project. Over 2,000 solar panels at the plant supply 25% of the power needed
+for that facility and helped Tempe have 10% of municipal electricity come from clean
+sources. We can build on the success of municipal actions by taking climate action in our
+community, such as the construction of the Tempe Streetcar. The streetcar will provide
+Tempeans another option to get around the city that is not a single-occupancy vehicle.
+It also helps us lower carbon emissions and local air pollution to make our city a more
+enjoyable place to live and visit. We can prepare for our future by improving internal city
+operations and working toward community solutions with businesses and residents.
+With the help of hundreds of Tempe residents and city staff, Arizona State University
+(ASU), and the School for the Future of Innovation in Society, it is my pleasure to
+introduce Tempe’s first-ever Climate Action Plan. This plan identifies actions the city,
+businesses, and residents can take to lower our emissions and make sure our city is
+resilient to extreme heat. The City will work with every Tempean to implement the actions
+in our Climate Action Plan to ensure we remain a great city to live in, with a vibrant
+economy, for generations to come.
+Sincerely,
+
+Mark Mitchell, Mayor
+ii
+
+Acknowledgements
+We are deeply thankful for the community collaboration and input that went into this plan. Below are some of
+the main contributors that made Tempe’s first CAP possible:
+Authors: Dr. Lauren Withycombe Keeler, Dr. Braden Kay, Grace Kelly, Grace Logan, and Miguel Santos Reyes
+Copyeditor: Heather Ehlers
+CAP design & layout: Michele Gurrieri
+CAP edits: Samantha Sterk
+Poster design: Bryan Rauch
+
+City Council Members
+
+Mark Mitchell, Mayor
+Lauren Kuby, Vice Mayor
+Jennifer Adams, Councilmember
+Robin Arredondo-Savage, Councilmember
+Arlene Chin, Councilmember
+Randy Keating, Councilmember
+Joel Navarro, Councilmember
+
+City of Tempe Management
+
+Andrew Ching, City Manager
+Kenneth Jones, Deputy City Manager, Chief Financial
+Officer
+Steven Methvin, Deputy City Manager, Chief
+Operating Officer
+
+City of Tempe Staff
+
+Braden Kay, Director of Sustainability
+Grace DelMonte Kelly, Energy Management
+Marilyn DeRosa, Engineering & Transportation
+Rosa Inchausti, Strategic Management and Diversity
+Kevin Devery, Fleet Manager
+Charlie Bladine, Facilities Manager
+Shelly Seyler, Engineering and Transportation
+Vanessa Spartan, Transportation Planner
+Robert Yabes, Principal Planner
+Sue Taaffe, Senior Management Assistant
+Eric Iwersen, Transit Manager
+Julian Dresang, City Engineer
+TaiAnna Yee, Public Information Officer
+Cassandra Mac, Environmental Services
+Wydale Holmes, Strategic Management Analyst
+Aaron Peterson, Strategic Management Analyst
+Stephanie Deitrick, Enterprise GIS Manager
+Bonnie Richardson, Principal Planner
+Shauna Warner, Neighborhood Services
+Ambika Adhikari, Principal Planner
+Robbie Aaron, Planner
+Elizabeth Thomas, Neighborhood Services
+Laura Kajfez, Neighborhood Services
+Nikki Ripley, Communication & Media Relations
+Shannon Reed, Public Information Officer
+Michele Gurrieri, Web & Design Coordinator
+Brianne Fisher, Mayoral Aide
+Elizabeth Higgins, Chief of Staff
+Marge Zylla, Government Relations
+Miguel Santos Reyes, Sustainability Intern
+Grace Logan, Sustainability Intern
+Carla Sidi, Engineering and Transportation
+Kyrie (Kiki) Hooton, Sustainability Intern
+Richard Adkins, Urban Forester
+Keith Burke, Community Services
+Craig Hayton, Community Services
+Naomi Farrell, Human Services
+
+City of Tempe | Climate Action Plan
+
+Jonae Harrison, Equity and Inclusion Manager
+Donna Kennedy, Economic Development
+Jill Buschbacher, Economic Development
+Maria Laughner, Economic Development
+Greg Ruiz, Fire Medical Rescue
+Andrea Glass, Fire Medical Rescue
+Darrell Duty, Fire Medical Rescue
+Chad Weaver, Community Development
+Cassandra Holcombe, Sustainability intern
+Jorge Kalil, Sustainability intern
+Will Nicholson, Sustainability intern
+
+Arizona Public Service &
+Salt River Project
+Patricia DiRoss, SRP
+Brian Bednar, SRP
+Andrea Chalmers, SRP
+Marc Campbell, SRP
+Kathy Knoop, SRP
+Joseph DeGraft-Johnson, SRP
+Kelly Barr, SRP
+Brendan Denker, SRP
+Anthony Aguilar, APS
+Patricia McLaughlin, APS
+Patrick McDermott, APS
+Judson Tillinghast, APS
+Kent Walter, APS
+John Pinho, APS
+
+City of Tempe Sustainability
+Commission Members
+Kendon Jung, Chair
+Ryan Mores, Vice Chair
+Sukki Jahnke, Member
+Gretchen Reinhardt, Member
+Barbie Burke, Member
+Stephanie Milam-Edwards, Member
+John F. Kane, Member
+Serita Sulzman, Member
+Katja Brundiers, Member
+Steven Russell, Member
+
+Arizona State University
+
+Lauren Withycombe Keeler, Future of Innovation in
+Society
+Arnim Wiek, Sustainability
+Katja Brundiers, Sustainability
+Rob Melnick, Sustainability
+Meredith Simpson, Sustainability
+Anne Reichman, Sustainability
+Jenny Carter, Sustainability
+Mick Dalrymple, University Sustainability Practices
+Corey Hawkey, University Sustainability Practices
+Gary Dirks, Lightworks
+Gerry DaRosa, Energy
+Thad Miller, Future of Innovation in Society
+Clark Miller, Future of Innovation in Society
+Paul Coseo, Design
+Ariane Middel, Computer Science
+
+David Hondula, Geography
+Jennifer Vanos, Sustainability
+David King, Geography
+Lars Geest, MA student, Global Sustainability Science (GSS)
+Robin Bruck, MA student, GSS
+Friederike Schwarz, MA student, GSS
+Ashley Mack, MA student, GSS
+David Sailor, Urban Climate Research Center
+Oswald Chong, School of Sustainable Engineering
+Seungtaek Lee, School of Sustainable Engineering
+Phillip Gilbertson, School of Geographical Sciences
+Ryan Johnson, Sustainability Education
+
+Other Contributors
+
+Global Consortium for Sustainability Outcomes (GSCO)
+City of Tempe Transportation Commission
+Valley Metro
+Maricopa Association of Governments (MAG)
+Sierra Club
+Sustainable Cities Network at ASU
+Urban Sustainability Director’s Network (USDN)
+ICLEI – Local Governments for Sustainability
+Carbon Disclosure Project (CDP)
+Vitalyst Health Foundation
+Pew Charitable Trusts
+Kate Borders, Downtown Tempe Authority
+Lori Foster, Downtown Tempe Authority
+Adam Jones, Downtown Tempe Authority
+Helene Tack, Local First Arizona
+Kimber Lanning, Local First Arizona
+Anne Gill, Tempe Chamber of Commerce
+Sukki Jahnke, Tempe Chamber of Commerce
+Michele Crim, City of Portland
+Fletcher Beaudoin, Portland State University
+Kristin Baja, USDN
+Cooper Martin, National League of Cities
+CJ Hager, Vitalyst Health Foundation
+Mimi Narayan, Pew Charitable Trusts
+Missy Stults, City of Ann Arbor
+Chris Castro, City of Orlando
+Kumar Jensen, City of Evanston
+Southwest Energy Efficiency Project (SWEEP)
+Urban Land Institute
+Stephanie Luz Cordel
+Sharifa Rowe
+Mark Hartman, City of Phoenix
+Rosanne Albright, City of Phoenix
+Jon Ippel, Amplify GR
+Anthony Floyd, City of Scottsdale
+Tim Conner, City of Scottsdale
+Scott Bouchie, City of Mesa
+Laura Hynemen, City of Mesa
+Nicole Antonopoulos, City of Flagstaff
+Jenny Neimann, City of Flagstaff
+Climate Resolve
+Kurt Shickman, Global Cities Cool Alliance
+Kelly Muellman, City of Minneapolis
+Maria Koetter, USDN
+Sarah McKinstry-Wu, USDN
+
+1
+
+TABLE OF CONTENTS
+
+EXECUTIVE SUMMARY
+Tempe’s 2019 Climate Action Plan (CAP) is an opportunity for our city to take local action on global climate change by reducing our
+
+Letter from the Mayor
+
+greenhouse gas (GHG) emissions and adapting to the changing climate. We plan to do so in a way that is accessible and benefits all
+
+Acknowledgements
+
+1
+
+members of our community.
+
+Table of Contents
+
+2
+
+GHG emissions are estimated through a GHG emissions inventory, which documents all sources of emissions throughout a community
+
+Executive Summary
+
+3
+
+carbon dioxide equivalents (CO2e) are emitted across all homes, businesses, and institutions. We also completed a municipal inventory
+
+Overview
+
+4
+
+What is Climate Change?
+
+4
+
+Purpose and Benefits of Climate Action Plan
+
+5
+
+Baseline GHG Emissions: Municipal vs Community
+
+6
+
+Development of the Climate Action Plan
+
+8
+
+Community Actions
+
+11
+
+or organization in a given year. In 2015, the City of Tempe completed a community inventory that details how many metric tons (MT) of
+that is guiding action in city operations. This CAP will support Tempe in becoming carbon neutral as a community.
+To address these community emissions and adapt to climate change, the CAP focuses on emissions reduction and resilience to extreme heat.
+
+Emissions Reduction
+
+Tempe can become more livable and economically vibrant for all its residents and businesses by further investing in energy and
+transportation technologies that reduce GHG emissions. The transportation and energy sectors account for 99% of community
+emissions. We must invest in transforming how we move around people and how our utilities produce energy.
+
+Energy
+Tempe can support businesses and residents in adopting energy upgrades that save money and grow Arizona’s clean energy
+
+Emissions Reduction
+
+11
+
+Energy
+
+12
+
+Transportation
+
+Transportation
+
+24
+
+Tempe is a leader in Arizona for transportation, demonstrated by the Orbit bus system, bike and pedestrian infrastructure,
+
+Resilience
+
+36
+
+improve our air quality and connect the city without relying on single-occupancy vehicles.
+
+Extreme Heat
+
+37
+
+Municipal Actions
+
+50
+
+Municipal Accomplishments
+
+52
+
+Upcoming Investments
+
+56
+
+Moving Forward
+Climate Action Plan 2021 Update
+
+57
+57
+
+economy. Additionally, working with utility companies to increase renewable energy use is a priority for Tempe.
+
+light rail, and the current construction of the streetcar. Tempe will continue to invest in alternative transportation options to
+
+Resilience
+
+Resilience is demonstrated when a system thrives after something disrupts it. Urban resilience means creating the capacity for our city
+to respond to threats and shocks while still achieving Tempe’s sustainability goals. Tempe must adapt to climate change threats that
+are already impacting our city and be prepared for the threats to come.
+
+Extreme Heat
+By investing in infrastructure that will cool Tempe, we are creating a city that can protect residents against extreme
+heat, including our most vulnerable populations. Cultivating this resilience can reduce negative health, environmental,
+and economic impacts that arise with increasing temperatures.
+
+Glossary
+
+60
+
+References
+
+60
+
+CAP 2021 Update
+
+Climate Action Plan Overview
+
+61
+
+to build upon the actions in the 2019 CAP to achieve our performance measures and goals in an inclusive manner. The CAP 2021
+
+Tempe will begin to work on an update to the CAP throughout 2020 for presentation to City Council in Fall 2021. Tempe will continue
+Update will be a plan guided by five principles: fiscal responsibility, enterprise, equity, engagement, and evidence.
+
+2
+
+City of Tempe | Climate Action Plan
+
+3
+
+OVERVIEW
+The following sections will introduce key concepts in the CAP. To understand the nature of the twelve actions in the plan, it is helpful
+to understand the concepts of GHG emission reduction and resilience. Additionally, the differences between community and municipal
+climate actions will be explained.
+
+Purpose and Benefits of a Climate Action Plan
+This CAP serves as a guideline for the City of Tempe’s path toward a sustainable and resilient future that will benefit the entire city.
+It is a detailed framework for measuring and reducing GHG emissions and climate change impacts. The CAP includes an inventory of
+previous years’ GHG emissions, Tempe’s emissions reduction goals, and prioritized actions. The CAP can help Tempe achieve the largest
+and most cost-effective solutions in conjunction with other city goals and priorities.
+
+What is Climate Change?
+
+Having a Climate Action Plan is critical to create a thriving community for the future residents of Tempe. The CAP develops strategies
+
+Climate change is happening because of anthropogenic, or human-induced, GHG emissions being released into the atmosphere as by-
+
+reduce GHG emissions and traffic congestion, and adopting green infrastructure (GI) or urban forestry methods to reduce the effects of
+
+products of the fossil fuels used for energy and transportation. These GHGs include carbon dioxide (CO2), nitrogen oxides (NOx), sulfur
+
+extreme heat.
+
+to conserve resources and make quality of life improvements, which will be notably beneficial to our most vulnerable populations.
+These strategic, sustainable improvements can include energy efficiency programs to lower utility costs, increasing public transit to
+
+oxides (SOx), and methane (CH4). GHG emissions speed up the greenhouse effect, the natural process that heats up our Earth and
+allows it to be habitable. However, large amounts of GHG emissions block the solar radiation trying to escape our atmosphere, which
+leads to increased temperatures and irregular weather patterns. It is becoming more apparent that climate change will have a major
+impact on infrastructure, natural resources, the economy, and public health. The City of Tempe recognizes the significance of climate
+change and the need to reduce emissions and create resilience.
+
+Natural Greenhouse Effect
+More heat escapes into space
+
+What is in the Climate Action Plan?
+Emissions Reduction
+
+Greenhouse Effect
+Intensified by Humans
+
+Energy
+
+Less heat escapes into space
+
+•
+
+Tempe can invest in cleaner, renewable energy options for residential, commercial, and municipal buildings to reduce
+GHG emissions.
+
+N
+ATIO
+ADI
+
+Less
+re-radiated
+heat
+
+Re-radiated
+heat
+
+More
+re-radiated
+heat
+
+Transportation
+
+TION
+DIA
+
+SOLA
+R RA
+
+SOLA
+RR
+
+•
+
+Tempe can create a 20-minute city that provides accessible transportation for all residents by increasing transportation
+options and supporting more electric vehicles (EVs).
+
+Re-radiated
+heat
+
+Resilience
+
+Normal Levels
+of Greenhouse
+Gases
+
+Higher Levels
+of Greenhouse
+Gases
+
+CO2
+N2O
+CH4
+
+CO2
+N2O
+CH4
+
+Extreme Heat
+•
+
+Tempe can prepare for extreme heat by investing in buildings, infrastructure, and urban forestry.
+
+(Source: Global Change)
+4
+
+OVERVIEW
+
+City of Tempe | Climate Action Plan
+
+5
+
+Baseline Greenhouse Gas Emissions:
+Municipal vs Community
+
+Municipal vs Community GHG Emissions Sources
+The orange denotes GHG emissions from energy production and the blue denotes transportation emissions
+
+In 2015, the City of Tempe conducted two GHG emissions inventories to determine the sectors that were emitting the most GHGs into the
+
+Municipal
+
+Community
+
+GHG Emissions Baseline
+
+Community
+2015 Emissions All residents, business,
+and organizations in
+Tempe
+
+28,723 metric tons
+CO2e, electricity only
+
+40,670 metric tons
+CO2e, electricity and gas
+for vehicles and buildings
+
+equivalent to
+electricity use of
+
+6,096
+homes
+
+2,023,229 metric tons
+CO2e, electricity only
+
+3,667,560 metric tons
+
+Tempe City Hall
+
+equivalent to
+electricity use of
+
+Holiday lights
+
+549,694
+homes
+
+CO2e, electricity and gas for
+vehicles and buildings
+Streetlights
+
+Businesses
+
+2015 Emissions City of Tempe
+
+Outdoor Lighting
+
+Municipal
+
+Homes
+
+City Buildings
+
+atmosphere. The data collected from the inventories are being used to formulate goals and strategies for the future.
+
+Businesses along Mill Avenue
+
+In Tempe, GHG emissions come from three main sources: the energy used to power buildings, the infrastructure that creates and
+
+What is the Difference Between Municipal and Community GHG Emissions?
+Both the municipal and community GHG emissions inventories show how transportation and energy use contribute to GHG emissions.
+
+Industry
+
+Water Treatment
+
+delivers that energy to our homes and businesses, and the transportation systems that we use to move around the city.
+
+But the community emissions inventory looks at how much the community-at-large produces, while the municipal emissions inventory
+South Tempe Water Treatment Plant
+
+Public transit and
+fleet fuel
+
+Community energy emissions account for the electricity powering residential, commercial, and industrial spaces. Community
+transportation emissions come from all the people driving through and in Tempe.
+Municipal emissions account for city facilities and operations managed by the City of Tempe. These include our city buildings, like the
+police stations and libraries, our streetlights, our water treatments plants, and our city transit and fleet.
+
+Tempe Orbit bus
+
+6
+
+OVERVIEW
+
+United Dairymen of Arizona facility
+
+City of Tempe | Climate Action Plan
+
+Transportation
+
+looks at the emissions created by the city when operating the city government and providing city services to residents.
+
+Car tank refill
+
+7
+
+Development of the Climate Action Plan
+
+Community Engagement
+
+In 2016, Mayor Mark Mitchell and the Tempe City Council committed to the four-step process of the Global
+Covenant of Mayors for Climate and Energy (formerly the Mayor’s Compact):
+
+Arizona State University and the City of Tempe co-developed a community engagement process to ensure that residents, students,
+experts, nonprofits, and the business community were engaged in the development of the CAP. The process included interviews with
+City staff and key stakeholders, public forums on each focus area, expert forums, online forums with survey questions, and an open
+
+Phase 1
+
+Sign Letter of Intent from Mayor and Council.
+
+Phase 2
+
+Complete a community GHG emissions inventory.
+
+Phase 3
+Phase 4
+
+Set a community target to reduce GHG emissions.
+
+house for residents to review the proposed actions at the Tempe Community Center campus. For a full description of the community
+engagement, please see the public participation report on our website: tempe.gov/ClimateAction.
+
+Interviews
+
+Engagement with City Departments
+
+Dr. Keeler and her students conducted interviews with over
+
+The Office of Sustainability worked closely with City
+
+forty City of Tempe staff and key partners to determine
+
+departments in the development of potential climate actions.
+
+areas of opportunity for Tempe to take action. The interviews
+
+The Engineering and Transportation Department played a
+
+laid the foundation for the rest of the engagement process
+
+critical role in the development of the transportation and
+
+and resulted in a set of recommendations to the Office of
+
+energy sections of the plan. Community Development, Fire,
+
+Sustainability and senior management of the City of Tempe.
+
+Police, and Strategic Management and Diversity supported
+work on extreme heat and emergency management.
+
+Develop Climate Action Plan.
+
+Forums
+Partnership with Arizona State University
+The City of Tempe partnered with Arizona State University on the development of
+Tempe’s first Climate Action Plan. Dr. Lauren Withycombe Keeler co-designed workshops
+with the City of Tempe to introduce sustainability and resilience concepts to City staff.
+The Future Shocks and City Resilience workshop (co-led with Dr. Arnim Wiek) was
+funded by the National League of Cities and Wells Fargo through the Leadership in
+
+Dr. Keeler and her students designed public and expert forums for each focus area to get resident and expert feedback on how
+the City can address energy, transportation, and extreme heat. The City of Tempe Neighborhood Services and Media Relations and
+Communications staff created promotional materials and co-facilitated the events. Input from these forums led to the creation
+of the twelve actions in the plan. Dr. Thad Miller and his students from the School for the Future of Innovation in Society co-led
+the transportation forums, with a focus on the role of autonomous vehicles (AVs) in climate action. All forums had an online
+component for residents and stakeholders who could not attend to express their opinions and shape the plan.
+
+Community Resilience program. The second workshop, AudaCity, was funded by the
+Global Consortium for Sustainability Outcomes (GCSO). AudaCity developed skills to
+help Tempe set more ambitious goals and develop corresponding strategies, such as the
+Climate Action Plan.
+These initial workshops led to Dr. Keeler working with the City of Tempe on Tempe’s first
+Climate Action Plan. GCSO funded Michele Crim from the City of Portland and Fletcher
+Beaudoin from Portland State University to visit Tempe, mentor City staff, and kick
+
+Open House
+
+Sustainability Commission
+
+An open house was held in March 2019 for residents
+
+Tempe’s Sustainability Commission has overseen the
+
+and partners to review the proposed twelve actions
+
+entire planning process, and the chair and vice chair of the
+
+in the plan. Their feedback is included in the Resident
+
+commission hosted the Climate Action Plan open house.
+
+Input section of each action.
+
+The Commission selected the four highlight actions of the
+plan and are working to ensure the highlight actions are
+
+off Tempe’s CAP with a keynote address to Tempe residents. Through this important
+
+implemented and cemented into city policy and budgets in
+
+partnership, Arizona State University brought resources, methods, and knowledge to
+
+the next several years.
+
+support Tempe in learning how to approach climate action.
+
+8
+
+OVERVIEW
+
+City of Tempe | Climate Action Plan
+
+9
+
+Timeline of CAP Project
+2017
+
+COMMUNITY ACTIONS
+CapaCities: Resilience &
+AudaCity Workshops
+
+The City of Tempe will implement twelve actions to prepare for and respond to climate
+change. The twelve actions are divided into three focus areas: energy, transportation,
+and extreme heat. Each of the twelve actions includes an action description, the city
+council strategic priorities being met, key features, resident input received, and how
+
+Energy Stakeholder
+Forum
+
+October 2018
+
+collaboration can make the action happen. The Office of Sustainability and Tempe’s
+
+Transportation Public
+Forum
+
+Sustainability Commission have indicated four highlight actions that need our
+community’s immediate attention.
+
+Transportation Stakeholder
+Forum
+
+November 2018
+
+Transportation and
+Sustainability Commissions
+Joint Forum
+
+Emissions Reduction
+The primary cause of climate change is the overabundance of
+
+Energy and Extreme
+Heat Forum
+
+GHG emissions in Earth’s atmosphere. The Tempe community
+
+February 2019
+
+emits 3,667,560 MT CO2e, with energy and transportation
+accounting for 99% of these community GHG emissions.
+
+Community Emissions
+Total Emissions: 3,667,560 MT CO2e
+
+43%
+
+Transportation &
+Mobile Sources
+
+Energy and transportation are the focus of the CAP to reduce
+
+Climate Action Open
+House
+
+March 2019
+
+Sustainability
+Commission Meeting
+
+GHG emissions and reach Tempe’s sustainability goals.
+Residential, commercial, and industrial energy use contribute to
+most of the city’s community GHG emissions, with transportation
+emissions accounting for the rest of these emissions.
+
+Transportation
+Commission Meeting
+
+April 2019
+
+Neighborhood Advisory
+Meeting
+
+positive impact on the health and well-being of Tempe residents.
+Taking climate action in energy and transportation will make
+Tempe a better place to live by bolstering our clean energy
+economy and transportation infrastructure.
+
+Public Review Meetings
+
+Summer 2019
+
+Draft CAP
+
+9% Residential
+Energy
+
+Reducing the amount of GHG emitted will have a substantial
+
+56%
+Energy
+
+The City of Tempe will adopt a community carbon neutrality
+performance measure. This CAP contains initial actions to move
+
+Commercial
+
+27% Energy
+
+Tempe towards carbon neutrality.
+
+Final CAP
+
+10
+
+Fall 2019
+
+OVERVIEW
+
+Industrial
+
+20% Energy
+
+Tempe City Council
+Adoption
+
+1% Other
+City of Tempe | Climate Action Plan
+
+11
+
+ENERGY
+
+The following actions are being pursued by Tempe to support an energy efficient city:
+Resilient energy hubs:
+
+The electricity that powers everyday residential, commercial, and industrial needs is
+essential to modern life in Tempe. Coal and natural gas make up at least 50% of the
+energy sources that power Tempe’s electrical grid. Because 56% of our GHG emissions are
+coming indirectly from electricity usage, it is important to consider our energy sources. Our
+overreliance on nonrenewable energy sources can be solved by using more clean energy,
+such as nuclear, solar storage, and carbon capture. This would allow Tempe to have a stable
+
+•
+
+A resilient energy hub allows for a city to meet the power needs of its most
+vulnerable populations in case of emergency.
+
+•
+
+This is important because every Tempe resident deserves to have access to air
+conditioning and power in the case of a natural disaster or extreme heat day.
+
+•
+
+These resilient energy hubs will be located throughout the city at selected 		
+community spaces like fire stations, community centers, schools, and
+churches that can be outfitted with solar panels, battery storage, and other
+resilient technologies.
+
+source to meet the city’s needs now and into the future. By converting to clean energy,
+Tempe can stimulate the growth of a clean energy economy. The cultivation of a new
+economy that encourages climate action will be pursued by the City in the following ways:
+
+SUPPLY
+
+Revolving fund:
+The City can work with utility companies to increase the use
+of clean and renewable energy.
+•
+
+•
+
+A revolving fund allows businesses access to the money needed to invest in
+energy upgrades.
+
+•
+
+This is important because it lowers the barriers to invest in energy-efficient
+technologies and infrastructure for local businesses.
+
+Clean Energy: Focus on increasing the use of clean and
+renewable energy
+
+•
+
+Storage: Increase the use of battery storage for solar energy
+
+The City can provide tools for residents and businesses to make
+smart energy choices.
+•
+
+Energy Upgrades: Allow businesses and residents to use technology that
+requires less energy
+
+•
+
+Energy Management: Allow businesses and residents to lower their energy
+use by having the ability to manage it
+
+•
+
+Load Shifting: Optimize operations to use more energy in the middle of the
+day when energy is less expensive and solar energy is abundant
+
+•
+
+Financing: Provide access to funds to invest in energy upgrades
+
+DEMAND
+
+Sustainability platform:
+•
+
+A shared website platform can be created to make sure businesses are
+aware of opportunities for energy upgrades.
+
+•
+
+The City of Tempe, Tempe Chamber of Commerce, Local First Arizona,
+Downtown Tempe Authority, and SRP/APS can inform businesses about
+sustainable practices and opportunities.
+
+Solar EV charging stations:
+•
+
+Workplace charging stations powered by solar panels can be used to charge
+vehicles during the day while the sun is shining.
+
+•
+
+These pilot projects can educate residents and businesses about how shifting
+the energy load to the middle of the day can support the use of clean energy.
+
+•
+
+Tempe can launch a flagship project for EV charging in the form of
+a public-private partnership (PPP) between the city, businesses, and utilities.
+
+•
+
+The City of Tempe will explore the viability of installing EV charging stations in
+new housing and community developments.
+
+ENERGY
+
+12
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+13
+
+Highlight Action
+
+Key Features
+
+1. Resilient energy hubs
+
+Description
+
+Partner with utilities to reduce barriers to
+adding solar and battery storage to fire stations,
+community centers, schools, and churches.
+
+Ensure that first responders and
+evacuees have energy sources in the event
+of a power outage.
+
+Prioritize placing first resilient energy hubs close
+to frontline communities (i.e. low-income and
+aging populations).
+
+Align resilience efforts with the council-adopted
+goal of carbon-neutral municipal operations
+by 2050.
+
+Resilient energy hubs are fire stations, community centers, schools, and churches that are outfitted with solar
+panels, battery storage, and other resilient technologies. In the event of an emergency that compromises the
+electric grid, these hubs will ensure that first responders and evacuees have access to electricity. Outfitting
+areas of first refuge with an independent energy source means Tempe residents will have a place to get cool on
+extremely hot days or in the event of a power outage. Current energy policy is a barrier when installing solar
+on the community spaces that will serve as resilient energy hubs. By partnering with APS and SRP, the City of
+Tempe can seek to create energy policy that uses renewable energy to keep Tempe residents cool and safe.
+Solar panels
+
+Resilient Energy Hubs that run on stored solar energy will keep residents safe during heat and storm-related
+emergencies.
+
+on JGM water
+treatment plant
+(source:
+City of Tempe)
+
+Alignment with Strategic Priorities
+
+Solar panels on
+Tempe Police
+
+Sustainable Growth
+& Development
+
+Safe & Secure
+Communities
+
+Quality of Life
+
+Investing in solar and battery storage in
+
+A stable electric grid with redundancies in
+
+Resilient energy for areas of first refuge
+
+city buildings supports Tempe’s 100%
+
+case of emergencies is essential to having
+
+ensures Tempe residents can keep cool
+
+renewable energy strategy.
+
+a safe and secure community.
+
+during emergency events.
+
+Department
+building
+(source:
+City of Tempe)
+
+ENERGY
+
+14
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+15
+
+Resident Input
+
+Collaboration
+
+Best Practice
+
+Some residents believe that vulnerable
+
+The City intends to pilot resilient energy hubs in areas of first
+
+The City of Tempe believes that gaining
+
+Energy Resilient Power Hub – New York City, NY
+
+populations must be considered when
+
+refuge by determining the potential energy needs for buildings
+
+insight and inspiration from our peer
+
+After the infamous Hurricane Sandy in 2012, New York City looked to improve its electric
+
+deciding the location of resilient hubs.
+
+during an emergency. To pursue this, partnerships have been
+
+cities in the United States will help our
+
+grid to prepare for future weather catastrophes. The power outages throughout the city
+
+created between different community partners and organizations
+
+city develop effective actions to reduce
+
+sparked Bright Power, an energy management company, to invest in and develop durable
+
+to implement this project.
+
+GHG emissions. Tempe has researched
+
+solar panels and energy storage on multifamily buildings and small businesses, to ensure
+
+actions that other cities have taken
+
+continuous power through harsh, unexpected weather conditions. This Resilient Power
+
+Key Partners: APS and SRP
+
+to combat climate change to expand
+
+Hub (RPH) is essentially a single-building power plant. Some benefits of the RPH include
+
+•
+
+upon the actions that these cities have
+
+the following:
+
+practiced and implemented.
+
+•
+
+Reduce building energy costs
+
+Work with Tempe to modify energy policy to support
+
+•
+
+Produce energy that can be used on site
+
+resilient hub installation
+
+•
+
+Contribute to New York City’s decentralized and resilient micro-grid movement
+
+•
+
+Multifamily homes can use RPH for electricity and water needs
+
+“Do any of the ‘clean
+energy’ goals address
+our most vulnerable
+communities or
+populations?”
+
+Determine appropriate technologies to use for the resilient
+energy hubs
+
+•
+
+Key Partner: Arizona State University
+•
+
+Co-write grants to fund design of the resilient energy hubs
+
+•
+
+Make construction template for the creation of resilient
+energy hubs across the city
+
+During a public forum, some residents
+
+•
+
+believed other forms of emergency
+
+Work with the Information Technology department and
+Tempe residents to determine appropriate locations
+
+relief, besides battery storage, should be
+incorporated.
+
+Residents:
+•
+
+“Think bigger than
+batteries!”
+
+Work with city and key partners to determine sites for
+resilient energy hubs in or near neighborhoods
+
+•
+
+Find other pilot projects, like tree plantings and collective
+action projects, that can build a sense of community around
+future resilient energy hubs
+
+“And water! Please!”
+
+•
+
+Determine the potential needs of a community during an
+emergency with local organizations and neighbors
+
+•
+
+Collaborate with local organizations and neighbors to
+proactively determine the potential needs of a community
+during an emergency
+
+Installation of RPH solar photovoltaics on NYC building (Source: NYCEDC)
+
+ENERGY
+
+16
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+17
+
+Key Features
+Funds dedicated to energyefficient technologies like lightemitting diode (LED) lights
+and more efficient freezers and
+heating, ventilation, and air
+conditioning (HVAC) systems
+
+2. Revolving fund
+
+Reduces carbon emissions from
+building operations
+
+Outreach via faith-based
+institutions, news channels,
+radio, etc.
+
+Makes energy-efficient
+upgrades affordable to small
+businesses and schools
+
+Once established, the fund is
+self-sustaining
+
+Aerial photo of Tempe Public Library (source: City of Tempe)
+
+Description
+
+Resident Input
+
+A revolving fund which begins with an initial donation can be used to give out loans for energy efficiency
+upgrades. Tempe could fund a 501c3 with this donation and use it to support businesses and schools in
+upgrading their infrastructure. The loans could initially be made available to local businesses and schools
+that are interested in saving money by reducing their energy use. If the revolving fund runs successfully, fund
+applications can be extended to residential customers with a focus on frontline communities.
+
+Some residents support this, but believe there
+must be collaboration between community
+partners to spread information about the
+program.
+
+LED lighting at Tempe City Hall (source: City of Tempe)
+
+Alignment with Strategic Priorities
+
+Collaboration
+The city intends to find sources of capital for a revolving fund to
+give businesses the opportunity to invest in energy upgrades. To
+achieve this, Tempe must act with different partners to implement
+the fund.
+
+Sustainable Growth
+& Development
+
+Financial Stability
+& Vitality
+
+Safe & Secure
+Communities
+
+This fund could support schools,
+
+Supporting businesses and residents to
+
+Having access to affordable energy is an
+
+businesses, and residents in adopting
+
+upgrade their infrastructure will save
+
+important part of long-term economic
+
+energy-efficienct upgrades.
+
+them money and support Tempe’s local
+
+security.
+
+economy.
+
+Key Partner: Tempe Chamber of Commerce
+•
+
+Build on success of previous loan program to build a fund in
+partnership with the City of Tempe and energy utilities
+
+“Would this [mean]
+partnering with…solar
+companies?”
+Some residents from a public forum think that
+where and how the city gains funding for this
+is important.
+
+“Money talks,
+especially on paper
+and in politics.”
+
+Key Partners: APS and SRP
+•
+
+Work with business community and energy upgrade
+contractors to streamline energy upgrade processes
+
+ENERGY
+
+18
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+19
+
+Key Features
+Website with energy efficiency programs and access to estimated
+cost savings
+
+3. Sustainability platform
+
+Reduce emissions from
+commercial buildings
+
+SRP: Helping people understand their energy bill
+CoC: Sustainability pledge
+LFA: GreenBiz Certification
+
+Alignment with Tempe’s strategic
+priorities
+
+Energy upgrades at local business, House of Tricks
+(source: City of Tempe)
+
+Description
+
+Resident Input
+
+The City of Tempe, Tempe Chamber of Commerce (CoC), Local First Arizona (LFA), Downtown Tempe
+Authority (DTA), SRP, APS, and other interested parties could create a website that provides information
+to businesses on energy efficiency programs. These could also include the Sustainability Pledge (CoC)
+and the GreenBiz Certification (LFA), a tool to calculate which programs a business qualifies for and the
+amount of expected savings to help businesses understand their energy bill. This website could be cohosted by the city and the CoC. To kick-off the website, SRP and APS can host an energy efficiency or load
+shifting challenge.
+
+During a public forum, some residents viewed
+this action as a good way to encourage
+information channels between businesses
+about best practices when transitioning to
+sustainable methods.
+Energy efficiency programs (source: SRP)
+
+Alignment with Strategic Priorities
+
+Collaboration
+
+“It also has to be made
+easy and economical to
+transition.”
+
+The City of Tempe is convening the business community,
+interested nonprofits, and energy utilities to support a platform
+
+Some residents are concerned about business
+
+for sharing best practices when investing in energy upgrades.
+
+involvement in this platform.
+
+For this network, Tempe must form partnerships that cultivate
+
+“Consider what the
+actual barriers for
+implementation are for
+businesses.”
+
+meaningful communication channels.
+
+Financial Stability
+& Vitality
+
+Sustainable Growth
+& Development
+
+Quality of Life
+
+Sustainable business practices are sound
+
+This platform would guide businesses
+
+By helping businesses use less energy, the
+
+business practices. By implementing
+
+in adopting sustainable practices and
+
+City of Tempe is helping ensure that it is a
+
+energy upgrades and reducing resource
+
+technologies.
+
+livable city in the future.
+
+use, businesses can save money.
+
+Key Partners: Tempe Chamber of Commerce and
+Local First Arizona
+•
+
+Build on success of past sustainability programs to
+coordinate efforts with SRP and APS
+
+Key Partners: APS and SRP
+•
+
+Determine best practices for commercial energy upgrades
+within the business community
+
+ENERGY
+
+20
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+21
+
+Key Features
+4. Solar EV
+charging stations
+Tempe EV (source: PlugShare)
+
+Enable EV charging in Tempe to attract more EVs
+
+Test impact of scaled EV charging on mid-day
+electricity demand
+
+City could provide support programs for lowincome residents
+
+EV charging could be put in the city code
+
+Description
+Resident Input
+
+A major barrier to putting more solar energy on the grid is that most electricity from solar is generated during
+the day, but most electricity is consumed in the late afternoon and evening. If solar power could charge EVs
+during the day, and EVs could charge homes at night, this would help address the mismatch between electricity
+generation and use. Tempe could be part of this solution. Tempe can launch a flagship project for EV charging
+in the form of a public-private partnership (PPP) between the city, businesses, and the utilities. EV chargers
+powered by solar energy could be available in prominent areas, like parking lots or local office complexes. The
+PPP could create a working group to explore how solar EV charging could be used to power homes to then
+create a pilot project to trial across the city.
+
+During a public forum, some residents stated
+that charging stations should be integrated
+into public and private spaces.
+
+Electric vehicles (source: City of Tempe)
+
+Collaboration
+
+Alignment with Strategic Priorities
+
+Tempe wants to work with businesses and energy utilities to
+streamline solar car charging pilots. To ensure the project’s
+success, Tempe must create partnerships that will lead to
+access to these charging stations in the city.
+
+Sustainable Growth
+& Development
+
+Quality of Life
+
+Air quality will improve with fewer
+
+By helping businesses become
+
+A stable electric grid is essential to having
+
+gasoline powered cars to move people
+
+sustainable, the City of Tempe is helping
+
+a safe and secure community.
+
+around the city.
+
+ensure that it is a livable city in the future.
+
+Safe & Secure
+Communities
+
+Key Partner: APS
+•
+
+Use pilot projects to convey how load shifting to EVs can
+support investments in the clean energy economy
+
+“I like this as EVs aren’t
+going anywhere. It’ll
+grow, so it makes sense
+for the city to adapt.”
+Some residents are concerned that
+EV technology is still not accessible
+for the public.
+
+“What about people
+who cannot afford the
+change to an EV?”
+
+Key Partner: Arizona State University
+•
+
+Promote research on importance of load shifting (i.e.
+using electricity when the sun is shining) and the best
+locations for the charging stations
+
+ENERGY
+
+22
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+23
+
+TRANSPORTATION
+
+The following transportation actions are being pursued by Tempe:
+
+Our transportation system in the Valley is built around the single-occupancy vehicle. In
+
+Transportation Demand Management (TDM):
+
+Tempe, transportation contributes to nearly half of the community’s GHG emissions. One
+
+•
+
+TDMs are an effective way to connect property owners, schools, employers,
+employees and government agencies to promote alternatives to
+single-occupant commuting, thereby reducing the number of vehicles
+using the transportation system during its most congested hours: morning
+and afternoon commute.
+
+•
+
+The TDM can be custom-designed for the community’s needs but is typically
+a private-public partnership (PPP) that aims to reduce traffic congestion.
+
+of the first steps to achieve a sustainable city is to change the car-centric culture that
+causes traffic congestion and pollution. To reduce dependence on vehicle trips, and their
+associated GHG emissions, Tempe must prioritize investments in alternative forms of
+transportation. More people will transition from single-occupancy vehicles to alternative
+forms of transportation when it is as convenient and accessible to all residents as the car.
+Encouraging Tempe drivers to use different modes of transportation will benefit Tempe’s
+environment and increase the livability for residents and visitors. The creation of a more
+robust transportation system will be pursued by the city in the following ways:
+
+Encourage walking, biking, and public
+transport in city projects:
+Programs
+
+Policy
+
+Infrastructure
+
+Vehicles
+
+The City of Tempe can
+introduce strategies that
+decrease the number of
+single-occupancy vehicles on
+our roads to decrease GHG
+emissions.
+
+The city can implement
+transportation policies
+to promote the use of
+clean, alternative modes of
+transportation.
+
+Roadway infrastructure can
+be designed and constructed
+to support cleaner alternative
+modes of transportation.
+
+Switch from conventional
+gasoline powered vehicles to
+vehicles that emit less GHGs.
+
+• Transportation Demand
+Management (TDM)
+• Communication, education,
+and outreach (ongoing)
+
+• Require and encourage EV
+charging stations
+• Encourage or incentivize
+walking, biking, transit, and
+carpooling
+
+• Electric Vehicle (EV)
+• Right of way and multi-use
+paths can be designed
+to complement alternative
+transportation modes
+
+•
+
+This action will further Tempe’s Vision Zero and 20-minute city initiatives to
+improve walking, biking and transit services to make destinations more
+accessible to residents and visitors.
+
+•
+
+Creating a walkable, bikeable, and transit-friendly city means increasing the
+availability, convenience, and safety of these transportation methods.
+
+EV charging:
+
+• Automated Vehicles (AV)
+
+• Public transit including
+streetcar expansion and
+dedicated land Bus Rapid
+Transit (BRT)
+
+•
+
+Tempe can increase the number of public charging stations and amend
+building codes to support their installation.
+
+•
+
+An increase in charging stations can lead to an increase in EV ownership.
+
+•
+
+EVs can contribute to the reduction of GHG emissions by reducing the
+emissions coming from fossil fuel-powered vehicles.
+
+• Bike/pedestrian
+
+Smart mobility guide:
+•
+
+A mobility guide will be formed to lay the groundwork for policies
+encouraging autonomous vehicles (AVs).
+
+•
+
+The mobility guide ensures that all city departments are prepared for AVs on
+Tempe roads.
+
+•
+
+AVs can reduce traffic congestion, support transit, create safer transportation
+and reduce GHG emissions.
+
+TRANSPORTATION
+
+24
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+25
+
+Highlight Action
+
+Key Features
+
+1. Transportation Demand Management (TDM)
+
+Encourages transit use,
+walking, biking, and
+carpooling/vanpooling
+
+Reduces single-occupancy
+vehicle trips
+
+Public-Private Partnership
+
+Description
+
+With bicycle and pedestrian facilities, light rail, the bus system and a new streetcar, Tempe leads Arizona cities
+in providing alternative transportation options. However, more is needed to get people out of their cars. A
+TDM would support Tempe businesses and schools in using alternative transportation and reducing singleoccupant trips. TDM are PPPs that allow businesses and government agencies to pool their resources to
+support commuter transportation strategies, like walking, biking, using transit, carpooling, and alternative work
+schedules. TDMs allow for a greater understanding of the transportation options available to Tempe residents
+and workers, while also improving air quality and lowering GHG emissions.
+
+Tempe Streetcar
+(source: Valley
+Metro)
+
+Employers and multi-family developments can partner to promote alternative transportation use that reduces
+traffic, car use and emissions.
+
+Alignment with Strategic Priorities
+
+Downtown Tempe
+(source: City of
+
+Financial Stability
+& Vitality
+
+Sustainable Growth
+& Development
+
+Quality of Life
+
+Reduces congestion at a much lower cost
+
+Helps businesses attract and retain
+
+Provides more transportation options,
+
+than roadway expansion projects.
+
+employees, achieves corporate
+
+less traffic, and shorter commute times to
+
+sustainability goals, and reduces
+
+reduce stress and improve air quality.
+
+Tempe)
+
+transportation costs.
+
+TRANSPORTATION
+
+26
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+27
+
+Resident Input
+
+Collaboration
+
+Best Practice
+
+Some residents view the creation of a
+
+The City of Tempe can explore how to improve transportation
+
+The City of Tempe believes that gaining
+
+Transportation Demand Management Program – Austin, TX
+
+TDM program as a good way to reduce
+
+choices by collaborating with residents and local businesses.
+
+insight and inspiration from our peer
+
+The City of Austin has implemented a TDM program to mitigate air pollution, reduce
+
+cities in the United States will help our
+
+GHG emissions, and lower traffic congestion. The TDM program aims to improve mobility
+
+Key partners (DTA, Valley Metro, and Tempe CoC):
+
+city develop effective actions that
+
+in cost-effective ways by changing how residents get around the city, rather than trying
+
+•
+
+reduce GHG emissions. Tempe has
+
+to build out of the current congestion. Austin’s TDM program has coordinated with
+
+researched what other cities have done
+
+several city organizations to create alternative modes of transportation that are available
+
+to combat climate change and address
+
+to the public. The TDM program has illustrated that no single strategy on its own will
+
+traffic congestion.
+
+solve traffic congestion, but instead a wide variety of actions should be taken together to
+
+congestion, but worry it will increase
+congestion in other areas.
+
+“Can we reduce
+congestion in Tempe
+without adding
+to congestion
+in neighboring
+municipalities?”
+
+Local organizations can work together to improve
+coordination of congestion reduction and have a variety of
+travel demand management efforts
+
+•
+
+Partners can pool their resources for strategic investments
+
+reach the goals.
+
+that support commute options, like using carpool apps
+
+The TDM program predicts success in the following areas:
+
+or shuttles
+
+•
+
+Increase in transit ridership by 3–10%
+
+Businesses:
+
+•
+
+Increase in ride sharing by 1–15%
+
+•
+
+•
+
+Increase in van pools/shuttles by 1–13%
+
+Tempe businesses, property management companies and
+schools can collaborate to share resources and lower
+
+(Source: Transportation Demand Management Program, Austin Transportation Department)
+
+the cost of providing transportation options to employees,
+residents and students
+
+Some residents think it’s important to
+consider vulnerable populations when
+City:
+
+forming this action.
+
+•
+
+“Make certain to
+consider needs of lowincome and homeless
+populations.”
+
+The city can support the TDM by funding promotional
+programs and education initiatives
+
+Austin transit bus
+
+TRANSPORTATION
+
+28
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+29
+
+Key Features
+2. Encourage walking,
+biking, and public transport
+in city projects
+
+GRID rideshare bikes (source: City of Tempe)
+
+Improves transit service and pedestrian environment,
+adds bike facilities, provides transit stop amenities,
+converts/narrows travel lanes, and adds road
+medians
+
+Increases safety, comfort, convenience, and access
+for all users, which can reduce fatalities and serious
+injury crashes
+
+Encourages walking, biking, and transit use; supports
+businesses and the local economy; and creates
+healthy places that foster community livability
+
+Reduces speeding and per-person delay
+
+Description
+
+Resident Input
+
+The increase in available options for walking, biking, or riding transit will improve our transportation system
+and reduce our carbon footprint. In coordination with the City’s Vision Zero and 20-minute city initiatives,
+safe street and intersection designs that prioritize pedestrians, bicyclists, and transit riders can be installed
+in transportation infrastructure projects. This could require reallocation of street and intersection space
+to better serve the full range of users. A broad array of redesign measures can be considered, taking into
+account the needs and preferences of the community.
+
+Some residents support alternative
+transportation options that are accessible and
+accommodating for all people.
+
+Downtown Tempe (source: City of Tempe)
+
+Alignment with Strategic Priorities
+
+Collaboration
+The City of Tempe can work with Tempe businesses and
+residents to design roads that promote safe trips for all types
+of travel.
+
+Financial Stability
+& Vitality
+
+Safe & Secure
+Communities
+
+Quality of Life
+
+Provides a congestion mitigation
+
+Creates safe intersections and corridors,
+
+Supports safe and low-stress connections
+
+alternative to expensive roadway
+
+which reduces fatal and serious injury
+
+for residents and workers, resulting in
+
+expansion projects.
+
+crashes.
+
+reduced trips by car and reduced traffic
+congestion.
+
+City:
+• Continue to have an inclusive engagement process that
+ensures all resident needs are heard during planning of
+future transportation projects
+Residents:
+• Participate in the design process for future transportation
+projects and modes
+Arizona State University:
+• Support the city in using best practices to become a
+20-minute city with low-carbon transportation options
+and reduced congestion
+
+“Yes! More of this
+with shade and edible
+landscaping.”
+“Right – build the
+infrastructure for the
+desired behavior.”
+A resident suggested making car-free roads
+around Mill and ASU.
+
+“Maybe making roads
+that don’t have cars
+or use AVs on Mill and
+around ASU?”
+
+TRANSPORTATION
+
+30
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+31
+
+Key Features
+Increases the number of public
+charging stations
+
+3. EV charging
+
+Increases public visibility of EVs
+
+Educates residents on the benefits of EVs
+
+Supports residents and business
+owners in hosting charging
+stations
+
+Works with utilities and partners to increase access
+to charging stations
+
+Electric vehicle charging station (source: Arizona State University)
+
+Description
+
+Collaboration
+
+Resident Input
+
+Increasing the use of EVs will reduce GHG emissions in Tempe. Tempe can triple the number of public charging
+stations available to residents by 2022. Through expanding charging infrastructure, Tempe can lower the barriers
+to own an EV. Tempe can also amend building codes to require that new buildings are charging station-ready,
+which will lower the costs of retrofitting buildings.
+
+Businesses, electric utilities, residents, and the City of Tempe
+can improve air quality and reduce carbon emissions by
+making it easier to own and operate EVs in Tempe.
+
+Some residents believe that EV technology
+
+Alignment with Strategic Priorities
+
+City:
+•
+
+Add charging infrastructure for its own EV fleet to serve
+as a model for the rest of the city
+
+•
+
+Promote EVs through encouraging the installation of
+electric charging in commercial and residential
+properties
+
+Key stakeholders (APS and SRP):
+
+Financial Stability
+& Vitality
+
+Sustainable Growth
+& Development
+
+Quality of Life
+
+Provides public access to charging stations
+
+Supports adoption of EVs and improves
+
+Improves air quality and public
+
+so that EV owners are less dependent on
+
+local air quality in Tempe neighborhoods.
+
+health outcomes.
+
+home charging.
+
+•
+
+Support pilot projects that increase the number of EVs
+in Arizona
+
+•
+
+Support installation of charging stations to
+increase the availability of EV charging throughout
+the city
+
+Residents:
+•
+
+Can support changes to city codes that require buildings
+be equipped with the ability to easily install EV charging
+stations
+
+•
+
+Exploring options to buy their own EVs and install their
+own charging stations
+
+should be encouraged by the city.
+
+“Yes! This is very easy
+and within reach.”
+Some people wonder how EVs impact the
+amount of GHG emissions produced.
+
+“Does this increase
+emissions elsewhere
+due to the creation
+of electricity? The
+electricity source
+should be considered.”
+
+TRANSPORTATION
+
+32
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+33
+
+Key Features
+Provides a comprehensive
+review of opportunities and risks
+associated with AVs
+
+4. Smart mobility guide
+
+Waymo AV (source: City of Tempe)
+
+Models and analyzes
+possible traffic impacts
+under different
+scenarios
+
+Reviews zoning and development
+codes and identifies possible
+changes
+
+Reviews data sharing
+processes, protocols,
+and use
+
+Determines possible
+revenue impacts and
+explore alternative
+revenue sources
+
+Description
+Autonomous vehicles (AVs) present Tempe with many opportunities for improving transportation, but also a
+number of risks. Tempe and ASU researchers will develop a new mobility readiness guide, which will provide
+the necessary groundwork for developing policies to ensure that the adoption and use of AVs result in a moresustainable transportation system. The readiness guide will provide a comprehensive review of Tempe policies
+and codes that may help or hinder the adoption of AVs. Tempe believes that AVs can improve mobility, assure
+safety, and reduce the carbon footprint of the transportation system.
+
+Some residents think the city should
+incorporate more AVs into city operations.
+
+Collaboration
+Arizona State University:
+•
+
+The School for the Future of Innovation in Society can
+co-produce the Smart Mobility guide to help the city
+set guidelines for how to operate AVs in Tempe
+
+Key Stakeholders (MAG, GPEC, local
+municipalities, and Maricopa County):
+
+Sustainable Growth
+& Development
+
+Safe & Secure
+Communities
+
+Quality of Life
+
+AVs can lower congestion, use roadways
+
+AVs will make our roads safer by
+
+AVs can help increase accessibility for
+
+City:
+
+more efficiently, and reduce the number of
+
+removing human error, which is a factor in
+
+mobility-limited demographics to ensure
+
+•
+
+single-occupancy vehicle (SOV) trips.
+
+90% of roadway crashes.
+
+that all residents have access to this
+technology.
+
+Begins to develop a
+policy framework for
+operation of AVs in
+Tempe
+
+Resident Input
+
+Tempe and its partners can develop policies to guide the use
+of AVs in a way that supports the city’s carbon reduction,
+safety, mobility, and congestion mitigation goals.
+
+Alignment with Strategic Priorities
+
+Reviews roadway design to
+provide possible future roadway
+configurations
+
+•
+
+Work with the City of Tempe to coordinate regional
+efforts to govern AV and smart mobility technologies
+
+City departments including Public Safety, Engineering
+and Transportation, Community Development, Economic
+Development, and Information Technology can work
+together to coordinate efforts with new AV firms that are
+operating in Tempe
+
+“AVs are the future!
+Safer, more reliable,
+and they never text
+while driving!”
+Some residents are worried about the viability
+of AVs in Tempe.
+
+“How would you
+make sure that these
+are accessible to
+populations that need
+them and not just who
+can afford them?”
+
+TRANSPORTATION
+
+34
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+35
+
+RESILIENCE
+
+The following actions are being pursued by Tempe to establish resilience to extreme heat:
+
+Green infrastructure:
+
+The threat of extreme heat is intensifying due to climate change and the urban heat
+
+•
+
+Green infrastructure (GI) collects stormwater to help grow vegetation to cool
+our urban area.
+
+in heat-related deaths and hospitalizations, especially among children, the elderly, and
+
+•
+
+GI can save water, prevent flooding, and create shade.
+
+homeless people. In addition to these health concerns, extreme heat decreases the
+
+•
+
+GI can include street curb design to alter the flow of stormwater and rooftop
+gardens that absorb water and create shade for urban cooling.
+
+•
+
+Work within the city to create an education outreach initiative to inform
+Tempe residents about the cost benefits of GI
+
+island (UHI) effect. Record-breaking temperatures are sweeping Tempe and the Phoenix
+valley, presenting obstacles to keep Tempe safe. Extreme heat has caused an increase
+
+efficiency of HVAC systems, which drives up electricity costs and usage. Extreme heat
+also negatively effects Tempe’s economy, as tourism tends to decrease in uncomfortable
+weather conditions. It is important for Tempe to adapt to climate disturbances through
+infrastructure changes and community-driven action. Resilience to extreme heat will
+ensure that Tempe can remain a stable urban center that protects the health of the
+public and the environment. Adapting to our changing climate will be pursued by the
+
+Green Construction Code:
+
+City in the following ways:
+
+•
+
+The International Green Construction Code (IGCC) helps to cool the city by
+incorporating sustainable components of urban cooling.
+
+•
+
+Shade and cool materials are components of the IGCC.
+
+Urban Forestry Master Plan:
+
+Buildings
+
+Infrastructure
+
+Urban Forestry
+and Vegetation
+
+Preparedness and
+Response
+
+Implementation of green
+
+Green infrastructure (GI)
+
+construction codes will require
+
+allows buildings, parks, and
+
+Continue to increase the tree
+
+The hiring of an Emergency
+
+new buildings to increase
+
+streets to collect runoff
+
+coverage for Tempe’s Urban
+
+Manager will help prepare
+
+shade coverage and use of
+
+stormwater to cool the urban
+
+Forestry Master Plan to provide
+
+Tempe for emergencies
+
+cool materials.
+
+city and reduce costs of
+
+shade and cooler temperatures
+
+including extreme heat days.
+
+watering.
+
+in Tempe.
+
+•
+
+Investing in the Urban Forestry Master Plan will increase the urban tree
+population to cool the city and improve air quality.
+
+•
+
+Tempe can increase staff to help with tree planting and irrigation funding.
+
+•
+
+Tempe can continue volunteer efforts and pilot projects to expand
+its urban tree canopy.
+
+Emergency management program:
+•
+
+An Emergency Manager can work to make sure that public safety is not
+compromised on extreme heat days.
+
+•
+
+An Emergency Manager can draft an extreme heat prevention plan to
+coordinate among the city, residents, schools, and businesses to ensure the
+city is resilient during extreme heat.
+
+EXTREME HEAT
+
+36
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+37
+
+Highlight Action
+
+Key Features
+
+1. Green infrastructure (GI)
+
+Supports urban cooling
+
+Captures stormwater
+
+Creates shade
+
+Saves water
+
+Keeps streets clear during storms
+
+Description
+Tempe can save water and cool the city by designing landscapes that capture stormwater, while also growing
+vegetation for shade and cooling. Design standards for GI and Low-Impact Development ensure cities and
+developers consider stormwater and urban cooling when creating the landscape of new developments, parks,
+and streetscapes. Scottsdale and Phoenix have led an effort with ASU’s Sustainable Cities Network to develop
+design standards for stormwater management to cultivate cool landscapes and urban shade. These standards
+can be adopted by Tempe’s City Council, so that outdoor spaces in Tempe are protected against extreme heat
+and floods.
+
+GI project at Rio
+Salado & Hardy
+(source: City of
+Tempe)
+
+GI and Low-Impact Development Design Standards will save water and keep Tempe cool.
+
+Alignment with Strategic Priorities
+Grated curbs allow
+stormwater to pass
+through (source:
+
+Financial Stability
+& Vitality
+
+Sustainable Growth
+& Development
+
+Quality of Life
+
+GI reduces energy costs and saves water.
+
+Increasing shade reduces exposure to
+
+GI makes the city more livable by
+
+extreme heat and ultraviolet radiation.
+
+increasing comfort and walkability.
+
+City of Mesa)
+
+EXTREME HEAT
+
+38
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+39
+
+Resident Input
+
+Collaboration
+
+Best Practice
+
+Many residents agree that adopting this will
+
+Tempe can build on regional best practices and coordinate with
+
+The City of Tempe believes that gaining
+
+Green Infrastructure / Low-Impact Development –Mesa, AZ
+
+have positive impacts for our city and the
+
+partners by adopting new standards to ensure all new public and
+
+insight and inspiration from our peer
+
+Mesa, Arizona has become more sustainable by managing stormwater runoff to
+
+environment.
+
+private developments use stormwater to support vegetation and
+
+cities in the United States is beneficial
+
+reduce urban flooding and infrastructure damage costs. Mesa drafted the Low-Impact
+
+cooling throughout the city.
+
+to perform effective actions to increase
+
+Development Toolkit in 2015 to pave the way for various green building techniques
+
+extreme heat resilience. Tempe has
+
+and methods to deal with stormwater runoff. The city is already implementing the
+
+Arizona State University:
+
+researched actions that other cities have
+
+infrastructure designs, which have proved to be effective in reducing stormwater runoff
+
+•
+
+taken to adapt to extreme heat and
+
+and beneficial to urban cooling. The main elements of the GI are as follows:
+
+flooding to learn from their experiences.
+
+•
+
+“Critical to reduce
+water use, great!”
+“Yes, please! Requiring
+green infrastructure
+is key and shouldn’t
+be side-stepped
+through petition for
+exemption.”
+
+Convene City staff, landscape architects, residents
+and private developments to ensure all stakeholders know
+
+the flow of runoff towards roadside vegetation
+
+the benefits of GI and why they should be incorporated into
+all new projects
+•
+
+•
+
+Vegetated swale: Restoring washes with vegetation to create natural drainage
+patterns and flood protection
+
+Work with Maricopa County Flood Control and local
+municipalities to adopt regional standards for GI and low-
+
+•
+
+impact development
+
+Bioretention: Basins, cells, and planters that act to reduce and absorb/infiltrate
+runoff to supply plants with needed water and replenish groundwater
+
+Businesses and Developers:
+•
+
+Green street methods: Manipulating the shape and size of a street curb to change
+
+•
+
+Permeable pavement: Stabilized aggregate and porous materials are used to make
+pavements permeable to stormwater to reduce runoff and increase storage volume
+
+Learn from best practices at ASU, other cities, and private
+developments to incorporate smart stormwater
+
+•
+
+management, trees, and shade into new developments
+
+Green roof: Rooftop gardens, installed over waterproofing membranes, are naturally
+grown with stormwater, reducing runoff
+
+City:
+•
+
+Some residents from a public forum were
+
+city projects
+
+concerned about the irrigation water quality
+for the plants.
+
+•
+
+“I support this,
+but make sure
+residents understand
+stormwater quality and
+their impact on it.”
+
+Source: Low-Impact Development Toolkit, City of Mesa, Arizona
+
+Adopt GI and low impact development standards for all
+Work with developers to incorporate GI into private
+development
+
+Residents:
+•
+
+Support GI pilot projects in their neighborhoods, schools,
+and businesses to ensure all development and street
+Eastmark
+
+projects include GI
+•
+
+Master Planned
+
+Tailor GI projects for single family and multifamily
+
+Community in
+
+residences
+
+southeast Mesa
+(source: City of
+Mesa)
+
+“How clean is the
+water? What if the run
+off hurts the plants?”
+EXTREME HEAT
+
+40
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+41
+
+Highlight Action
+
+Key Features
+
+2. Green construction code
+
+New optional building code
+
+Encourages more structural
+shade
+
+Spreads the use of cool materials
+
+Promotes more tree canopy
+coverage
+
+Celebrates developers that construct a new building
+using the IGCC
+
+Description
+The International Green Construction Code (IGCC) encourages more structural shade, requires more tree
+canopy coverage, and supports the use of cool materials. Buildings constructed to the IGCC are more
+sustainable than buildings constructed under traditional codes. Adopting IGCC as an optional code in Tempe
+would guide new developments to provide shade, as well as using smart surfaces and cool materials to keep
+the city cooler, day and night.
+Tempe
+
+Tempe buildings should keep occupants and pedestrians cool.
+
+Transportation
+Center (source: City
+of Tempe)
+
+Alignment with Strategic Priorities
+
+Financial Stability
+& Vitality
+
+Sustainable Growth
+& Development
+
+Quality of Life
+
+Green construction practices that
+
+Increasing shade in Tempe reduces
+
+Shade and cool materials make the
+
+include shade and cool materials
+
+exposure to extreme heat and
+
+city more livable by increasing comfort
+
+reduce energy costs.
+
+ultraviolet radiation.
+
+and walkability.
+
+Garden rooftop
+and cool materials
+(source: City of
+Tempe)
+
+EXTREME HEAT
+
+42
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+43
+
+Resident Input
+
+Collaboration
+
+Best Practice
+
+Many residents from a public forum agree
+
+The City of Tempe intends to find opportunities to increase the
+
+The City of Tempe believes that gaining
+
+Green Building Code – Scottsdale, AZ
+
+that shade and greywater are critical
+
+number of green buildings built in the city. Tempe can collaborate
+
+insight and inspiration from our peer
+
+Scottsdale established a green building program that is adaptable to the extreme heat
+
+infrastructure in the Valley.
+
+with developers and residents on piloting the use of the IGCC.
+
+cities in the United States will help our
+
+and weather present in the Phoenix metropolitan area. The program encourages a
+
+City:
+
+city develop effective actions to increase
+
+systems-based approach, through design and building code, to minimize environmental
+
+extreme heat resilience. Tempe has
+
+impact and energy consumption while keeping occupants comfortable and healthy.
+
+researched actions that other cities have
+
+Residential building codes include the following:
+
+taken to update their building practices
+
+•
+
+Building entrances protected from direct summer sun
+
+to make their cities more resilient to
+
+•
+
+Roofs with 50% of run-off diverted to landscape areas (natural irrigation)
+
+climate change impacts.
+
+•
+
+Smart irrigation controllers that regulate irrigation based on current weather/soil
+conditions
+
+Developers:
+
+•
+
+Solar-ready roof zones with at least 500 square feet of free roof
+
+•
+
+Pilot the use of the IGCC in new developments
+
+•
+
+Kitchen faucets limited to flow rate of 1.8 gallons per minute
+
+•
+
+Pilot use of new shade and cool material technologies
+
+Commercial building codes include the following:
+
+“This is one of the
+critical needs of the
+Valley of the Sun –
+more shade!”
+
+•
+
+Pilot the use of the IGCC in new city buildings, such as
+Fire Station #2
+
+•
+
+Work with developers to find opportunities to pilot the use
+of the IGCC in private developments
+
+•
+
+“Greywater should be
+a requirement not an
+aspiration.”
+
+Pilot use of smart surfaces and cool materials in city projects
+
+Arizona State University:
+•
+
+Continue to construct state-of-the-art green buildings
+using standards like LEED Platinum and the Living
+Building challenge
+
+•
+
+Some residents believe that these codes
+
+Seek opportunities to produce the cost-benefit analysis
+
+regulations.
+
+•
+
+On-site EV charging stations or preferred parking for low-emission/hybrid vehicles
+
+•
+
+On-site renewable energy system designed to generate at least 3% of total
+estimated annual electric energy use
+
+•
+
+Indoor paints, coatings, etc. are within low VOC (volatile organic compound)
+content limits
+
+Green Building Code. Scottsdale, AZ (source: City of Scottsdale)
+
+of the energy savings that can be seen from using the IGCC
+
+should be mandated with government
+
+•
+
+Research effectiveness of emerging cooling technologies
+and smart surfaces
+
+“Optional is
+inadequate.”
+Appaloosa Branch
+Library located in
+north Scottsdale,
+AZ
+(Source: DWL
+Architects +
+Planners, Inc.)
+
+EXTREME HEAT
+
+44
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+45
+
+Key Features
+Supports planting and
+maintenance
+
+Promotes adequate staffing to
+support the expansion of Tempe’s
+tree canopy
+
+Organizes volunteers and
+community efforts to plant,
+maintain, and water our trees
+
+Can target streets and parks in
+the hottest areas of the city
+
+Supports targeting efforts
+to combat extreme heat as
+experienced by low-income
+residents
+
+Further invests in pilot projects
+that model best practices to
+conserve water
+
+3. Urban Forestry Master
+Plan (UFMP)
+
+Description
+Tempe adopted an Urban Forestry Master Plan (UFMP) in 2017. The City recently hired an Urban Forester to
+support increasing the city’s tree canopy. The UFMP promotes the planting and maintenance of trees in city
+parks, streets, and major city intersections. The plan supports efforts to create more urban forestry volunteer
+efforts, pilot projects, and tree planting events on city property. The City can continue to increase these
+programs by increasing staff, funding trees, and finding resources to improve irrigation, add green infrastructure
+(i.e. bioswales), and install greywater systems. Every budget year presents an opportunity to ensure that the City
+is fully investing in our urban forestry program to provide shade and to help cool our city.
+
+Alignment with Strategic Priorities
+
+Collaboration
+
+Resident Input
+
+The City of Tempe has budgeted to have the first Urban Forester in
+Arizona. There is an opportunity to develop the best urban forestry
+program in the Southwestern United States, which can play a role in
+combating extreme heat by protecting our residents from experiencing
+the worst impacts of extreme heat days. Coordination between city staff,
+nonprofits, and residents will be critical to support the growth of Tempe’s
+urban forest.
+
+Many residents supported use of shade
+
+Sustainable Growth
+& Development
+
+Quality of Life
+
+Green building practices that include
+
+Increasing shade reduces exposure to
+
+By making our city more walkable and
+
+water reuse can reduce energy costs.
+
+extreme heat and ultraviolet radiation.
+
+comfortable, the City of Tempe is ensuring
+that it is a livable city in the future.
+
+“One of the most
+critical needs – shade.”
+
+City:
+•
+
+Coordinate with staff from Engineering and Transportation,
+Community Services, and Community Development to create
+policies and programs to plant and maintain trees on city property
+
+•
+
+Coordinate with Tempe Municipal Utilities, SRP and APS, to promote
+residential tree planting programs
+
+Nonprofits:
+
+Financial Stability
+& Vitality
+
+throughout the city.
+
+•
+
+Organizations, such as Trees Matter and Watershed Management
+Group, can continue to pursue grants to support pilot projects that
+demonstrate best practices in urban forestry and green
+infrastructure
+
+•
+
+Continue to look for opportunities, such as the Carbon Offsets
+program, to fund tree plantings
+
+Multiple residents from a public forum talked
+about using greywater in city operations.
+
+“Use greywater
+systems to conserve
+water!”
+
+Residents:
+•
+
+Residents, neighborhood associations, and homeowners
+associations can use the MaryAnne Corder Neighborhood Grants to
+support tree-planting projects
+
+EXTREME HEAT
+
+46
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+47
+
+Key Features
+4. Emergency Management
+
+Tempe heat map (source: City of Tempe)
+
+Full-time permanent position dedicated to ensuring
+that Tempe is ready for emergencies and threats
+
+Can coordinate with City staff, residents, schools,
+nonprofits, and the business community to prepare
+
+Can seek additional funding for projects and research
+to ensure that the city is lowering the risks presented
+by extreme heat
+
+Supports Tempe in creating resilience hubs where
+residents can go during emergencies
+
+Description
+
+Collaboration
+
+Resident Input
+
+Tempe has an opportunity to hire an Emergency Manager who will be responsible for ensuring that
+the city is prepared for a wide range of potential threats. A prevention plan for extreme heat could
+ensure that first responders and residents are prepared for extreme heat days by having water, wearing
+appropriate clothing, having access to accessible buildings, and staying in air-conditioning when possible.
+Arrangements can be made to increase the number of cooling centers. The Emergency Manager can work
+on ensuring that future buildings and city infrastructure are resilient to extreme heat.
+
+The City of Tempe created a new position for an Emergency Manager
+in the fiscal year (FY) 19–20 budget. There is an opportunity for the
+Emergency Manager to support efforts to make the city more resilient
+to extreme heat by working to prevent deaths and illnesses caused by
+extreme heat and improving how the city communicates about extreme
+heat. There is also the opportunity for the new manager to support the
+creation of more hydration stations, cooling centers, and other mechanisms
+to ensure Tempe has an effective heat relief program. For this work to be
+successful, the following partners can support this effort:
+
+Many residents during a public forum agreed
+
+City:
+•
+Providing resources to the new Emergency Manager to build
+partnerships inside and outside the city to coordinate emergency
+management efforts
+
+Alignment with Strategic Priorities
+
+•
+
+Safe & Secure
+Communities
+
+Sustainable Growth
+& Development
+
+Financial Stability
+& Vitality
+
+An Emergency Manager can ensure
+
+Increasing the city’s capacity to work
+
+Preparedness and prevention planning
+
+that public safety is not compromised
+
+with resilience will ensure that Tempe
+
+can reduce the costs of response and
+
+on extreme heat days.
+
+is prepared for climate disasters,
+
+recovery to extreme weather events.
+
+like extreme heat.
+
+Coordinating efforts with City staff to ensure Tempe is prepared
+for extreme heat days by making sure that City buildings and
+programs support urban cooling
+
+Arizona State University:
+•
+Continuing to take a holistic approach to emergency
+management that combines disaster preparedness,
+resilience, and sustainability
+•
+
+that extreme heat is important to consider.
+
+“Extreme heat is a
+critical choice.”
+Residents recognize the importance
+of collaborating with other organizations
+and cities.
+
+“How will the city
+collaborate and
+cooperate with
+neighboring cities to
+achieve this action?”
+
+Hosting workshops to ensure Tempe is working with local and
+regional partners to prepare for extreme heat
+
+Residents:
+•
+Coordinating with neighbors to develop heat resilience programs that
+ensures neighbors work together on urban cooling projects and
+disaster preparedness training
+
+EXTREME HEAT
+
+48
+
+COMMUNITY ACTION
+
+City of Tempe | Climate Action Plan
+
+49
+
+MUNICIPAL ACTIONS
+In addition to the twelve community actions, the city government has considered what actions it can perform to be sustainable and
+
+Municipal GHG Sources
+The following chart describes Tempe’s main GHG sources and their percentage of total municipal GHG emissions.
+Percent of
+Total Municipal
+GHG Emissions
+
+GHG Sources
+
+Description
+
+resilient. In 2015, Tempe collected data to form the city’s first municipal GHG emissions inventory. This GHG emissions inventory allowed
+Tempe to identify what operational changes can be made to reduce carbon emissions. The city set a goal of carbon neutrality in municipal
+
+City Buildings
+
+operations by 2050 with a strategy of 100% renewable energy by 2035. The following sections provide strategies the city will employ to
+decrease GHG emissions in city operations.
+
+Municipal GHG
+Inventory
+
+30%
+
+Municipal GHG Inventory
+
+City buildings such as the library,
+city hall, police stations, fire stations,
+community centers, and office buildings
+require electricity for lighting, air
+conditioning, computers and office
+equipment. Local utilities provide
+electricity from gas, coal, nuclear and
+renewable energy sources.
+
+In 2015, the total municipal emissions were 40,666 MT of CO2e.
+Approximately 70% of the city’s GHG emissions were from
+electricity production, while roughly 30% of total emissions came
+
+30%
+
+Buildings &
+Facilities
+
+20%
+
+Outdoor
+Lighting
+
+Outdoor Lighting
+
+Total Emissions: 40,666 MT CO2e
+
+from the transportation sector. Tempe currently owns 120 buildings,
+which accounts for 30% of the city’s electricity consumption
+
+20%
+
+The city’s streetlights, park lights, path
+lights, and traffic signals use electricity
+provided by two local utilities.
+
+and GHG emissions. Another prime component of electricity
+park lights, and traffic signals. The City of Tempe manages two
+drinking water treatment plants that consume approximately 22
+million kWh of electricity per year, or 20% of the municipal GHG
+
+Water Infrastructure
+
+consumption is outdoor lighting, which includes 17,000 streetlights,
+
+emissions. Tempe’s municipal fleet comprises vehicles such as
+garbage trucks, law enforcement vehicles, field trucks, and code
+compliance cars. The transit fleet includes city buses and the light
+rail. Solid waste, signified as “Other”, is transported to neighboring
+
+20%
+
+Water
+Infrastructure
+
+29%
+
+Municipal Fleet &
+Transit Fleet
+
+1%
+
+Other
+
+Office of Sustainability (2019).
+Municipal GHG Inventory. Tempe, AZ
+(source: City of Tempe)
+
+50
+
+MUNICIPAL ACTIONS
+
+Municipal Fleet &
+Transit Fleet
+
+cities, specifically Phoenix, for disposal.
+
+City of Tempe | Climate Action Plan
+
+20%
+
+29%
+
+Drinking water is filtered and treated
+at Tempe’s two water treatment plants,
+then pumped out to provide clean
+drinking water to businesses and homes
+throughout Tempe. Pumps, motors, and
+equipment used in the water treatment
+process are powered by electricity.
+
+Local buses, police cars, garbage trucks,
+and other city vehicles burn fossil fuels.
+
+51
+
+To work toward carbon neutrality in our city, the City can make investments to reduce energy use in city buildings,
+outdoor lighting, and water infrastructure, while also greening our city fleet. Over the last several years, we have
+made important investments in city buildings, outdoor lightning, water infrastructure, and the municipal and
+transit fleet. The City of Tempe intends to invest further in these areas in the next several fiscal years.
+
+City Buildings:
+Tempe has completed the
+following actions to reduce
+carbon emissions derived
+from city buildings:
+
+Outdoor Lighting:
+Tempe has completed the
+following action to reduce
+carbon emissions derived
+from outdoor lighting:
+• Converted 4,000 high-pressure sodium
+street lights to LED street lights.
+
+• Conducted annual assessments of city
+buildings to determine energy-efficient
+upgrades for lighting and electrical
+equipment
+• Retrofitted city buildings with new
+HVAC units to reduce energy demand
+and the city’s carbon footprint
+
+Tempe Boys and Girls Club (source: City of Tempe)
+
+• Installed solar panels at six city
+facilities to power buildings with
+renewable energy. The city will
+continue to make clean energy
+investments through partnerships with
+APS and SRP.
+
+Next action to
+improve sustainability
+in city buildings:
+• Facilities Sustainability Plan: The city
+is creating a roadmap to identify which
+long-term energy efficiency
+investments to make in city facilities.
+
+Kiwanis Tennis Center (source: city of Tempe)
+
+Next actions to improve
+sustainability in outdoor
+lighting:
+• Street lights: Tempe will continue
+to replace high-pressure sodium
+street lights and incorporate LED
+lights into street lights and path
+lights.
+• Park lights: The city will convert
+inefficient park lighting to LEDs.
+• Facility lights: The city will continue
+to upgrade exterior lighting to LEDs.
+
+NEXT ACTION
+NEXT ACTION
+
+LED park lighting (left) (source: City of Tempe)
+
+Kiwanis Wave Pool facility (source: City of Tempe)
+52
+
+MUNICIPAL ACTIONS
+
+City of Tempe | Climate Action Plan
+
+53
+
+Water Infrastructure:
+
+Municipal Fleet & Transit Fleet:
+Tempe has completed the
+following action to reduce
+carbon emissions derived
+from water infrastructure:
+• Researched what equipment and
+technologies can be changed to lower
+the energy used to treat and transport
+water throughout the city.
+
+Tempe has completed
+the following actions to
+reduce carbon emissions
+derived from its municipal
+and transit fleet:
+• Added 20 EVs to the municipal fleet to
+reduce fossil fuel use.
+• Installed 28 EV charging stations at city
+facilities to encourage accessible
+access to EV infrastructure.
+
+JGM Water Treatment Plant (source: City of Tempe)
+
+EV charging station at Arizona State University (source: City of Tempe)
+
+Next action to improve
+sustainability in the city’s
+water infrastructure:
+• Efficiency study: A study is currently
+underway to assess the city’s water
+treatment plants, wells, and pumps
+to determine how to optimize water
+and energy use. The study will provide
+recommendations for upgrades and
+improvements at the two water
+treatment plants.
+
+NEXT ACTION
+
+Next actions to improve sustainability
+in the municipal and transit fleet:
+• Electric vehicle feasibility study: The city is looking at its
+current electric infrastructure at city facilities to
+determine what capacity is needed to install future EV
+charging infrastructure.
+• Increase EV purchasing: The city will continue to invest
+in both electric and hybrid vehicles for the city’s fleet,
+while reducing purchases of fossil-fueled vehicles.
+• Transit fleet upgrades: In addition to investments in
+cleaner forms of transit, Tempe’s Orbit and Flash buses are
+gradually switching to alternate fuels instead of using
+diesel gasoline. Transit is using compressed natural
+gas (CNG), which produces far less GHG emissions than
+conventional diesel fuel.
+
+NEXT ACTION
+
+South Water Treatment Plant (source: City of Tempe)
+
+CNG garbage truck (source: City of Tempe)
+
+54
+
+MUNICIPAL ACTIONS
+
+City of Tempe | Climate Action Plan
+
+55
+
+Upcoming Investments
+
+MOVING FORWARD
+
+Over the next two fiscal years, the city can invest in the following ways to achieve municipal carbon neutrality.
+Percent of
+Total Municipal
+GHG Emissions
+
+City Buildings
+
+GHG Sources
+
+30%
+
+Municipal Actions
+FY 2019-2020
+
+The city will
+complete the
+first phase of
+our facility
+sustainability plan
+to identify the
+next five years of
+energy upgrades.
+
+FY 2020-2021
+
+Climate Action Plan 2021 Update
+Tempe’s 2019 Climate Action Plan (CAP) sets out an initial twelve actions to put Tempe on a path toward community carbon neutrality.
+
+Tempe can invest
+in solar with
+battery storage.
+
+The city’s journey toward a carbon-neutral future will only accelerate with the adoption of the 2019 CAP. Tempe is already looking to
+expand and improve on its first CAP with the CAP 2021 Update. Five guiding principles for the CAP 2021 Update have been identified
+by Tempe’s Sustainability Commission and the Office of Sustainability: fiscal responsibility, enterprise, equity, engagement, and
+effectiveness and evidence. We will work with residents, businesses, and nonprofits to implement the first twelve actions and to create
+a CAP update that exemplifies these principles. We elaborate these principles here, as a part of Tempe’s first CAP, to communicate the
+
+Outdoor Lighting
+
+City’s commitment to climate action that aligns with Tempe’s unique character and needs.
+
+Fiscal Responsibility
+
+20%
+
+Tempe will invest
+in LED outdoor
+lighting in parks,
+transit projects,
+and city buildings.
+
+The budget
+request will
+reflect a four-year
+financing strategy
+for arterial
+streetlights.
+
+Tempe will make investments in emissions reduction and resilience that
+are financially sound. The City of Tempe will:
+• Encourage energy-efficient upgrades to save energy and money
+• Prioritize investments with clear financial returns
+• Prioritize investments that maximize community benefit
+• Provide the cost of inaction when possible
+
+Fiscal Responsibility in Action
+The City of Tempe is investigating the use of internal
+carbon pricing to understand the carbon emissions
+associated with city decisions. If the City knows
+the carbon emissions associated with different city
+decisions, it can opt to select programs and services
+that reduce emissions and are cost-effective.
+
+Municipal Fleet &
+Transit Fleet
+
+Water Infrastructure
+
+• Consider building the price of carbon into city decision making
+
+56
+
+20%
+
+29%
+
+A water treatment
+analysis
+may identify
+opportunities for
+energy upgrades.
+
+An EV charging
+station feasibility
+study will be done
+to determine which
+city facilities will add
+new EV charging
+infrastructure.
+The city will consider
+new alternative fuel
+buses.
+
+MUNICIPAL ACTIONS
+
+Possible new
+energy upgrades
+in Capital
+Investment
+Projects (CIP).
+
+Enterprise
+Tempe will focus on the critical role of local businesses in
+sustaining climate action by investing in and promoting
+new business practices and the deployment of new
+technologies. The City of Tempe will:
+• Support businesses in prioritizing clean air through
+investments in clean energy and transportation
+• Inform and incentivize businesses to adopt energy
+upgrades, sustainable transportation, and green
+infrastructure practices
+
+Up to 30% of the
+new municipal
+fleet purchased
+will be EVs.
+
+• Communicate climate action by businesses to attract
+workers and new businesses who value sustainability
+Singh Meadows farmer’s market
+
+Enterprise in Action
+The Cities of Tempe and Phoenix
+have partnered with Arizona State
+University and Local First Arizona
+to grow a local food economy
+that embraces climate action. The
+project supports Tempe businesses
+in energy, water, and food practices.
+This project aims to highlight the
+role the business community and
+entrepreneurs can play in tackling
+carbon emissions and resilience.
+
+• Incubate new businesses that support climate action
+
+City of Tempe | Climate Action Plan
+
+57
+
+Equity
+Tempe will work to include all voices in city decision making by
+addressing structural racism and equity challenges in our city. The
+City of Tempe will:
+• Consider people first, and underrepresented groups, in the
+creation of city programs and policies
+
+Equity and Engagement
+in Action
+Equity in Action is a Tempe project that works
+with underrepresented groups to develop and test
+new policies and programs that make Tempe more
+equitable. The City of Tempe, in partnership with
+Vitalyst Health Foundation, funds social justice
+organizations and community representatives to
+participate in redesigning city policies and processes
+to reflect the values and needs of all Tempe
+residents. Tempe is committed to building city staffs’
+understanding of the implications of race, culture, and
+socio-economic status on public processes to advance
+equitable opportunities for all.
+
+• Practice targeted universalism, which means pursuing policies
+and programs that are targeted at underrepresented groups,
+but that will create benefits for all of Tempe
+• Build a culture of belonging where all people feel like they can
+influence the future of Tempe
+• Foster a culture of radical responsibility, which means working
+to help our neighbors and improve our local environment
+• Prioritize climate actions that create jobs and offer
+opportunities for professional development.
+
+Engagement
+Tempe will create a climate action plan and a planning process that
+residents can interact with and understand. The City of Tempe will:
+
+Effectiveness and Evidence
+Tempe will make investments in carbon reduction and
+resilience to climate change that are effective and
+evidence based. This will help ensure that actions in
+the CAP actually reduce emissions and increase our
+resilience as intended. The City of Tempe will:
+• Select evidence-based climate actions known to
+be effective
+• Monitor the impact of climate actions to ensure they
+have the desired effect
+• Use data and research to create argument for
+building equity and climate action into all decision
+making
+• Partner with Arizona State University to support
+large-scale research and infrastructure to reduce
+GHG emissions and increase resilience to the impacts
+of climate change
+
+• Conduct neighborhood- and school-focused engagements
+• Consider use of Resilience Hub model to engage residents and
+provide resources for local action
+• Employ creative gaming and virtual engagement platforms
+• Create a culture of sharing and community support
+• Prioritize community-focused solutions
+
+58
+
+MOVING FORWARD
+
+City of Tempe | Climate Action Plan
+
+Effectiveness and
+Evidence in Action
+The Health Impact Project,
+funded by the Robert Wood
+Johnson Foundation and
+The Pew Charitable Trusts,
+is partnering with the City
+of Tempe and Arizona State
+University to address extreme
+heat in Tempe. The project
+is focused on collecting
+temperature and public health
+data during extreme heat days
+in Summer 2019. The data
+collected will help inform how
+Tempe builds future playgrounds,
+multi-use parks, parking lots,
+and arterial walls. This pilot
+project will demonstrate how
+ASU professors and students
+can provide evidence for city
+decision making.
+
+59
+
+COMMUNITY ACTIONS
+
+Glossary
+CAP: Climate Action Plan; a plan to reduce emissions and make investments in resilience
+
+ENERGY
+
+CO2e: Carbon dioxide equivalent; a way to translate other greenhouse gases, like methane, sulfur oxides, and nitrogen oxides, into
+an equivalent amount of carbon dioxide
+
+1.
+
+Resilient energy hubs
+
+2.
+
+Revolving fund
+
+FY: Fiscal year; the government’s budget from July 1 to June 30 of the next year
+
+3.
+
+Sustainability platform
+
+GHG: Greenhouse gases; gases like carbon dioxide (CO2), methane (CH4), sulfur oxides (SOx), and nitrogen oxides (NOx) that trap
+
+4.
+
+Solar EV charging stations
+
+Emissions reduction: Using energy and transportation methods that produce less greenhouse gas emissions than
+fossil fuel sources
+
+heat in the atmosphere
+
+GHG inventory: Estimation of the amount of greenhouse gases produced from a community or an organization within a year
+
+TRANSPORTATION
+
+MT: Metric ton; equals approximately 2,205 pounds
+Resilience: The ability of a system to thrive after something disrupts it
+
+1.
+
+Transportation Demand Management (TDM)
+
+Sustainability: Balancing the environmental, social, and economic needs of today without compromising those needs
+
+2.
+
+Encourage walking, biking, and public transport in city projects
+
+3.
+
+EV charging
+
+4.
+
+Smart mobility guide
+
+for tomorrow
+
+References
+
+PAGE 13
+
+PAGE 25
+
+Chan, T-T. (2018). Transportation Demand Management Program. Austin, TX. Retrieved from
+
+EXTREME HEAT
+
+http://www.austintexas.gov/edims/document.cfm?id=298367
+City of Scottsdale. (n.d.). Highlighted Green Projects. Retrieved from
+https://www.scottsdaleaz.gov/green-building-program/green-projects
+
+1.
+
+Green infrastructure
+
+City of Tempe, Public Works Department. (2018). Successful Green Infrastructure/Low Impact Development Pilot Project. Tempe, AZ.
+
+2.
+
+Green Construction Code
+
+Logan Simpson & Dibble Engineering. (2015). Low Impact Development Toolkit. Retrieved from
+
+3.
+
+Urban Forestry Master Plan
+
+4 .
+
+Emergency management
+
+City of Tempe. (n.d.). Sustainable Tempe. Retrieved from https://www.tempe.gov/government/sustainable-tempe
+
+https://www.mesaaz.gov/home/showdocument?id=14999
+New York City Economic Development Corporation. (2015, May 8). Rising to the challenge: Bright Power’s Resilient Power Hub.
+
+PAGE 37
+
+Retrieved from https://www.nycedc.com/blog-entry/rising-challenge-bright-powers-resilient-power-hub
+
+60
+
+City of Tempe | Climate Action Plan
+
+61
+
+Want to learn more about sustainability
+at the City of Tempe?
+Check out our website at tempe.gov/SustainableTempe.
+For information about Tempe’s Sustainability Commission,
+visit tempe.gov/SustainabilityCommission.
+
+Contact:
+Shannon Reed
+
+Public Information Officer
+480-350-8101
+shannon_reed@tempe.gov
+
+printed on 100% recycled paper
+
+

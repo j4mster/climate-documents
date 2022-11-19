@@ -1,0 +1,5094 @@
+MONTANA CLIMATE
+SOLUTIONS PLAN
+AUGUST 2020
+
+B A C KG R O U N D – i A REPORT BY THE MONTANA CLIMATE SOLUTIONS COUNCIL
+
+MONTANA CLIMATE SOLUTIONS PLAN
+AUGUST 2020
+
+A REPORT BY THE MONTANA CLIMATE SOLUTIONS COUNCIL
+
+CONTENTS
+Letter from Governor Bullock
+
+2
+
+Background
+
+4
+
+List of Recommendations
+
+6
+
+1. Preparing Montanans For Climate Impacts
+
+9
+
+2. Strategies to Reduce Greenhouse Gas Emissions
+
+21
+
+Section I: Energy Efficiency - Utility Practices, Standards, and Buildings
+
+28
+
+Section II: Beneficial Electrification
+
+36
+
+Section III: Renewable Energy and Maximizing Electric System Integration
+
+38
+
+Section IV: Transportation
+
+42
+
+	Section V: Quantifying and Reducing Industrial, Agricultural and Methane
+
+46
+
+Emissions and Including Carbon Sequestration
+Section VI: Tribal Nation and Community Efforts
+
+52
+
+Section VII: Priority State, Regional, and Federal Measures
+
+55
+
+3. Capturing Innovation Opportunities in Montana’s Response to Climate Change
+
+60
+
+and Addressing the Needs of Workers and Communities in Transitions
+	Section I: Moving Montana’s Economy to Net Greenhouse Gas Neutrality
+
+66
+
+through Innovation and Advanced Manufacturing
+	Section II: Building Resilience to Prepare Montana’s Communities, Economy,
+
+68
+
+and Workers for Transitions
+List of Council Members
+
+71
+
+Suggested Citation: State of Montana. (2020). Montana Climate Solutions Plan. Helena, MT.
+Acknowledgements: We wish to acknowledge and appreciate the significant contributions of the members of Montana
+Climate Solutions Council for their time and dedication toward the creation of this plan. In addition, we are grateful to the
+many partners who contributed to the Council’s work including the U.S. Climate Alliance, the Center for the New Energy
+Economy, the Clean Energy Transition Institute, Evolved Energy Research, and The Bridge Studio. We also wish to express
+our thanks to the state agency staff who provided invaluable support and the many members of the public who attended
+meetings, offered comments on draft products, and shared their expertise to inform the Council’s deliberations.
+
+1
+
+Letter from
+Governor Bullock
+
+Dear Friends and Colleagues:
+It is my distinct pleasure to share with you the final recommendations of the Montana Climate
+Solutions Council. I want to thank the members of the Council for their dedication and
+thoughtful deliberations as well as the many staff who lent their time and talents to supporting
+the Council’s work. I also want to acknowledge the contributions from Montanans across
+the state who participated in Council meetings and webinars and shared their perspectives
+through formal public comments – each of which helped to strengthen our partnerships and
+recommendations for moving forward.
+Montanans across the state believe climate change is a significant problem posing risks to the
+future of Montana and to future generations. For too long our response to this issue has been
+curtailed out of a false pretense that dealing with climate will divide our state along east-west,
+rural-urban, and partisan divides. As the Council’s work demonstrates, there is an impressive
+array of opportunities and recommendations that represent a broad-based consensus and can
+serve as a foundation for bipartisan climate action moving forward that responds to the many
+values Montanans share.
+There is an immediate and urgent need for the state to plan for the future and confront the
+needs to prepare our communities and economy. Already Montana is three degrees warmer
+on average than we were just a few decades ago. Earlier spring runoffs are causing flooding,
+impacting our water availability, and contributing to the increasing size and severity of our
+wildfire seasons. 2017 saw our largest fire season on record since the Big Burn of 1910,
+spurring periodic waves of evacuations, curtailing visitation, and prompting twice the incidence
+of respiratory-related ER visits in affected counties.
+But the risks facing Montana due to climate change are not just physical risks to our health
+and safety. The state’s businesses and economy face a series of economic and financial risks
+as well. Shifting energy demands and policy changes are prompting a transition across our
+region and around the world, impacting the markets Montana traditionally serves. Institutional
+and private investors are increasingly signaling their concern over stranded assets of energy
+companies and financial performance tied to these changes. In small towns across the state,
+workers and communities are caught in the crosshairs, lacking the economic capacity to
+shift labor and capital to emerging opportunities. These transitions are also impacting our
+state’s fiscal health, where declines in traditional revenue streams from energy production and
+increasing costs tied to unforeseen events, like the 2017 fire season, can impact our state’s core
+services and programs. Planning for climate change helps us manage these risks and costs tied
+to transitions, but it also offers insights into how we can develop competitive advantages and
+local economic development strategies that put Montana at the forefront of new energy and
+technology solutions.
+
+2
+
+As I write, the state is in the midst of our ongoing response to the COVID-19 pandemic and
+associated economic recovery. The disruptive economic impacts of the pandemic place real
+capacity strains on our state’s businesses, governments, nonprofits, and civic institutions.
+While the challenges of disruptions to our economy to protect lives and limit exposure are not
+immediately transferable to climate change, the ways in which our state, local, and tribal nation
+partners and businesses have come together to respond with a sense of urgency is indicative
+of the type of all-hands approach we need to prepare for and respond to the climate challenge
+before us.
+As I plan to leave the Office of Governor, we must work together to implement this plan,
+regardless of who the next governor is in 2021. Montanans deserve a new energy policy to
+reduce greenhouse gas emissions and a new approach to build resilience in our communities
+and economy. No matter who takes office in 2021, it is imperative that a set of pragmatic and
+durable policies be advanced that address the needs of our state and offer leadership as we
+confront the issue of climate change.
+The recommendations in this report span a mix of state programs and policy, utility regulatory
+policy, incentive programs, federal policies, and university and business partnerships. They
+build from the experiences of Montana’s local and state government, tribal nations, and
+businesses. Lessons learned from others across our country and around the world complement
+our Montana-grown perspective. For the first time they introduce opportunities and challenges
+in workforce, economic development, and community-based initiatives that accompany
+the diverse and ongoing policy discussions involving the future of energy generation and
+consumption for our state and region. The recommendations reflect strong alignment in
+many areas across a diverse group of Council members, while also highlighting key points of
+disagreement that can inform future deliberations. Together, they comprise a set of Montanabased solutions that demand our collective efforts to advance with the same dedication and
+urgency that led to their development. I thank all Montanans for their partnership and support
+as we seek opportunities to work together to advance this plan.
+
+Sincerely,
+
+Steve Bullock
+Governor
+
+3
+
+B A C K G R O U N D
+
+O
+
+n July 1, 2019, Governor Bullock
+issued Executive Order 8-2019,
+creating the Montana Climate
+Solutions Council and joining the
+State of Montana to the U.S. Climate
+Alliance. The Council was tasked with developing a
+Climate Solutions Plan (this document) that provides
+recommendations and strategies aimed at preparing
+Montanans for climate impacts; reducing greenhouse
+gas (GHG) emissions – including achieving an interim
+goal of net GHG neutrality for average annual electric
+loads in the state by no later than 2035 and a goal
+of net GHG neutrality economy-wide at a date to be
+determined by the Council; advancing the research,
+development, and commercialization of new
+technologies necessary to meet these goals; and
+addressing the needs of communities and workers
+in transitions through economic and workforce
+development efforts.
+Montana’s climate is already changing. Our
+temperatures are 2–3º F warmer on average than in
+1950. Historical observations demonstrate a shift
+to earlier snowmelt and earlier peak spring runoff,
+impacting flooding, water availability, and stream
+temperatures. Increased temperatures, insect and
+disease mortality, and fuel loads together are driving
+increases in the size and possibly the frequency
+and severity of wildfires. According to the 2017
+
+1
+
+http://montanaclimate.org
+
+B A C KG R O U N D – 4
+
+Montana Climate Assessment (MCA),1 the state could
+experience an additional 3–7º F increase in average
+temperatures by mid-century, including more days of
+extreme heat that would dramatically increase many
+of these impacts moving forward.
+Within our state borders, we have also begun
+to experience transitions in our economy and
+our energy sector that reflect changes that are
+happening across our nation and around the world.
+How the state responds to the shifting demands
+and needs of the global economy can help ensure
+our sustained economic growth and position us
+to continue to provide the food, energy, products,
+technology, tourism opportunities, and other goods
+and services to the nation and the world that drive
+our economy.
+Planning for climate change can help the
+state prepare for anticipated risks amid these
+uncertainties. Not only does the state face a series
+of physical risks tied to a changing climate, the
+state also faces fiscal risks impacting state budgets
+and services, and economic risks implicating
+employment and income trends. The state’s
+businesses must also confront financial risks as
+investors react to market transitions and anticipated
+policy changes.
+
+Planning for climate change not only helps us
+manage the costs tied to these risks through
+proactive efforts to manage uncertainty, it also
+offers opportunities for the state to capture and
+localize the market for innovation resulting from
+climate challenges, offering a chance for the state
+to simultaneously take advantage of and safeguard
+our traditional strengths while also diversifying and
+growing new opportunities for the future. While there
+are many benefits to climate planning and action,
+many members of the Council are cognizant that
+care must be taken to evaluate individual policies to
+determine the implications for issues such as direct
+and indirect costs, equity across communities, and
+reliability of our energy system. Implementation of
+this plan requires action by the state legislature, the
+public service commission, the executive branch,
+and numerous business and nonprofit partners –
+each of which must consider the capacity, costs,
+and benefits of the recommendations appropriately.
+Montana must act. The urgency for action is
+great, and the opportunities for benefits
+commensurately large.
+
+The Council and committees convened via in-person
+meetings, webinars, and conference calls to advance
+their deliberations. Meetings and calls were noticed
+to the public and – along with a draft report issued in
+February 2020 – offered members of the public substantial opportunity to track progress, provide input,
+and share information relevant to the Council’s work.
+
+The Montana Climate Solutions Council
+The purpose of the Montana Climate Solutions
+Council was to provide recommendations to the
+governor, legislature, and citizens of Montana on
+strategies to reduce GHG emissions, prepare the
+state for climate impacts, foster innovation across
+Montana’s economy, and address the needs of
+communities in transition through appropriate
+economic development and workforce strategies.
+The Council developed three committees to further
+its objectives between full meetings of the Council:
+
+Additional information on the Council’s charter,
+meeting archives, and public comments received can
+be found at https://deq.mt.gov/Climate/.
+
+1. T
+ he Climate Adaptation, Information, and
+Decision Support Committee;
+2. G
+ reenhouse Gas Mitigation Strategies
+Committee; and
+3. The Technology Innovation for Climate Solutions
+and Community Transitions Committee.
+
+B A C KG R O U N D – 5
+
+Through a charter, the Council established a
+commitment to mutual respect, shared learning, and
+consensus decisions whenever possible. Consensus
+was defined as achieved when all Council members
+could live with or were in support of a proposal.
+The Council recognized that to meet the goals and
+objectives outlined in Executive Order 8-2019, it
+would need to advance some recommendations that
+did not achieve consensus. As such, the Council
+agreed to adopt recommendations that received
+support or neutral positions from at least a two-thirds
+majority of its members with two caveats: in the final
+report 1) those recommendations had to be clearly
+distinguished from consensus recommendations
+and 2) dissenting viewpoints and concerns had to
+be articulated.
+
+LIST OF RECOMMENDATIONS
+1: PREPARING MONTANANS FOR CLIMATE IMPACTS
+1A 
+
+ stablish the Montana Climate Solutions Network to Develop and Share Climate
+E
+Information and Resources; Build Capacity in Communities; and Connect Climate
+Solutions at State, Local, Regional, and Tribal Nation Scales
+
+12
+
+1B
+
+
+Build
+Community Resilience to Climate Change Through Coordinating with Existing
+Planning Efforts
+
+14
+
+1C
+
+Adapt Montana’s Built Environment to Climate Change
+
+15
+
+1D
+
+ rotect Outdoor Recreation and Tourism Resources to Maintain a Diverse and
+P
+Healthy Economy, Positive Mental and Physical Health Outcomes, and a Resilient,
+High Quality of Life for Residents as well as Visitors
+
+16
+
+1E
+
+ uild the Resilience of Montana’s Private Working Lands (Farms, Forests, and
+B
+Rangelands) and Support Voluntary and Incentive-Driven Efforts for Climate-Smart
+Management that Reduces Risks, Improves Bottom Lines, and Enhances Carbon
+Storage in Soils, Forests, and Wood Products
+
+16
+
+1F 
+
+ nhance Wildfire Resilience Across Ownership Boundaries in Response to
+E
+Accelerating Climate Impacts
+
+18
+
+1G
+
+ upport Climate-Resilient Rangelands and Wildlife Using an All-Lands, All-Hands
+S
+Approach Across Ownership Boundaries
+
+19
+
+1H
+
+Safeguard Montana’s Water Quality and Quantity from Climate Change
+
+20
+
+2: STRATEGIES TO REDUCE GREENHOUSE GAS EMISSIONS
+Section I: Energy Efficiency - Utility Practices, Standards, and Buildings
+2A
+
+ stablish a Graduated Energy Efficiency Standard, a Demand Response Standard,
+E
+and an Energy Storage Standard for the State’s Investor-Owned Utilities (IOUs)
+
+28
+
+2B
+
+Promote Energy Efficiency Through Tools like On-Bill Financing
+
+29
+
+2C
+
+ dopt Rate Strategies like Decoupling, Time-of-Use Rates, Inclining Block Rates, and/
+A
+or Performance Measures to Facilitate Energy Efficiency
+
+30
+
+2D
+
+Support Programs to Advance Commercial Energy Audits
+
+31
+
+2E
+
+
+The
+Legislature Should Evaluate the Universal System Benefits Program Funding
+Mechanism for Electric Customers
+
+31
+
+2F
+
+Develop Mobile-Home Replacement Program
+
+32
+
+2G
+
+Address the Non-Energy Benefits of Energy Efficiency when Assessing
+Cost-Effectiveness
+
+32
+
+2H
+
+Identify Energy Efficiency Solutions for Rental Units
+
+33
+
+B A C KG R O U N D – 6
+
+2I
+
+Adopt State Appliance Efficiency Standards
+
+33
+
+2J
+
+ he Montana Department of Labor and Industry (DLI) Should Modernize Montana
+T
+Building Energy Codes and Administrative Processes to Promote Energy Efficiency
+and Other Climate Benefits in New Buildings [Advanced With Dissent]
+
+34
+
+2K
+
+Allow for Local Governments to Establish Building Performance Standards
+
+35
+
+2L
+
+Implement Net-Zero-Energy Building Strategies
+
+35
+
+Section II: Beneficial Electrification
+2M
+
+Support an Electric Cooperative Beneficial Electrification Initiative
+
+37
+
+2N
+
+ tudy the Challenges and Opportunities of Heat Pump Technology Adoption in
+S
+Montana
+
+37
+
+Section III: Renewable Energy and Maximizing Electric System Integration
+2O
+
+ ncourage Expanded Community Solar Development and Enact Policy to Enable
+E
+Community Solar for Investor-Owned Utilities
+
+38
+
+2P
+
+Provide Incentives for Solar-Ready and Solar-Integrated Design and Building
+
+39
+
+2Q
+
+ tudy the Feasibility of Encouraging Greater Utility-Scale Renewable Energy
+S
+Development by Reducing Property Taxes on New Renewable Energy in Montana
+
+39
+
+2R
+
+Advance the Deployment of Energy Storage Projects in Montana
+
+40
+
+2S
+
+Deploy and Test Grid-Integrated Water Heaters
+
+40
+
+2T
+
+Increase the Allowable Size for Distributed Generation Systems [Advanced With
+Dissent]
+
+41
+
+2U
+
+Investigate the Use of Microgrids in Montana
+
+41
+
+Section IV: Transportation
+2V
+
+ dopt Low-Emission Vehicle (LEV) and Zero-Emission Vehicle (ZEV) Standards
+A
+[Advanced With Dissent]
+
+42
+
+2W
+
+ dvance Comprehensive Strategies to Develop and Expand Electric Vehicle Use and
+A
+Infrastructure [Advanced With Dissent]
+
+43
+
+2X
+
+Improve Statewide Transportation Management to Foster Alternatives and Support
+the Needs of Communities
+
+44
+
+2Y
+
+Explore Opportunities for Passenger Rail
+
+45
+
+Section V: Q
+ uantifying and Reducing Industrial, Agricultural and Methane Emissions
+and Including Carbon Sequestration
+2Z
+
+Improve Greenhouse Gas Emissions and Carbon Sequestration Inventory and
+Accounting Spanning Non-Electric and Transportation Sectors Across Montana’s
+Economy
+
+46
+
+2A A
+
+Assess and Reduce Sources of Methane Emissions
+
+47
+
+B A C KG R O U N D – 7
+
+2AB
+
+Address Food Waste and Food Systems Emissions
+
+48
+
+2 AC
+
+Manage Solid Waste Emissions and Support Recycling and Composting
+
+49
+
+2AD
+
+ dvance Efforts to Develop and Deploy Carbon Capture and Storage Technologies
+A
+(CCS) [Advanced With Dissent]
+
+51
+
+Section VI: Tribal Nation and Community Efforts
+2AE
+
+Support and Learn From Tribal Nations [Advanced With Dissent]
+
+52
+
+2AF
+
+Support Community Mitigation Planning [Advanced With Dissent]
+
+54
+
+Section VII: Priority State, Regional, and Federal Measures
+2 AG
+
+Advocate for Greenhouse Gas Mitigation in Upcoming Federal Stimulus Packages
+
+55
+
+2AH
+
+
+Engage
+in National and Regional Dialogues Regarding Carbon Pricing [Advanced With
+Dissent]
+
+56
+
+2AI
+
+Advance Efforts to Take Advantage of a Coordinated Western Electricity Market
+
+57
+
+2AJ
+
+Adopt a Clean Energy Standard (CES) [Advanced With Dissent]
+
+57
+
+2AK
+
+Recommendation on Achieving Economy-Wide Greenhouse Gas Neutrality [Advanced
+With Dissent]
+
+58
+
+3: A
+ CCELERATING DECARBONIZATION AND INNOVATION
+Section I: Moving Montana’s Economy to Net Greenhouse Gas Neutrality through
+Innovation and Advanced Manufacturing
+3A
+
+ ontana, Led by the Montana Science and Technology Committee and the Office
+M
+of the Commissioner of Higher Education, Should Identify Key Opportunities for
+Technology-Led Economic Development, Prioritizing Areas that Assist with Climate
+Change Transitions and Mitigation
+
+66
+
+3B
+
+ he Montana Legislature Should Invest in Initiatives that Build University/Industry/
+T
+Society Innovation Linkages to Address Key Montana Challenges, Including Climate
+Change
+
+66
+
+3C
+
+ ork to Establish Multiple Regional Innovation Clusters in Montana Focused on
+W
+Decarbonization of Montana’s Industries by 2035
+
+67
+
+Section II: Building Resilience to Prepare Montana’s Communities, Economy,
+and Workers for Transitions
+3D
+
+ repare Montana’s Workforce for Opportunities in a Changing Economy and in
+P
+Sectors Important to Climate Mitigation and Adaptation
+
+69
+
+3E
+
+Reform Montana Fiscal Policy to Address Economic Transitions
+
+70
+
+B A C KG R O U N D – 8
+
+1. P
+ R E PA R I N G M O N TA N A N S
+F O R C L I M AT E I M PA C T S
+
+C
+
+limate change-driven severe events
+(e.g., wildfires, drought, flooding)
+threaten people, communities, and
+businesses across Montana. The state
+must prioritize efforts that will prepare
+our communities, infrastructure, and economies
+for anticipated climate impacts. Such preparations
+include ensuring that our natural resources (e.g.,
+farms, forests, rangelands, wildlife, water supplies)
+continue to sustain our livelihoods and quality of life.
+Building resilience will require addressing current
+climate variability and recent extreme events as well
+as preparing for future change and emergent threats.
+Given recent climate projections, there is an urgency
+to strengthen efforts across Montana.
+The Council established the Climate Adaptation,
+Information, and Decision Support Committee to
+develop strategies to prepare the state for climate
+impacts. Adaptation knits together a range of
+activities from translating science into usable
+information to building the partnerships required to
+implement strategies that reduce risk. The practice
+of adaptation commonly includes five general
+stages: 1) awareness, 2) assessment, 3) planning,
+4) implementation, and 5) monitoring.
+A foundation of the best available science and locally
+relevant knowledge, experience, and information is
+critical to inform decision-making. However, sound
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 9
+
+science and information alone are insufficient to
+effectively manage climate-related risks. Translation
+of that science-based information into a form readily
+accessible to the public is required to best build
+capacity, outreach, and delivery mechanisms in
+response to the needs of government agencies,
+tribal nations, land managers, business owners, nonprofits, and individuals. Planning exercises can help
+decision-makers assess vulnerabilities and identify
+appropriate strategies to minimize or eliminate
+risks. In the end, effective adaptation is an iterative
+process that requires a) taking action to reduce risks,
+b) a commitment to monitoring results and learning
+from successes and failures, and c) a willingness
+to try a different approach, if necessary, based on
+monitoring outcomes.
+Montanans have diverse experiences planning for
+climate impacts, including efforts at municipal,
+county, watershed, and tribal nation scales.
+Committee members discussed their past
+experiences involving Climate Smart Missoula, the
+Blackfeet Nation, Montana Disaster and Emergency
+Services, the Montana Climate Office’s work with
+state agencies to develop early warning systems
+for drought and flooding, research and community
+engagement from the Montana University System,
+and the Department of Natural Resources and
+Conservation’s work with federal partners in the
+Upper Missouri River Headwaters through the
+
+National Drought Resilience Partnership. Council
+members also reflected on the findings and
+process used to develop the National Climate
+Assessment2 and the 2017 Montana Climate
+Assessment,3 including the state-based workshops,
+questionnaires, and listening sessions used to
+guide the MCA’s development. Based on these
+experiences and best practices, Council members
+identified the following guiding principles for
+effective adaptation.
+
+2
+3
+
+https://nca2018.globalchange.gov/
+https://montanaclimate.org/
+
+GUIDING PRINCIPLES FOR EFFECTIVE CLIMATE ADAPTATION
+1.
+
+Montana agencies, communities,
+and stakeholders should approach
+climate change and its impacts with an
+understanding of the state’s geography,
+culture, history, economy, and resources.
+
+2. Addressing climate change impacts
+requires robust, community-driven,
+and bottom-up planning based on an
+understanding of recent climate trends
+and future climate projections and the
+specific vulnerabilities and risks that
+different sectors and communities will
+experience, including a focus on explicit
+goals and effective actions to build
+resilience.
+3. A common framework using the best
+available science to develop adaptation
+plans can help highlight commonalities
+and differences across the approaches
+used by different jurisdictions and sectors,
+facilitating comparison and learning
+among users and identification of best
+practices.
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 10
+
+4. Recommendations should build on and be
+integrated into existing programs wherever
+possible.
+5. Adaptation efforts should be coordinated
+with related efforts – including outside of
+Montana – especially strategies to reduce
+emissions and foster innovation to achieve
+multiple benefits and synergies.
+6. Communities cannot do adaptation
+planning individually and without support.
+The state needs to provide coordinated
+assistance to gather and share
+information; build and support networks
+and partnerships among communities,
+universities, non-profit, and philanthropic
+organizations; provide sustained funding
+for planning; and leverage federal dollars
+and capacity.
+
+CASE STUDY
+
+The Montana Climate Assessment:
+Stakeholder Driven, Science Informed
+
+T
+
+he 2017 Montana Climate
+Assessment (MCA)4 was
+effort
+anto synthesize, evaluate, and
+share credible and relevant scientific
+information about climate change in
+Montana with the citizens of the state.
+The motivation for the MCA arose
+from Montanans and organizations
+across the state who expressed
+interest in receiving timely and
+pertinent information about climate
+change, including information about
+historical variability, past trends, and
+projections of future impacts.
+The MCA was developed by the
+Montana University System’s Institute
+on Ecosystems, in collaboration with
+the Montana Climate Office, Montana
+Water Center and Montana State
+University Extension. Montana State
+University scientists Cathy Whitlock
+and Bruce Maxwell, past and
+current co-directors of the Montana
+Institute on Ecosystems, worked on
+the report with a 30-member team
+over two years. The Assessment,
+the first in a planned series, focused
+on climate trends and their impacts
+for three key sectors of economic
+importance for the state: water,
+forests, and agriculture. The process
+to develop the MCA was guided
+by locally relevant science and
+driven by stakeholder input through
+questionnaires, conversations, and
+listening sessions across the state,
+helping to ensure the research was
+most relevant and useful to decision
+makers and end users.
+“For years, stakeholders across the
+state have wondered how much
+Montana’s climate has changed
+and how much will it change in the
+future,” said Kelsey Jencso, director
+
+4
+
+of the Montana Climate Office at the
+University of Montana and an MCA
+author. “The science to address
+this question has previously been
+discussed at global or national levels,
+whereas this assessment provides
+a first look at these trends and their
+impacts within Montana.”
+The report concluded that the number
+of days when temperatures exceed
+90ºF, and the number of frost-free
+days, is expected to increase.
+Montana’s snowpack has declined
+since the 1930s in mountains east
+and west of the Continental Divide,
+a trend that has accelerated in the
+period since the 1980s. Warming
+temperatures over the next century
+are likely to reduce snowpack at
+middle and lower elevations, and
+earlier runoff will lead to decreased
+streamflow and less reliable irrigation
+capacity during the late growing
+season. The state’s growing season
+is lengthening – now twelve days
+longer than it was in 1950, but yearto-year variability continues to pose
+significant threats to production. More
+frost-free days and longer growing
+seasons may enable greater crop
+diversity. However, more 90ºF plus
+days will also increase water loss via
+
+http://montanaclimate.org
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 11
+
+evaporation and transpiration from
+plants. Hotter days will also increase
+water demand for most crops, limit
+grain development, and increase heat
+stress on livestock. Forest fires will
+be bigger, more frequent, and more
+severe over the coming decades.
+The findings offer a common basis
+to evaluate potential impacts and
+develop responsive and smart
+resilience strategies to prepare
+Montanans for a changing climate.
+In early 2021, the Montana Institute
+on Ecosystems will release the next
+installment of the MCA entitled
+Climate Change and Human Health
+in Montana. The effort again draws
+from the experience of practitioners
+and the report will include
+recommendations for the state,
+communities, and individuals to better
+prepare for health-related climate
+impacts in the decades ahead.
+Continuing to support sustained,
+timely, and relevant data and
+assessments of climate trends and
+projections impacting Montana is
+a core function of the proposed
+Montana Climate Solutions Network
+(see recommendation 1A).
+
+R E C O M M E N D AT I O N S
+
+1A:
+
+ stablish the Montana Climate Solutions Network to Develop and Share
+E
+Climate Information and Resources; Build Capacity in Communities; and
+Connect Climate Solutions at State, Local, Regional, and Tribal Nation Scales
+The Montana Climate Solutions Network (MCSN) will bring together state, local, business,
+tribal nation, non-governmental organization, and university system partners to provide timely
+and relevant climate information and coordinate services to meet the needs of Montanans.
+
+Figure 1: Montana Climate Solutions Network
+
+te
+
+Co
+
+m
+& mun
+Pl
+an ity
+ni
+n
+
+ke
+h
+In old
+fo
+e
+& rm rAs at
+se
+
+GOV
+
+ERNANCE
+
+Sta
+
+Executive Committee
+
+Initiative
+Focused Teams
+
+Advisory
+Board
+
+PU RPOS E
+To support planning
+and implementation
+of climate strategies
+in Montana.
+
+Sc
+
+Montana
+University
+System
+
+rps
+
+NonGovernmental
+Organizations
+
+Tribal
+Nations
+
+d
+ne L
+ig
+Al fic &
+ti
+
+ien
+
+F
+o c un
+al din
+Ex g,
+pe
+rt
+
+Businesses
+& Private
+Sector
+
+Communities
+& Local
+Government
+
+PARTNERS
+ise
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 12
+
+R
+
+il
+es
+
+ie
+
+A
+g r me
+am riC
+o
+
+State Agencies
+& Governor’s
+Office
+
+g
+nin
+ar
+Le ort
+er pp
+Pe Su
+g
+
+a
+im
+Cl ,
+ta
+a
+v
+ri D
+D n, ent
+io sm
+s
+
+en
+
+e
+nc ro
+P
+
+The network will focus on the following core functions:
+1. Supporting community planning initiatives by providing climate information and
+decision-support tools, planning resources, best practices guidelines, and peer-to-peer
+learning opportunities;
+2. Overseeing, coordinating, staffing, and funding a Resilience AmeriCorps program
+that provides Montana communities with the expertise and capacity to tackle on-theground work for mitigating and adapting to climate change5;
+3. Supporting production of regular climate assessment reports that update existing
+assessments (e.g., water, agriculture, forests, human health) and tackle new ones. The
+Montana Institute on Ecosystems leads this effort in partnership with universities, tribal
+colleges, state and federal agencies, and non-governmental organizations;
+4. Engaging scientists and a broad range of stakeholders (e.g., communities, agricultural
+producers, resource managers, businesses) to ensure that climate assessments and
+services meet the needs of a range of decision-makers and end-users across Montana;
+5. Supporting the Montana Climate Office to develop stakeholder-informed climate
+information and tools, early warning systems for extreme events, the Montana Climate
+Data Layer,6 and to assist with regular climate assessments; and
+6. Advancing resilience strategies identified in this Montana Climate Solutions Plan.
+
+1A: KE Y STR ATEGIES
+
+5
+6
+
+•
+
+Establish an MCSN executive committee consisting of representatives of
+relevant state agencies, the Montana Climate Office, the Montana Institute
+on Ecosystems, tribal communities, non-governmental organizations, and
+businesses. The executive committee will have rotating co-chairs (from a
+state agency and from the universities) and will be charged with 1) charting the
+strategic direction of the MCSN; 2) convening regular advisory board meetings;
+3) developing plans for robust stakeholder engagement and communication;
+4) overseeing biennial climate assessment production; and 5) seeking and
+managing diverse sources of funding to support MCSN efforts.
+
+•
+
+Establish an MCSN advisory board to ensure that a range of communities,
+economic sectors, and decision-makers from across the state to inform
+the priority activities of the Network. More specifically, the advisory board
+will 1) provide strategic guidance to the executive committee; 2) prioritize
+specific research and information needs; 3) prioritize decision-support
+needs and investments in capacity building; 4) provide direction regarding
+how to effectively engage with different groups; and 5) help identify funding
+opportunities for priority projects.
+
+To read more about adaptation and mitigation principles for responding to climate change, visit: https://climate.nasa.gov/solutions/adaptation-mitigation/
+http://geoinfo.msl.mt.gov/home/msdi/climate.aspx
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 13
+
+•
+
+1B:
+
+Work with State agency officials and University System partners, including
+the Montana Institute on Ecosystems and the Montana Climate Office, to
+determine an initial administrative home for the network. Administrative
+details will include staffing and funding to support network creation and
+startup needs. Committee members discussed housing the network in a new
+or current nonprofit organization, a state agency, or the governor’s office, or
+through Montana’s Agriculture Experiment Station and Montana Forest and
+Conservation Experiment Station.
+
+ uild Community Resilience to Climate Change Through Coordinating
+B
+with Existing Planning Efforts
+1B: KE Y STR ATEGIES
+
+7
+8
+
+•
+
+In connection with the MCSN, support the Institute on Ecosystem’s Climate
+Smart Montana program7 as a platform for communities to share ideas,
+processes, lessons learned, and resilience plans, so that no community needs
+to reinvent the wheel.
+
+•
+
+Leverage the experiences of practitioners across the state to develop a roadmap and
+toolkit for planning, building from ongoing efforts of the Department of Commerce’s
+Montana Ready Communities Initiative. Build off the Montana Resilience Framework
+developed by the Initiative as a guide for communities to create and implement a
+community resilience plan that incorporates climate adaptation, mitigation, and
+community engagement.8
+
+•
+
+Develop strategies to integrate climate adaptation with disaster mitigation plans,
+wildfire plans, drought and flood plans, and others that can support resilience
+planning and facilitate implementation.
+
+•
+
+Incorporate strategies from the forthcoming special report of the MCA, Climate
+Change and Human Health in Montana, to better monitor and plan for climate-related
+health concerns (to be released in early 2021). Engage local, regional, and tribal health
+providers in developing a response to extreme climate events that lead to heat
+exposure, vector-borne diseases, water-related illnesses, food safety and nutrition
+concerns, smoke-related cardio-respiratory problems, allergies, and mental
+health issues.
+
+•
+
+Build on and complement the climate adaptation work already happening on tribal
+lands throughout the state, while recognizing the leadership that Montana’s sovereign
+tribal nations provide and learning from traditional and indigenous knowledge.
+
+https://montanaioe.org/resources-opportunities/climate-smart-montana
+https://comdev.mt.gov/
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 14
+
+1C:
+
+•
+
+Explore opportunities to integrate adaptation planning with planning to reduce
+GHG emissions, especially when solutions strengthen local resilience to potential
+regional energy disruptions and further local economic development goals (see
+recommendation 2AF).
+
+•
+
+As strategies are developed and implemented, track the range of direct and
+indirect benefits. In addition, find inequalities, including systemic ones, that hurt
+the well-being of Montanans by limiting their access to healthcare, clean water,
+and clean air. Those inequalities are likely to be exacerbated by climate change,
+especially in the most vulnerable communities.
+
+Adapt Montana’s Built Environment to Climate Change
+1C: KE Y STR ATEGIES
+
+9
+
+•
+
+Integrate adaptation actions with the hazard mitigation programs of Montana
+Disaster and Emergency Services (MT DES) by working with communities to
+identify their highest-priority risks and vulnerabilities and implement hazard mitigation plans that incorporate climate impacts. Evaluate vulnerabilities for Montana’s
+critical infrastructure (e.g., roads, bridges, power lines, telecommunications) and
+develop coordinated federal, state, local, and tribal nation resilience strategies.
+
+•
+
+Ensure local governments have access to updated information concerning
+current and future high-risk floodplain and wildfire-prone wildland-urban
+interface zones. Support state and local code updates to further reduce risks and
+impacts.
+
+•
+
+Implement active management across ownership boundaries to reduce wildfire
+risks and sustain watershed functions as identified in the updated Montana
+Forest Action Plan.9 Implement an engagement process to educate and inform
+stakeholders on the Montana Department of Environmental Quality (MT DEQ)
+Smoke Management Program and the ability to use prescribed fire for forest
+fuel reduction on a year-round basis and support funding to improve smoke
+management forecasting.
+
+•
+
+Support local governments to integrate flood, disaster, and wildfire protection
+planning with community land use planning and decisions when requested by
+local officials.
+
+•
+
+Ensure local infrastructure such as schools, hospitals, community centers, and
+shelters incorporate adaptation strategies to address the needs of the young,
+sick, aging, and other vulnerable populations related to climate impacts such as
+smoke and air quality, extreme heat, flooding, winter emergencies, and distributed
+energy needs.
+
+https://www.montanaforestactionplan.org/
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 15
+
+1D:
+
+•
+
+Expand the use of nature-based solutions that use natural systems, mimic
+natural processes, or work in tandem with traditional approaches to address
+natural hazards such as flooding, erosion, drought, and heat. Incorporating
+these nature-based solutions in local planning, zoning, regulations, and built
+projects can help communities reduce their exposure to these climate impacts,
+resulting in reduced costs, economic enhancement, and safer, more-resilient
+communities. Examples include urban park development, beaver mimicry, and
+wetland and riparian restoration.
+
+•
+
+Increase urban forest cover in communities large and small to provide cooling
+shade, sustain public health, and reduce energy consumption. Select native
+tree species that maximize water use efficiency, carbon sequestration, and
+shade quality.
+
+ rotect Outdoor Recreation and Tourism Resources to Maintain a Diverse and
+P
+Healthy Economy, Positive Mental and Physical Health Outcomes, and a Resilient,
+High Quality of Life for Residents As Well as Visitors
+1D: KEY STRATEGIES
+
+1E
+
+•
+
+Develop and strengthen networks of outdoor recreation and tourism
+professionals across agencies, jurisdictions, and the private sector to improve
+collaborative approaches to identifying risks and vulnerabilities and to facilitate
+adaptation planning.
+
+•
+
+Develop climate information and tools specific to the outdoor recreation and
+tourism sectors and include climate adaptation strategies related to outdoor
+recreation and tourism in local plans and policies (e.g., parks and recreation plans,
+hazard mitigation plans).
+
+•
+
+Identify and support funding strategies to address local business recovery
+needs – particularly in the travel and tourism sectors – from unplanned disasters
+associated with climate-related weather events.
+
+ uild the Resilience of Montana’s Private Working Lands (Farms, Forests, and
+B
+Rangelands) and Support Voluntary and Incentive-Driven Efforts for Climate-Smart
+Management that Reduces Risks, Improves Bottom Lines, and Enhances Carbon
+Storage in Soils, Forests, and Wood Products
+Climate model projections show a warmer Montana in the future, with mixed changes in
+precipitation and more days of extreme temperature and unexpected weather events.
+Montana’s farmers, ranchers, and forest landowners remain highly vulnerable to extreme
+weather events, such as flooding, wildfire, blizzards, hailstorms, and drought. Understanding
+climate impacts and solutions for working landowners and agriculture in particular is complex
+because of uncertainties inherent in the timing and manifestation of climate change. It is
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 16
+
+also complex given the interactions of natural systems and human interventions that operate
+in agriculture (e.g., crop selection and rotation, livestock costs, pesticide and herbicide
+use, market revenues and costs, government policies, insurance markets). Agricultural
+decision support must focus on reducing uncertainty by building tools that explicitly
+consider the complex interactions between climate, market processes, and policy.
+•
+
+To improve understanding of climate variability and related risk management
+decisions, producers need to incorporate new and expanded tools in their decision
+making that considers: 1) local monitoring of climate; 2) real-time weather; 3) weekly
+drought conditions including soil moisture, snow pack levels, and stream flows;
+4) crop and livestock production; 5) input costs; and 6) price variability to create
+a local understanding of variability and risk in management decisions.
+
+•
+
+Climate services need to supply decision-support tools that allow assessment of local
+management alternatives based on economic sustainability and resilience to drought,
+heat, floods, snowstorms, and more.
+
+•
+
+Increased irrigation efficiency for crop and forage production must be incentivized
+and establishment of ground water-dependent systems disincentivized.
+
+•
+
+Agricultural research must supply plant and livestock breeding programs that will
+sustain production in higher projected temperatures and subsequent extreme
+water shortage.
+
+•
+
+Research must assess tradeoffs between input-intensive and low-input approaches
+to crop and livestock production under hotter and more-variable climate.
+
+•
+
+Economists need to assess the tradeoffs between insurance-based versus
+management-system approaches for creating resilience to climate change.
+
+1E: KE Y STR ATEGIES
+•
+
+Recognize Montana producers for their high adoption rates of soil health practices
+including no/conservation tillage and cover crops, improved grazing systems, and efforts to
+maintain and restore native rangelands.
+
+•
+
+Explore partnerships with producers and their associations to research conservation
+practice adoption factors, cost savings, and climate-related co-benefits, such as
+carbon storage, increased water-holding capacity in soils, and reductions in pest
+and disease risks.
+
+•
+
+Partner with United States Department of Agriculture (USDA) resources such as the
+Climate Hubs,10 Natural Resources Conservation Service (NRCS),11 and Rural
+Development12 to explore farm-scale and regional on-farm conservation and energy
+planning strategies and align state and federal funding programs to support produceridentified implementation priorities.
+
+10 https://www.climatehubs.usda.gov/
+11 https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/
+12 https://www.rd.usda.gov/
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 17
+
+1F:
+
+•
+
+Explore opportunities for Montana farmers, ranchers, and forest landowners to diversify
+income streams through emerging GHG markets by developing pilot projects or programs
+that aggregate and quantify enhanced GHG management. Consider other creative efforts
+that reward producers for climate resilience and GHG management, such as cost-share or
+insurance premium reduction payments, marketing and labeling tools, and others.
+
+•
+
+Target Farm Bill programs to private working lands that support drought, watershed,
+and wildfire resilience needs.
+
+•
+
+Expand operator and manufacturing capacity and diversification of uses of long-lived
+wood products (see Chapter 3 for additional wood products innovation discussion).
+
+ nhance Wildfire Resilience Across Ownership Boundaries in Response
+E
+to Accelerating Climate Impacts
+Over the past several decades, climate change has made summer conditions much more
+conducive to burning. Warmer springs and warmer, drier summers have dried fuels and
+led to longer fire seasons and an increased frequency of large wildfires across the western
+U.S. These changes have come with commensurate increases in acres burned, damages,
+and intensity. These trends are expected to worsen in the decades ahead. Climate change
+is estimated to have doubled the area of forest burned in the western United States during
+the period 1984–2015, above the effects of weather events, ignition, and fire management.
+For Montana (and the West), projected climatic changes consistently point to an increase in
+fire danger, and years of widespread wildfire activity in Montana are consistently associated
+with unusually warm, dry summer conditions (e.g., drought, sometimes starting in spring).
+Montana’s forests have evolved with wildfire, and many species have adaptations to survive and
+regenerate after fire. Our ability to make forests resilient to future climate-driven wildfires will be
+highly variable, given that our forests range from high-elevation wet forests to low-elevation dry
+forests. No single fire management strategy will be effective for all forest types, and fire-fighting
+efforts must target protecting communities and safety. As regional impacts become more
+prevalent, persistent wildfire smoke may pose increasing threats to human health and wildland
+firefighter safety.
+
+1F: KE Y STR ATEGIES
+•
+
+Recognize that the occurrence, frequency, and severity of wildfires will increase
+in most parts of the state in response to climate change. Research priorities
+include efforts to better characterize fire vulnerability in the context of climate
+change; identify and evaluate cascading consequences of wildfire across broad
+spatiotemporal scales, using natural, physical, and social sciences; and evaluate
+bottom-up and top-down approaches to predict fire trajectories and potential
+impacts on ecosystem goods and services.
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 18
+
+1G:
+
+•
+
+Continue to address wildland fire risks through coordinating interagency planning
+and response, supporting wildfire-adapted communities, and building resilient
+landscapes through active forest management to improve safety and protect
+communities across ownership boundaries.
+
+•
+
+Maintain fire-adapted landscapes in priority regions using the updated Montana
+Forest Action Plan13 for guidance. Enhance forest management and restoration
+across ownership boundaries, including the use of prescribed fire to maintain
+structure and composition to increase resilience to insects, disease, and
+uncharacteristic stand-replacing wildfires; protect municipal watersheds; and
+maintain the long-term capacity of forests to continue to buffer emissions as
+natural carbon sinks.
+
+•
+
+Facilitate fire-resilient communities through planning efforts that include
+consideration of new fire-adapted landscape and building materials, active
+community participation, fire education, and reduced development in fireprone areas.
+
+•
+
+Collaborate with wildland firefighting agencies, MT DEQ, local public health
+agencies, and others to enhance local air quality monitoring and support
+indoor air quality needs for vulnerable communities during intense periods
+of wildfire smoke.
+
+ upport Climate-Resilient Rangelands and Wildlife Using an All-Lands, All-Hands
+S
+Approach Across Ownership Boundaries
+1G: KE Y STR ATEGIES
+•
+
+Maintain a diverse rangeland ecosystem that supports agriculture, recreation,
+wildlife, and native pollinators across all ownerships through coordination, flexible
+tools, and conservation incentives.
+
+•
+
+Promote best management practices for building resilience in rangelands by
+increasing soil carbon and soil water-holding capacity
+
+•
+
+Support establishment or enhancement of infrastructure that improves grazing
+management on rangeland, including technologies for monitoring range and stock
+water conditions, livestock behavior changes with climate changes, and livestock
+health.
+
+•
+
+Strengthen existing partnerships and build new collaborations across
+landowners and jurisdictions to share knowledge and ensure that needs for
+landscape-scale conservation and adaptation are incorporated into relevant
+planning and management.
+
+13 https://www.montanaforestactionplan.org/
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 19
+
+•
+
+Prioritize and conduct additional research and vulnerability assessments
+for species, habitats, and ecosystems as part of periodic statewide climate
+assessments.
+
+•
+
+Provide end users and decision-makers with information about climate change
+effects on fish, wildlife, habitats, and ecosystems; adaptation and mitigation
+options; training opportunities; case studies; recommended peer-reviewed
+research; and critical contacts in a user-friendly format. Encourage use of this
+information in adaptation planning and project environmental reviews. Monitor
+integration of wildlife adaptation efforts into state agency projects, environmental
+reviews, plans, and relevant communications and training.
+
+•
+
+Conserve, enhance, and restore rivers, streams, lakes, reservoirs, wetlands, and
+riparian areas that are critical to fish, wildlife, and plant populations. Provide for
+aquatic organism passage, where appropriate.
+
+•
+
+Continue to prevent and minimize the spread of invasive species and insect and
+disease infestations that can be exacerbated by climate change, including policies
+developing or continuing support of programs for monitoring, early detection, and
+rapid response.
+
+1H: 	Safeguard Montana’s Water Quality and Quantity from Climate Change
+1H: KE Y STR ATEGIES
+•
+
+Promote wetland and stream function through a) restoring and conserving river
+corridors, floodplains, and wetlands and b) supporting related education efforts.
+
+•
+
+Integrate local drought and water quality planning into other climate and land-use
+planning efforts.
+
+•
+
+Invest in tools to improve statewide monitoring and assessment of water resources.
+
+•
+
+Incorporate green infrastructure and adaptive water management that combine
+flooding mitigation, water storage, and water quality improvement into stormwater
+infrastructure and natural storage utilizing ditches, floodplains, and irrigated lands.
+
+PR E PA R I N G MO NTANANS FO R C LI MATE I MPACTS – 20
+
+2 . S t r a t e g i e s t o R e d u c e
+Greenhouse Gas Emissions
+
+E
+
+xecutive Order 8-2019 requires
+the Council to develop a Montana
+Climate Solutions Plan that includes
+recommendations to achieve an
+interim goal of net GHG neutrality
+for average annual electric loads in the state by no
+later than 2035 and a goal of net GHG neutrality
+economy-wide at a date to be determined by
+the Council.
+
+respond to these threats is significant, and Montana
+has an opportunity to provide leadership and both
+prepare for and inform future federal policies in
+response to climate change.
+
+The Council formed the Greenhouse Gas Mitigation
+Strategies Committee to begin to formulate
+strategies that can achieve the goals outlined by the
+Governor. According to the Federal Government’s
+Fourth National Climate Assessment14 released in
+2018, “In the absence of more significant global mitigation efforts, climate change is projected to impose
+substantial damages on the U.S. economy, human
+health, and the environment. Under scenarios with
+high emissions and limited or no adaptation, annual
+losses in some sectors are estimated to grow to hundreds of billions of dollars by the end of the century.
+It is very likely that some physical and ecological
+impacts will be irreversible for thousands of years,
+while others will be permanent.” The urgency to
+
+combustion decreased approximately 21 percent
+between 2005 and 2020, driven largely by a 35
+percent reduction in emissions from the electric
+power sector (Figure 2).16 Montana’s renewable
+portfolio standard, which requires 15 percent
+renewables17, has helped shift power generation away
+from fossil fuels such as coal. Over the same time
+period, CO2 emissions from industrial energy use
+fell approximately 15 percent, while CO2 emissions
+
+Fossil fuel combustion is the largest contributor of
+greenhouse gas emissions in Montana. In 2020,
+fossil fuel combustion resulted in approximately
+27.6 million metric tons of carbon dioxide (CO2).15
+Economy-wide CO2 emissions from fossil fuel
+
+from residential and commercial buildings increased
+by 15 percent. Transportation emissions dipped in
+2009, likely due to the economic downturn, but have
+otherwise held constant since 2005 (-3 percent).
+This is likely due to increasing national fuel economy
+standards which have improved vehicle efficiency.
+
+14 https://nca2018.globalchange.gov/
+15 Energy-related CO2 emissions estimates were based on data from the U.S. Energy Information Administration for 2005 through 2017, U.S.
+Environmental Protection Agency’s (EPA) Emissions & Generation Resource Integrated Database (eGRID) for 2018, EPA’s Air Markets Program Data for 2019,
+and knowledge of significant power plant closures to develop current estimates for the Power Sector.
+16 Preliminary estimates for 2020 CO2 emissions reflect the closure of Colstrip coal-fired units 1 & 2. All other sectoral emissions estimates were assumed
+to remain at 2019 levels, meaning that 2020 estimates do not account for any additional reductions that are likely to occur as a result of the economic
+downturn caused by the COVID-19 pandemic.
+17 DSIRE database, https://programs.dsireusa.org/system/program/detail/384
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 21
+
+Figure 2: Montana CO 2 Emissions from Fossil Fuel Consumption (2005-2020)
+
+22
+20
+18
+16
+Million Metric 14
+Tons (MMT)
+12
+of CO2
+10
+8
+6
+4
+2
+0
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Residential & Commercial
+
+2012
+
+Industrial
+
+2013
+
+2014
+
+2015
+
+2016
+
+Transportation
+
+2017
+
+2018
+
+2019
+
+2020
+
+Electric Power
+
+Source: EIA & EPA (million metric tons). Additional detail on data sourcing can be found in footnotes 14 and 15 on page 21.
+
+The remaining coal-fired power plant units at
+Colstrip (Units 3 & 4) account for 38 percent of total
+emissions in 2020 (Figure 3), while transportation
+sources account for 29 percent. Residential and
+commercial buildings (11 percent), industrial sources
+(14 percent), and other fossil-fueled power generation
+(8 percent) comprise the remainder.
+For the purpose of this report, emissions associated
+with the power sector were estimated using a
+generation-based approach, meaning emissions
+associated with generation of electricity by power
+plants operating within state boundaries. Because
+Montana continues to be a significant exporter of
+electricity,18 the power sector’s relative contribution
+to total CO2 emissions would likely decrease if a
+consumption-based approach was used, meaning
+emissions associated with electricity retail sales.
+It is important to note that this preliminary inventory
+does not include emissions from methane, nitrous
+oxide, and fluorinated gas emissions. A comprehensive inventory analysis requires gathering accurate
+GHG emissions data from the agriculture, mining, oil
+
+and gas, industry sectors and landfills, as well as net
+CO2 sequestration data from the forestry, agriculture,
+and land use sectors.
+Using available data and studies, the Greenhouse
+Gas Mitigation Strategies Committee began to
+wrestle with what at first appears to be a simple
+math problem derived from the executive order’s
+goals, but upon closer inspection requires a dynamic
+understanding of the electric supply system, its
+regional context, and the role different sectors of
+the economy play in producing GHG emissions.
+To understand possible scenarios to achieve the
+governor’s goals there are a number of variables at
+play, ranging from the known (e.g., future generation
+facility retirements, planned resource acquisitions) to
+the uncertain (e.g., future population growth, rate of
+electric vehicle adoption, the corresponding demand
+for more electricity) to the fully unknown (e.g., the
+emergence of novel technologies or widespread
+economic disruptions). To address common needs
+of policy and decision-makers, often these variables
+must be coupled with additional assumptions
+regarding cost and system integration, allowing for
+
+18 U.S. Energy Information Administration, “Table 10. Supply and disposition of electricity, 1990 through 2018,” https://www.eia.gov/electricity/state/montana/
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 22
+
+Figure 3: Current Montana CO 2 Emissions by Sector
+
+38%
+
+Colstrip 3&4
+
+29% Transportation
+38%
+Colstrip 3&4
+14%
+Industrial
+29%
+Transportation
+11% Residential & Commercial
+14%
+Industrial
+8%
+Electric Power (other)
+11%
+Residential & Commercial
+8%
+
+Electric Power (other)
+
+Source: EIA & EPA (million metric tons). Additional detail on data sourcing can be found in footnotes 11 and 12 on page 21.
+
+evaluations of whether the mix of resources and
+infrastructure ultimately meets widely-held goals
+such as maintaining electric system reliability
+and affordability.
+Several studies and models have been developed
+to help states, regions, and utilities understand
+least-cost alternatives and pathways toward
+achieving emissions-reduction goals or targets.
+These modeling efforts of future scenarios can help
+structure stakeholder conversations, better inform
+decision-makers regarding tradeoffs, and provide
+the context needed to design and implement policy
+packages that are consistent with long-term goals.
+The Council believes the state would ultimately
+benefit from engaging a consultant to assist with
+modeling that can help define Montana-specific
+scenarios to reduce emissions. For the purposes
+of this report, given the limitations of time and
+funding, the Committee and Council members
+reviewed several regionally relevant studies and
+modeling efforts, including Meeting the Challenge
+
+of Our Time: Pathways to a Clean Energy Future
+for the Northwest19 completed by the Clean Energy
+Transition Institute (CETI) and Evolved Energy
+Research (EER). That study was presented at the
+December 1, 2019 full meeting of the Council
+in Helena.20
+Following is the set of recommendations the
+Greenhouse Gas Mitigation Strategies Committee
+presented to the full Council for consideration.
+They span key building blocks for decarbonization,
+including energy efficiency; beneficial electrification;
+renewable energy adoption and electric system
+integration; transportation; strategies for waste,
+methane, and industrial emissions; and a set of
+priority state, regional, and federal proposals.
+The Council ultimately adopted most of the
+recommendations through consensus. A limited
+number of recommendations received the two-thirds
+vote needed per the Council’s charter to be adopted,
+but did not garner unanimous votes. In those cases,
+dissenting viewpoints are reflected in this report.
+
+19 https://www.cleanenergytransition.org/meeting-the-challenge
+20 A copy of the presentation and meeting notes are available at: https://deq.mt.gov/DEQAdmin/dir/Climate
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 23
+
+CASE STUDY
+
+Modeling Deep Carbonization Pathways
+
+D
+
+ecarbonization planning at the
+state and regional level can
+help develop a blueprint that outlines
+strategies to reduce carbon emissions
+in the energy sector efficiently and at
+least cost for the electricity grid, the
+built environment, the transportation
+sector, and industrial energy use.
+The goal of a GHG-reduction
+modeling exercise is not to correctly
+determine a single solution or
+accurately predict the future – it
+is to inform decisions made under
+uncertainty, to offer a set of
+measuring sticks to evaluate the
+compatibility of policy options, and
+to test those options in terms of their
+feasibility, costs, and emissionsreduction potential.
+Given the current level of dependence
+of the economy on carbon-based
+energy sources and the interactions
+among sectors, a modeling effort can
+help scope the timing of infrastructure
+changes, technology options,
+investment requirements, research,
+development, and commercialization
+needs, as well as other areas that help
+align public, private, and academic
+sector goals and expectations.
+Numerous studies have been
+conducted at state, regional, and
+national scales to evaluate pathways
+to achieve GHG emissions-reduction
+goals. Many of these studies,
+consistent with findings of the
+Intergovernmental Panel on Climate
+Change, have analyzed deep
+decarbonization in recognition of
+the need to dramatically reduce
+emissions in the near term and
+manage global net emissions to zero
+by 2050 or later. A review of more
+than 30 of these studies showed
+
+emissions reductions. Taking
+the first steps to reduce
+emissions from electricity can
+be achieved by conventional
+means, such as fuel switching
+from coal to gas. The final emissions reductions to decarbonization require more-expensive
+and harder-to-achieve solutions.
+
+that despite their variation in scope
+and methodology, a set of clear and
+consistent insights can inform
+policy makers:
+•
+
+•
+
+•
+
+Achieving mid-century climate
+goals to reduce or eliminate
+GHG emissions is lower-cost
+when the power sector cuts
+emissions nearly to zero, while
+expanding to electrify (and
+consequently decarbonize)
+portions of the transportation,
+heating, and industrial sectors.
+Achieving deep decarbonization
+primarily (or entirely) with
+renewable energy may be theoretically possible, but it would
+be significantly more challenging and costly than pathways
+employing a diverse portfolio of
+low-carbon resources.
+Deep decarbonization of the
+power sector is significantly
+more difficult than more-modest
+
+•
+
+Notable studies for Montana and
+the Northwest region confirm similar
+findings. The four Northwest states
+(Idaho, Montana, Oregon, and
+Washington) have unique natural
+resources, power systems, energy
+consumption, and political conditions
+that must be represented in modeling
+decarbonization pathways.
+
+21 J.D. Jenkins, S. Thernstrom, Deep decarbonization of the electric power sector insights from recent literature,
+Energy Innovation Reform Project, March 2017
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 24
+
+Absent long-term planning to
+consider these unique needs,
+many capital investments made
+in the near-term could lock in a
+suboptimal resource mix for
+the future.21
+
+Modeling Deep Decarbonization Pathways
+
+Figure 4: Five Decarbonization Strategies
+
+Energy
+Efficiency
+Energy Consumption
+Per Person (MMBtu)
+
+Electricity
+Decarbonization
+
+Fuel
+Decarbonization
+
+Electricity Carbon
+Intensity (tons CO2 per
+MWh)
+
+Fuels Carbon Intensity
+(kg CO2 per MMBtu)
+
+0.20
+
+80
+
+0.15
+
+60
+
+Electrification
+
+Carbon
+Capture
+
+Electricity Share of
+Total Energy
+(percentage)
+
+(Megatons CO2)
+
+Electric Fuels
+
+200
+150
+100
+50
+
+0.10
+
+40
+
+0.05
+
+20
+
+0.00
+
+0
+2020
+
+2050
+
+5
+
+50%
+
+2050
+
+Electricity
+
+3
+
+20%
+
+2
+
+10%
+
+1
+
+2020
+
+2050
+
+Utilized
+
+0
+
+0%
+
+0
+2020
+
+4
+
+40%
+30%
+
+Sequestered
+
+2020
+
+2050
+
+2020
+
+2050
+
+Source: Meeting the Challenge of Our Time: Pathways to a Clean Energy Future in the Northwest. June 2019. Eileen V. Quigley. Clean Energy Transition Institute. p. 54. Technical Citation.
+
+Energy+Envrionmental Economics
+produced Resource Adequacy in the
+Northwest22 in March 2019 for
+sponsors Puget Sound Energy,
+Avista, NorthWestern Energy, and the
+Public Generating Pool. The study
+finds that deep decarbonization
+of the Northwest electricity grid is
+feasible without sacrificing reliable
+electric load service, but that absent
+technology breakthroughs, achieving
+a 100 percent GHG reduction using
+only wind, solar, hydro, and energy
+storage is “both impractical and
+prohibitively expensive” due to
+the very large quantities of these
+resources that are required during
+periods of low renewable production
+once storage is depleted.
+
+capacity today. The study maintains
+that adding new gas does not conflict
+with deep decarbonization goals
+because the gas will only be used for
+reliability, and notes that new nuclear
+generation, fossil generation with
+carbon capture and sequestration,
+long-duration electricity storage,
+and replacing natural gas with
+carbon-neutral hydrogen or biogas
+are also firm capacity solutions. The
+study recommends investigating a
+formal mechanism to share planning
+reserves on a regional basis to ensure
+the region’s resource adequacy
+needs are met in the coming decades
+as the Northwest transitions off
+of coal and aims to achieve deep
+decarbonization.
+
+Sufficient firm capacity is required
+during periods of low wind, solar,
+and hydro production and the study
+finds that natural gas generation is
+the most economic source of firm
+
+CETI and EER released Meeting the
+Challenge of Our Time: Pathways
+to a Clean Energy Future for the
+Northwest in June 2019. It was the
+first study to examine the technical
+
+and economic feasibility of achieving
+economy-wide deep decarbonization
+in Idaho, Montana, Oregon, and
+Washington. The study identified
+region-specific strategies that
+include the five strategies of energy
+efficiency, decarbonized electricity,
+decarbonized fuels, electrification,
+and carbon capture.
+CETI and EER provided results from
+the June 2019 analysis specific
+to Montana. Those results can be
+explored at https://deq.mt.gov/
+Climate/. The study forecasts final
+energy demand to fall by 35 percent
+through greater efficiency, much of
+which comes from a transition to
+electrified transportation. As a result,
+electricity demand rises 71 percent.
+In the study, Montana utilizes its
+geographic strengths on the supply
+side serving regional needs. A
+large wind sector is established,
+
+22 https://www.ethree.com/wp-content/uploads/2019/03/E3_Resource_Adequacy_in_the_Pacific-Northwest_March_2019.pdf
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 25
+
+Modeling Deep Decarbonization Pathways
+
+Figure 5: Energy CO 2 Emissions by Sector
+
+Overall emissions decrease across all sectors of the state’s economy. Transportation emissions decline significantly as
+vehicles (Light-duty, Medium-duty, and Heavy duty vehicles) are electrified or use cleaner fuels. In 2050, biofuels with CCS
+are the dominant source of diesel and jet fuel, resulting in negative emissions. Building emissions are reduced to ~1MMT
+by 2050 as heating services are electrified.
+
+Transportation
+Residential
+Commercial
+Productive
+
+20
+
+15
+
+MMT
+
+10
+
+5
+
+0
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+2050
+
+Source: Supporting Montana July 15th Climate Solutions Council Report. June 2020. Jeremy Hargreaves. Evolved Energy Research. p. 29. Technical Citation.
+
+Figure 6: Montana Energy CO 2 Emissions by Fossil Fuel Type 2020-2050
+
+The five decarbonization strategies reduce Montana’a emissions over the next three decades. The largest remaining source
+of emissions is natural gas. Natural gas is the cheapest fossil fuel, therefore it is the last to be decarbonized. Montana offsets
+remaining emissions with carbon sequestration in saline aquifers to reach the 2050 target.
+
+Other
+Natural Gas
+Gasoline
+Diesel
+Jet Fuel
+Residual Fuel Oil
+Coal
+Sequestered CO2
+
+20
+
+15
+
+MMT
+
+10
+
+5
+2050 Target
+
+0
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+2050
+
+Source: Supporting Montana July 15th Climate Solutions Council Report. June 2020. Jeremy Hargreaves. Evolved Energy Research. p. 28. Technical Citation.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 26
+
+Modeling Deep Decarbonization Pathways
+
+supplying clean energy to Montana
+and surrounding regions. Carbon
+is sequestered in saline aquifers in
+the production of liquid fuels from
+biomass, offsetting emissions from
+other sources.
+Policy actions taken in the rest of
+the West could impact Montana’s
+investments in significant ways, with
+opportunities to play a major export
+role in a decarbonized Western
+electricity system. Key opportunities
+for Montana include:
+•
+
+•
+
+in the study. Other Western
+states also rely on decarbonized
+fuels to reach their own targets.
+Montana has low-cost
+resources to produce fuels
+and could export fuels to
+other states.
+•
+
+Sequestration potential:
+Montana has geological CO2
+sequestration potential, which
+allows for the capture of CO2
+and storage in saline aquifers.
+
+A low-cost and complementary
+wind resource: Coastal states
+have less potential for highquality wind resources and
+import significant quantities
+of wind from Montana and
+Wyoming as emissions caps
+tighten. Montana has the
+opportunity to build a valuable
+energy export market.
+
+The results offer a preliminary
+assessment of least-cost pathways
+to achieve decarbonization goals for
+Montana. They also highlight the need
+for a stakeholder process to support
+future study and investigation. Future
+studies will need to tailor assumptions
+to Montana’s specific state objectives,
+and may wish to consider the implications of proposed projects and the
+timing of resource retirements.
+
+Decarbonized fuels:
+Decarbonized fuels from
+biomass and hydrogen play
+a major role in Montana’s
+transportation sector by 2050
+
+Since the study was conducted,
+Western states including Washington,
+Colorado, and Nevada have set
+more-stringent emissions and clean
+energy standards that will drive
+
+23 https://www.2035report.com/
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 27
+
+more clean energy investment,
+and potentially greater demand for
+Montana resources. Forecasted
+prices have been lowered for many
+clean energy technologies. A recent
+study found that updated cost
+projections for wind, solar, and
+battery technologies could accelerate
+rapid decarbonization.23 Potentially
+transformative energy projects,
+such as the Mitsubishi Hitachi
+Power Systems renewable hydrogen
+project discussed for Butte, could
+provide seasonal energy storage
+needs across the Northwest through
+generation that aims to operate on
+25 percent hydrogen and 75 percent
+natural gas by 2025 and 100 percent
+hydrogen by 2045.
+Through a stakeholder-driven and
+iterative planning process, Montana
+can better understand its regional
+competitive advantage and align
+policies that reduce emissions and
+foster economic opportunities.
+
+R E C O M M E N D AT I O N S
+SECTION I. Energy Efficiency - Utility Practices, Standards, and Buildings
+
+2A:
+
+ stablish a Graduated Energy Efficiency Standard, a Demand Response Standard,
+E
+and an Energy Storage Standard for the State’s Investor-Owned Utilities (IOUs)
+The rate of energy savings in Montana is quite low, around 0.5 percent annually. States that are
+high-performing acquire energy efficiency at over 2.0 percent annually. Investments in energy
+efficiency will reduce the need for electricity generation, thereby reducing GHG emissions.
+A graduated energy efficiency standard establishes specific targets for energy savings that
+utilities or non-utility program administrators must meet through customer energy efficiency
+programs. Demand response involves timing energy conservation measures at industrial
+sites, commercial buildings, homes, and other locations to save energy and meet utility peak
+demands. Energy storage can provide power that can be dispatched to better integrate variable
+resources like renewable energy, but it can also provide management of variable demand –
+helping to flatten demand requirements of the utility and allow the utility to implement voltage
+regulation and other efforts to improve system efficiency.
+
+2 A: KE Y STR ATEGIES
+•
+
+Adopt a statutory, or through administrative rule by the PSC, energy efficiency
+standard at 1 percent energy savings annually within 3 years after program
+implementation, then increase the standard to 1.5 percent annually for the next 4
+years, and to 2 percent annually thereafter for IOUs.
+•
+
+To ensure that the utilities are not disincentivized from adopting policies that
+promote beneficial electrification (e.g., converting from natural gas or propane
+to electric heat) load growth attributable to these activities would be excluded
+from total sale volumes and thus would not have any effect in the calculation
+of energy savings that must be acquired to meet the efficiency standard.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 28
+
+•
+
+•
+
+Adopt a statutory, or through administrative rule by the PSC, demand response
+standard that would require the state’s IOUs to acquire, within 5 years after
+implementation, a total of 35 megawatts (MW) of demand response resources,
+calculated based on each utility’s overall system contribution to Montana load.
+•
+
+•
+
+2B:
+
+The proposal could consider specifying some amount of energy efficiency
+investments targeted at low-income Montanans. Energy efficiency
+significantly benefits low-income households, given those customers spend
+a disproportionately large amount of their income on meeting energy needs.
+
+Efforts could focus on 1) Load control for residential and commercial
+customers (water heaters, air conditioning), where equipment is cycled for
+short periods of time; 2) Curtailable load for larger commercial/industrial
+operations, where operators nominate an amount of load to be curtailed
+when an event is called; and 3) Interruptible rate for commercial/industrial
+operations that can curtail most or all of their load.
+
+Adopt a statutory, or through administrative rule by the PSC, energy storage
+standard that would require the state’s IOUs to acquire, within 2 years after
+implementation, a total of 35 MW of energy storage, calculated based on each
+utility’s overall system contribution to Montana load.
+
+Promote Energy Efficiency Through Tools like On-Bill Financing
+One of the largest barriers to energy efficiency acquisition is the upfront cost to individuals,
+households, and businesses. To help alleviate this issue, utilities should provide the opportunity
+for customers to apply for loans that are paid back in installments included in their monthly
+energy bills. On-bill financing is an energy efficiency uptake tool that utilities have used for
+decades, yet has failed to gain traction in Montana. Flathead Electric Cooperative is believed to
+be the only utility in the state providing an on-bill financing option, having alleviated the upfront
+cost burden for over 500 customers in just 8 years. Financing through the USDA’s Energy
+Efficiency and Conservation Loan Program can assist cooperatives in developing/financing
+programs.
+
+2B: KEY STRATEGY
+•
+
+Utilities and co-ops should provide an opportunity for customers throughout
+Montana to access energy efficiency measures by taking advantage of utilityadministered on-bill financing programs. Utilities and electric cooperatives should
+utilize lessons learned from experiences around the country and explore voluntary
+partnerships and legislative options to leverage funding and further incentivize
+adoption of energy efficiency financing opportunities. In addition to traditional on-bill
+financing, which utilizes a third-party intermediary such as a bank, utilities should also
+pursue on-bill repayment and tariffed on-bill financing in order to ensure renters and
+low-income customers are able to fully take advantage of these programs.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 29
+
+2C:
+
+ dopt Rate Strategies Like Decoupling, Time-of-Use Rates, Inclining Block
+A
+Rates, and/or Performance Measures to Facilitate Energy Efficiency
+Decoupling is an approach to better align utility profit incentives with customers’ energy
+service needs. In simple terms, under a decoupling mechanism a utility is assured of
+being able to recover the revenue that the Commission has authorized it to recover, no
+more and no less. Should the utility recover less than the authorized amount, rates would
+increase in order to recover those revenues. On the other hand, should a utility sell more
+energy than was projected when rates were set and recover more than the authorized
+revenue, rates would decrease in order to refund the over collection. The mechanism
+removes the incentive to maximize energy sales in order to achieve recovery, and thus
+makes energy efficiency and distributed generation options more attractive to utilities.
+Currently, most utility customers in Montana pay the same energy charge no matter when
+they use the energy (electricity or gas). Under this flat-rate design, the per-kilowatt-hour
+or per-therm charge is stagnant, meaning there is no price signal to use energy during
+non-peak times. In Montana, peak times usually mean that a utility’s generation is fully
+operational, meaning GHG-emitting thermal units are emitting. Furthermore, increases
+in peak load prompt utilities to build additional natural gas “peaker” units, increasing
+emissions. Time-of-use (TOU) rates, on the other hand, send price signals to customers
+to shift load to non-peak times, such as at night or during the middle of the day.
+Most Montana utility customers pay the same amount per unit (kWh or therm) regardless
+of the amount they use. For example, a customer that uses 600 kWh/month pays the same
+for each kWh as does a customer that uses 2,500 kWh per month. As such, there is no
+price signal to conserve energy or use the energy more efficiently. To address this issue and
+encourage energy efficiency and conservation, utilities and co-ops should consider adopting
+inclining block rates (IBR). Utilities with this rate structure encourage large users to reduce
+their energy usage through higher prices for energy consumed within the higher blocks.
+Performance-based measures change the business model for investor-owned utilities (IOUs)
+operating in Montana, such that rate of return for the utility is calculated based on performance
+against certain pre-defined metrics rather than only spending or costs. For example, metrics
+could include environmental impact, mitigation of climate and environmental risks and
+investment risk, reliability and availability, safety, conditions for connection, social obligation,
+and ratepayer satisfaction. In the United Kingdom, regulated utilities receive a profit based on
+the RIIO Model, where Revenue = Incentives + Innovation + Outputs.
+
+2C: KEY STRATEGIES
+•
+
+Work with the PSC, IOUs, rural electric cooperatives, and other stakeholders to
+advance proposals for decoupling, TOU rates, inclining block rates, and/or
+performance measures.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 30
+
+•
+
+Consider implementing a three-tiered TOU pricing rate design, being sensitive
+to the specific needs and circumstances of low-income customers. The first and
+cheapest tier (i.e., the low-usage times) should be priced below the “flat rate”
+charge (e.g., $0.06/kWh) to encourage customers to shift load to these times.
+The second tier (i.e., average-usage times) should be priced somewhere near the
+“flat rate” charge (e.g., $0.11/kWh). Finally, the third tier (i.e., peak times) should be
+appropriately priced to send a proper signal that customers should only use energy
+essential to home/business operation (e.g., $0.16/kWh). Committee members wish
+to emphasize that TOU rates will not be applicable to large industrial, agriculture, or
+large irrigators who already operate under demand charges.
+
+2D: 	Support Programs to Advance Commercial Energy Audits
+In-depth energy audits are necessary for businesses, schools, government agencies, and
+communities to discern the appropriate energy conservation and renewable energy measures
+available to them. Previous Montana programs of this scope include the Montana Resource
+Efficiency Program24 and the Energy Efficiency Program. The Montana Resource Efficiency
+Program has a proven track record of success assisting 188 businesses and governments and
+authoring 48 in-depth audit reports. Customers saved more than $10 million on their energy
+bills, thanks to more than 131 million kWh and more than 6 billion Btu in energy savings.
+
+2D: KEY STRATEGY
+•
+
+Explore budget resources through the legislature to support commercial
+energy audits.
+
+2E: 	The Legislature Should Evaluate the Universal System Benefits Program Funding
+Mechanism for Electric Customers
+In 1997, Montana’s energy utilities were restructured, which deregulated the supply of
+electricity and natural gas. At the time, it was acknowledged that deregulation could
+negatively affect several activities of the state’s utilities that provided societal benefits.
+To ensure these activities continued in the future, the legislature established a universal
+system benefits (USB) program and approved a USB charge to be added to natural gas
+and electric utility bills of all utility customers. These spending activities are annually
+reported and many utilities consistently exceed minimum USB spending requirements.
+There are differences between natural gas and electric USB programs, but both programs
+provide funding support for three common activities: 1) cost-effective local energy conservation,
+2) low-income energy bill discounts, and 3) weatherization activities. Electric USB charges
+
+24
+
+https://www.mtefficiency.org/
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 31
+
+also fund energy research and development, renewable energy development, and market
+transformation programs. Natural gas USB funding is based on 1.12 percent of the utility’s
+annual natural gas revenues from the previous year. Electric USB collections are based on
+2.4 percent of the utilities’ 1995 revenues. Over the past 20 years, there has been a decline
+in the effective value of electric USB funds. This is a narrowly focused recommendation
+pertaining to the electric USB funding formula and not the allocation of funding among
+programs, particularly the low- income energy programs that are so critical for lowincome electric customers.
+
+2E: KEY STRATEGY
+•
+
+2F:
+
+The Council recommends the Legislature evaluate the electric USB funding
+mechanism that determines overall annual contributions to the USB program.
+
+	Develop Mobile-Home Replacement Program
+Many Montanans still occupy pre-1976 mobile homes, considered to be among the leastenergy-efficient housing stocks in the country. Low-income Montanans who are least able to
+afford energy services reside in these units. Accordingly, replacing pre-1976 mobile homes
+with newer mobile homes would not only reduce GHG emissions but would reduce low-income
+Montanans’ energy bills and improve their lives.
+
+2F: KEY STRATEGY
+•
+
+The executive branch of state government should convene a stakeholder group
+charged with taking an inventory of older, energy-inefficient, and unhealthy mobile
+homes and developing a mobile-home replacement program to meet both energy
+efficiency and environmental justice goals.
+
+2G: 	Address the Non-Energy Benefits of Energy Efficiency when Assessing
+Cost-Effectiveness
+Congress recognized non-energy benefits, which are often difficult to quantify, in the
+Northwest Power Act of 1980, requiring the Northwest Power and Conservation Council and
+Bonneville Power Administration (BPA) to include a 10 percent adder in cost-effectiveness
+calculations. As a result, western Montana co-ops, as customers of BPA, benefit from the
+adder. The law applies to all utilities in the Pacific Northwest. Montana-Dakota Utilities
+Company has a 15 percent adder included in PSC administrative rule. NorthWestern Energy
+utilized a 10 percent adder, citing the Northwest Power Act, but abruptly stopped several
+years ago, at the same time that the utility slashed its energy efficiency acquisition goals.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 32
+
+Cost-effectiveness calculations are a crucial part of procuring energy efficiency as a resource.
+Utilities must demonstrate that efficiency is cheaper than the cheapest alternative resource in
+order to receive cost-recovery and/or a rate of return on their investments. Theoretically, both
+costs and benefits are included in the cost-effectiveness calculation; however, many benefits
+are not included, leading to skewed outcomes that limit energy-efficiency acquisition. The
+missing benefits include those related to good health, clean water, environmental protection,
+compounded economic benefits, etc.
+
+2G: KEY STRATEGY
+•
+
+In an effort to more-accurately calculate the full benefits of energy efficiency,
+all utilities and co-ops should include a non-energy benefit adder in costeffectiveness calculations. The specific number should be left up to individual
+utilities, but should be no less than 10 percent as described in the Northwest
+Power Act. The result would mean that any measure or program achieving a 0.9
+or above (for 10 percent adder) cost-effectiveness ratio would be deemed to be
+cost effective.
+
+2H: 	Identify Energy Efficiency Solutions for Rental Units
+Installing energy efficiency at rental units is challenging because of the split in incentives that
+exists between the owner and occupant of the rental unit. Specifically, the owner incurs the
+cost of capital improvements that yield energy savings but benefits in the form of lower costs of
+energy and unit comfort and livability advantage the occupant. Consequently, owners have no
+incentive to invest in energy efficiency, meaning that the benefits are not realized – to the owner,
+in terms of marketing the unit; to the tenant, in terms of reduced cost of living in the unit and
+comfort; and to society, in terms of reduced emissions.
+
+2H: KEY STRATEGY
+•
+
+2I:
+
+The governor shall establish a task force examining existing energy efficiency
+efforts specific to rental units and ways to improve energy efficiency acquisition at
+rental units. The task force shall comprise stakeholders, including investor-owned
+electric and natural gas utilities, electric cooperatives, local government, energy
+efficiency providers, and owners of rental units and tenants.
+
+Adopt State Appliance Efficiency Standards
+Many states have adopted appliance efficiency standards. Standards require products, such
+as refrigerators or air conditioners, to meet specific minimum efficiency requirements thereby
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 33
+
+reducing energy use, which reduces emissions and also saves consumers money. Equally
+important, the existence of standards drives manufacturers to focus on incorporating energyefficient technologies into their products at the least cost and hastening the development of
+innovations that bring improved performance. While Montana’s relatively low population will not
+drive the market, Montana consumers should not be deprived of the advantages that will be
+produced as a result of ensuring their appliances meet a minimum level of efficiency performance.
+
+2I: KEY STRATEGY
+•
+
+2J:
+
+The State should enact legislation that adopts minimum energy and water efficiency
+standards for a variety of products sold in the state. The legislation should use as a
+template the “Model Act for Establishing State Appliance and Equipment Energy and
+Water Efficiency Standards” issued by the Appliance Standards Awareness Project and
+the American Council for an Energy-Efficient Economy.25
+
+	The Montana Department of Labor and Industry (DLI) Should Modernize Montana
+Building Energy Codes and Administrative Processes to Promote Energy Efficiency
+and Other Climate Benefits in New Buildings [ADVANCED WITH DISSENT]
+Building energy codes are an effective way to save energy over the long term. The value of
+energy efficiency in properly implemented construction standards is universally recognized as
+the easiest and most cost-effective way to help consumers and businesses save energy and
+money, make housing and businesses more affordable, and reduce GHG emissions.
+
+2J: KEY STRATEGIES
+
+25
+
+•
+
+Support regular adoption of updated International Energy Conservation Code codes
+every three years, with amendments appropriate to Montana. The adoption process
+must be accelerated to occur within 12 months of a new code being issued by the
+International Code Council. Consider capacity building support to meet accelerated
+adoption objectives.
+
+•
+
+Require that the energy code be considered at the same time as the other codes to
+avoid the current situation where the energy code lags adoption of other codes.
+
+•
+
+Require that all builders operating in the self-certification areas of the state be
+required to submit, to the Building Codes Bureau, a written statement that a house
+complies with the state energy code and/or have the appropriate state agency
+enforce building codes outside of local jurisdictions.
+
+https://appliance-standards.org/sites/default/files/2019_Model_Bill_ASAP_Jan_24_2018.pdf
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 34
+
+•
+
+Modify language regarding energy stretch codes to allow a jurisdiction to require
+compliance with that local stretch code in their jurisdiction. Explore the possibility
+of developing a stretch code for the entire state that would be optional for local
+jurisdiction adoption.
+
+•
+
+Investigate the feasibility of requiring energy rating labeling for new home sales
+and new commercial buildings.
+
+DISSENTING VIEW: One Council member opposed this recommendation citing concerns over
+
+the potential for a local governing body to apply rules and regulations to people or companies
+outside of their jurisdiction. DISSENTING VOTE: Olson.
+
+2K: 	Allow for Local Governments to Establish Building Performance Standards
+Building performance standards are utilized by local governmental bodies to, over time, improve
+the energy performance of commercial buildings. In Montana, the building sector is responsible
+for approximately 11 percent of CO2 emissions. By setting an overall target along with interim
+targets that ramp up gradually, a building performance standard allows owners of commercial
+buildings the ability to choose a package of technologies and actions that improve the
+performance of their buildings best suited to their circumstances. A combination of short- and
+long-term goals enables building performance to gradually improve and will discourage building
+improvements that lock in place economically and environmentally inefficient investment.
+
+2K: KEY STRATEGY
+•
+
+2L:
+
+The State, through legislation, should explicitly allow Montana local
+governments to adopt building performance standards and Montana cities
+should adopt such standards tailored for their individual circumstances.
+
+Implement Net-Zero-Energy Building Strategies
+Net-zero-energy (NZE) buildings tackle climate change mitigation and adaption
+simultaneously. NZE strategies and goals overlap with those of other committees of this
+Council. In Montana, heating and cooling account for most of the energy used in most
+buildings. NZE buildings are designed to significantly reduce a building’s energy use and
+produce enough on-site renewable energy to fully address GHG emissions associated with
+annual energy consumption. Many above-code building programs provide best practices,
+strategies, and require third-party certification. The State of Montana can adopt one of
+the existing programs for all state-owned new construction or existing building retrofits.
+NZE adoption has several barriers. There is a lack of awareness of the concept and its benefits.
+Further, there is a lack of educated customers and trained professionals. There exists a
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 35
+
+chicken-and-egg issue: customers building new buildings need to know that NZE and NZEready is an option and ask for it. And, Montana’s architects and builders need to know how to
+design and build NZE so they can be hired. There are numerous architects and builders across
+the U.S. with the knowledge, expertise, and experience required, but Montana will need to
+assess knowledge gaps and educate and train most of its building-related professionals. A third
+issue is the emphasis on capital/first costs versus equal consideration of the “second price
+tag” of continuous operation and maintenance costs paid over a building’s lifetime. Lastly, there
+is a persistence of outdated myths about off-the-shelf and proven technologies used in NZE
+buildings. For example, companies that install traditional HVAC systems may say that air-source
+heat pumps do not work well in cold climates like Montana’s.
+
+2L: KEY STRATEGIES
+•
+
+The Montana Energy Office26 should conduct an audit of existing state-owned and
+-leased buildings to rank them by which are most energy- and water-efficient
+and retrofit to achieve NZE.
+
+•
+
+The State of Montana should seek to ensure all new construction for state-owned
+buildings has a NZE or NZE-ready goal.
+
+•
+
+The Montana legislature should provide tax incentives for developers designing
+and building to NZE standards.
+
+•
+
+The Montana Energy Office should work with national experts and professionals
+to develop educational materials, guidelines, and learning opportunities (e.g.,
+seminars, trainings) on NZE design for various stakeholder audiences, including
+developers, building owners/operators, local code officials, and the general public.
+
+SECTION II. Beneficial Electrification
+
+26
+
+https://deq.mt.gov/Energy
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 36
+
+2M: 	Support an Electric Cooperative Beneficial Electrification Initiative
+Beneficial electrification means to substitute electricity as an energy source in place of
+applications that traditionally rely on fossil fuels, such as switching to electric vehicles instead
+of internal combustion engine vehicles that utilize petroleum products or utilizing electric space
+heat instead of natural gas or propane. This approach limits uncontrolled GHG emissions from
+many sources. Instead, by using electricity from clean energy sources, beneficial electrification
+allows for these various applications to lower and potentially to zero-out their associated GHG
+emissions. The electric cooperatives serve a significant number of customers in Montana and
+thus will be critical if Montana is to achieve emission reductions. In order for electrification
+initiatives to qualify as ‘beneficial,’ typically the efforts should contribute toward the goals of
+saving consumers money over the long run, enabling better grid management, and reducing
+negative environmental impacts.
+2M: KEY STRATEGY
+•
+
+2N:
+
+The Montana’s Electric Cooperatives Association and its member cooperatives
+should consider establishing a beneficial electrification initiative to save
+customers money and improve their and their communities’ way of life, enhance
+grid stability and reliability, and reduce environmental impacts.
+
+ tudy the Challenges and Opportunities of Heat Pump Technology Adoption
+S
+in Montana
+Heat pump technology is used widely across various parts of the country for both heating and
+cooling needs (air and water). Powered by electricity, heat pumps take energy in the form of
+heat and by a mechanical process move it from one place to another. Cold-climate heat pump
+technology for residential and commercial heating is relatively new, but as the technology
+advances the cost of the technology continues to decline. As such, deploying heat pumps
+is another way to reduce reliance on fossil fuels for heating, such as natural gas. Additional
+analysis on the performance of cold-climate heat pump technology is needed to assess the
+efficacy of the technology in Montana, the emissions reduction potential, and consumer costs
+and benefits.
+
+2N: KEY STRATEGY
+•
+
+The State should commission a study, to be prepared by an entity familiar with the
+subject, examining the efficacy of air-source and ground-source (i.e., geothermal) heat
+pumps in Montana. Working with electric utilities, the study should field-test applications of
+heat pump technology in a variety of climatic regimes and undertake an economic analysis.
+The study should also make recommendations as to deployment of the technology and
+funding – including, for example, state financial grant, loan, or tax incentives for purchase
+and/or installation – if the report determines the technology has potential value in the state.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 37
+
+SECTION III: Renewable Energy and Maximizing Electric System Integration
+
+2O:
+
+
+Encourage
+Expanded Community Solar Development and Enact Policy
+to Enable Community Solar for Investor-Owned Utilities
+Community solar programs allow households, businesses, and other energy customers
+the opportunity to subscribe to one or multiple small portions of a large solar array,
+typically owned by an energy provider. Community solar can benefit many Montanans
+by making it possible for them to afford investments in renewable energy without having
+to pay the high up-front cost of owning a renewable energy generator. Maintenance
+costs are also reduced because these costs are shared by participating individual
+consumers. Under current property tax law, after expiration of the five-year tax holiday,
+these community solar arrays are treated as utility property for tax purposes.
+Community solar provides access for individuals, households, and businesses that may not
+otherwise be able to install an on-site distributed generation system (e.g., renters, buildings with
+shaded roofs, multi-story apartment buildings and condos). Community solar allows the utility
+to control the siting of the array, which can provide more-efficient solar production and moreefficient grid interconnection. Community solar subscribers can help finance projects, lessening
+burden on the developer.
+
+2O: KEY STRATEGIES
+
+27
+
+•
+
+The legislature should enact policy to extend or make permanent the current fiveyear property tax holiday for community solar energy development by electric
+utilities (MCA 15-6-225 “Small Electrical Generation Equipment Exemption”).27
+
+•
+
+The legislature should enact policy to enable community solar for investorowned utilities.
+
+https://leg.mt.gov/bills/mca/15/6/15-6-225.htm
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 38
+
+2P:
+
+Provide Incentives for Solar-Ready and Solar-Integrated Design and Building
+In its report Solar Ready: An Overview of Implementation Practices,28 the National Renewable
+Energy Laboratory defines a solar-ready building as one that is engineered and designed for
+solar installation, even if the solar installation does not happen at the time of construction. The
+report states that creating a solar-ready structure improves the cost effectiveness of solar when
+pursued later, which eliminates barriers to future solar applications and facilitates market growth.
+Examples provided in the report demonstrate significant savings if solar-ready measures are
+implemented during design and construction versus if those measures must be taken during
+solar installation. In Montana, solar-ready design incentives should focus on two types of
+buildings: 1) residential (single- or multi-family structures) and 2) small buildings designed
+for multi-family housing, commercial use, or mixed-use applications. This second group of
+buildings typically have flat roofs and are excellent candidates for solar.
+
+2P: KEY STRATEGIES
+
+2Q:
+
+•
+
+The legislature should enact legislation that provides incentives to encourage
+solar-ready design for new buildings in Montana.
+
+•
+
+The Montana Energy Office and the Montana Department of Labor & Industry
+should collaborate to provide solar-ready design guidance for residential and
+commercial building developers.
+
+•
+
+The Montana Department of Labor & Industry’s Building Codes Program29 should
+adopt the most-recent IECC energy code and specifically include Appendix RB,
+“Solar-Ready Provisions – Detached One- and Two-family Dwellings, Multiple
+Single-family Dwellings (Townhouses).”30
+
+ tudy the Feasibility of Encouraging Greater Utility-Scale Renewable Energy
+S
+Development by Reducing Property Taxes on New Renewable Energy in Montana
+Montana currently has by far the highest taxes on renewable energy in the region compared
+to North Dakota, South Dakota, and Minnesota. North Dakota’s taxes on a 150 MW generator,
+for example, are only one-quarter the amount of taxes on the same-sized generator developed
+in Montana. Taxes in South Dakota and Minnesota are only slightly higher than those in North
+Dakota (and therefore also much lower than in Montana).
+
+28
+29
+30
+
+https://www.nrel.gov/docs/fy12osti/51296.pdf
+http://bsd.dli.mt.gov/building-codes-permits
+https://codes.iccsafe.org/content/IECC2015/appendix-rb-solar-ready-provisions-detached-one-and-two-family-dwellings-multiple-single-familydwellings-townhouses-
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 39
+
+2Q: KEY STRATEGY
+•
+
+The legislature’s Revenue Interim Committee31 should conduct independent
+research to compare taxation across states and renewable energy projects to
+determine if rates should be adjusted for new projects. Committee members
+emphasize that any proposed adjustments must fully consider revenue impacts.
+
+2R: 	Advance the Deployment of Energy Storage Projects in Montana
+Nationally, energy storage is increasingly being utilized by utilities, other energy suppliers,
+and customers. Energy storage has many applications and roles, including addressing utility
+peak needs requirements, enhancing system reliability, and renewable resource integration.
+Presently, however, energy storage development in Montana is hampered by, among other
+things, a lack of acceptance and awareness of its potential uses and value.
+
+2R: KEY STRATEGY
+•
+
+2S:
+
+MT DEQ should, together with other executive branch agencies, the Montana
+Public Service Commission, and electric utilities, host a symposium on energy
+storage to explore new storage technologies and their potential application in
+Montana and identify possible recommendations and next steps.
+
+Deploy and Test Grid-Integrated Water Heaters
+Grid-interactive electric water heaters can assist with load control. By shifting water heating
+load from morning and evening to mid-day and overnight, water heat energy requirements can
+be served more economically while still meeting customer needs during peak use times. Water
+heaters can also be controlled on a minute-to-minute basis to provide voltage support and
+frequency regulation service to the grid at a much lower cost than generating units or batteries.
+
+2S: KEY STRATEGY
+•
+
+31
+32
+
+MT DEQ, working with regional entities, such as the national laboratories, the
+Bonneville Power Administration, and the Northwest Energy Efficiency Alliance,32
+should develop pilot programs in the service territories of Montana utilities to
+deploy and test grid-interactive water heaters to evaluate performance, energy
+savings, and their role in system stability and reliability.
+
+https://leg.mt.gov/committees/interim/2019rvic/
+https://neea.org/
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 40
+
+2T:
+
+	Increase the Allowable Size for Distributed Generation Systems
+[ADVANCED WITH DISSENT]
+
+The current system size cap for small-scale generation interconnecting to the grid is restrictive
+for entities like commercial buildings, schools, libraries, and private businesses. The cap
+involves what is known as net metering – a billing mechanism that credits solar energy system
+owners for the electricity they add to the grid. The current cap of 50 kilowatts (kW) was passed
+in 1999 and has not been updated since. Meanwhile, solar technology has become more
+efficient and less costly. Increasing the allowable system size will allow users to meet more of
+their energy needs with solar, wind, micro-hydro, and other eligible technologies.
+
+2T: KEY STRATEGY
+•
+
+The legislature should evaluate and institute a new cap for distributed
+energy systems.
+
+DISSENTING VIEWS: Four members did not support the advancement of this recommendation
+
+citing concerns over potential increased costs for utility customers who do not take part in net
+metering and the need to consider the potential for stranded transmission/distribution costs.
+Members also cited concerns over cost and complexity of ratemaking for a potential new class
+of generators. DISSENTING VOTES: Hoffman, Wiens, Olson, and O’Hair.
+
+2U: 	 Investigate the Use of Microgrids in Montana
+The U.S. Department of Energy (DOE) defines microgrids as “localized grids that can
+disconnect from the traditional grid to operate autonomously.” DOE goes on to note that
+“because they are able to operate while the main grid is down, microgrids can strengthen
+grid resilience and help mitigate grid disturbances as well as function as a grid resource for
+faster system response and recovery.” These resilience benefits may be particularly valuable
+in Montana, where uncharacteristic wildfire and other severe weather can disrupt service and
+potentially pose liability risks in circumstances where transmission infrastructure is the source
+of ignitions. Microgrids can also provide an opportunity to deploy more distributed generation,
+especially with storage technology, and can more efficiently use those technologies. The
+development of microgrids is still relatively new. As of January 2020, Wood Mackenzie was
+tracking just over 2,400 operational microgrid projects across the United States. However,
+Montana itself is home to NorthWestern Energy’s Beck Hill Rural Microgrid Project. A group
+of energy stakeholders should be convened in order to further investigate the increased use
+of microgrids in Montana.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 41
+
+2U: KEY STRATEGY
+•
+
+The Montana Energy Office should establish a microgrid stakeholder advisory
+group to investigate the increased use of microgrids in Montana to identify impacts
+to energy consumers and energy providers, as well as technical barriers impacting
+development, and report its findings to the Energy and Telecommunications Interim
+Committee.33
+
+SECTION IV: Transportation
+
+2V:
+
+Adopt Low-Emission Vehicle (LEV) and Zero-Emission Vehicle (ZEV) Standards
+[ADVANCED WITH DISSENT]
+
+Fourteen states have adopted LEV standards and twelve states have adopted ZEV standards.
+Three other states – Minnesota, Nevada, and New Mexico – are in the process of adopting
+these standards, which the auto industry broadly supports. California adopted the first LEV
+regulations in 1990, requiring automobile manufacturers to introduce progressively cleaner lightand medium-duty vehicles with more-durable emission controls. The ZEV regulation requires
+automakers to invest in clean vehicle technologies such as plug-in hybrid, battery electric,
+and hydrogen fuel cell by maintaining zero-emission credits equal to a set percentage of
+non-electric sales. The credit requirement increases over time, much like a renewable portfolio
+standard.
+
+2V: KEY STRATEGY
+•
+
+MT DEQ should undertake a rule-making process (or pursue legislation as
+appropriate) to adopt low-emission vehicle and zero-emission vehicle standards
+by the fall of 2020.
+
+33 https://leg.mt.gov/committees/interim/etic/
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 42
+
+DISSENTING VIEWS: Four Council members did not support the advancement of this
+recommendation. Concerns were raised regarding pending litigation of clean vehicle standards,
+and the necessity for standards to drive market adoption as opposed to market and consumer
+preferences. Some members questioned whether Montana should serve as a leader in the
+development of this marketplace in light of adoption and cost challenges associated with a low
+population and low population density across the state. Others raised concern that the standards
+might lead to additional regulations and taxes on existing vehicles. DISSENTING VOTES:
+Hoffman, Wiens, Olson, and O’Hair.
+
+2W: 	Advance Comprehensive Strategies to Develop and Expand Electric Vehicle Use
+and Infrastructure [ADVANCED WITH DISSENT]
+The states of Colorado, Idaho, Montana, Nevada, New Mexico, Utah, and Wyoming have
+entered into a memorandum of understanding (MOU) to establish a Regional Electric Vehicle
+Plan for the West (REV West Plan).34 The MOU acknowledges the value of taking coordinated
+action to deploy EV charging stations across the region. The buildout of an “Intermountain West
+EV Corridor” will increase access to each state’s highways, promote tourism and recreation
+in rural communities, and support economic development. While private-sector roles for
+advancing infrastructure will be critical, partnerships will also be needed to overcome initial
+hurdles to EV adoption attributed to a lack of infrastructure.
+
+2W: KEY STRATEGIES
+•
+
+The State should provide tax incentives for the purchase of low- and zeroemission vehicles at a level sufficient to evoke a robust consumer response.
+
+•
+
+The governor should issue an executive order establishing a goal for the
+deployment of EV charging infrastructure in the state and establish a task force
+charged with creating a plan and action items leading to the implementation of
+that goal.
+
+•
+
+To ensure that transportation electrification occurs as expeditiously as possible,
+based on sound utility regulatory principles the State should enact legislation
+requiring investor-owned electric utilities to file plans every two years with the
+Montana Public Service Commission. Likewise, every two years the Montana
+Electric Cooperatives Association, on behalf of its member cooperatives, would
+be required to file a report with MT DEQ. The regulated utilities’ plans should
+include such things as: an analysis of existing market opportunities, existing
+policies, barriers to EV growth, and the impact of rates and rate design on EV
+adoption. These plans, through an open, public process, would be subject to
+Commission approval, disapproval, or modification. The electric cooperative
+report should include a discussion of EV charging in the service territories of
+member cooperatives.
+
+34 https://afdc.energy.gov/laws/11875
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 43
+
+•
+
+The Montana Department of Transportation (MDT),35 working with stakeholders
+(including the Federal Highway Administration36), should evaluate the feasibility
+and advisability of installing fast-charging (direct current) EV charging stations
+at rest areas administered by the Department. The process should endeavor to
+identify the specific rest areas suitable for the development of EV infrastructure,
+establish target dates, and determine funding requirements and sources. MDT
+should, within existing authority, deploy uniform signage on routes under its
+jurisdiction indicating the location of public charging stations.
+
+•
+
+The imposition of taxes on low- and zero-emission vehicles should be equitable
+and should not create disincentives for the ownership of LEVs and ZEVs.
+
+•
+
+Enact legislation exempting electric vehicle charging stations from property
+taxes, installed for use by employees, patrons, and visitors by the owners of
+commercial property.
+
+•
+
+The Montana Department of Labor should by rule exclude the cost of installing
+electric vehicle charging infrastructure when calculating the cost.
+of an electrical inspection for new construction.
+
+DISSENTING VIEW: One Council member did not support the advancement of this recom-
+
+mendation. That member voiced concern over mandatory reporting requirements for electric
+cooperatives, which were viewed as unnecessary. The member offered that electric cooperatives
+would be willing to provide this reporting on a voluntary basis if requested by the legislature.
+DISSENTING VOTE: Wiens.
+
+2X: 	Improve Statewide Transportation Management to Foster Alternatives and
+Support the Needs of Communities
+Transportation-related GHG emissions occur not just because our fleet uses fossil fuels, but
+also because of the nature of our overall transportation system. Montanans have the tenthhighest reliance on personal vehicles of any state in the nation, partly reflecting our geographic
+range and low population density, but also limited integrated transportation and growth
+planning and transportation alternatives.
+
+2X: KEY STRATEGIES
+•
+
+MDT should assemble a broad-based stakeholder group, including transportation
+consultants and experts from outside of Montana, to consider and evaluate the
+Department’s transportation planning and operational practices. This evaluation
+should include a focus on the state’s need and commitment to reduce GHG
+emissions and the importance of and benefits from developing transportationefficient communities.
+
+35 https://www.mdt.mt.gov/
+36 https://cms8.fhwa.dot.gov/
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 44
+
+2Y:
+
+•
+
+MDT should build, or arrange to have built, and host a ride-sharing mobile
+app. The app will enable drivers and riders to connect with each other to
+reduce vehicle miles travelled and costs for Montanans, while also lessening
+the burden on existing transportation infrastructure.
+
+•
+
+MDT, working with local governments, should direct additional resources
+towards planning for and the development of expanded bike infrastructure
+both within and between communities. Such development will help
+decrease miles driven, while helping increase tourism revenue (including,
+potentially, to more rural Montana communities).
+
+•
+
+The Department of Labor should prepare and make available a manual on
+remote working practices and should assist employers that wish to institute
+remote work opportunities for their employees.
+
+	Explore Opportunities for Passenger Rail
+Public transportation across Montana is limited, with few affordable options for intercity
+travel throughout the state. During the 20th century, southern Montana saw passenger
+rail service by way of Northern Pacific’s North Coast Limited and the Chicago, Milwaukee,
+St. Paul and Pacific’s Hiawatha trains. With the cessation of private rail service in 1971
+and the creation of Amtrak, the North Coast Hiawatha was established and ran until 1979
+when, during a period of retrenchment, Montana lost the southern route and only retained
+the Empire Builder along the Hi-Line. Unfortunately, the majority of the state, and the
+major population centers of the state, are not connected by rail or even by regular bus
+routes. Transportation accounts for a significant percentage of harmful air pollutants in
+urban areas, and there is tremendous opportunity to reduce those emissions by reducing
+single-occupant vehicle trips. A cohesive intercity public transportation system would both
+reduce air pollution by decreasing the necessity of car travel across the state and would
+increase equitable access to travel options for those not able to afford car ownership or
+with other barriers to driving. More regional rail connectivity can help reduce the need for
+air travel as well (more about GHG reduction benefits here and here). Passenger rail cars
+could further reduce Montana’s GHG emissions if electrified or powered by hydrogen.
+The last study on the feasibility of reinstating passenger rail in Montana was conducted in 2010.
+It is likely that many of the estimates of cost and even the state of the current infrastructure
+need to be reevaluated. Additionally, the previous study did not account for the social cost
+of emitting carbon and the need to reduce GHG emissions. Another barrier to reinstating
+passenger rail is the lack of a governance structure, like a rail authority, to lobby for and
+actively pursue restoration/expansion of passenger rail service. Rail authorities provide the
+governance structure and institutional framework for engaging state, federal, and private-sector
+partners to plan and implement restored passenger rail service throughout the region.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 45
+
+2Y: KE Y STR ATEGIES
+•
+
+The State should develop a passenger rail authority modeled after passenger rail
+authorities in other states. To start, the governor could direct MDT to coordinate
+with and support the county officials developing a multi-county Big Sky Passenger
+Rail Authority.37
+
+•
+
+The governor and Montana’s Congressional delegation should advocate for the
+creation of a regional, multi-state passenger rail commission (like the Southern
+Rail Commission) that allows Montana to create connectivity with other states and
+tap into federal resources.
+
+•
+
+MDT should conduct an updated feasibility study of restored passenger rail
+service through southern Montana and conduct an impact analysis that accounts
+for anticipated reductions in GHG emissions.
+
+•
+
+The governor should establish a committee to examine the issue and investigate
+how Montana can prioritize passenger rail and expanded public bus service as a
+part of the state’s multi-modal approach to mitigating climate change.
+
+SECTION V. Quantifying and Reducing Industrial, Agricultural and Methane
+Emissions and Including Carbon Sequestration
+
+2Z:
+
+I mprove Greenhouse Gas Emissions and Carbon Sequestration Inventory
+and Accounting Spanning Non-Electric and Transportation Sectors Across
+Montana’s Economy
+Presently, the state lacks a comprehensive inventory or estimates of GHG sources and sinks
+spanning other critical sectors of the economy, including industrial sources, methane emissions,
+and agriculture, forestry, and wood products. These estimates and inventories are critical to
+understanding economy-wide strategies to reduce emissions and boost the capacity of carbon
+storage in healthy soils, forests, and in wood products.
+
+37 https://montanapassengerrailsummit.org/big-sky-passenger-rail-authority
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 46
+
+2Z: KEY STRATEGIES
+•
+
+MT DEQ, in consultation with other appropriate agencies, should develop GHG
+emissions and sink estimates for key sectors of Montana’s economy and
+land use.
+
+•
+
+The GHG emissions reporting program should be developed through DEQ
+rulemaking to encourage facilities and other industrial, institutional, and
+commercial operations that produce more than 25,000 metric tons of CO2e
+to annually report GHG emissions. This recommendation would allow for
+developing a summary report of existing facilities currently reporting to the U.S.
+EPA’s Greenhouse Gas Reporting Program (GHGRP)38 and also incorporate other
+facilities subject to 40 CFR 63 Part 98 who are not reporting.
+
+•
+
+In forestry and agriculture, integrate strategies with voluntary and incentivedriven approaches, including potential carbon markets, as outlined in Chapter
+1. Consider use of widely available tools from the USDA for estimating GHG
+emissions and sinks, including tools like COMET-FARM39 and COMET PLANNER40
+that allow for farm-scale and regional estimations of the benefits of conservation
+practices for carbon management and reduced emissions.
+
+2AA: 	Assess and Reduce Sources of Methane Emissions
+Reducing methane emissions is an important component of strategies to address GHG
+emissions. Key sources include landfills, agricultural emissions from livestock production,
+and oil and gas operations.
+
+2AA: KEY STRATEGIES
+
+38
+39
+40
+41
+
+•
+
+MT DEQ, working with industry and other appropriate agencies, should develop a
+study plan and then conduct a study to identify and quantify sources of methane
+emissions in Montana.
+
+•
+
+The Montana Board of Oil and Gas Conservation (MBOGC),41 working with MT DEQ,
+should institute a program, directed at well and pipeline operators, that has as its
+objective the promotion of best management practices such as leak detection and
+repair, the use of no-bleed or low-bleed control devices and pneumatic controllers,
+and to discourage the use of manual liquids unloading processes.
+
+https://www.epa.gov/ghgreporting
+http://comet-farm.com/
+http://comet-planner.com/
+http://dnrc.mt.gov/divisions/board-of-oil-and-gas-conservation
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 47
+
+•
+
+The governor should propose and the legislature should adopt a budget that
+provides sufficient funding to address orphan well remediation and closure
+in accordance with a plan, developed by MBOGC, taking into account a well’s
+potential to emit methane, that enables the existing orphan well inventory to be
+remediated and closed by the end of 2023.
+
+•
+
+If the next round of Covid-19 disaster relief and economic stimulus funding
+directs monies to orphan well remediation and closure, the state should
+advocate to ensure that Montana receives its fair share of those funds –
+through its Congressional delegation, the governor, and the legislature.
+
+•
+
+MT DEQ should assess the extent to which methane emissions are occurring as
+a result of the use of continuous or intermittent control devices on oil and gas
+pipeline infrastructure and shall, if appropriate and working with industry, develop
+a program to replace continuous or high-bleed control devices with no-bleed or
+low-bleed control devices on oil and gas infrastructure.
+
+•
+
+To the extent not already regulated by MT DEQ’s facility registration program,
+MBOGC – using existing authorities – should require operators to submit a plan,
+providing information to be required by the Board, minimizing or eliminating
+methane emissions, to be submitted no later than three months after the
+commencement of production.
+
+•
+
+MT DEQ should review its standards and requirements related to methane
+production and releases at the municipal solid waste landfills it regulates and
+revise those standards and requirements, if necessary, to ensure that methane
+produced by the facility is captured and diverted for beneficial use.
+
+•
+
+The Montana Department of Agriculture (MDA)42 should undertake a comprehensive
+review and inventory of methane emissions as a result of livestock production and
+agricultural practices and, should, working with Montana producers, create a
+program to reduce or eliminate those emissions.
+
+2AB: 	Address Food Waste and Food Systems Emissions
+Local food systems can reduce “food miles” and transportation costs, offering significant
+energy savings by reducing fossil fuel energy use and GHG emissions. Although local
+food systems can reduce transportation distances for food, studies of food transportation
+energy use and GHG emissions do not always agree on whether local food systems
+are more energy-efficient, primarily because of the great variability among local foods
+markets. In some cases, local and regional food systems are more efficient and distance
+food travels to the consumer is an important factor in determining environmental
+impacts. Others have found that distance is not an adequate measure of impact because
+transportation accounts for a relatively small share of energy use and emissions in the
+food system. The vast majority of energy used in the U.S. food system goes above and
+beyond transportation, including processing, packaging, storing, and preparing food.
+
+42 https://agr.mt.gov/
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 48
+
+Local food systems bring other benefits supporting community nutrition and rural economic
+development goals and complementary market revenues for producers. Spending money
+in the local community rather than sending it far away can be economically valuable,
+and having a vibrant local-food system creates community resilience in the event of
+unexpected occurrences such as what we are experiencing with the COVID-19 pandemic.
+For example, many meat-packing facilities across the country are currently shut down
+because of the pandemic leaving some producers with few options for processing their
+beef, hogs, and lamb. If Montana had more regional meat processing plants, producers
+would have more options and Montana would have more jobs. However, although bringing
+in more feeding and processing capacity could reduce transportation emissions and have
+some economic or social benefits, doing so could increase GHG emissions as well.
+Food waste is a serious problem in the United States. An estimated 30–40 percent of the
+nation’s food supply is wasted.43 When food is wasted, resources like the energy and water it
+takes to grow, harvest, transport, and package it are also wasted. Breakdown of food in landfills
+also produces methane, a potent GHG. About an 11 percent reduction of all the GHG emissions
+that come from the food system could be achieved if food waste was mitigated. Reducing the
+impacts of food waste could be achieved through composting programs and programs that
+funnel unused food to people in need.
+
+2AB: KEY STRATEGIES
+•
+
+MDA should establish a food policy council that will establish goals, strategies,
+and policy recommendations to address opportunities and barriers to reducing
+GHG emissions related to our food systems and to address food waste
+generated within the state. The food policy council should include stakeholder
+representatives from Montana producers, farmers market managers, farm-toschool programs, food hubs, retail grocers, food banks, and on-the-ground
+experts in the areas of energy efficiencies, composting, and solid waste disposal.
+
+•
+
+MDA should set a goal of beginning to implement recommendations from the
+food policy council within 12 months of receiving the food policy council’s report,
+including pilot projects as appropriate.
+
+2AC: 	Manage Solid Waste Emissions and Support Recycling and Composting
+There are direct and substantial links between GHG emissions and solid waste management,
+recycling, and composting. Waste reduction, recycling, and composting are a critical part
+of reducing emissions in several ways:
+•
+
+Energy consumption: Recycling saves energy. Producing goods from recycled materials
+typically requires far less energy than making goods from virgin materials. Waste
+prevention is even more effective. Less energy is needed to extract, transport, and
+
+43 https://www.usda.gov/foodwaste/faqs#:~:text=In%20the%20United%20States%2C%20food,worth%20of%20food%20in%202010.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 49
+
+process raw materials and to manufacture products when a product’s life is extended,
+people reuse things, or when less material is used to make and package the product.
+•
+
+Incinerators: Diverting certain materials from incinerators through waste prevention and
+recycling reduces GHG emissions in addition to other pollutants. Using certain agricultural,
+forestry, and yard waste products to instead produce biochar, a natural form of charcoal
+sometimes used as a soil amendment, would further reduce emissions that would
+otherwise result from incinerating waste streams or allowing natural decomposition.
+
+•
+
+Methane emissions from landfills: Waste prevention and recycling, including composting
+to divert organic waste from landfills, reduces the methane released when these materials
+decompose. (Note: Depending on the sophistication and funding of a given landfill,
+methane emissions can also be captured and used as an alternative power source with
+the net output, as with aerobic composting, of CO2 emission.)
+
+•
+
+Increased carbon storage in trees and long-lived wood products: Forests take large
+amounts of CO2 out of the atmosphere and store it in wood, in a process called carbon
+sequestration. Waste prevention and recycling of paper products and building materials
+can leave more trees standing in the forest, continuing to absorb carbon dioxide from the
+atmosphere and can prevent methane emissions by maintaining carbon stored in longlived wood products.
+
+The U.S. EPA estimates that increasing our national recycling rate from its current level
+of 27 percent to 35 percent would reduce GHG emissions by 11.4 million metric tons
+of carbon equivalent (MTCE, the basic unit of measure for GHGs) over landfilling the
+same material. Waste prevention also makes an important difference. By cutting the
+amount of waste we generate by just 5 percent, we could reduce GHG emissions by
+another 10.2 million MTCE. Together, these levels of recycling and waste prevention
+slash emissions by more than 20 million MTCE – an amount equal to the average annual
+emissions from the electricity consumption of roughly 12 million households.
+In addition, landfilling food waste rather than composting it results in the loss of nutrients,
+a critical aspect for Montana’s agriculture. Burying food waste and other organics, such as
+wood and paper waste, contributes to the production of leachate that must be treated for
+methane, one of the most-potent GHGs. Food waste is a significant portion of the waste stream
+nationally. According to an informal survey of licensed solid waste management facilities in
+Montana, food waste constituted 20% of our state’s waste stream in 2017.44 Composting
+represents tangible, local action to reduce GHGs. Substantial reductions in GHGs can
+be further gained by diverting methane-emitting feedstocks derived from municipal
+treatment centers, lagoons, and agriculture from landfills to composting operations.
+
+44 Survey from the Montana DEQ Materials Management Program, Waste Management and Remediation Division.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 50
+
+2AC: KEY STRATEGIES
+•
+
+MT DEQ should establish an advisory group that will make recommendations for
+setting goals and establishing strategies to address GHG emissions related to
+municipal solid waste generated within the state, through increased recycling
+and composting, and by diverting the amount of solid waste going to landfills.
+The advisory group should include representative from the Montana League of
+Cities & Towns,45 the Montana Association of Counties,46 Montana Chamber of
+Commerce,47 and on-the-ground experts in the areas of solid waste, recycling,
+and composting.
+
+•
+
+MT DEQ should set a goal of beginning to implement recommendations from the
+advisory group within 12 months of receiving the advisory group’s report,
+including pilot projects as appropriate.
+
+2AD: 	Advance Efforts to Develop and Deploy Carbon Capture and Storage
+Technologies (CCS) [ADVANCED WITH DISSENT]
+Even as Montana diversifies its energy portfolio, fossil fuels are expected to meet a portion
+of energy demand. The deployment of carbon capture and storage (CCS) technology can
+accelerate efforts to reduce emissions from power plants and industrial processes, and
+support other needs such as renewable fuel production central to meeting the net-neutral
+goal. As the Center for Climate and Energy Solutions notes, more than half of the models
+cited in the Intergovernmental Panel on Climate Change’s Fifth Assessment Report48 required
+carbon capture for a goal of staying within 2o C of warming from the pre-industrial period.
+For models without carbon capture, emissions-reduction costs rose 138 percent.49
+Governor Bullock co-founded multiple regional and national initiatives supporting carbon
+capture, including the State Carbon Capture Work Group, the Governors’ Partnership for
+Carbon Capture, and the Regional Carbon Capture Deployment Initiative. Governor Bullock
+also entered a carbon capture memorandum of understanding (MOU) in 2018 along with North
+Dakota, Wyoming, and Canadian province Saskatchewan.50
+
+2AD: KEY STRATEGIES
+•
+
+45
+46
+47
+48
+49
+50
+
+MT DEQ should consider seeking primacy for Class VI deep injection wells.
+Class VI wells are used to inject CO2 into deep rock formations. This long-term
+underground storage is called geologic sequestration (GS). Geologic sequestration
+refers to technologies to reduce CO2 emissions to the atmosphere and mitigate
+climate change. The U.S. EPA has finalized requirements for GS, including
+
+https://mtleague.org/
+https://www.mtcounties.org/
+https://www.montanachamber.com/
+https://www.ipcc.ch/report/ar5/syr/
+https://www.c2es.org/content/carbon-capture/
+https://www.saskatchewan.ca/government/news-and-media/2017/december/01/mou-with-montana
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 51
+
+the development of a new class of wells, Class VI, under the authority of
+the Safe Drinking Water Act’s Underground Injection Control provisions.
+These requirements, also known as the Class VI rule, are designed to protect
+underground sources of drinking water. North Dakota is the only state with primary
+enforcement authority for UIC Class VI wells. EPA directly implements the Class
+VI program in all other states, territories, and tribes. State management of the
+program could expedite permitting while maintaining appropriate safeguards
+to water supplies. MTBOGC already has statutory authority to regulate class VI
+disposal wells. No application for primacy currently exists.
+•
+
+Identify federal and private-sector partners and funding to advance carbon
+capture and storage in Montana.
+
+DISSENTING VIEWS: Four Council members did not support the advancement of this
+
+recommendation. While most Council members agreed that carbon capture and storage
+technology may play a role in meeting long-term climate targets and objectives, particularly with
+regard to industrial activities that often have hard-to-eliminate emissions footprints, Council
+members expressed concern that relying on the development of expensive, unproven CCS
+technologies in lieu of strong commitments to reduce emissions could inappropriately prolong
+the transition from fossil fuel technologies to renewable energy sources. Several members also
+raised concern over unknown water quality impacts associated with sequestration. DISSENTING
+VOTES: Piserchia, Rivas, Magraw, and Jencso.
+
+SECTION VI: Tribal Nation and Community Efforts
+
+2AE: Support and Learn from Tribal Nations [ADVANCED WITH DISSENT]
+Despite a comparatively small contribution to the state’s overall greenhouse gas emissions, Tribal
+nations in Montana face unique challenges from climate change impacts that threaten their diverse
+ecosystems, communities, health, livelihoods, and cultural resources. Energy affordability issues
+are an additional concern for many members of Montana’s tribal nations. Many of Montana’s
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 52
+
+tribal nations also have long histories and traditions of inter-relationship with particular ecosystems, as well as practices of monitoring and planning for climatic changes spanning
+generations. Montana’s tribal nations have much to offer in developing and assessing
+climate solutions.
+The scale of climate impacts facing tribal nations far outweighs the funding and support
+that the federal and state governments devote to addressing these impacts. In addition
+to new challenges, climate impacts also have the potential to magnify unaddressed
+long-standing systemic inequities and discrimination affecting tribal nations.
+A number of tribal nations, including the Confederated Salish and Kootenai Tribes (CSKT) and
+the Blackfeet Nation, are currently leading on the state and national levels, with exemplary
+climate planning efforts. Initiatives to address GHG emissions reductions and climate
+resilience and adaptation – developed with and in support of tribal nations – would ensure
+that the unique circumstances and needs of all the tribes are recognized and addressed
+and that tribal needs are prioritized and not overlooked, especially given the numerous and
+competing demands for climate efforts in all Montana communities. The State of Montana
+should help resource this work, in addition to working closely with and incorporating the
+input of tribal nations in ongoing reassessment of the state’s climate targets and mitigation
+efforts, as well as the state’s policy efforts to meet adaptation needs and concerns.
+
+2AE: KEY STRATEGIES
+•
+
+The State of Montana should collaborate with tribal nations in full recognition
+of tribal sovereignty to devise programs and structures that are specifically
+designed to support tribal nations as they develop climate change mitigation
+and resilience plans.
+
+•
+
+Specifically, the State of Montana (i.e., the Governor’s office and appropriate
+agencies) and Montana’s tribal governments should convene a process working
+with other entities (e.g., federal agencies, energy suppliers, community action
+agencies) to support tribal nations to 1) assess GHG emissions-reduction
+opportunities and develop plans to achieve emissions reductions on reservations
+where appropriate, 2) develop adaptation and resilience plans, and 3) work in
+partnership to address emerging climate adaptation and mitigation concerns
+and challenges.
+
+DISSENTING VIEW: One Council member did not support the advancement of this
+
+recommendation. The member felt this recommendation should either be incorporated into
+the state’s broader support for community-based initiatives or left out of this report in
+recognition of tribal sovereignty over planning and implementation. DISSENTING VOTE: Olson.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 53
+
+2AF:
+
+Support Community Mitigation Planning [ADVANCED WITH DISSENT]
+Local governments should develop GHG mitigation plans and processes that tackle communitywide emissions where possible. Different communities in Montana will proceed and prioritize
+in ways that respond to local strengths and needs, recognizing their unique opportunities and
+challenges. Local climate action planning processes will vary depending on the size of the
+community and jurisdiction. Effective mitigation planning requires meaningful involvement and
+buy-in from a diverse group of relevant decision-makers, stakeholders, and community members.
+Planning efforts should start by bringing community leaders, including local government staff or
+elected officials, and interested parties together to determine the scope and basic path forward.
+Efforts should focus on actions that fit with local needs and opportunities and can either be
+implemented locally or by working with other communities and the State. In turn, communities
+can inform state policies that reduce GHG emissions. The State of Montana should support
+these efforts.
+
+2AF: KEY STRATEGIES
+•
+
+Outline and support a process for community mitigation planning and to engage
+and connect communities. Every community in Montana is unique and will need to
+address climate mitigation in ways that recognize its own opportunities and
+limitations. While there are some similarities, community climate action processes
+and plans will vary depending on community size and resources, whether they are
+municipalities, tribal nations, or counties and whether they are primarily served by
+rural electric cooperatives or an investor-owned utility. Mitigation processes should
+secure buy-in from key community members, build on existing programs, and be
+data-driven wherever possible. Recommendations should follow best practices for
+effective GHG emissions-reduction strategies, with strong consideration for equity
+and co-benefits, including strategies that also build resilience and help prepare for
+future climate impacts
+
+•
+
+Communities and tribes engaged in local mitigation processes should set
+quantitative goals and timelines for GHG reductions and develop mitigation
+strategies within a local climate action plan, determine mitigation targets with goals
+and clear timelines informed by climate science, conduct a community-wide GHG
+inventory, and determine actionable goals and prioritized strategies to reduce
+emissions.
+
+•
+
+Connect mitigation strategies and actions across Montana. Montana State
+University hosts an online map of existing community and tribal nation mitigation
+and adaptation plans.51 As more communities assess mitigation strategies,
+limitations, and challenges, the State of Montana should reassess statewide
+strategies in support of locally identified goals.
+
+51 http://www.msucommunitydevelopment.org/plans.html
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 54
+
+DISSENTING VIEW: One Council member did not support the advancement of this
+recommendation. The member cited concern with the potential for an unelected or selfappointed group to inappropriately assert leadership in planning on behalf of a community.
+DISSENTING VOTE: O’Hair.
+
+SECTION VII: Priority State, Regional, and Federal Measures
+
+2AG: 	Advocate for Greenhouse Gas Mitigation in Upcoming Federal Stimulus Packages
+The COVID-19 pandemic has created economic disruption across the United States. Congress
+has addressed the near-term effects of the pandemic but is also discussing measures to help
+ensure long-term recovery and economic vitality for the country. The recovery effort presents
+an opportunity to invest in rebuilding our infrastructure, social, and economic systems to reduce
+emissions with intention.
+
+2AG: KEY STRATEGIES
+•
+
+The Governor and Montana’s Congressional delegation should advocate
+for stimulus measures to include programs that are called upon throughout
+this report, especially those supportive of needs facing low-income groups,
+disadvantaged communities, and tribal nations. Examples include:
+•
+
+Clean physical infrastructure investment: renewable energy, energy storage
+(including hydrogen), and grid modernization.
+
+•
+
+Building efficiency spending for retrofits, including improved insulation,
+heating, and domestic energy storage systems.
+
+•
+
+Revitalizing coal country through the cleanup and restoration of abandoned
+coal mines on federal, state, tribal, and private lands.
+
+•
+
+Reclaiming and plugging orphaned oil and gas wells, prioritizing those
+that emit methane.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 55
+
+•
+
+Support for sustainable agriculture and ecosystem regeneration
+and resilience.
+
+•
+
+R&D spending on clean energy technology and sequestration technologies.
+
+2AH: 	Engage in National and Regional Dialogues Regarding Carbon Pricing
+[ADVANCED WITH DISSENT]
+
+The Council acknowledges that a carbon pricing mechanism – if structured thoughtfully and
+with appropriate stakeholder input – has the ability to both lower emissions (through either
+a cap on emissions or through a price on carbon) as well as generate revenues that can be
+invested back into the economy to expand Montana business and/or further reduce Montana
+GHG emissions. The most effective and equitable approach on carbon pricing would be for
+Congress to enact national legislation with input from impacted groups. To that end, Montana
+should track and influence the development of federal legislation through its Congressional
+delegation and through its membership in the U.S. Climate Alliance (and other association
+memberships, such as the National Governors Association,52 the Western Governors’
+Association,53 and Environmental Council of the States 54). The Council further acknowledges
+that a federal carbon pricing mechanism should consider potential fiscal impacts to states
+(both positive and negative), workforce transition needs, and any disproportionate impacts to
+low-income and vulnerable communities.
+
+2AH: KEY STRATEGIES
+•
+
+In the absence of a federal approach to pricing carbon, the Council encourages
+the Governor to direct the appropriate state agencies – including MT DEQ,
+Department of Revenue, Department of Natural Resources and Conservation,
+MDT, Department of Commerce, Department of Labor, and the Department
+of Agriculture – to explore the options, costs and benefits, and feasibility for
+Montana to join other states in an existing or future regional carbon market.
+As a starting point, Montana should conduct research and analysis of existing
+regional markets and should also identify which other states may be interested
+in working together on some form of a carbon pricing policy. This will inform
+the decision of whether, and with whom, Montana should collaborate on the
+development of such policies.
+
+•
+
+With either a federal or regional approach, Montana should consider both the
+mechanism for pricing carbon (e.g., fee vs. cap), the efficacy of reducing carbon
+emissions, and how revenues generated from carbon pricing will be invested
+back into the economy (e.g., through investments such as innovative
+
+52 https://www.nga.org/
+53 https://westgov.org/
+54 https://www.ecos.org/
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 56
+
+energy technology, energy efficiency, job training, and building community climate
+resilience) and used to mitigate the economic impacts on low-income residents.
+DISSENTING VIEWS: Four Council members did not support the advancement of this
+
+recommendation. Concerns were raised regarding the implementation of carbon pricing, its
+potential disproportionate impacts on Montana businesses and low-income communities, and
+potential for carbon pricing to compound known challenges facing the state’s fiscal health.
+Concerns were also expressed regarding impacts to the price of energy in all sectors by setting
+an artificial price floor. One member also noted that increased prices on energy and other goods
+would cause impacts to low-income populations and that use of revenues to offset costs to lowincome individuals has proven challenging in other states. DISSENTING VOTES: Wiens, Hoffman,
+Olson, and O’Hair.
+
+2AI: 	Advance Efforts to Take Advantage of a Coordinated Western Electricity Market
+The western United States electric grid comprises 38 balancing areas resulting in a level of
+jurisdictional fragmentation and complexity that contributes to economic, contractual, and
+practical obstacles to buying and selling electricity – creating extensive market inefficiencies.
+A more-integrated electricity market in the West would allow load-serving entities to better
+manage their loads and optimize production, delivery, and use of the low-cost renewable energy
+that the western U.S. has in abundance, resulting in cost savings for consumers. Development
+of a regional electricity market has special salience in Montana, which has significant renewable
+resource potential, the development of which is presently hampered as a result of the present
+balkanized system.
+
+2AI: KEY STRATEGY
+•
+
+The governor and legislature, along with the state’s electric utilities, should
+express their support for a western regional electricity market designed, among
+other things, to provide transparency and equitable treatment and opportunities for
+cost savings for all market participants, and should actively work with other states
+and regional utilities to develop such a market.
+
+2AJ: 	Adopt a Clean Energy Standard (CES) [ADVANCED WITH DISSENT]
+A clean energy standard is a technology-neutral mechanism that requires that a certain
+percentage of utility sales be met through “clean” zero- or low-carbon resources, such as
+renewables including existing hydroelectric generation, nuclear energy, coal or natural gas
+generation with carbon capture technology, and other forms of generation.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 57
+
+2AJ: KEY STRATEGY
+•
+
+The State should adopt a clean energy standard, taking into account customer
+affordability concerns. Specifically, by 2025, 60 percent of a utility’s total sales
+would come from “clean energy;” by 2035, 80 percent; and by 2050, 100 percent.
+Compliance with the standard by electric cooperatives would not apply on an
+individual cooperative basis but rather by aggregating total sales and generation
+of all the state’s electric cooperatives. NorthWestern Energy and the state’s electric
+co-ops already meet the 60 percent clean energy by 2025 standard.
+
+Note: There are many design features of a clean energy standard. Design features frequently considered in the
+development of clean energy standards include more-precisely defining what constitutes “clean” generation (for
+example, Washington limits biomass fuel to certain kinds); and if certain clean energy approaches should be favored
+or disfavored based on type and timing (for example, Nevada affords a ten percent credit for energy efficiency
+measures achieved by 2024). In order to maximize economic efficiency and compliance flexibility, some clean energy
+standards establish a credit system based on emission rates. Another design element considered is to provide
+for cost-containment provisions, either in the form of an alternative compliance payment or cost off-ramps. Both of
+which keep the cost of compliance within a certain range and, thus, seek to balance concern over impacts
+to customers with the goals of the standard.
+
+DISSENTING VIEWS: Five Council members did not support the advancement of this
+recommendation with four members citing the need to address cost considerations and
+availability of technology in the development of such a standard and questions regarding the
+achievability of the timelines for adoption. One council member expressed concern over the
+inclusion of certain technologies including large new hydropower, nuclear, and carbon capture
+and storage technologies and felt any standard should be set to incentivize early actions.
+DISSENTING VOTES: Hoffman, Wiens, Olson, O’Hair, and Piserchia.
+
+2AK: Recommendation on Achieving Economy-Wide Greenhouse Gas Neutrality
+[ADVANCED WITH DISSENT]
+
+In accordance with Executive Order 8-2019, the Council is charged with adopting a target date
+by which the Council believes the state should adopt GHG neutrality across the economy.
+The Council considered IPCC guidance and the objectives identified by a number of states. In
+accordance with those objectives and guidance, the Council identified an option of a goal of 2050
+or a range targeting 2045–2050. Upon vote of the Council, this range was adopted with the intent
+to address the need for flexibility in achieving a specific goal, while also acknowledging the urgent
+action that is needed to address the increasing threats and impacts of climate change. Ultimately
+the goal provides a benchmark to evaluate policy options and pathways and align near-term
+programs and policies with potential emissions trajectories as part of ongoing climate planning.
+DISSENTING VIEWS: Four Council members did not support the advancement of this
+recommendation citing uncertainty associated with mitigation pathways, costs, and technology
+advancement. Members voiced concern that the establishment of such a goal could foster
+uncertainty rather than lead to additional planning efforts. DISSENTING VOTES: Hoffman, Wiens,
+Olson, and O’Hair.
+
+S T R AT E G I E S T O REDU C E GREENH O U S E GAS EM IS SIONS – 58
+
+3. Accelerating Decarbonization
+and Innovation in Montana’s Economy,
+and Addressing the Needs of Workers
+and Communities in Transitions
+
+A
+
+goal of the Council is to move
+Montana’s economy to net GHG
+neutrality for average annual
+electric loads in the state by 2035
+and economy-wide by 2050. To
+achieve these goals, Montana must accelerate
+the development and deployment of innovative
+technologies and practices in the energy, industrial,
+manufacturing, and agricultural sectors. The Council
+thus recommends establishing an innovation cluster
+initiative to assess, define, and support the needed
+environment, culture, workforce, and resource
+allocation to sustain statewide efforts to achieve
+these goals. An innovation cluster initiative will help
+enable new, or nurture and grow existing, low- and
+zero-GHG industries across Montana.
+Montanans live by an inherently innovative
+culture. According to the Kauffman Index of
+Entrepreneurship,55 Montana consistently ranks at or
+near the top for entrepreneurship and startup activity
+per capita. Building on a mindset that is inherent to
+who we are, an innovation cluster initiative will work
+to identify regional and statewide capacity strengths,
+leverage lessons-learned and best practices from
+successes in sectors where Montana exhibits
+comparative and competitive advantages, and
+grow what works.
+
+Regional innovation clusters (discussed below)
+succeed when industry efforts align with existing
+capacity and focus among state agencies, the
+education system, industry associations, labor
+unions, economic development associations, and
+community leaders. The Council’s recommendations
+on regional innovation clusters focus on the role
+the state can play in forging new partnerships,
+sharing information, and prioritizing strategic public
+investments in research and business formation.
+Finally, efforts to understand innovation potential
+and cluster formation around net-zero emissions
+technologies and industries should be networked
+across Montana and supported by the broader
+intention of fueling Montana’s “innovation landscape”
+and fostering culture, leadership, and environment
+that motivates and incentivizes public- and privatesector innovation.
+
+Regional Innovation Clusters and
+Cluster Initiatives Defined
+To define clusters, the Council drew on the work of
+the Brookings Institution and the writings of Harvard
+economist Michael E. Porter.56 Regional innovation
+clusters are “concentrations of interconnected
+businesses, supply chains, and service providers
+located in the same geographic area with
+
+55 https://indicators.kauffman.org/
+56 https://www.brookings.edu/wp-content/uploads/2016/06/0921_clusters_muro_katz.pdf
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 59
+
+coordinating intermediaries, and public institutions
+like universities or community colleges in a particular
+field.” Clusters create synergies and drive growth by
+leveraging advantages of a specialized labor pool,
+suppliers that can serve special needs of multiple
+businesses, and “knowledge spillovers” among
+companies, business associations, and university
+faculty. The synergies associated with clusters often
+result in faster commercialization and growth of
+innovative technologies and services, driving growth
+in employment, wages, and revenue for the region.
+To support industry clusters, several states have
+launched cluster initiatives. Cluster initiatives are
+coordinated efforts – motivated by state leadership,
+policy, and funding – to accelerate and sustain
+growth of industry clusters. Cluster initiatives seek
+to build networks and dialogue among industry
+partners, universities, labor, philanthropy, and
+other stakeholders to identify areas where strategic
+investments or shared information and resources will
+support private-sector growth that achieves public
+goals, including economic development and climate
+goals. Cluster initiatives may sponsor education and
+training activities, encourage relationship building, or
+facilitate market development through joint market
+assessment and marketing, among many others.
+
+Net-Zero Greenhouse Gas
+Innovation Clusters
+The Council recommends that Montana launch
+cluster initiatives to decarbonize the state’s
+economy built around existing industries in the
+state and capacity among the state’s universities,
+community colleges, tribal colleges, and state
+agencies. Declaring decarbonization as a state goal
+provides a competitive advantage for Montana’s
+workers, businesses, and communities. Net-zero
+GHG innovation clusters will protect Montana’s
+economy, revenue, and jobs against future climate
+regulations. Decarbonization as an organizing
+goal will attract and retain business in our state,
+including entrepreneurs, investors, and industries
+that see innovation and decarbonization as a market,
+investment, and regulatory benefit. Montana also
+stands to benefit from a continuing national trend
+of advanced manufacturing and knowledge-based
+innovation sectors locating in smaller cities that have
+access to global markets, an educated and skilled
+labor force, and the quality of life and amenities
+business leaders and workers are seeking.
+The Council’s proposed Montana innovation initiative
+will draw on lessons learned among states and in
+Montana. The photonics cluster in Bozeman57 is
+an example of an industry cluster focused around
+
+57 https://www.montanaphotonics.org/
+
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 60
+
+technology developed jointly between Montana
+State University and local entrepreneurs. From
+small beginnings, this innovation cluster supported
+the creation of many private photonics businesses,
+collectively having substantial economic presence on
+our state and positive outlook for continued success
+and growth. The cluster arose organically because of
+synergies among basic research at the university and
+businesses. Strategic partnerships, shared material
+resources, a skilled locally trained workforce, and
+sustained research funding facilitated rapid growth.
+Montana’s proposed innovation initiative would
+first explore how the state can apply lessons
+from established industry clusters and assess
+opportunities to nurture, expand, and grow emerging
+innovation clusters and secure the associated
+economic and climate benefits. An innovation cluster
+initiative would a) convene key partnerships and
+networks, b) make strategic public investments
+in basic research and early commercialization
+efforts that are often too risky or diffuse for the
+private sector, and c) support the institutions that
+can sustain efforts over the years and decades
+sometimes required to achieve success.
+Properties that should be present before public
+investments are committed include a critical mass
+of companies in a defined geographic region that
+interact synergistically. The synergies may be
+based on product and supply chains, occupations
+and skills, technology and specialized knowledge,
+or other traits. The Brookings report Rethinking
+Cluster Initiatives58 identifies five common traits
+of successful cluster initiatives: 1) they focus on a
+robust ecosystem to produce talent, innovation, and
+economic opportunities, not just quick job gains 2)
+they are typically industry-driven, but with university
+involvement and government funding 3) the initiative
+is willing to target resources at specific opportunities
+based on unique and legitimate strengths 4) they
+have dedicated leadership and 5) they have a
+physical center allowing significant interaction.
+
+institutions are most-often located in the same city or
+region. Bozeman’s photonics cluster is an example
+of how synergies develop from proximity and the
+easy flow of information, resources, and people
+between public and private sectors. Montana’s
+precision agriculture, basic and applied research,
+and commercialization are occurring across wide
+distances and require new approaches to networking
+and leveraging shared assets. Montana’s innovation
+initiative can build capacity in unique ways that
+could become the standard for uniting the state with
+growing research and technology innovation centers
+with rural areas where natural resources, skilled
+labor, and business innovation are located.
+Montana’s competitiveness will stem from
+continued assessment and assembly of a statewide
+“innovation landscape” that engenders a culture
+among community and state leaders that motivates
+and incentivizes innovation. A robust innovation
+landscape provides the institutional framework that
+would coordinate the partnerships and relationships,
+funding and investment capital, and place-based
+roundtables identifying and driving forward industry
+clusters when they get started.
+The Council recommends learning from the success
+of existing innovation clusters and applying these
+lessons to accelerate growth and deployment of
+nascent clusters that will help achieve the state’s
+climate goals. Further, the Council recommends six
+possible regional industry technology development
+efforts that could be nurtured to form innovation
+clusters. These efforts build on existing strengths in
+our state’s energy, academic, industry, technology,
+and agricultural sectors (see Figure 7).
+
+Montana’s cluster initiative must be designed to
+overcome the limits of distance. Clusters benefit
+from proximity: industries, capital, and research
+58 https://www.brookings.edu/research/rethinking-cluster-initiatives/
+
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 61
+
+1.
+
+ orthwest Montana Mass Timber and
+N
+Wood Products Manufacturing Innovation.
+This region has an existing industrial
+cluster that includes SmartLam North
+America, FH Stoltze Land & Lumber Co.,
+and Idaho Forest Group. The University of
+Montana has research capacity to support
+innovation in mass timber construction,
+wood fiber insulation, and other low- and
+negative-carbon technologies. State and
+
+Figure 7: Montana’s Regional Innovation Clusters Initiative
+
+1 2 3
+5
+6
+4
+Bl a c kf e e t
+
+3
+
+10 Br o wn i n g
+
+13
+
+Kalispell
+
+9
+F l a th e a d
+
+NW MT MASS TIMBER
+& WOOD PRODUCTS
+MANUFACTURING
+INNOVATION CLUSTER
+
+H avre
+
+7
+
+F o rt Belknap
+19
+Ro cky Bo y’s
+
+L i ttl e S hell
+
+CENTRAL MT
+RENEWABLE ENERGY
+INNOVATION CLUSTER
+
+F o rt P eck
+
+NORTHERN PLAINS
+PRECISION AGRICULTURAL
+& SOIL CARBON
+INNOVATION CLUSTER
+
+Great Falls
+
+12
+
+15
+
+8
+
+Glendive
+
+18
+
+Mi s s o u l a
+5
+
+14
+
+Miles C it y
+
+16
+
+He l e n a
+
+4
+
+SW MT BIOFUELS
+INNOVATION CLUSTER
+
+Bu tte
+
+SW MT RENEWABLE
+HYDROGEN & ADVANCED
+ENERGY STORAGE
+INNOVATION CLUSTER
+
+6
+
+EASTERN MT
+NET-ZERO MANUFACTURING
+INNOVATION CLUSTER
+
+Billing s
+2
+
+1
+
+Bo zeman
+
+C ro w
+
+Lame D eer
+
+17
+
+11
+
+N o rt hern
+C heyenne
+
+Dillon
+
+INNOVATION CLUSTERS
+
+3 - MSU Northern
+
+8 - Bitteroot College - UM
+
+14 - Fort Peck Community College
+
+Cities
+INNOVATION CLUSTERS
+
+4 - Montana Tech
+
+9C-OSalish
+Kootenai College
+L L EGES
+10 - Blackfeet Community College
+
+15 - Great Falls College - MSU
+
+11 - Chief Dull Knife College
+
+17 - Little Big Horn College
+
+Native American Reservations
+Cities
+
+5 - University of Montana (UM)
+
+UNIVERSITIES
+Nati ve A meri can Reservations COLLEGES
+6 - University of Montana Western
+1 - Montana State University (MSU)
+2 - MSU Billings
+UNIVERSIT IES
+
+7 - Aaniiih Nakoda College
+
+1
+
+MT S t a t e University ( MSU)
+
+2
+
+MS U Bi l ling s
+
+3
+4
+5
+
+6
+
+16 - Helena College - UM
+
+U n iv e r s ity of M on ta n a We s te r n
+
+7 - Dawson
+Aa n iiih
+N a k odCollege
+a C olle ge 18 - Miles City Community College
+12
+Community
+13
+Community
+8 - Flathead
+B itte rValley
+oot C
+olle ge - U of 19
+M T- Stone Child College
+
+tribal community colleges – including
+MS U N orthern
+University of Montana-Western, Bitterroot
+Mont a na T ech
+College, Blackfeet Community College, and
+U ni v e r s i ty o f Mo ntana
+Salish Kootenai College – add capacity in
+workforce, skills training, and apprenticeship
+as well as institutional capacity to convene
+college, community, tribal, and industry
+leaders.
+Advanced wood products manufacturing
+aligns with adaptation efforts to thin
+small-diameter trees to manage wildfire
+risk around communities in Montana. Wood
+building materials also sequester carbon in
+buildings, reducing emissions from concrete
+construction. These efforts would grow the
+state’s industrial capacity and workforce
+
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 62
+
+9 College
+B la c k fe e t C ommu n ity C olle ge
+10
+
+C h ie f D u ll Kn ife C olle ge
+
+11
+
+D a w s on C ommu n ity C olle ge
+
+12
+
+Fla th e a d V a lle y C ommu n ity C olle ge
+
+14
+
+in the timber and manufacturing sectors
+and generate income and revenue in rural
+For t P e c k C ommu n ity C olle ge
+communities.
+Gr e a t Fa lls C olle ge - M T S ta te U
+
+15
+
+H e le n a C olle ge - U of M T
+
+13
+
+2.L ittle
+Central
+Montana Renewable Energy
+B ig H or n C olle ge
+Innovation. Montana has substantial
+1 7 M ile s C ity C ommu n ity C olle ge
+renewable energy generation and storage
+1 8 Ston e C h ild C olle ge
+potential of wind, solar, pumped-storage,
+and renewable hydrogen. Locating
+an innovation cluster around existing
+institutional and industry capacity in Great
+Falls, Havre, and Harlowton can accelerate
+the technology, infrastructure, and projects
+that will be needed to decarbonize
+Montana’s electricity system and maintain
+and expand the state’s position as an energy
+exporter.
+16
+
+3.
+
+ orthern Plains Precision Agricultural
+N
+and Soil Carbon Innovation. A Northern
+Plains precision agriculture and soil carbon
+innovation cluster would build on and expand
+research capacity at MSU Northern and
+MSU. Agriculture is an important sector
+in Montana’s economy and culture and is
+a key sector with opportunities to reduce
+emissions from operations, sequester carbon
+in soils, and meet regional and global market
+demands
+
+capacity located in Butte. Aligning research
+capacity at Montana Tech and Montana
+State University with the industry-led novel
+technology innovation could help advance
+and accelerate growth in battery technology
+and expand industrial applications of
+hydrogen – including heavy-duty vehicles,
+rail and equipment, home heating, and
+manufacturing processes.
+Electrifying Montana’s economy and
+eliminating emissions from the electricity
+sector requires continual advancement in
+short-term and seasonal energy storage at
+both distributed and utility scales. By some
+estimates, the global market for energy
+storage systems is expected to grow 13-fold
+from current levels by 2024.59 Designing and
+deploying these technologies in Montana
+will help meet the state’s climate goals
+and offers significant opportunity to grow
+and establish new businesses. The large
+industrial proposal from Mitsubishi Hitachi
+also represents a significant opportunity
+to develop new skills and job markets for
+Montana labor.
+
+Building on successful research and
+technology integration efforts at Montana
+State University, new technology
+innovation can be developed that focuses
+on decarbonizing agricultural processes
+and sequestering carbon in soils. By
+working with industry, technology
+providers, and agricultural producers,
+MSU can better understand technology
+improvements and opportunities for research
+demonstrations that highlight economic
+and carbon-reduction opportunities. Those
+demonstrations will then serve as the
+springboard for the new innovation cluster,
+centered at least in part on the Hi-Line.
+5.
+4.
+
+ outhwest Montana Renewable Hydrogen
+S
+and Advanced Energy Storage Innovation.
+A significant proposal from Mitsubishi Hitachi
+Power Systems to establish an electrolysis
+plant in Butte creates opportunities to
+establish research capacity to deploy a
+new, world-leading method for energy
+storage and electricity generation. The
+electrolysis process planned would use
+excess renewable electricity capacity
+seasonally to split water into hydrogen and
+oxygen. The hydrogen could be stored
+seasonally and used to generate electricity
+when demand exceeds renewable energy
+capacity. Montana already has a nascent
+cluster around REC Silicon Inc., the nation’s
+sole supplier of silane gas critical in the
+manufacture of next-generation lithiumion batteries and anodes, and research
+
+ outhwest Montana Biofuels Innovation.
+S
+This cluster will target creating the
+technologies and scale-up capabilities
+required for large-scale biofuels
+manufacture. A key goal is to minimize or
+eliminate the use of diesel fuel derived from
+non-renewable sources, a major source of
+carbon emissions for our state. Diesel is
+used to fuel large vehicles (e.g., for trucking,
+agriculture, and construction) and, most
+importantly, to fuel jet travel. Electrifying
+such vehicles, an especially positive move if
+it could be done with solar- or wind-derived
+energy, is hindered by energy needs and
+current battery capacity. Thus, development
+of biodiesel and biojet fuel manufacturing
+will be a key focus of the biofuels innovation
+cluster. The cluster will include existing
+capacity at UM Missoula, MSU and MSU
+Northern (e.g., Energy Research Institute,
+
+59 https://www.woodmac.com/reports/power-markets-global-energy-storage-outlook-2019-295618
+
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 63
+
+Chemical Engineering, Plant Sciences,
+Forestry, others), the Northwest Advanced
+Renewables Alliance,60 private industry,
+agricultural producers, and labor. The
+emphasis will be on the creation of diesel
+and biojet fuel from Montana-sourced
+feedstocks, including wood products waste,
+ag production waste, and crops grown
+specifically as biofuels sources such as
+safflower, camelina, and algae.
+6.
+
+ astern Montana Net-Zero Manufacturing
+E
+Innovation. The long-standing industrial
+cluster in Billings provides an opportunity
+to decarbonize existing industries through
+innovation and a networked approach to
+industrial processes, carbon capture and
+storage, and renewable energy innovation
+and deployment. Large-scale industrial
+processes will continue to need utility-scale
+power generation, but innovation in industrial
+and manufacturing processes to decarbonize
+the regional industrial cluster could expand
+capacity to attract new, low-carbon industrial
+development.
+Co-locating industrial processes can utilize
+waste heat and make carbon capture and
+storage economic, reducing or eliminating
+GHG emissions from large-scale industrial
+processes. Decarbonizing Montana’s
+industrial cluster in Billings will reduce GHG
+emissions, protect the state’s economy
+from potential carbon regulations, and
+attract new investment and industry that see
+decarbonization as a market, financial, and
+regulatory benefit.
+
+support new clusters not identified by the Council’s
+work to date.
+The following recommendations include steps the
+state can take to assess the viability of regional
+innovation clusters and to build capacity to
+coordinate innovation initiatives across Montana.
+The recommendations draw on lessons learned
+from existing industry clusters in Montana and from
+existing work and capacity in state agencies and
+the university system to coordinate and advance
+research and business development in innovation
+sectors. Additionally, some aspects of the innovation
+landscape are influenced by policy, particularly
+the innovation environment and the culture. The state
+should investigate best practices in jurisdictions with
+strong innovation landscapes to develop policies
+that: a) create competitive business and regulatory
+environments; b) foster effective fiscal incentives;
+and c) provide financial and infrastructure incentives
+to promote business growth. The design of the
+policy environment can support innovation in market
+formation (for example, energy balancing markets).
+Strategies should focus on actions the state can
+take to create, coordinate, and support innovation
+initiatives, including roundtables organized around
+new partnerships, collecting and sharing information,
+and prioritizing research and public investments.
+
+The Council acknowledges that these
+recommended innovation initiatives will not all lead
+to successful, sustained industry clusters. On the
+other hand, several steps can be taken to support
+the growth, development, and success of nascent
+clusters, whether existing or formative. Any new
+policy direction related to innovation clusters must
+also be flexible and responsive to identify and
+60 https://nararenewables.org/
+
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 64
+
+CASE STUDY
+
+What’s in a Cluster?
+Montana’s Photonics Industry
+
+E
+
+arly in the Montana Climate
+Solutions Council’s deliberations,
+the Council had the opportunity to
+hear from Trent Berg, president of
+the Montana Photonics Industry
+Alliance, co-founder of Blackmore
+Sensors and Analytics (now Aurora
+Innovations), and program director
+of Photonics and Laser Technology
+at Gallatin College. Berg was active
+from the beginning during the
+emergence and ultimate success
+of the photonics industry cluster in
+the Gallatin Valley. Photonics is the
+science and technology of generating,
+detecting, and controlling light.
+Photonics technology is key to many
+of the things we rely on every day
+including smartphones, DVD players,
+cameras, medical instruments, and
+lighting products. Photonics will
+power many of the most important
+innovations of the 21st century,
+including applications in energy,
+precision agriculture, manufacturing,
+and transportation that will drive the
+transformation required to achieve
+climate solutions.
+From modest beginnings in the 1980s,
+Montana’s photonics cluster is now
+comprised of over 30 organizations,
+one of the highest per capita
+concentration of optics and photonics
+companies and research institutions
+in the United States. The cluster
+supports high-wage jobs in private
+and university research, development,
+and commercialization. What fueled
+that success and how can be it be
+replicated?
+Berg credits much of the success
+to Montana’s strong fundamentals:
+world-class outdoor amenities, an
+academic infrastructure that fosters
+original applied research, and a focus
+on attracting and developing a skilled
+
+and innovative workforce. Once
+started, the companies and university
+partners nurtured and grew the
+material capacity (labs, equipment,
+etc.), workforce, specialized suppliers,
+revenue and research funding, and
+a cluster’s leadership characteristic
+that reinforces and accelerates
+development of ideas, products,
+and profits.
+Around the world, countries like the
+United Kingdom are beginning to
+study and apply the logic and power
+of cluster economic development
+strategies to the challenges of
+confronting global climate change.
+With backing from the UK Industrial
+Strategy Challenge Fund, the effort
+aims to recruit global investment and
+demand for low-carbon products
+and technologies by harnessing the
+power of markets, the public sector,
+universities, and local communities.
+The Fund aims to have at least
+one cluster with the low-carbon
+infrastructure needed to support
+
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 65
+
+industrial decarbonization in place
+by 2030, and at least one cluster that
+has achieved net-zero GHG emissions
+by 2040.
+The Montana Climate Solutions
+Council recommends launching
+a Montana regional innovation
+cluster initiative. The initiative would
+support applied research and
+business innovation partnerships to
+create hubs for economic growth in
+support of the transition to a net-zero
+economy. The Council recognizes the
+importance of sparking innovation
+through collaboration and creating
+intersections where companies
+and university partners can share
+ideas and research developments.
+Additionally, the initiative would
+leverage existing research and
+business innovation with attention
+and focus on leadership and
+workforce development efforts that
+train Montana’s workers for emerging
+job opportunities tied to new growth.
+
+R E C O M M E N D AT I O N S
+Section I. Moving Montana’s Economy to Net Greenhouse Gas Neutrality
+Through Innovation and Advanced Manufacturing
+
+3A:
+
+ ontana, Led by the Montana Science and Technology Committee and
+M
+the Office of the Commissioner of Higher Education, Should Identify Key
+Opportunities for Technology-Led Economic Development, Prioritizing
+Areas that Assist with Climate Change Transitions and Mitigation
+3A: KE Y STR ATEGIES
+
+3B:
+
+61
+
+•
+
+Revise and update Montana’s Science & Technology Plan61 with a focus on
+industry linkage opportunities and opportunities to foster and sustain competitive
+industry/university collaborations in basic and applied research.
+
+•
+
+Within identified areas of strength, charge and fund key networking organizations
+(e.g., industry organizations, university research centers, state agencies) with
+regularly convening key university/industry/society players.
+
+•
+
+Within the Montana University System, institute seed-granting opportunities and
+research capacity building efforts to grow the state’s university expertise and
+competitiveness in each identified area of strength
+
+ he Montana Legislature Should Invest in Initiatives that Build University/
+T
+Industry/Society Innovation Linkages to Address Key Montana Challenges,
+Including Climate Change
+
+https://www.mus.edu/research/MUS_STPlan_2015.pdf
+
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 66
+
+3B: KE Y STR ATEGIES
+
+3C:
+
+•
+
+Institute a state-funded grant program to further develop research capabilities
+and user facilities at Montana’s public universities, with a goal of leveraging these
+facilities to grow innovative Montana-based technology development companies
+and clusters.
+
+•
+
+Develop a recruitment and retention funding pool for strategic growth in research
+capabilities in key areas of state need.
+
+•
+
+Appropriate further rounds of funding for the Montana Research and Economic
+Development Initiative62 to encourage applied research addressing Montana
+needs.
+
+•
+
+Set aside a match-funding pool to increase Montana researcher’s competitiveness when pursuing federal grant dollars and capitalize on existing federal and state
+tax incentives and work to create new incentives where deemed appropriate.
+
+•
+
+Develop, identify, and appropriately fund a research center or institute charged
+with networking and organizing university research and university/industry
+linkages statewide in the area of energy innovation. Key areas of focus based on
+Montana’s industry and existing research expertise may include biofuels, energy
+storage, transportation, grid electrification, and energy-related agricultural
+practices.
+
+•
+
+Utilize and bolster existing apprenticeship programs at state agencies in
+Montana to transition and prepare Montana’s workforce for innovation sectors.
+
+ ork to Establish Multiple Regional Innovation Clusters in Montana
+W
+Focused on Decarbonization of Montana’s Industries by 2035
+3C: KE Y STR ATEGIES
+•
+
+62
+
+Resource and convene statewide innovation initiatives with university, state
+agency, private industry, labor, finance, and non-profit sector leaders to assess
+the viability of innovation clusters. These initiatives should begin with regional
+roundtables focused on assessing the viability of six emerging regional innovation
+clusters listed below. Other regional clusters may well emerge as the roundtables
+convene. However, the six listed have been identified through the work of this
+Council as areas where, to some extent, private and public research, development,
+and commercialization of innovations that will help decarbonize Montana’s
+industries is already occurring or has good potential for success:
+
+https://www.mus.edu/research/research_initiative.html
+
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 67
+
+•
+
+•
+
+Northwest Montana Mass Timber and Wood Products Manufacturing
+Innovation Cluster
+
+•
+
+Southwest Montana Renewable Hydrogen and Advanced Energy Storage
+Innovation Cluster
+
+•
+
+Eastern Montana Net-Zero Manufacturing Innovation Cluster
+
+•
+
+Northern Plains Precision Agricultural and Soil Carbon Innovation Cluster
+
+•
+
+Central Montana Renewable Energy Innovation Cluster
+
+•
+
+Southwest Montana Biofuels Innovation Cluster
+
+Over time, identify a cross-sector team, emerging either directly from government
+or as a public/private partnership or non-profit, charged with and resourced to
+support nascent cluster initiatives.
+
+Section II. Building Resilience to Prepare Montana’s Communities, Economy,
+and Workers for Transitions
+
+Economic transitions often occur without consistent or coherent policy to address displaced
+workers and community impacts. Unions secured wages, benefits, workplace safety, and
+jobs security that transformed employment in the manufacturing sector into respected
+and desired jobs. As these jobs have declined, no significant replacement for similar skills
+has emerged and other sectors have lacked the same wages, benefits, or security.
+An industrial transition required to meet ambitious decarbonization goals will require
+innovation and investment in technology and infrastructure. These investments
+must be matched with clear and consistent support for the role of unions, fossil
+fuel communities, disadvantaged communities, tribal communities, and displaced
+workers in shaping industrial policy and spending. That includes discussions
+around workforce training and apprenticeship, wages and benefits, and community
+impacts related to the closure and replacement of energy infrastructure.
+
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 68
+
+The Council calls for engagement with labor, the fossil fuel industry, state agencies,
+and the university system to ensure a just transition for communities and workers.
+The workforce recommendations here are aligned with recommendations related to
+innovation, commercialization, and deployment of technologies that are required to
+meet decarbonization goals, recommendations to network and build capacity to prepare
+Montana’s communities for climate and economic transitions, and recommendations
+to align fiscal policy with economic development and transition strategies.
+
+3D:
+
+ repare Montana’s Workforce for Opportunities in a Changing Economy
+P
+and in Sectors Important to Climate Mitigation and Adaptation
+Montana’s climate, transition, and industrial policies should benefit the state’s workforce and
+ensure justice for displaced workers, including through the key strategies listed below.
+
+3D: KE Y STR ATEGIES
+•
+
+ ocus on apprenticeship. Apprenticeship ensures that training is targeted to
+F
+actual needs and opportunities. It reduces risk by keeping existing workers in
+the workforce instead of removing them for months or years of education and
+re-training. Montana should expand existing, approved apprenticeship programs
+registered with the Montana Department of Labor and Industry and develop
+and provide new registered apprenticeship programs, if required, specifically
+to transition fossil fuel extraction, transmission, and power generation workers
+to renewable energy infrastructure and generation sectors.
+
+•
+
+ stablish career training centers in public school systems that deliver basic
+E
+and advanced skills-based training to middle and high school students throughout
+the state. These can be coordinated with proposed innovation initiatives and
+networked with community and tribal colleges. (For example, Billings Career
+Center in the Eastern Montana Net-Zero Manufacturing Innovation Cluster).
+
+•
+
+ ecure prevailing wages in industrial, energy, transportation, and building
+S
+sectors, including renewable energy, efficiency, and infrastructure required to
+meet decarbonization goals.
+
+•
+
+Allow for neutrality agreements for the purpose of collective bargaining for any
+new major generation facility or site.
+
+•
+
+ he state should develop funding and regulatory proposals to advance
+T
+these efforts.
+
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 69
+
+3E:
+
+Reform Montana Fiscal Policy to Address Economic Transitions
+Montana’s economy is transitioning away from natural resource extraction sectors and
+toward services. The economic transition will have fiscal implications because of the state’s
+existing tax structure that taxes natural resource sectors more highly than other economic
+activities (such as health care, the fastest-growing employment sector in the state).63 The
+state also faces rising costs associated with extreme flood, drought, and wildfire events
+as well as healthcare impacts on an aging population, particularly in rural areas.
+Recommendations to accelerate decarbonization of Montana’s electric power sector and
+the state’s economy will have fiscal implications. The exact revenue impact is unknown,
+but the Council discussed the economic, workforce, and fiscal implications of proposed
+recommendations. The Council acknowledges the broader structural transition in revenues
+already under way in response to changing market, economic, and policy conditions affecting
+our region and further recognizes the key challenges that energy transitions pose for Montana
+and neighboring states in light of current tax structures.
+
+3E: KE Y STR ATEGIES
+Currently, two legislative interim committees in the Montana legislature are studying
+and making recommendations for possible reforms to the state’s tax structure. These
+reforms should include revenue and budget policies that ensure local governments
+have fiscal tools and revenue to continue to provide services and infrastructure as
+the economy transitions. For example, reforms should consider greater autonomy for
+local governments to manage volatile revenue and save for transition and adaptation
+needs; dedicated state and local resources to bolster and sustain adaptation and
+transition planning over time; and new revenue policies that broaden the tax base,
+address inequities among communities and economic sectors, and generate more
+sustainable and predictable revenue as the economy continues to restructure and grow.
+The Council makes no specific fiscal policy recommendations. The Council
+recognizes the need to address revenue impacts and spending needs associated with
+decarbonization. Better alignment between Council recommendations and the interim
+committees could help the state understand the types of revenue impacts that may
+occur and to develop evidence-based solutions using actual revenue and budget data.
+
+63
+
+https://leg.mt.gov/content/Committees/Interim/2017-2018/Revenue-and-Transportation/Taxes-Changing-Economy/Meetings/Mar-2018/Exhibits/
+MontanaEconomyandTaxRevenue.pdf
+
+A C C E LE R AT I N G DECARBO NI ZATI O N AND I NNOVATION – 70
+
+LIST OF COUNCIL MEMBERS
+Montana Climate Solutions Council
+Tom Armstrong, Bozeman.
+Armstrong is president of the
+Madison River Group.
+Scott Bischke, Bozeman.
+Bischke is a consulting
+chemical and environmental
+engineer and co-principal for
+MountainWorks Software, Inc.
+Bill Bryan, Bozeman. Bryan is
+the co-founder of One Montana.
+Amy Cilimburg, Missoula.
+Cilimburg is the executive
+director of Climate Smart
+Missoula.
+Al Ekblad, Helena. Ekblad is
+the executive secretary of the
+Montana AFL-CIO.
+Sally Ericsson, Whitefish.
+Ericsson is a strategic
+consultant for non-profit
+organizations and foundations.
+Kathy Hadley, Deer Lodge.
+Hadley is the former executive
+director of the National Center
+for Appropriate Technology.
+Mark Haggerty, Bozeman.
+Haggerty is a research director
+at Headwaters Economics.
+David Hoffman, Helena.
+Hoffman is the director
+of government affairs for
+NorthWestern Energy.
+Kelsey Jencso, Missoula.
+Jencso is the state climatologist
+for the Montana Climate Office
+at the University of Montana.
+Chuck Magraw, Helena.
+Magraw is with the Natural
+Resources Defense Council.
+
+LI S T O F C O U N C I L MEMBERS – 71
+
+Jayne Morrow, Chinook.
+Morrow is the assistant vice
+president of research and
+economic development at
+Montana State University.
+Bruce Maxwell, Bozeman.
+Maxwell is the co-director
+of the Montana Institute on
+Ecosystems and professor of
+agroecology and applied plant
+ecology at Montana State
+University.
+
+Joe Thiel, Helena. Thiel is the
+director of academic policy
+and research for the Montana
+University System.
+Steve Thompson, Butte.
+Thompson is the executive
+director of the National Center
+for Appropriate Technology.
+Paul Tuss, Havre. Tuss is the
+executive director of the Bear
+Paw Development Corporation.
+
+Todd O’Hair, Helena. O’Hair
+is the president and CEO
+of the Montana Chamber of
+Commerce.
+
+Andrew Valainis, Missoula.
+Valainis is the executive director
+of Montana Renewable Energy
+Association.
+
+Alan Olson, Helena. Olson
+is the executive director
+of the Montana Petroleum
+Association.
+
+Gerald Wagner, Browning.
+Wagner is the director of the
+Blackfeet Environmental Office
+for the Blackfeet Nation.
+
+Caitlin Piserchia, Missoula.
+Piserchia is a climate organizer
+who works for the Montana
+chapter of the Sierra Club.
+
+Charlene Waters Alden, Lame
+Deer. Alden is the director of
+the Environmental Protection
+Department for the Northern
+Cheyenne Nation.
+
+Diego Rivas, Helena. Rivas is
+senior policy associate for the
+NW Energy Coalition.
+Eric Somerfeld, Power.
+Somerfeld is a family farmer.
+Lee Spangler, Bozeman.
+Spangler is the director of the
+Big Sky Carbon Sequestration
+Partnership at the Montana
+State University.
+Tracy Stone-Manning,
+Missoula. Stone-Manning
+is associate vice president of
+public lands at the National
+Wildlife Federation.
+
+Cathy Whitlock, Bozeman.
+Whitlock is a regents professor
+in earth sciences and fellow
+of the Montana Institute on
+Ecosystems at Montana State
+University.
+Gary Wiens, Great Falls.
+Wiens is the CEO of the
+Montana Electric Cooperatives’
+Association.
+Laura Wood-Peterson,
+Billings. Wood-Peterson is the
+senior director of government
+affairs for Indio Agriculture.
+
+ExOfficio Members
+Jennifer Anders, Anaconda.
+Qualification: Northwest Power
+Planning Council representative
+and ex-officio member.
+Commissioner Galen
+Hollenbaugh, Helena.
+Qualification: Director of the
+Department of Labor and
+Industry or designee and
+ex-officio member.
+Patrick Holmes*, Helena.
+Qualification: Governor’s Office
+representative and ex-officio.
+Director John Lewis, Helena.
+Qualification: Director of the
+Department of Administration
+or designee and ex-officio
+member.
+
+* denotes voting members
+
+Director Shaun McGrath*,
+Helena. Qualification:
+Director of the Department
+of Environmental Quality
+or designee and ex-officio
+member.
+
+Director Mike Tooley, Helena.
+Qualification: Director of the
+Department of Transportation or
+designee and ex-officio member
+and is an addition to this new
+Council.
+
+General Matthew Quinn,
+Fort Harrison. Qualification:
+Director of the Department of
+Military Affairs or designee and
+ex-officio member.
+
+Director John Tubbs*,
+Helena. Qualification: Director
+of the Department of Natural
+Resources and Conservation
+or designee and ex-officio
+member.
+
+Amy Barnes*, Helena.
+Qualification: Representative of
+the director of the Department
+of Commerce and ex-officio
+member.
+
+Director Martha Williams,
+Helena. Qualification: Director
+of the Department of Fish,
+Wildlife and Parks or designee
+and ex-officio member.
+
+Director Ben Thomas,
+Helena. Qualification: Director
+of the Department of Agriculture
+or designee and ex-officio
+member.
+
+Photo Credits
+Cover
+
+Montana Department of Commerce
+
+p. 38
+
+Montana Department of Commerce
+
+p. 3
+
+Montana Governor’s Office
+
+p. 42
+
+Montana Department of Environmental Quality
+
+p. 4
+
+Montana Department of Commerce
+
+p. 46
+
+Montana Department of Environmental Quality
+
+p. 9
+
+Montana Department of Commerce
+
+p. 52
+
+Montana Department of Commerce
+
+p. 10
+
+Chris Boyer, Kestrel Aerial
+
+p. 55
+
+Montana Department of Environmental Quality
+
+p. 11
+
+Rachel Leathe, Bozeman Daily Chronicle
+
+p. 59
+
+William Campbell
+
+p. 12
+
+Montana Department of Commerce
+
+p. 60
+
+Montana Department of Commerce
+
+p. 21
+
+Jordan Solar
+
+p. 65
+
+Bridger Photonics
+
+p. 24
+
+Montana Department of Environmental Quality
+
+p. 66
+
+Montana Department of Commerce
+
+p. 27
+
+Montana Department of Commerce
+
+p. 68
+
+Montana Department of Commerce
+
+p. 28
+
+Montana Department of Commerce
+
+Wave Textures by rawpixel.com / Freepik
+
+p. 36
+
+Mountain Line
+
+A R E P O R T BY T H E M O N TA N A C L I M AT E S O L U T I O N S C O U N C I L
+h t t p s : //d e q .m t .g ov/clima t e /
+
+

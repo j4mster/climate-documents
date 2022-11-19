@@ -1,0 +1,85 @@
+Hi Taylor,
+
+Here's a simple example of the kind of data cleaning and data hunting work I'd like to hire someone to help with. (Apologies for the long and convoluted email; having written this out I realize now it may have been easier to talk through this over Zoom.)
+
+Summary of proposed tasks
+
+(1) Find and download US state-level climate action plans, convert pdf to text, read through the text files and clean them (remove artifacts, convert tabular data into actual delimited tables, keep track of headers, nested headers, lists, etc.).
+
+(2) Same for US city-level climate action plans.
+
+(3) Same for international nation-level documents that support nation-level Paris Agreement climate action plans. (Paris Agreement documents often refer back to national climate plans, national economic development plans, sector-specific development plans, etc., which contain considerably more information on climate mitigation and adaptation efforts than the Paris Agreement documents themselves.)
+
+More detail
+
+State climate action plans
+
+In our work with Daniel using US state climate action plans, we downloaded ~ 40 state climate action plans from a website called C2ES Center for Climate and Energy Solutions https://www.c2es.org/document/climate-action-plans/
+
+The C3ES website provides links to 39 state climate action plans released by 30 states (some states have updated plans in addition to their original plans).
+
+For the EMNLP paper I randomly pulled 5 pages from each of the 39 documents and then randomly pulled a paragraph from each page and copy pasted it into a pipe delimited spreadsheet with some supplementary information (state, page number, total number of pages, etc.). Daniel and Tanmay then applied their models to these paragraphs and associated them with questions from the Climate Disclosure Project questionnaires. Extracting the paragraphs from the state climate action plans was simple; it didn't take very long.
+
+In the process I saw that there's a lot of Very useful information in these plans, very detailed action and evaluation steps proposed. So it would be great if we could figure out how to extract the action steps in a systematic way.
+
+Stepping back from the state level plans for a moment, in our previous work we used the international UNFCCC Paris Agreement Nationally Determined Contributions (NDCs), which had been cleaned and converted into html format by a group called ClimateWatch.
+
+The ClimateWatch data are great. Really clean. They annotated a very large number of sentences and paragraphs, classified them, linked them to UN Sustainable Development Goals among other things. They obviously did a ton of work.
+
+So my question is: can we replicate the process with the state climate action plans?
+
+I started the process with the Arizona 2006 plan which is only 11 pages (I thought), "AZ_2006_Action_Plan_ES_00.pdf"
+
+Attached is the Arizona plan, a copy-pasted text version, a cleaned version. For copy paste, "AZ_2006_Action_Plan_ES_01_Copy_Paste.txt", I just went through page by page in Apple's Preview app and copy pasted. It does a reasonable job with multiple columns on a page.
+
+But it didn't do a good job with the table on pages E9 and E10 (pages 12 and 13). So for those I took cropped screenshots of each column and then used Apple's smart image text select tool to extract the relevant text, and then used column paste in BBEdit to piece the table back together correctly, inserting tabs between the columns. It took some thinking to line this up correctly since some of the cells were multiline and had to have the newlines removed. It wasn't difficult and took very little time.
+
+All of this was saved as a new document, "AZ_2006_Action_Plan_ES_02_Edited.txt" with some other tweaks. (I went through paragraph by paragraph adding blank lines to separate the paragraphs, fixing any weird errors. The biggest fix was that one table, but there were some other fixes that required human intelligence, such as parsing the list of contributors on the second page of the pdf document.)
+
+Finally, following the lead of the ClimateWatch team I went through and added some very simple markup to the document. <title> <h1> <h2> <h3> <ol> <ul> <caption> <table>. That's in "AZ_2006_Action_Plan_ES_03_Edited_with_Markup.txt". This could be done more thoroughly, including <p> tags for instance.
+
+All of the above steps took me about 30 minutes, or 3 minutes per page.
+
+As I was going through the process I realized that this was just an Executive Summary document, so there must be a full document out there somewhere. Sure enough with a little searching online I found the complete document, "AZ_2006_Action_Plan statepubs_3104.pdf" which contains an addition 84 pages. At 3 minutes per page this would take me ~ 5 hours to process. For a student, maybe 10 hours?
+
+Note that the 39 climate action plans on the C2ES site have 6815 pages total, an average of 175 pages for each document. If it takes 5 minutes to process each page, that's on the order of 500-600 hours of work.
+
+But maybe we don't need to do such a thorough cleaning of the documents. Maybe it's enough to just pdf2text the documents and say, well, they're dirty text files but maybe they're still useful. Or maybe we could clean a handful of the documents, post them in an online repository of climate action plans with instructions on how to clean and annotate documents, and then reach out to the community to see if people out there can help with the task, maybe people who are actually familiar with specific documents from their state, or their community.
+
+City-level documents
+
+In searching for the complete AZ climate action plan I also stumbled across plans for Flagstaff, Mesa, Phoenix, Sedona, and Tempe. And I'm sure there are other cities in Arizona that have published plans. Each of these plans were about 100 pages.
+
+On the topic of city-level climate action plans, there's a research group led by Tania Lopez-Cantu, a PhD student at Carnegie Mellon, who pulled together 48 US city plans.
+
+So, that's another possible project for a student or team of students: find and process these plans.
+
+Supporting documents for the Paris Agreement climate action plans
+
+Finally, in Winter and Spring quarters last year I had an undergrad help me augment the ClimateWatch set of documents. In the Paris Agreement plans (NDCs), many of the documents refer to external country-level documents. For example, the New Zealand NDC is only 2 pages. New Zealand obviously has a much more comprehensive climate action plan, which they refer to in their NDC. Similarly, for Nigeria, for example, we found about a dozen national-level document references in their NDC. And similar numbers for half a dozen other African states (my student was focused on Africa exclusively). And then there are 2021 updates to the 2015 plans, and each of these also reference a number of new national-level documents.
+
+So, another interesting project would be to have students continue my previous research assistant's project. But instead of focusing on 6 countries, expand the search to the remaining ~180 countries with Paris Agreement plans.
+
+This is a big project. Finding the documents referenced in the Paris Agreement plans is often a nontrivial task.
+
+Summary
+
+So these are some projects I'd like help with. Question is whether it's suitable to use the money from CCAI to begin to build this repository. Also, how far could I get with $10k?
+
+Also
+
+Finally I have three or 5+ other text extraction tasks I could use help with, of varying complexity. I'd be happy to explain those to you as well. One is about media coverage of drought, one is about extracting California flood damage estimates from state agency documents, one is about extracting information from 80+ years of Lloyds of London global ship loss records (dating back to early 20th century, so you can imagine what those scanned tables look like), one is a simple text to table conversion for air conditioning usage in California which I could probably do myself in a day, but it would be great to have help for little one-off conversion problems like that, one involves extracting useful information from California Coastal Commission emergency rebuild permits, etc.
+
+Thoughts on where to begin, or if these tasks are even appropriate uses of this funding?
+
+Thanks, Tom
+
+
+
+
+
+
+
+
+
+

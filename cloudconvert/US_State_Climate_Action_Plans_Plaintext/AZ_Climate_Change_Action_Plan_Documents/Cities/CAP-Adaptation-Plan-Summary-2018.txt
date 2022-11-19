@@ -1,0 +1,477 @@
+0
+
+1. Introduction
+The Central Arizona Project (CAP) provides a renewable water supply to central and southern Arizona,
+where about 80 percent of the population of Arizona resides. This water supply comes from the Colorado
+River Basin and is subject to priority administration during drought. Recent drought, as well as studies on
+the potential impacts of climate change, have put a fine point on the need for CAP to be prepared for
+changing conditions. A prolonged shortage in the Colorado River Basin due to persistent drought could
+cause CAP to suffer a reduction in water diversions from the river. In addition, drier and warmer conditions
+may have broader effects on water demand, the economy, and CAP’s financial security. It follows that
+climate change could have far-reaching effects throughout the CAP organization. The purpose of the
+climate adaptation project described herein is to investigate the potential effects of climate change across
+CAP departments, and to develop a plan to increase CAP’s resiliency.
+
+2. Primary Climate Change Concerns for CAP
+The Colorado River Basin generates CAP’s water supply, so warmer and drier conditions caused by
+prolonged climate change-induced drought in the watershed, with reduced snowpack and streamflow, is
+a major challenge that requires active management. Increased warming in the CAP service area also
+results in inflated water demand from customers, and extreme weather events such as flooding negatively
+impact CAP’s water infrastructure.
+Drought in the Upper Colorado River Basin
+Prolonged drought conditions in the Colorado River Basin can impact the annual water supply available
+for the basin’s water users. Reliability of Colorado River water supply is strongly influenced by hydrologic
+conditions in the Upper Colorado River Basin. As such, annual Colorado River flow is dependent on winter
+precipitation, snowpack accumulation, and spring runoff that occurs in the Upper Basin.
+Drier and hotter conditions associated with drought may reduce the accumulation of snow during the
+winter season due to fewer precipitation events and increased sublimation and melting of the existing
+snowpack. In addition, excessively warm winter temperatures coupled with winter precipitation may
+cause rain instead of snow to fall on the snowpack. This has the effect of reducing the size of the winter
+snowpack. This reduction in snowpack can impact spring runoff, when snow accumulation shifts to snow
+melt. The volume of snowmelt generated from spring runoff is critical in determining inflow into Lake
+Powell and subsequently the active storage of the Colorado River system.
+Water stored in Lake Powell and Lake Mead constitutes the large majority of the Colorado River Basin’s
+system storage. The elevation and volume of the water stored in Lake Powell and Lake Mead factor into
+how much water is delivered to downstream users in the Lower Colorado River Basin. If the Lower Basin
+is under shortage conditions due to Lake Mead storage falling below 1075 feet elevation, Arizona suffers
+a reduction to its 2.8 MAF annual allocation of Colorado River.
+Furthermore, CAP is a junior Colorado River priority holder in Arizona, and due to the nature of its
+Colorado River entitlement will be expected to absorb reductions to Arizona’s Colorado River allocation
+due to shortage. This reduction propagates down to CAP’s customers in central Arizona, which include
+cities, farms, and Indian communities. Therefore, a primary effect of sustained drought due to climate
+change on the Colorado River Basin is reductions to precipitation, snowpack accumulation, and snow melt.
+When these outcomes are coupled with the operating framework of the Colorado River system and
+cascaded downstream, Arizona, and more specifically CAP, bears the largest brunt of vulnerability in terms
+of cuts to its Colorado River water supply.
+1
+
+Increased Warming in the Lower Colorado River Basin
+Rising regional temperatures associated with increased warming due to drought and climate change
+produce several effects relevant to CAP and its operations. Higher temperatures in the southwest
+translate to greater potential evaporation. For water stored in Lake Mead, this could mean an accelerated
+timetable toward Lower Basin shortage and reductions to Arizona and CAP’s annual Colorado River
+diversion. Higher evaporation rates can also impact the volume of CAP water stored in Lake Pleasant,
+reducing CAP’s flexibility in utilizing that stored water to meet CAP customer demands in central Arizona.
+Higher temperatures tend to cause water use to inflate, especially for agricultural customers and
+particularly during the summer months. An inflation of water use for Arizona’s Colorado River water users,
+reduces the volume of Colorado River water that CAP can divert and deliver to its customers in central
+Arizona. A similar effect can occur within CAP’s framework of customer priority, such that higher priority
+users may utilize more CAP water, leaving less water available to lower priority contract holders.
+In terms of CAP’s infrastructure, an increase of monthly temperatures can accelerate the degradation and
+lifespan of CAP’s physical assets (e.g. CAP canal, pumping plants, and mechanical parts). Higher
+temperatures may also encourage algae growth and proliferation of aquatic nuisance species in the
+waters of the CAP canal, necessitating an increase in maintenance activities. In addition to the physical
+operations that experience high vulnerability due to increased warming, extreme temperatures also
+generate health risks and dangers to CAP’s workforce, especially to CAP employees who work in the field
+and are exposed to these conditions on a daily basis.
+Finally, a potential cost component driven by increased temperatures relates to power costs during peak
+temperature periods. As the largest consumer of energy in Arizona, the CAP system may endure higher
+energy costs during the summer months due to inflated costs associated with the peak energy demand
+portion of the year. Since CAP’s operations generally cannot be scaled back to mitigate higher energy costs
+in the summer, CAP will have to factor for these power costs in the summer when water and energy
+demand are both high.
+Extreme Weather Events in the CAP Service Area
+The primary concern for CAP when it comes to extreme weather events is directly related to the durability
+of its infrastructure and the safety of its employees. Central Arizona continues to experience extreme
+weather events such as dust storms, heavy thunderstorms, flash flooding, and high winds with some
+periodic regularity. All of these extreme events can stress CAP’s existing infrastructure, shortening the
+lifespan of physical assets and increasing the risk of system failures. When coupled with accelerated
+degradation of infrastructure due to warming, extreme events can cause significant damage to CAP
+infrastructure and require higher and more frequent levels of maintenance. The frequency and intensity
+of these extreme weather events also poses a safety risk to CAP employees, particularly for those who
+primarily work out in the field.
+
+3. Scenario Planning Approach
+The impact of climate change on CAP is dependent on future conditions, which are by definition uncertain.
+To help shape policies that will ensure the resiliency of CAP and its ability to divert and deliver Colorado
+River water, a scenario planning approach was developed, that considers a range of future conditions.
+Considering a range of future conditions allows CAP to be prepared for a variety of circumstances,
+mitigating uncertainty.
+
+2
+
+The scenario planning process used for this study was centered on workshops attended by CAP subject
+matter experts. A summary of the process is described as follows:
+•
+
+Develop focal questions and assemble the CAP team. Prior to the workshops, the focal questions
+were developed, and CAP experts were selected to participate in the workshops. To select the
+CAP team, CAP’s functions that are sensitive to climate change and that would likely be involved
+in adaptation efforts were identified. Functions represent key areas of the organization that carry
+out actions in support of CAP’s operations and goals. Functions may include specific departments,
+pairs of departments, or entire groups. Experts were selected from CAP’s functions, identified as
+having the greatest sensitivity to climate change impacts and potential adaptation efforts.
+
+•
+
+Develop drivers and scenarios. The CAP team identified potential drivers, or forces external to
+CAP that impact CAP operations or future conditions. The drivers were condensed into a set of
+“key drivers” deemed to have the most potential impact and whose outcomes were the most
+uncertain. Three scenarios were then developed, defined by a specific “state” of each key driver,
+representing plausible future conditions.
+
+•
+
+Develop implications. For each scenario, the CAP team identified potential implications across all
+CAP climate-sensitive functions. Implications are the potential effects of climate change on CAP.
+
+•
+
+Develop adaptation strategies. For each scenario, the CAP team identified potential specific
+actions that could be taken to adapt to each implication of climate change.
+
+•
+
+Develop robust solutions. The CAP team selected preferred adaptation strategies that could be
+implemented and organized them into several strategy portfolios.
+
+Key to development of this adaptation plan was active participation of the CAP team, representing CAP’s
+climate-sensitive functions. All drivers, implications, strategies, and robust solutions were developed by
+the CAP team, in a collaborative fashion. In all workshops, the CAP team was split into three to four groups
+for brainstorming sessions. The result was that the components of the CAP Climate Adaptation Plan were
+developed entirely by experts from within CAP. The CAP functions represented are as follows:
+•
+
+Central Arizona Groundwater Replenishment District (CAGRD)
+
+•
+
+Colorado River Programs
+
+•
+
+Communications
+
+•
+
+Engineering
+
+•
+
+Environmental, Health and Safety
+
+•
+
+Financial Planning and Analysis
+
+•
+
+Human Resources
+
+•
+
+Information Technology
+
+•
+
+Legal Services
+
+•
+
+Maintenance
+
+•
+
+Operational Technology
+
+•
+
+Protective Services
+
+•
+
+Public Affairs (including the CAWCD Board of Directors)
+
+•
+
+Resource Planning and Analysis
+3
+
+•
+
+Risk and Liability Management
+
+•
+
+Water Operations and Power Programs
+
+4. Drivers and Scenarios
+In the first workshop, drivers were identified, and scenarios were developed based on the drivers. Drivers
+are forces external to CAP that impact CAP operations or future conditions. For this study, CAP focused
+on drivers related to climate change. Primary drivers include the physical components of climate change:
+temperature, precipitation, and streamflow. Secondary drivers flow from these and may affect what CAP
+does more directly. For example, temperature change (primary driver) could cause reduced population
+(secondary driver) in Phoenix, which could affect human resources by limiting CAP’s employee
+recruitment pool.
+A group of “key drivers” was selected from the larger list of drivers. Key drivers are the most important
+and the most uncertain and may be either primary or secondary drivers. The CAP team then “bracketed”
+the key drivers with a qualitative range of potential future conditions.
+Scenarios represent possible futures and are described by a defined “state” (high bracket or low bracket)
+for each of the key drivers. To facilitate a robust adaptation plan, it is useful to define several plausible
+scenarios that together capture a range of potential future conditions. For this study, three scenarios were
+developed that capture a range of plausible futures (Table 1). Key elements of the scenarios are as follows:
+•
+
+Scenario 1: Low water supply, high demand for water, with a strong economy.
+
+•
+
+Scenario 2: High water supply, low demand for water, with a weak economy.
+
+•
+
+Scenario 3: Low water supply, high demand for water, with a weak economy.
+
+Table 1: Key Drivers and Scenarios
+Key Driver
+
+Scenario 1
+
+Scenario 2
+
+Scenario 3
+
+Colorado River supply
+
+Frequent deep shortages
+
+Normal CAP supply, with
+some infrequent excess
+supply above historical
+amount
+
+Frequent deep shortages
+
+Temperature
+
+Significantly warmer
+
+Warmer overall, but
+potentially seasonally
+cooler
+
+Warmer overall, but
+potentially seasonally
+cooler
+
+Local precipitation
+
+More extreme events
+(drought or rain)
+
+Historical
+
+More extreme events
+(drought or rain)
+
+Demand changes
+
+Full contract demand (full
+CAP use)
+
+Low contract demand (full
+CAP use)
+
+Full contract demand (full
+CAP use)
+
+Population of Central Arizona
+
+High growth
+
+Low growth
+
+Low growth
+
+Regulatory/legal/policy
+
+Restrictive
+
+Flexible
+
+Restrictive
+
+Interagency
+coordination/collaboration
+
+Competitive/combative
+
+Collaborative
+
+Collaborative
+
+Economic health
+
+Strong economic growth
+
+Weak economic growth
+
+Weak economic growth
+
+4
+
+Key Driver
+
+Scenario 1
+
+Scenario 2
+
+Scenario 3
+
+Technology
+
+Rapid technological
+advances; mainstreaming;
+higher capacity of
+utilization
+
+Status quo. Current level
+of technology and capacity
+for technological
+improvements
+
+Status quo. Current level
+of technology and capacity
+for technological
+improvements
+
+5. Climate Change Implications
+Implications are the potential effects of the climate change scenarios on CAP. Implications may be
+challenges, opportunities, or both. A total of 61 unique climate change implications were identified by the
+CAP team. A summary of each scenario, based on both key drivers and implications, is provided as follows:
+Scenario 1 centers around a low supply on the Colorado River and high demand. Challenges result from
+higher temperatures and lower Colorado River supply causing issues ranging from reduced deliveries to
+low priority users and biological (i.e. algal) growth in water to increased health and safety issues for CAP
+employees. Opportunities, stemming from a higher regional population, include a larger tax base for
+capital improvements and increased technological advances to combat shortages and offset warmer
+temperatures.
+Scenario 2 focuses on a high supply on the Colorado River and low demand. Decreased regional population
+means difficulty recruiting and maintaining staff along with decreased tax revenue for capital
+improvements. Excess supply causes the need for new recharge locations while bolstering state-wide
+groundwater storage. A flexible regulatory environment increases opportunities for collaboration with
+other agencies and the ability to pursue regulatory changes that benefit CAP.
+Like scenario 1, scenario 3 centers on low Colorado River supply and high demand. Extreme weather in
+scenario 3 presents challenges in the form of infrastructure issues (such as canal resiliency and risk
+insurance) and a change in seasonal supply and demand patterns. Low population growth limits CAP’s
+ability to recruit and maintain talent. However, this scenario presents opportunities for more
+collaboration and technological advances among lower basin states, as well as increased water
+conservation.
+
+5
+
+Figure 1: Number of implications per scenario
+The relative influence of key drivers on scenario implications was estimated based on the number of
+challenges or opportunities associated with each key driver state. Colorado River supply (frequent
+shortages) and demand changes (full contract demand) are the two most influential key drivers in terms
+of challenges, and technology (higher capacity of utilization) is the most influential key driver in terms of
+opportunities. Two key driver states did not primarily influence any of the climate change implications
+generated by the CAP team: strong economic growth and historical precipitation.
+Per Figure 1, Scenarios 1 and 3 are the most challenging to CAP in terms of the number of implications, in
+large part due to low Colorado River supply and full CAP contract demand. Scenario 3 is more challenging
+than Scenario 1 due to weak economic growth and less technological advancement. Scenario 2, which has
+normal CAP supply and low contract demand, has less than half as many challenge implications as Scenario
+1 or 3.
+Different CAP functions had varying levels of sensitivity to climate change, as approximated by the number
+of implications for each function. Water Operations and Power Programs and Maintenance are the two
+most sensitive CAP functions, while Protective Services and Information Technology are the two least
+sensitive CAP functions. Figure 2 illustrates the number and types of implications affecting each CAP
+function.
+
+6
+
+Figure 2: The number and types of implications affecting each CAP function
+
+6. Climate Change Adaptation Strategies
+One hundred and thirty one adaptation strategies were developed by the CAP team in response to the
+implications that were generated. Each adaptation strategy is an action meant to mitigate a challenge or
+capitalize on an opportunity. Adaptation strategies were assigned an ease of implementation
+(easy/medium/difficult) that corresponds with how easy or difficult it is to implement a strategy in a given
+scenario. Having a strategy that can be implemented in more than one scenario also makes it possible for
+that strategy to have different levels of ease of implementation in the different scenarios (e.g. a strategy
+can be easy to implement in one scenario but difficult to implement in another scenario).
+In addition to the suite of adaptation strategies, the CAP team also identified an additional strategy that
+was applicable for almost any implication, regardless of the scenario. This strategy is described as “Do
+Nothing”. The “Do Nothing” strategy in itself is not an adaptation strategy because it requires no adaptive
+action. Rather, this strategy implies that by doing nothing in the face of an implication, CAP is willing to
+pay fines and penalties as needed, suffer the full consequences of a challenging implication, or not
+capitalize on an opportunity. The “Do Nothing” strategy also recognizes there may be implications so dire
+or extreme that it may be more palatable for CAP to not invest resources to adapt to them.
+
+7
+
+Figure 3: The number and types of strategies involving each CAP function
+A function’s ability to respond to climate change can be approximated by the number of strategies that
+involve that function (Figure 3). Public Affairs is the most responsive function, while Protective Services is
+the least responsive function. Most strategies (more than 70 percent) involve one or two functions; only
+two strategies involve more than five functions (Figure 4). For strategies requiring multiple functions to
+implement, there are certain combinations of functions that frequently share both implications and
+strategies. These combinations could result in the formation of multi-function teams (two to three
+functions) to implement strategies. For example, there are 14 strategies associated with both Legal and
+Public Affairs, suggesting these two functions could work closely together in climate adaptation. Another
+potential multi-function team could include Resource Planning and Analysis, Colorado River Programs,
+and CAGRD; each of these pair combinations has at least eight shared strategies.
+
+8
+
+Figure 4: Adaptation strategies summarized by number of functions involved
+
+7. Portfolios
+A portfolio is defined as a collection of strategies. Portfolios are used to help understand how individual
+strategies perform under different conditions. The CAP team developed several portfolios that generally
+mitigate implications affecting all CAP climate-sensitive functions, but not all functions were involved with
+implementing each portfolios’ strategies. The CAP team assigned one of the following categories to each
+portfolio strategy:
+1. No Regrets strategies are easy to implement, and provide a net benefit whether or not the specific
+implication it targets comes to pass. As such, there is no risk of overinvestment with No Regrets
+strategies. No regrets strategies are those that CAP would generally adopt, and are very likely to
+adopt in the near-term; for example: mandatory safety equipment for all employees.
+2. Low Regrets strategies are generally easy to implement, and generally provide a net benefit
+whether or not the specific implication it targets comes to pass. However, the benefit to the
+organization is higher when the specific implication occurs. There is little risk for overinvestment
+with Low Regrets strategies, but there could be significant risks if there is underinvestment in
+these types of strategies. An example of a low regrets strategy is to increase water conservation
+programs. While there is some cost to conservation programs, the risk of overinvestment is small.
+3. Conditional strategies are those that would be implemented under very specific conditions. They
+tend to be difficult to implement, and typically only provide a benefit for a particular implication.
+If that implication does not transpire, the strategy should not be implemented. However, there
+may be an associated “option to preserve” – in which some action would need to be taken in the
+short term to “preserve” the ability to implement the conditional strategy should it be needed in
+the future. Conditional strategies have a high risk of overinvestment and generally address large
+scale and high-risk implications with extremely detrimental effects. An example of a Conditional
+9
+
+strategy is the construction of a desalination plant, which is a very costly and lengthy process to
+provide water augmentation against severe drought conditions.
+
+8. Next Steps
+Additional in-depth analysis of implications and strategies with respect to CAP functions is recommended
+to identify and prioritize the most important adaptation strategies. This analysis could be used to support
+an implementation plan that highlights what strategies should be implemented and how to implement
+them, along with a process for monitoring conditions to inform additional future action.
+The following is an example list of actions that could be included in the implementation plan:
+•
+•
+•
+
+•
+
+•
+
+Identify and implement no regrets strategies and select low regrets strategies.
+Identify options to preserve based on important conditional strategies, develop conditions of
+implementation, and implement as appropriate.
+Develop procedures and processes for implementing strategies, including identification of
+functions and teams of functions that will implement strategies and an approach for identifying
+timing and sequencing of strategy implementation.
+Develop key conditions to monitor, based on the most influential drivers, to support subsequent
+implementation plan updates. Monitoring is intended to support triggering of strategies, either
+through identifying conditions that change strategies from conditional to low regrets or no
+regrets, or otherwise supporting sequencing of strategy implementation.
+Develop a timeline for revisiting and updating the analysis. Generally, the implementation plan
+should be revisited frequently enough that if changing conditions result in the need to implement
+a conditional strategy (that is, it becomes no regrets or low regrets), there is sufficient time to
+implement that strategy.
+
+10
+
+

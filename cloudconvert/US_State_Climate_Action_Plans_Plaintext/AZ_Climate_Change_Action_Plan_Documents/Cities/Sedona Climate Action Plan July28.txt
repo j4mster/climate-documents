@@ -1,0 +1,2535 @@
+JULY 2021
+
+SEDONA CLIMATE ACTION PLAN
+
+Contents
+Key Terms and Abbreviations		
+
+3
+
+Letter from the Mayor			
+
+4
+
+Acknowledgments				 5
+Land Acknowledgment			
+
+6
+
+Vision and Goals				
+
+7
+
+How it Came Together			
+
+8
+
+Climate Change in Sedona			
+
+10
+
+Greenhouse Gas Emissions			
+
+13
+
+How We Get There				
+
+14
+
+Buildings and Energy			
+
+16
+
+Transportation and Land Use		
+
+17
+
+Materials and Consumption		
+
+18
+
+Water and Natural Systems		
+
+19
+
+Climate Resilience				20
+Implementation				21
+City Leadership					23
+What You Can Do				
+
+24
+
+Implementation Matrix			25
+
+Contents | 2
+
+SEDONA CLIMATE ACTION PLAN
+
+Key Terms and Abbreviations
+Key terms
+Carbon sequestration: Carbon sequestration is
+the process of capturing and storing atmospheric
+carbon dioxide in soils, oceans, vegetation, and
+geologic formations. It is one method of reducing
+the amount of carbon dioxide in the atmosphere
+with the goal of reducing global climate change.
+
+Community choice aggregation: Community
+choice aggregation (CCA) allows local government
+or another public entity to procure energy from
+alternative utilities on behalf of residents and
+businesses. This allows locals to choose from
+multiple utility providers and provides the
+opportunity to purchase exclusively renewable
+energy if desired.
+Cooling center: A cooling center is any public
+location where people can get out of the sun, access
+water, or be in a public air-conditioned space. Park
+ramadas and libraries often provide these services
+which are essential on hot days for those without
+homes.
+EV-ready parking spaces: EV-ready parking spaces
+are those with the infrastructure and capacity
+to handle the installation of an electric vehicle
+charging station. Additionally, EV-ready spaces have
+outlets compatible for personal charging.
+Frontline communities: Frontline communities are
+those that experience the consequences of climate
+change first and most drastically. These are lowincome communities and communities of color whose
+neighborhoods often lack basic infrastructure and
+who will be increasingly vulnerable as our climate
+deteriorates.
+
+Green infrastructure: Green infrastructure is an
+approach to water management that emphasizes
+conservation and protects local watersheds by
+filtering runoff.
+
+Low-impact business: Those businesses which
+can provide goods and services while minimizing
+consumption of natural resources (water, energy,
+plastics, etc.) are considered low-impact. Likewise,
+low-impact businesses produce little waste or
+pollution.
+Resilience hub: Resilience hubs are spaces created
+through the partnership of local government and
+trusted community-based organizations (e.g.
+recreation centers or faith-based institutions). They
+provide services such as job training, childcare,
+and community programming. Resilience hubs
+also support crisis response through coordinating
+communication and distributing resources such as
+potable water, healthy food, and batteries.
+
+Abbreviations
+EVs
+
+Electric vehicles are vehicles that derive
+all or part of their power from electricity.
+
+GHG
+
+Greenhouse gases are heat-trapping
+gases that warm the atmosphere such
+as carbon dioxide, methane, and nitrous
+oxide.
+
+MTCO2e
+
+Metric tons of carbon dioxide
+equivalent is a common unit of
+measurement for greenhouse gases
+that includes consideration of major
+greenhouse gases, including carbon
+dioxide (CO2), methane (CH4), and
+nitrous oxide (N2O).
+
+VMT
+
+Vehicle miles traveled is a metric used
+in transportation planning to measure
+the cumulative miles traveled by all
+vehicles in a geographic region over a
+given time period.
+
+Key Terms and Abbreviations | 3
+
+SEDONA CLIMATE ACTION PLAN
+
+Letter from the Mayor
+The City of Sedona is committed to sustaining our community’s
+striking landscape, small-town charm, and high quality of life.
+In order to ensure that generations to come can enjoy the same
+vibrant city we know today, we must respond to climate change
+immediately and intentionally. The Sedona Climate Action Plan
+(CAP) positions Sedona to be a leader by presenting a coordinated
+strategy that holistically responds to the challenges of a changing
+climate.
+The people and businesses of Sedona are already experiencing the
+threats of climate change firsthand. Recent events such as the 2016
+monsoon flash flood and ongoing threats from wildfires exemplify
+the risks the city faces from climate change. As temperatures
+continue to rise globally, climate change is expected to introduce
+even more disruption to our daily lives and to Sedona’s natural
+landscapes. As a small, isolated community, it is imperative that the
+Sedona community build resilience to these threats and do its part
+to reduce climate-changing greenhouse gas emissions.
+Although our community faces a momentous challenge, we also
+have the opportunity to facilitate clean, efficient, and effective
+solutions that reduce our exposure to the impacts of climate
+change. At the same time, these solutions can bolster our local
+economy and protect the health of our neighbors. Through proper
+action, future generations of residents and visitors will be able to
+enjoy Sedona’s natural beauty just as we do today.
+The steps laid out in this plan are informed by Verde Valley climate
+science data, an inventory of Sedona’s greenhouse gas emissions
+sources, and input from local businesses and residents. These
+actions have been carefully tailored and evaluated to bring tangible
+and measurable benefits to the Sedona community and to ensure a
+safe, healthy, and prosperous future for all.
+
+Sandra J. Moriarty
+Mayor, City of Sedona, AZ
+
+Letter from the Mayor | 4
+
+SEDONA CLIMATE ACTION PLAN
+
+Acknowledgments
+COMMUNITY
+
+ADVISORY COMMITTEE
+
+We acknowledge and appreciate the many Sedona
+citizens who participated in meetings, workshops,
+surveys, and other public involvement efforts.
+
+Amanda Acheson | Coconino County
+Darla Deville | Arizona Public Service
+Kali Gajewski | Sedona XYZ
+Darcy Hitchcock | Sustainability Alliance
+Jenna Ortega | Northern Arizona Climate Change
+Alliance 		
+Frances Riemer | Northern Arizona Climate Change
+Alliance
+Tom Runyon | Coconino National Forest
+Ron Sauntman | Yavapai County
+John Snickers | Arizona Water Company
+Nancy Steele | Friends of the Verde River
+Jon Thompson | Healthy World Sedona
+Judson Tillinghast | Arizona Public Service
+Jon Trautwein| Sedona Fire District
+Jennifer Wesselhoff | Sedona Chamber of
+Commerce
+
+YAVAPAI-APACHE NATION
+Chris Coder | Tribal Archaeologist
+Vincent Randall | Apache Culture Director
+Gertrude Smith | Yavapai Culture Director
+
+CITY COUNCIL
+Sandra Moriarty | Mayor
+Scott Jablow | Vice-Mayor
+Kathy Kinsella | Councilor
+Tom Lamkin | Councilor
+Holli Ploog | Councilor
+Jon Thompson | Councilor
+Jessica Williamson | Councilor
+
+CITY OF SEDONA
+Lauren Browne | Communications Manager
+Warren Campbell | Assistant Director of Community
+Development
+Justin Clifton | City Manager
+Stephen Craver | Engineering Supervisor
+JoAnne Cook | Human Resources Specialist
+Gabe Desmond | Sustainability Specialist
+J. Andrew Dickey | Public Works Director
+Larry Farhat | Facilities Maintenance Supervisor
+Chuck Hardy | Information Technology Manager
+Ryan Hayes | City Maintenance Supervisor
+Roxanne Holland | Wastewater Director
+McKenzie Jones | Sustainability Manager
+Joanne Keene | Deputy City Manager
+Cynthia Lovely | Senior Planner
+Steve Mertes | Chief Building Official
+Karen Osburn | City Manager
+David Peck | Associate Engineer
+Molly Spangler | Economic Development Director
+Steve Richardson | Parks and Recreation Manager
+Kaileigh Walker | Sustainability Specialist
+Cherie Wright | Finance Director
+
+CONSULTANT TEAM
+Andrea Martin | Cascadia Consulting Group		
+Tristan Smit | Cascadia Consulting Group
+Julie Stein | Cascadia Consulting Group
+
+Acknowledgments | 5
+
+SEDONA CLIMATE ACTION PLAN
+
+Land Acknowledgment
+The City of Sedona acknowledges the original residents
+of Sedona and the Verde Valley and their role as the
+traditional stewards of the land on which this plan is set.
+For centuries prior to the arrival of Euro-American settlers,
+the Yavapai and Apache People lived with respect for the
+land and with a light hand on the landscape.
+The Apaches refer to this land as She Ke Yaa, our
+homeland. The modern Yavapai-Apache Nation is the
+amalgamation of two historically distinct tribes through
+the Indian Reorganization Act (1934). Today, these groups
+reside on several reservation parcels in the Upper Verde
+Valley. The Yavapai refer to themselves as Wipuhk’a’bah
+(the Red Rock People) and speak a Yuman language. The
+Apache refer to themselves as Dil’zhe’e (the Hunters) and
+speak an Athabaskan language.
+
+This Climate Action Plan identifies the
+necessity of building equity among all
+residents of Sedona and the surrounding area
+if we are to recognize our climate goals and
+sustain life in this region. This includes learning
+from and working with local indigenous
+communities. Of particular importance is
+our shared need to sustain flows in the Verde
+River. The Yavapai-Apache Nation considers
+the Verde to be both a source of and an
+interconnected part of life. In 1937 tribal elder
+Mary Sine said, “As long as the river flows, life
+will be good.”
+
+In 1871, the federal government established the 900
+square mile Camp Verde Indian Reserve in the Upper
+Verde Valley as a permanent refuge for tribal people.
+The people were prospering. Then, without warning or
+consent, in February of 1875, 1,700 Yavapai and Apache
+prisoners of war were forcibly marched 180 miles to the
+San Carlos agency east of Phoenix. The march resulted
+in the loss of many lives and ultimately many traditions.
+The Reserve was rescinded by a presidential executive
+order in April 1875. The people began drifting back into
+the Verde Valley after 1890 to find their homelands had
+been occupied by newcomers. The original inhabitants
+had been pushed to the fringes. The forced removal of
+indigenous people from their lands is commemorated
+annually as Exodus Day by the Yavapai-Apache Nation.
+While the Yavapai-Apache Nation is the tribal government
+with direct ties to these lands, the following tribes and
+groups are also inextricably linked by common history to
+the Upper Verde Valley.
+The Tonto Apache Tribe of Payson
+Yavapai Prescott Indian Tribe
+Fort McDowell Yavapai Nation
+The Hopi Tribe
+
+Land Acknowledgment | 6
+
+SEDONA CLIMATE ACTION PLAN
+
+Vision and Goals
+Our Vision: Sedona is a community
+that nurtures connections between
+people, encourages healthy and
+active lifestyles, and supports a
+diverse and prosperous economy,
+with priority given to the protection
+of the environment.
+To realize this vision, this plan sets a goal to cut
+Sedona’s greenhouse gas emissions by 50% by
+2030. Reaching this target—which aligns with
+the international scientific recommendation for
+preventing the worst climate change impacts—will
+require involvement and commitment from the
+entire city. Local government, residents, businesses,
+and community leaders must work together to bring
+forth innovative and impactful solutions that work
+for Sedona.
+
+We Cannot Act Alone: Broader Policy and Technology Context
+Addressing the enormity of the climate challenge will require action at all levels of government.
+Sedona sits within the context of broader regional, state, and federal policy that influence our
+community’s activities and GHG emissions. While many climate actions are within the purview of
+local government—such as those related to land use, local transportation systems, and building
+construction—others must be addressed at the state or federal level. Federal fuel economy
+standards and state renewable energy portfolio standards are examples of broader policies that
+affect local activities and emissions. Sedona must prioritize actions within its purview while also
+advocating for and responding to relevant policy beyond its borders.
+In addition to a changing policy landscape, Sedona’s future emissions will also be subject to
+changing technologies and innovations. As low-carbon technologies improve, emissions may
+be reduced in ways that are currently unforeseeable, allowing us to reach more ambitious climate
+goals. This plan aims to leverage both existing and emerging technologies to achieve deep, longlasting climate and societal benefits.
+
+Vision and Goals | 7
+
+SEDONA CLIMATE ACTION PLAN
+
+How it Came Together
+Crafting a Climate Action Plan that truly reflects Sedona’s unique
+community and priorities required help and input from across the
+community. This plan reflects the culmination of a year-long process
+that included technical assessments, consultation with local experts
+and key stakeholders, and engagement and discussion with the broader
+community.
+
+Technical Advisory
+Committee
+
+Public
+Workshops
+
+A group of 13 volunteer
+stakeholders convened at
+multiple points in the process
+to identify, refine, and evaluate
+strategies for the plan.
+
+The City hosted 5 public
+workshops to present on the
+CAP and engage in discussions
+around priorities, concerns,
+and ideas.
+
+Public
+Surveys
+
+Internal City
+Engagement
+
+The City hosted 3 online public
+surveys as a venue for hearing
+the community’s thoughts,
+gathering feedback, and
+improving our approaches.
+
+The City hosted 1 staff
+workshop and conducted
+ongoing engagement with
+City staff across all City
+departments.
+
+How it Came Together | 8
+
+SEDONA CLIMATE ACTION PLAN
+
+What We Heard
+We heard you! Themes we heard from our engagement activities are
+summarized below.
+
+Transportation
+Improvements
+
+Heat and Wildfire
+Risk
+
+Renewable
+Energy
+
+Waste
+Management
+
+We heard a desire for
+transportation-related
+actions—including
+bike/pedestrian
+infrastructure, better
+transit, low-carbon
+transportation, and
+reduced congestion.
+
+Many residents are
+concerned about
+increased warming and
+fire risk in Sedona—
+highlighting public
+health and safety
+concerns.
+
+We heard support for
+renewable energy
+actions to both reduce
+climate pollution and
+build a more resilient
+power grid.
+
+Locals want more
+community education
+and outreach related
+to waste management
+and desire expanded
+recycling and
+composting services
+throughout the city.
+
+Water Resources
+and Flooding
+
+Tourism and
+Eco-Tourism
+
+City
+Leadership
+
+Cost of
+Living
+
+Some residents
+support actions that
+protect personal and
+recreational water
+resources—and are
+concerned about future
+water quality and
+flooding.
+
+We heard support for
+actions that address
+tourism impacts and
+tourism-related vehicle
+emissions.
+
+Constituents want to see
+the City lead by example
+with a green vehicle fleet
+and visible renewable
+energy projects.
+
+There is concern about
+how CAP actions could
+increase the cost of living
+in Sedona, and there is
+a desire for rebates to
+make the transition more
+affordable.
+
+How it Came Together | 9
+
+SEDONA CLIMATE ACTION PLAN
+
+Climate Change in Sedona
+Climate change is a global problem, but the impacts are felt locally. Sedona
+is seeing increased flooding, more frequent and severe wildfires and smoke,
+and rising temperatures that strain water resources. As global greenhouse
+gas emissions continue to rise, these changes will increase over time and
+continue to threaten our safety, natural resources, and economy.
+
+A Two-Pronged Approach
+
+Reduce GHG emissions
+to limit additional
+warming
+
+MITIGATE
+&
+ADAPT
+
+Climate mitigation is preventative
+
+Mitigation measures reduce GHG emissions
+to limit additional warming. These effects are
+felt globally, and corresponding action should
+be done in conjunction with local and federal
+governments across the world. These measures
+often also have localized co-benefits that can be
+felt here in Sedona.
+
+Prepare for and build
+resilience to the impacts
+of climate change
+
+Climate adaptation is responsive
+
+Adaptation measures prepare for and build
+resilience to the impacts of climate change.
+The effects of these measures are felt locally,
+although they can also provide regional benefits
+through stopping the spread of climate-related
+disasters.
+
+Climate Change in Sedona | 10
+
+SEDONA CLIMATE ACTION PLAN
+
+How Climate Change will Impact Sedona
+Sedona and the Verde Valley are already experiencing climate
+changes, and many of these changes are projected to worsen in
+the future. Key changes include:
+Hotter temperatures
+
+More Extreme Heat
+
+Warming brings
+more summer heat
+waves, wildfires, and
+drought.
+
+On average, the Verde
+Valley experiences
+8 days a year above
+100°F. By 2100, that
+number may rise to
+75 days per year.
+
+Heavier and more
+frequent storms
+
+Increased health
+impacts
+
+Extreme weather can
+lead to more flooding
+and high wind events.
+
+Poor air quality,
+extreme heat, and
+dust storms can
+create serious health
+problems.
+
+Agricultural impacts
+
+Reduced Tourism
+
+Excessive heat,
+reduced water
+resources, and
+wildfires will threaten
+common crops grown
+in the Verde Valley.
+
+More wildfire, smoke,
+or extreme heat may
+temporarily reduce
+recreation and
+tourism in summer,
+spring, and fall.
+
+Larger and Faster
+Spreading Fires
+Future wildfire
+frequency is anticipated
+to increase 25% in the
+Southwest —leading
+to increased health
+impacts from smoke
+and poor air quality.
+
+Changing streamflows
+Rising summer
+temperatures and
+increased seasonal
+demands will strain
+water availability.
+
+Increased risk of
+vector-borne diseases
+Warmer temperatures
+will create a more
+welcoming environment
+for vectors like
+mosquitos that carry
+West Nile Virus.
+
+More information on anticipated climate changes
+can be found in the Climate Profile for the Verde Valley.
+
+How Climate Change will Impact Sedona | 11
+
+SEDONA CLIMATE ACTION PLAN
+
+Benefits of Climate Action
+Climate action will look different for each person, business, and group in
+our community. While we all will need to make sacrifices for the greater
+good, the benefits of climate action can also enhance our quality of life.
+
+Boost our local economy
+Investments in the construction, clean technology,
+green infrastructure, and natural resource
+management sectors provide businesses with
+opportunities for growth and create skilled, wellpaying ‘green’ jobs for the community.
+Improved bike and pedestrian access
+can generate more visibility for local
+shops and outlets—enhancing the
+viability and financial sustainability
+of small businesses.
+
+Keep our skies clear and
+landscapes beautiful
+Taking climate action can enhance parks, green
+spaces, and public amenities while providing other
+services like carbon sequestration, shade, and wildlife
+habitat.
+Prioritizing native plants in parks and
+other public properties can sequester
+carbon, minimize water use, and
+enhance habitat for native species.
+
+Make us healthier
+
+Save us money
+
+Actions to mitigate climate change can benefit postpandemic life by prioritizing health and well-being,
+cleaning our air, improving healthy food access, and
+increasing safety.
+
+Many climate actions reduce ongoing
+maintenance and utility costs—providing
+long-term cost savings and a positive return
+on investment.
+
+Transitioning to electric vehicles
+reduces exposure and health impacts
+from local air pollutants.
+
+Switching to efficient equipment like
+electric heat pumps reduces energy
+use and costs.
+
+Global Benefits
+While there are many benefits and co-benefits of climate action that are felt
+locally, emission reductions can also have a positive influence globally. Although
+Sedona’s emissions are a small fraction of total global emissions, by doing our
+part, we can encourage cities across the nation and world to do the same. As
+a small, rural community with a global reputation and influence, we can be a
+leader in demonstrating what is possible to other cities and towns.
+
+Benefits of Climate Action | 12
+
+SEDONA CLIMATE ACTION PLAN
+
+Greenhouse Gas Emissions
+Emissions Sources
+In 2018, we estimate that Sedona’s residents,
+businesses, employees, and visitors produced over
+165,800 metric tons of carbon dioxide equivalent
+(MTCO2e). Energy used to power and heat our
+buildings (largely electricity and natural gas) make
+up more than three-quarters (79%) of greenhouse
+gas emissions. Energy used to power and move
+our vehicles accounts for the bulk of the remaining
+emissions in the city (18%).
+
+Buildings
+& Energy
+
+79%
+
+Transportation
+& Mobile Sources
+
+18%
+
+Water &
+Wastewater
+
+2%
+
+Solid Waste
+
+<1%
+
+Process &
+Fugitive Emissions
+
+<1%
+
+TOTAL 2018 Emissions: 165,800 MTCO2e
+
+What about consumption-based
+emissions?
+The emissions estimate above reflects many
+of the primary and direct sources of GHG
+emissions in the community. However, it
+does not account for GHG emissions that we
+indirectly produce through the purchase of
+goods, services, or food produced in other
+areas and transported to Sedona. While
+these sources are much more difficult to
+estimate at the local level, the City recognizes
+the significant and important role these
+“consumption-based” emissions play in
+our overall carbon footprint. This plan
+includes strategies and actions for lowering
+emissions from our consumption, including
+implementation of a municipal sustainable
+procurement policy.
+
+What about tourism-related emissions?
+While our inventory captures the emissionrelated impacts of tourists once they arrive
+in Sedona, it does not address emissions
+associated with travel to Sedona.
+
+Greenhouse Gas Emissions | 13
+
+SEDONA CLIMATE ACTION PLAN
+
+How We Get There
+This plan is organized into the following sectors. Each sector presents our
+strategies and actions for reducing climate pollution and fostering climate
+resilience in Sedona.
+
+Buildings & Energy
+Ensuring long-term access to clean energy while reducing
+the fiscal and environmental impacts of consumption
+
+Transportation & Land Use
+Reducing transportation emissions and enhancing
+community mobility
+
+Materials & Consumption
+Increasing the diversion of waste from the landfill and
+reducing GHG emissions associated with consumption of
+goods and services
+
+Water & Natural Systems
+Conserving community water resources by maximizing water efficiency
+technologies while ensuring a secure and sustainable water supply in
+the face of climate change impacts. Managing, restoring, and fostering
+resilient ecosystems, landscapes, and resources
+
+Climate Resilience
+Ensuring Sedona and its residents, businesses, visitors,
+facilities, and services are prepared for climate impacts,
+especially those at the highest risk
+
+How We Get There | 14
+
+SEDONA CLIMATE ACTION PLAN
+
+What will it take?
+To achieve a 50% reduction by 2030, we will need to meet the outcomes below. The actions in the CAP
+implementation matrix will get the community approximately halfway to our goal. The remaining 25%
+reduction will rely on new and innovative technologies, additional federal and state action, and regular
+reevaluation of Sedona’s progress.
+
+50% reduction in
+greenhouse gas
+emissions
+by 2030
+
+What’s needed?
+EXAMPLE ACTIONS
+Energy efficiency retrofit incentives
+Rooftop solar incentives;
+Electrification incentives and contractor
+training
+
+•
+
+Reduce building energy consumption
+by 15%
+
+•
+
+Increase consumption of clean energy
+in buildings from 27% to 50%
+Utilize 60% of suitable rooftop space for
+solar panels
+
+•
+
+Bike, pedestrian, and transit infrastructure;
+Transit-oriented and mixed-use development
+
+•
+
+Reduce community-wide VMT by 10%
+
+EV infrastructure and incentives;
+EV-ready code
+
+•
+
+Increase EV use to 20% of VMT
+
+•
+Food waste prevention;
+Community-wide organics composting program
+
+Reduce amount of landfilled organic
+waste by 15%
+
+How We Get There | 15
+
+SEDONA CLIMATE ACTION PLAN
+
+Buildings & Energy
+GOAL: Ensure long-term access to clean energy
+while reducing the fiscal and environmental
+impacts of consumption
+
+Summary
+Greenhouse gases are released during the
+combustion of fossil fuels—such as coal, oil, and
+natural gas—to heat, cool, and power buildings.
+The generation, transmission, and distribution
+of electricity and natural gas is the single largest
+contributor to Sedona’s carbon footprint. State and
+local action will be needed to transition to cleaner
+energy sources.
+The strategies and actions included in this section
+will focus on an equitable transition to clean,
+reliable, and affordable energy. Shifting our
+building energy sources from fossil fuels to clean
+electricity sources like wind and solar will be critical
+in meeting our long-term goals. Making this shift
+will require that we continue to reduce building
+energy demand, introduce incentives for building
+electrification, and expand renewable energy and
+battery storage infrastructure.
+
+Greenhouse gas emissions (2018)
+131,828 MTCO2e
+79% of total emissions
+Co-benefit: Cost Savings
+Reducing energy consumption saves on
+energy bills. Solar is now less expensive than
+other energy sources such as natural gas.
+
+Sedona highlight
+Sedona was
+designated as a
+SolSmart Bronze
+community for its
+efforts to make it
+faster and easier to
+switch to solar energy.
+
+Strategies
+Reduce building energy
+demand
+
+Shift to electric heating and
+power in buildings
+
+Maximize renewable energy
+generation and storage
+capacity
+
+How We Get There | 16
+
+SEDONA CLIMATE ACTION PLAN
+
+Transportation and Land Use
+GOAL: Reduce transportation emissions and
+enhance community mobility
+
+Summary
+The second largest source of greenhouse gas
+emissions in Sedona is from the combustion of
+fossil fuels in vehicles and equipment. Within the
+transportation sector, the use of gasoline and
+diesel passenger vehicles by residents and visitors
+contribute the most to transportation emissions.
+Strategies for these emissions focus on transitioning
+to electric and other low-carbon fuels and
+transitioning to alternative modes of travel such as
+carpooling, public transit, biking, and walking.
+
+Strategies
+Develop and maintain a safe,
+convenient, and effective
+system for walking, biking,
+and other active forms of
+transportation
+
+Greenhouse gas emissions (2018)
+29,456 MTCO2e
+18% of total emissions
+Co-benefit: Equity
+Expanding affordable transportation choices
+can increase mobility and access for lowincome households.
+
+Sedona highlight
+The City recently installed 6 public EV
+charging spots and purchased its first allelectric fleet vehicle.
+
+Improve and increase transit
+ridership
+
+Increase fuel efficiency and
+clean fuel use.
+
+How We Get There | 17
+
+SEDONA CLIMATE ACTION PLAN
+
+Materials and Consumption
+GOAL: Increase the diversion of waste from the
+landfill and reduce GHG emissions associated with
+the consumption of goods and services
+
+Summary
+While the transport and disposal of solid waste
+only contribute a small portion of Sedona’s carbon
+footprint, the emissions associated with the
+manufacture, transport, and use of those disposed
+materials can be significant. Every phase of a
+product’s life cycle—from origin, to production and
+manufacturing, to transportation and distribution,
+and ultimately to disposal—releases climate
+pollution.
+Strategies to reduce emissions from the
+consumption of goods and services focus on
+diverting waste from the landfill and encouraging
+sustainable, climate-friendly consumption.
+
+Greenhouse gas emissions (2018)
+127 MTCO2e
+<1% of total emissions
+Co-benefit: Ecosystem Health
+A city-wide composting program can improve
+soil health and sequester carbon.
+
+Sedona highlight
+In 2019, the City’s
+first Fix-it Clinic
+repaired over 200 lbs
+of household items—
+fixing more than 80%
+of items brought in.
+
+Strategies
+Enhance sustainable consumption to
+minimize greenhouse gas emissions
+
+Increase waste diversion
+
+How We Get There | 18
+
+SEDONA CLIMATE ACTION PLAN
+
+Water and Natural Systems
+GOAL: Conserve community water resources by
+maximizing water efficiency technologies while ensuring a
+secure and sustainable water supply in the face of climate
+change impacts. Manage, restore, and foster resilient
+ecosystems, landscapes, and resources
+
+Summary
+Climate change paired with increased tourism
+threaten the ability of Sedona’s natural
+ecosystems to provide continued water, flooding
+protection, wildfire resistance, and carbon
+sequestration services. Although natural systems
+are not formally captured in our greenhouse
+gas inventory, proper management of these
+systems can capture carbon while also enriching
+recreational opportunities and improving habitat
+health. Sustainable land management practices
+like composting, climate-adaptive landscaping,
+and intentional forest management have been
+shown to increase the rate of carbon stored in
+plants and soil.
+
+Greenhouse gas emissions (2018)
+3,435 MTCO2e
+2% of total emissions
+Co-benefit: Resilience
+Green infrastructure and restoration can provide
+protection from climate impacts such as flooding
+and wildfires.
+
+Sedona highlight
+The City of Sedona participates on the Sustaining
+Flows Council to partner with the Yavapai-Apache
+Nation and other Verde Valley stakeholders to
+ensure long-term water sustainability.
+
+Along with preserving natural systems, actions in this section include tactics for expanding water reuse and
+conservation. Although water management only contributes a small portion of our carbon footprint, actions
+taken to minimize water use, optimize treatment, and improve overall water quality will ensure continued
+provision of this important resource for future generations.
+
+Strategies
+Expand and improve
+green spaces, including
+increased ecosystem quality,
+connectivity, and accessibility
+
+Reduce water use
+
+Expand water reuse and
+improve water infrastructure
+
+How We Get There | 19
+
+SEDONA CLIMATE ACTION PLAN
+
+Climate Resilience
+GOAL: Ensure Sedona and its residents, businesses,
+visitors, facilities, and services are prepared for
+climate impacts, especially those at the highest risk
+
+Summary
+
+Co-benefit: Economic Recovery
+
+Making progress on climate change will require
+leadership and commitment from city government
+and the community. In addition to the sectorspecific strategies presented in this plan, broader
+efforts to incorporate climate change considerations
+across City and community activities will be
+needed.
+To ensure that climate action strategies meet the
+needs of the community, this section includes
+actions that integrate climate action throughout
+Sedona. This includes considering climate change
+in City processes and ensuring climate-related
+investments target those in need. These actions
+support education, capacity building, emissions
+monitoring, and the reporting of climate actions.
+
+Climate action supports local economic
+prosperity through strategic investments,
+new incentives, and expanded employment
+opportunities.
+
+Sedona highlight
+In addition to the CAP,
+the City finalized its first
+Municipal Sustainability
+Plan, which outlines
+clear steps to addressing
+sustainability and
+resilience in City
+operations.
+
+Strategies
+Increase community capacity
+and awareness of climate
+change risks and impacts
+
+Adequately fund services for
+disaster preparedness
+
+Identify and target support for
+at-risk populations
+
+How We Get There | 20
+
+SEDONA CLIMATE ACTION PLAN
+
+Implementation
+A plan is only as good as its implementation.
+Achieving our climate goals will require dedication,
+time, and resources from city government and
+the broader Sedona community. Successful plan
+implementation will require ongoing creativity
+and adaptivity. It is essential that climate actions
+respond to changes in technologies, state and
+federal policies, community priorities, budgets,
+grants, and other funding opportunities. We must
+be strategic in how we sequence, execute, and fund
+climate action to meet our targets in a manner that
+brings the whole community along and maintains
+our vision for a sustainable, prosperous future.
+
+Phasing
+Near-term (0-1 year)
+Near-term implementation will focus on
+establishing a foundation for meeting both
+near-term and long-term goals. This initial
+phase will involve key policy priorities,
+education and outreach campaigns, and
+voluntary incentive measures that address
+top emission sources and climate risks.
+
+Mid-term (2-4 years)
+
+Funding
+The City will utilize existing City resources, grants,
+and other external funding sources to the extent
+possible in implementing this plan. However, we
+acknowledge that full implementation of the plan
+will likely require new and creative funding sources.
+Over the long term, it will be important to identify
+funds that are guaranteed rather than dependent
+on uncertain potential funding sources. Potential
+funding sources include the following:
+•
+•
+•
+•
+•
+•
+•
+
+City general fund
+Bonds
+Taxes, fees, and utility revenues
+Federal and state grants
+Private grants/investment and public-private
+partnerships
+Revolving loan funds
+Local carbon offset funds
+
+Many climate expenditures will not only reduce
+greenhouse gas emissions, but will also bring
+valuable environmental, social, and economic
+benefits that can provide a positive net return on
+investment.
+
+Mid-term solutions address measures
+needed to shorten the distance to meeting
+our reduction target. This includes broader
+regulatory requirements, expanded
+infrastructure for long-term energy
+transitions, and actions focused on lower
+priority emission sources and climate risks.
+
+Long-term (4+ years)
+Long-term strategies are more
+comprehensive solutions that require longterm investment, careful planning, and
+broad coordination.
+
+Implementation | 21
+
+SEDONA CLIMATE ACTION PLAN
+
+individual and municipal actions
+The majority of strategies and actions outlined in
+this plan are macro-level community actions. That
+is, they focus on collective measures and regulatory
+interventions that can help with mitigation and
+adaptation efforts. It is critical, however, that
+businesses, organizations, and individuals do
+what they can to reduce their climate footprint as
+well. This process will not be easy for everyone.
+As a starting point, the following section on City
+Leadership details how the City plans to incorporate
+the consideration of climate change across all
+activities and decision making. Additionally, we
+have provided a list of individual actions that can be
+taken by community members and their family.
+
+Equity
+Considering equity during plan implementation
+goes beyond distributing resources equally.
+Ensuring that participation in climate action is
+accessible to the entire Sedona community will
+require considering equity in policy, outreach, and
+infrastructure development. City staff will work
+to involve diverse community voices in all stages
+of new initiatives and will track progress toward
+advancing equity.
+Although climate change is a global problem, its
+effects are not felt equally. Communities with
+less access to weatherization, transportation,
+heating, cooling, and resilient infrastructure will
+feel the impacts of climate change earlier and more
+intensely than others. It is critical that Sedona
+ensures these communities are included in the
+design, outreach, and implementation of each
+action in this plan.
+
+Implementation | 22
+
+SEDONA CLIMATE ACTION PLAN
+
+City Leadership
+Successful implementation will mean
+that all parties—both within and
+outside City government—have a clear
+role in addressing climate change
+through their work. It will also require
+careful and ongoing progress tracking,
+reporting, and adaptive management.
+Key accountability and collaboration
+approaches for implementation of the
+Sedona CAP are summarized below.
+
+Progress Reporting
+Plan progress reports will be developed and
+reviewed annually. GHG inventories will be
+updated every year. Investing in data collection
+and consistent reporting is a key aspect of
+implementation and increases transparency.
+
+Lead by Example
+The success of this plan is contingent on the
+Sedona City Council continuing to demonstrate
+leadership on climate change. The Sedona City
+Council will have the responsibility of oversight for
+the plan. They will receive annual updates on CAP
+progress and make policy decisions, budgetary
+appropriations, and workplan approvals that will
+facilitate implementation.
+
+Plan Updates
+The City will work with community partners to
+update the CAP every three years. This three-year
+update schedule will ensure that the plan can
+respond to changing circumstances, market factors,
+implementation challenges, and successes. This
+process will include updating CAP goals, adjusting
+indicators, and reprioritizing actions based on local
+circumstances and new technology.
+
+The actions laid out in this plan
+directly tie into many of the goals
+laid out in the City’s Municipal
+Sustainability Plan. The City is taking
+many actions internally to lead by
+example.
+Carbon Neutrality
+By 2030, the City aims for
+municipal operations to
+be carbon neutral. While
+much of this reduction
+will require changing how
+and what type of energy
+the City consumes, some
+reliance on carbon offsets
+may be required.
+
+Fleet Electrification
+By 2030, the City strives
+to transition all passenger
+vehicles in the City fleet
+to 100% zero emissions
+vehicles.
+
+Renewable Energy
+By 2025, the City will
+transition to consuming
+100% renewable energy
+for municipal operations.
+
+City Leadership | 23
+
+SEDONA CLIMATE ACTION PLAN
+
+What You Can Do
+While many of the most pressing climate
+actions will happen at the community
+level, it is important to be cognizant of
+our individual emissions and behaviors
+as well. While there are many steps you
+can take to reduce your own footprint,
+here are some idea of how to get started.
+
+Materials and Consumption
+Reduce your meat and dairy
+consumption. Eating more plantbased foods, such as fruits, grains,
+and vegetables is one of the most
+impactful actions you can take.
+
+Buildings and Energy
+Commit to solar. Visit
+www.Sedonaaz.gov/solar to
+learn about the process for
+installing solar on your home
+or business. Incentives and
+resources are available to assist
+with this transition.
+
+Transportation
+and Land Use
+If you drive to work, consider
+carpooling, biking or taking the
+bus one or more days per week,
+or telecommuting if possible. If
+that’s not possible, consider an
+electric vehicle next time you are
+purchasing a car.
+
+Water and Natural Systems
+Create a native and droughttolerant backyard. Attend a Native
+Plant Workshops to help learn
+about how to add native plants
+into your landscape. Careful
+landscape planning can also
+reduce your home’s wildfire risk.
+
+Climate Resilience
+Talk with family, friends, and
+neighbors about climate concerns,
+priorities, and needs. According
+to the Yale Program on Climate
+Change Communications,
+although 63% of Americans are
+worried about global warming,
+only 35% of Americans discuss it.
+By having open conversations, you
+can help prepare your community
+for the effects of climate change.
+
+For more information on how to reduce your carbon footprint, visit
+sedonaaz.gov/sustainability
+What You Can Do | 24
+
+SEDONA CLIMATE ACTION PLAN
+
+Implementation Matrix
+Legend:
+Timeframe:
+
+= near-term (0-1 years)
+
+= mid-term (2-4 years)
+
+Net Present Value Cost (Through 2030):
+
+= $0 to $100,000
+
+= $100,001 to $1,000,000
+
+GHG Impact (Cumulative MTCO2e reductions to 2030):
+Action Types:
+
+Action
+
+= 0 to 500
+Vol (Voluntary)
+
+Action Type
+
+Action
+Type
+
+Reg (Regulatory)
+
+= 501 to 5,000
+SPP (Studies, Plans, Partnerships)
+
+Timeframe Lead
+
+= long-term (4+ years)
+= > $1,000,000
+= > 5,000
+CIP (Capital Improvement Project)
+GHG
+Impact
+
+Potential Partners
+
+City Cost
+
+Buildings & Energy: Reduce building energy demand
+Community
+building
+incentives
+
+Educate and incentivize businesses
+and residents to reduce energy and
+water use. Provide resources to help
+households and businesses conduct
+energy retrofits and upgrades.
+
+Vol
+
+City of Sedona
+Sustainability
+
+Sustainability Alliance,
+Chamber, Northern
+Arizona Interfaith
+Council, Northern
+Arizona Climate Change
+Alliance
+
+Energy triggers
+for large
+buildings
+
+Incentivize large commercial and
+multifamily buildings to perform
+energy upgrades achieving deep
+energy savings by a certain date or
+at certain trigger events (e.g. time of
+sale, change of occupancy).
+
+Vol
+
+City of Sedona
+Sustainability,
+Community
+Development
+
+Arizona Public Service
+
+City of Sedona
+Sustainability,
+Community
+Development
+
+Yavapai College
+
+Buildings & Energy: Shift to electric heating and power in buildings
+Electric panel
+updates
+
+Incentivize electrical panel updates
+(e.g. funding for subsidizing
+hardware or local electricians to
+provide reduced cost installations).
+
+Vol
+
+Implementation Matrix | 25
+
+SEDONA CLIMATE ACTION PLAN
+
+Action
+Type
+
+Action
+
+Action Type
+
+Home
+electrification
+
+Work with Arizona Public Service
+(APS) to expand programs that
+incentivize residents to electrify
+water and space heating.
+
+SPP
+
+City of Sedona
+Sustainability,
+Community
+Development
+
+Arizona Public Service
+
+Contractor
+training
+
+Develop a contractor training and
+Vol
+rebate program for solar water
+heaters, electric heat-pumps, and
+converting gas appliances to electric.
+
+City of Sedona
+Sustainability,
+Community
+Development
+
+Yavapai College
+
+New
+development
+
+Incentivize building electrification in
+new development and remodels.
+
+City of Sedona
+Sustainability,
+Community
+Development
+
+Vol
+
+Timeframe Lead
+
+GHG
+Impact
+
+Potential Partners
+
+City Cost
+
+Buildings & Energy: Maximize renewable energy generation and storage capacity
+Clean energy
+financing
+
+Explore funding and capital
+opportunities – such as 0% interest
+loans – for frontline community
+organizations and individuals
+working to own clean energy assets.
+
+SPP
+
+City of Sedona
+Sustainability
+
+Renewable
+energy storage
+
+Utilize available state, federal, and
+private grant funds to promote the
+expansion of renewable energy
+storage technologies.
+
+Vol
+
+City of Sedona
+Sustainability
+
+Arizona Public Service
+
+Solar incentives Ensure rebates or other funding
+support opportunities – such as
+solar grants for neighborhoods and
+cooperative buying – are available
+for installation of solar on existing
+buildings.
+
+Vol
+
+City of Sedona
+Sustainability,
+Community
+Development
+
+Arizona Public Service
+
+Implementation Matrix | 26
+
+SEDONA CLIMATE ACTION PLAN
+
+Action
+Type
+
+Action
+
+Action Type
+
+Timeframe Lead
+
+Community
+choice solar
+
+Advocate for state-level legislation
+that enables community choice
+aggregation for community solar.
+
+SPP
+
+City of Sedona
+Sustainability
+
+Solar
+permitting
+
+Waive solar project permitting fees.
+
+Vol
+
+City of Sedona
+Community
+Development
+
+GHG
+Impact
+
+Potential Partners
+
+City Cost
+
+Transportation & Land Use: Develop and maintain a safe, convenient, and effective system for walking, bicyclists, and other active forms of
+transportation
+Bike/pedestrian Accelerate the development of the
+Infrastructure
+Sedona Trails and Pathways system
+so that residents and visitors have
+a safe and healthy alternative to
+driving. Implement the GO! Sedona
+Pathways Plan.
+
+CIP
+
+City of Sedona
+Public Works
+
+Verde Valley Cyclists
+Coalition, Sedona XYZ,
+Red Rock Trail Fund,
+Arizona Department of
+Transportation
+
+Mixed-use
+development
+
+Vol
+
+City of Sedona
+Community
+Development
+
+Sedona XYZ
+
+City of Sedona
+Transit
+
+Sedona Chamber,
+Arizona State Parks,
+Coconino National
+Forest, Arizona
+Department of
+Transportation
+
+Prioritize and incentivize affordable,
+transit-oriented and mixed-use
+development to encourage a
+walkable community.
+
+Transportation & Land Use: Improve and increase transit ridership
+Public transit
+investments
+
+Develop a comprehensive, citywide transit and shuttle system
+that serves residents, visitors, and
+employees.
+
+CIP
+
+Implementation Matrix | 27
+
+SEDONA CLIMATE ACTION PLAN
+
+Action
+
+Action Type
+
+Action
+Type
+
+Timeframe Lead
+
+GHG
+Impact
+
+Potential Partners
+
+City Cost
+
+Transportation & Land Use: Increase fuel efficiency and clean fuel use
+EV
+infrastructure
+plan
+
+Develop and implement an EV
+infrastructure plan to promote and
+expand the construction of charging
+infrastructure and electric-powered
+mobility.
+
+SPP
+
+City of Sedona
+Sustainability
+
+Arizona Public Service,
+Sedona Chamber
+
+Electric vehicle
+advocacy
+
+Advocate for the expansion of
+existing incentives and introduce
+new local incentives to accelerate
+the adoption of electric vehicles.
+
+Vol
+
+City of Sedona
+Sustainability
+
+Arizona Public Service,
+Sedona Chamber
+
+City fleet
+electrification
+
+Develop a municipal green fleet
+policy to right size the City fleet,
+maximize efficiency, and accelerate
+the transition to electric vehicles.
+
+Reg
+
+City of Sedona
+Sustainability
+
+EV-ready code
+
+Require EV-ready parking spaces in
+new commercial and multifamily
+developments.
+
+Reg
+
+City of Sedona
+Sustainability,
+Community
+Development
+
+Materials & Consumption: Enhance sustainable production and consumption to minimize greenhouse gas emissions
+Municipal
+Sustainable
+Procurement
+Policy
+
+Ensure implementation of a
+Reg
+sustainable procurement policy.
+Prioritize the purchasing decisions
+that yield the highest emissions
+reduction impact within each
+department. Explore climate-friendly
+food catering, alternative vehicle
+and fuel purchases, and low-carbon
+concrete.
+
+City of Sedona
+Sustainability,
+Finance
+
+Implementation Matrix | 28
+
+SEDONA CLIMATE ACTION PLAN
+
+Action
+
+Action Type
+
+Food waste
+education
+
+Launch an outreach campaign
+that educates the community
+about preventing wasted food and
+sustainable consumption.
+
+Action
+Type
+
+Timeframe Lead
+
+GHG
+Impact
+
+Potential Partners
+
+Vol
+
+City of Sedona
+Sustainability
+
+Healthy World Sedona,
+Sustainability Alliance,
+Northern Arizona
+Climate Change Alliance
+Sedona Oak Creek
+Unified School District,
+Chamber, Sedona Food
+Bank, Cornucopia
+Community Advocates
+
+City Cost
+
+Materials & Consumption: Increase waste diversion
+Food recovery
+program
+
+Establish a robust food recovery
+program to support community
+members and protect against
+disruptions, including working with
+food rescue organizations, schools,
+and commercial kitchens.
+
+Vol
+
+City of Sedona
+Sustainability
+
+Community
+organics
+diversion
+
+Implement a city-wide community
+organic waste program to compost
+food waste and yard waste.
+
+Reg
+
+City of Sedona
+Public Works
+
+Refrigerant
+disposal
+
+Identify strategies to improve
+recovery and reuse of refrigerant
+chemicals.
+
+SPP
+
+City of Sedona
+Sustainability
+
+Yavapai County,
+Arizona Department of
+Environmental Quality
+
+Water & Natural Systems: Expand and improve green spaces, including increased ecosystem quality, connectivity, and accessibility
+Native planting
+in municipal
+projects
+
+Prioritize native plantings with
+deep roots on public properties to
+maximize carbon sequestration and
+resilience. This includes the grounds
+of municipal buildings, parks, and
+schools.
+
+Vol
+
+City of Sedona
+Sustainability,
+Public Works
+
+Friends of the Verde
+River, Sedona Oak Creek
+Unified School District,
+Keep Sedona Beautiful
+
+Implementation Matrix | 29
+
+SEDONA CLIMATE ACTION PLAN
+
+Action
+Type
+
+Action
+
+Action Type
+
+Prepare
+recreation
+services for
+climate change
+
+Maintain cooperation with Arizona
+SPP
+State Parks and U.S. Forest Service
+recreation programs to plan for and
+respond to increased visitation and
+use of recreational services and open
+spaces.
+
+Green
+infrastructure
+codes for
+commercial
+buildings
+
+Adopt a green infrastructure code
+that applies to new construction
+projects and the remodeling of
+commercial buildings.
+
+Climate
+adaptive
+landscaping
+
+GHG
+Impact
+
+Timeframe Lead
+
+Potential Partners
+
+(Ongoing)
+
+City of Sedona
+Sustainability
+
+Coconino National
+Forest, Arizona
+Department of
+Environmental Quality,
+Arizona State Parks,
+Oak Creek Watershed
+Council, Verde Front, Red
+Rock Trail Fund, Sedona
+Chamber
+
+Reg
+
+City of Sedona
+Community
+Development
+
+Friends of the Verde
+River
+
+Require native and climate
+appropriate plants in the
+landscaping of public and private
+projects.
+
+Reg
+
+City of Sedona
+Community
+Development
+
+Friends of the Verde
+River, Sedona Chamber,
+Yavapai County
+Cooperative Extension,
+Keep Sedona Beautiful
+
+Creek
+restoration
+
+Expand protection and restoration
+efforts throughout the Oak Creek
+watershed. Reduce flood risk by
+supporting the natural capacity of
+creeks to retain water.
+
+CIP
+
+City of Sedona
+Sustainability
+
+Northern Arizona
+University Friends of the
+Verde River, Coconino
+National Forest, Oak
+Creek Watershed Council
+
+Forest health
+
+Identify opportunities for the City to SPP
+support forest health improvements.
+Reduce wildfire risk and protect
+other ecosystem services such as
+water quality, wildlife habitat, and
+soil health.
+
+City of Sedona
+Sustainability
+
+Coconino National
+Forest, Northern Arizona
+University, Sedona Fire
+District
+
+City Cost
+
+Implementation Matrix | 30
+
+SEDONA CLIMATE ACTION PLAN
+
+Action
+Type
+
+Timeframe Lead
+
+GHG
+Impact
+
+Action
+
+Action Type
+
+Potential Partners
+
+Low-impact
+business
+development
+
+Focus business development efforts
+on businesses that have lower
+impacts on natural resources and
+improve resident quality of life.
+
+Vol
+
+City of Sedona
+Economic
+Development
+
+Sedona Chamber, Small
+Business Development
+Center, Local First
+Arizona
+
+Carbon
+sequestration
+
+Research and develop regional
+opportunities to improve the natural
+sequestration of carbon in plants
+and soils.
+
+SPP
+
+City of Sedona
+Sustainability
+
+Northern Arizona
+University, Coconino
+National Forest,
+Northern Arizona
+Climate Change Alliance,
+Friends of the Verde
+River, Yavapai County
+Cooperative Extension
+
+City Cost
+
+Water & Natural Systems: Expand and improve green spaces, including increased ecosystem quality, connectivity and accessibility
+Water retrofits
+
+Update and advertise incentives and Vol
+direct install programs that retrofit
+inefficient water fixtures and support
+low water landscaping.
+
+City of Sedona
+Sustainability
+
+Arizona Water Company,
+Oak Creek Water
+Company, Friends of
+the Verde River, Keep
+Sedona Beautiful
+
+Water
+harvesting
+ordinance
+
+Adopt a rainwater harvesting
+ordinance for new development.
+
+Reg
+
+City of Sedona
+Community
+Development
+
+Friends of the Verde
+River
+
+Water Resource
+Management
+Plan
+
+Create an integrated water resource
+management plan that ensures a
+long-term sustainable supply of
+water when faced with climaterelated hazards.
+
+SPP
+
+City of Sedona
+Sustainability,
+Wastewater
+
+Friends of the Verde
+River, The Nature
+Conservancy, Sustaining
+Flows Council, YavapaiApache Nation, Salt
+River Project, Coconino
+Plateau Water Advisory
+Council
+
+Implementation Matrix | 31
+
+SEDONA CLIMATE ACTION PLAN
+
+Action
+
+Action Type
+
+Action
+Type
+
+Timeframe Lead
+
+GHG
+Impact
+
+Potential Partners
+
+City Cost
+
+Climate Resilience & Cross-Cutting Solutions: Institutionalize the consideration of climate change across City activities and decision-making
+Emergency
+management
+capacity
+
+Grow capacity to address risks
+exacerbated by climate change
+through new training and
+equipment. Coordinate with local
+public health agencies to ensure
+that information about preparing for
+extreme weather events is available
+to the community prior to and
+during such events.
+
+Vol
+
+City of Sedona
+Sustainability
+
+Yavapai County,
+Coconino County,
+Sedona Fire District,
+Department of
+Emergency and Military
+Affairs
+
+Sustainable
+tourism
+outreach
+
+Engage visitors on climate change
+initiatives and ensure visitors are
+aware of climate-related policies
+or actions. This includes Sedona
+recycling policies and Sustainable
+Tourism Plan objectives.
+
+Vol
+
+City of Sedona
+Sustainability
+
+Sedona Chamber,
+Sedona Recycles,
+Sustainability Alliance,
+Verde Front, Coconino
+National Forest
+
+City budget
+alignment
+
+Evaluate mitigation, resilience, and
+equity implications of City budget
+proposals.
+
+Reg
+
+City of Sedona
+Sustainability,
+Finance
+
+Business
+certification
+
+Expand partnership with the
+Sustainability Alliance on business
+sustainability certification efforts.
+
+SPP
+
+Sustainability
+Alliance
+
+Development
+review
+
+Evaluate and prioritize mitigation,
+resilience, and equity in
+development review.
+
+Reg
+
+City of Sedona
+Community
+Development
+
+City staff
+training
+
+Invest in training and education for
+City staff on topics such as green
+infrastructure and decarbonization
+of the building and transportation
+sectors.
+
+Vol
+
+City of Sedona
+Sustainability
+
+City of Sedona
+Sustainability
+
+Implementation Matrix | 32
+
+SEDONA CLIMATE ACTION PLAN
+
+Action
+
+Action Type
+
+Action
+Type
+
+Timeframe Lead
+
+Potential Partners
+
+GHG
+Impact
+
+City Cost
+
+Climate Resilience & Cross-Cutting Solutions: Increase community capacity and awareness of climate change risks and impacts
+Community
+resources
+
+Hire community-based organizations SPP
+and businesses whenever possible.
+Potential resources include stipends
+for participating in community
+groups and altering meeting times to
+increase accessibility. Additionally,
+offering food, translation, and
+childcare can allow more community
+members to engage in climate action
+and municipal processes.
+
+City of Sedona
+Sustainability
+
+Northern Arizona
+Interfaith Council,
+Sedona XYZ
+
+Collaborative
+governance
+
+Build the capacity for collaboration
+and break down existing barriers
+to equitable participation and
+engagement in Climate Action Plan
+implementation.
+
+City of Sedona
+Sustainability
+
+Northern Arizona
+Interfaith Council
+
+SPP
+
+Climate Resilience & Cross-Cutting Solutions: Adequately fund services for disaster preparedness
+Wildland Urban
+Interface code
+
+Adopt the 2018 Wildland Urban
+Reg
+Interface (WUI) building code to
+mitigate the risks from wildfire to life
+and property.
+
+Sedona Fire
+District
+
+City of Sedona
+Community
+Development
+
+Implementation Matrix | 33
+
+SEDONA CLIMATE ACTION PLAN
+
+Action
+Type
+
+Timeframe Lead
+
+GHG
+Impact
+
+Action
+
+Action Type
+
+Potential Partners
+
+Wildfire/flood
+emergency
+preparedness
+
+Adopt, practice, and regularly
+evaluate formal recovery plans
+for wildfire and flood emergency
+preparedness, response, and
+evacuation.
+
+Reg
+
+City of Sedona
+Sustainability,
+Sedona Fire
+District,
+Yavapai County,
+Coconino
+County,
+Coconino
+National Forest
+
+Resilience hubs
+
+Design and invest in community
+Resilience Hubs. Resilience Hubs
+are community-serving facilities
+that have been enhanced to
+support residents, coordinate
+communication, distribute
+resources, and reduce carbon
+pollution while enhancing quality of
+life.
+
+Cap
+
+City of Sedona
+Sustainability
+
+Sedona Library, Sedona
+Community Center,
+Northern Arizona
+Interfaith Council,
+Sedona Oak Creek
+Unified School District,
+Sedona Area Homeless
+Alliance
+
+Firewise
+volunteer
+program
+
+Develop volunteer program to
+assist homeowners with Firewise
+implementation on their properties.
+
+SPP
+
+Sedona Fire
+District, City
+of Sedona
+Sustainability
+
+Coconino National
+Forest, Yavapai County,
+Federal Emergency
+Management Agency,
+National Fire Protection
+Association
+
+Wildfire
+prevention
+partnerships
+
+Partner with federal, state, regional, Cap
+and local agencies to expand existing
+wildfire prevention outreach efforts.
+
+Sedona Fire
+District, City
+of Sedona
+Sustainability
+
+National Forest,
+Yavapai County, Federal
+Emergency Management
+Agency, Arizona Public
+Service, Coconino
+County
+
+City Cost
+
+Implementation Matrix | 34
+
+SEDONA CLIMATE ACTION PLAN
+
+Action
+
+Action Type
+
+Community
+cooling centers
+
+Expand community facilities for
+cooling. Increase park hours and
+access, ensure consistency in
+operations and communication to
+the public.
+
+Action
+Type
+SPP
+
+Timeframe Lead
+City of Sedona
+Parks and
+Recreation
+
+GHG
+Impact
+
+Potential Partners
+
+City Cost
+
+Verde Valley Homeless
+Coalition, Sedona Oak
+Creek Unified School
+District, Arizona Public
+Service, Northern
+Arizona Interfaith
+Council , Sedona Library,
+Sedona Area Homeless
+Alliance, Sedona
+Community Center
+
+Climate Resilience & Cross-Cutting Solutions: Identify and target support for at-risk populations
+Climate risk
+outreach
+
+Utilize city-wide marketing
+campaigns to communicate climate
+impacts and risk, especially towards
+frontline communities.
+
+Vol
+
+City of Sedona
+Sustainability
+
+Northern Arizona
+Climate Change Alliance,
+Sedona Chamber,
+Northern Arizona
+Interfaith Council
+
+Reduce heatisland effects
+
+Explore opportunities to reduce heat
+island effects in the city by requiring
+light-colored paving material,
+parking lot shade trees, and outdoor
+shading infrastructure.
+
+SPP
+
+City of Sedona
+Sustainability,
+Community
+Development
+
+Arizona Department of
+Transportation, Arizona
+Public Service
+
+Implementation Matrix | 35
+
+
