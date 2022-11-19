@@ -1,4 +1,4 @@
-### Climate Documents Internship
+# Climate Documents Internship
 
 ## pdf to plaintext conversion
 
