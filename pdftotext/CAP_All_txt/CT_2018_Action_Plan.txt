@@ -1,0 +1,2942 @@
+BUILDING A LOW CARBON FUTURE FOR CONNECTICUT
+ACHIEVING A 45% GHG REDUCTION BY 2030
+
+RECOMMENDATIONS FROM THE GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+DECEMBER 18, 2018
+
+
+
+Page left blank intentionally
+
+
+
+TABLE OF CONTENTS
+Executive Summary .............................................................. i
+
+Recommendations and Suite of Strategies .................................. 18
+
+GHG Emissions Reduction Recommendations and Suite of
+Strategies ............................................................................iv
+
+Put a price on Carbon............................................................... 18
+
+Introduction ........................................................................ 1
+The Science of Climate Change ...................................................... 1
+The Cost of Inaction ....................................................................... 3
+Leadership & Demonstration ......................................................... 5
+Connecticut’s GHG Reduction Path ............................................... 8
+
+Expand consumer education and awareness efforts to increase
+the uptake of zero- and low-carbon technology measures ..... 19
+Pursue an integrated approach to GHG mitigation, adaptation,
+and resiliency ........................................................................... 21
+
+Electric Sector .................................................................... 22
+Recommendations and Suite of Strategies .................................. 22
+
+Governor’s Council on Climate Change............................... 10
+
+Commit at least 50 megawatts of demand reduction per year
+to the ISO-New England forward-capacity market .................. 22
+
+Executive Order No. 46 ................................................................ 10
+
+Achieve at least 66% zero-carbon energy generation by 2030 23
+
+Meetings, Process, and Accomplishments to Date...................... 10
+Mid-term Target........................................................................... 11
+
+Optimize grid management strategies to reduce carbon
+emissions .................................................................................. 25
+
+GHG Emission Reduction Analysis ...................................... 12
+
+Transportation Sector ........................................................ 26
+
+Economy-wide Projections of GHG Emissions — The Business-asUsual Scenario.............................................................................. 12
+
+Recommendations and Suite of Strategies .................................. 26
+
+GHG Mitigation Scenarios ............................................................ 13
+Economic and Fiscal Impact of Achieving the 2030 Target ......... 14
+
+GHG Emissions Reduction Recommendations and
+Strategies .......................................................................... 15
+Introduction ................................................................................. 15
+Roles and Responsibilities ............................................................ 16
+
+Cross Sector ...................................................................... 18
+
+TABLE OF CONTENTS
+
+Maintain increasing fuel economy and low- and zero-emissions
+standards.................................................................................. 26
+Increase light-duty ZEV penetration rate to at least 20% by
+2030 ......................................................................................... 28
+Develop sustainable funding for transportation electrification
+and transit infrastructure ......................................................... 32
+
+Building Sector................................................................... 34
+Recommendations and Suite of Strategies .................................. 34
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+Accelerate adoption of building thermal energy conservation
+improvements such as weatherization, insulation, efficient
+windows, and HVAC ................................................................. 34
+Transition building fossil fuel thermal loads to efficient
+renewable thermal technologies ............................................. 36
+Improve training and technical capacity of workforce ............ 38
+
+Non-energy GHG Emissions ............................................... 39
+Connecticut’s Non-Energy Sector GHG Commitments ................ 39
+
+Appendices ....................................................................... 41
+Appendix A: Executive Order Number 46 ................................ 41
+Appendix B: Members of the Governor’s Council on Climate
+Change ..................................................................................... 43
+Appendix C: Connecticut Business-As-Usual Case ................... 44
+Appendix D: Technology & Measures ...................................... 46
+
+CREDITS
+The development, analysis and writing of this report included input
+from the following state agencies, businesses and organizations:
+Connecticut Fund for the Environment
+Connecticut Green Bank
+Connecticut Institute for Resilience and Climate Adaptation
+Connecticut Round Table on Climate and Jobs
+Department of Administration
+Department of Economic and Community Development
+Department of Energy and Environmental Protection
+Department of Housing
+
+TABLE OF CONTENTS
+
+Department of Insurance
+Department of Transportation
+Institute for Sustainable Energy at Eastern Connecticut State
+University
+Northeast States for Coordinated Air Use Management
+Office of Policy and Management
+Public Utilities Regulatory Authority
+The Hartford
+Stanley McMillen, Ph.D., Consultant
+Lead Authors
+Keri Enright-Kato, Director, Connecticut Department of Energy &
+Environmental Protection
+Jeff Howard, Environmental Analyst, Connecticut Department of
+Energy & Environmental Protection
+Jeremy Hunt, Research Analyst, Connecticut Department of Energy
+& Environmental Protection
+IMAGES
+Electric truck, Gonzalo Bravo
+Electric car, Nicholas DeForest
+House, Alexander Skowalsky
+Commercial Building, LAFS
+Buildings, Laurene Smith
+Electric leaf bolt, Curve
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+EXECUTIVE SUMMARY
+Carbon dioxide (CO2) is the greenhouse gas (GHG) that represents
+the greatest warming potential, due to its atmospheric abundance
+and long atmospheric lifetime (hundreds to thousands of years).1
+The global CO2 concentration has surpassed 400 parts per million
+(ppm), a level higher than at any time in the last 3 million years.
+Since the start of the 20th century, the Earth has warmed 1°C (1.8oF)
+since the pre-industrial period2; and the last four years have been
+the warmest years on record. The Intergovernmental Panel on
+Climate Change (IPCC) recently released a Special Report on Global
+Warming of 1.5oC, stating that there is high confidence that “global
+warming is likely to reach 1.5°C (2.7oF) between 2030 and 2052 if it
+continues to increase at the current rate.”3 The last time
+temperatures were 1-2oC (1.8-3.6°F) higher than they are now —
+some 125,000 years ago — sea levels were 5-6 meters (16-19 feet)
+higher. A 1.5°C (2.7oF) change in temperature will also have
+devastating impacts on ecosystems, water supplies, human health,
+and socioeconomic sectors.
+The IPCC Special Report notes that if anthropogenic GHG emissions
+stopped today, the 1.5oC (2.7oF) limit would not be exceeded, but
+global emissions to date “will persist for centuries to millennia.” The
+clear and sober findings of this report deepen our urgency to
+
+1 Why does CO get most of the attention when there are so many other heat-trapping gases?
+2
+
+Union of Concerned Scientists. August 3, 2017. Retrieved from
+https://www.ucsusa.org/global-warming/science-and-impacts/science/CO2-and-globalwarming-faq.html#bf-toc-1
+2 Wuebbles, D.J., D.W. Fahey, K.A. Hibbard, B. DeAngelo, S. Doherty, K. Hayhoe, R. Horton, J.P.
+Kossin, P.C. Taylor, A.M. Waple, and C.P. Weaver, 2017: Executive summary. In: Climate
+Science Special Report: Fourth National Climate Assessment, Volume I [Wuebbles, D.J., D.W.
+Fahey, K.A. Hibbard, D.J. Dokken, B.C. Stewart, and T.K. Maycock (eds.)]. U.S. Global Change
+Research Program, Washington, DC, USA, pp. 12-34, doi: 10.7930/J0DJ5CTG.
+3
+IPCC, 2018 [In Press]: Summary for Policymakers. In: Global Warming of 1.5 °C an IPCC
+special report on the impacts of global warming of 1.5 °C above pre-industrial levels and
+
+EXECUTIVE SUMMARY
+
+accelerate mitigation and adaptation efforts to reduce the risks and
+impacts associated with a 1.5-2°C (2.7-3.6°F) increase in global
+temperature from pre-industrial levels.
+Moreover, the recently released Fourth National Climate
+Assessment, Volume II draws a direct connection between the
+warming atmosphere and the resulting changes that affect lives,
+communities, and livelihoods. The impacts of observed warming are
+already being felt in the United States and are projected to intensify
+in the future. The severity of future impacts will depend largely on
+actions taken to reduce GHG emissions and our ability to integrate
+climate adaptation strategies into existing investments, policies, and
+practices.4
+With over 600 miles of coastline and 2.2 million people living in
+shoreline communities in Connecticut, the State’s residents and
+communities are extremely vulnerable to the impacts of weather
+and climate events. Connecticut residents are already beginning to
+experience such effects as climate change ramps up. For instance, in
+Connecticut alone, Hurricane Irene (2011) caused power outages
+affecting 754,000 customers and over $1 billion in damage, and
+Hurricane Sandy (2012) caused power outages affecting more than
+related global greenhouse gas emission pathways, in the context of strengthening the global
+response to the threat of climate change, sustainable development, and efforts to eradicate
+poverty.
+4 Jay, A., D.R. Reidmiller, C.W. Avery, D. Barrie, B.J. DeAngelo, A. Dave, M. Dzaugis, M. Kolian,
+K.L.M. Lewis, K. Reeves, and D. Winner, 2018: Overview. In Impacts, Risks, and Adaptation in
+the United States: Fourth National Climate Assessment, Volume II [Reidmiller, D.R., C.W.
+Avery, D.R. Easterling, K.E. Kunkel, K.L.M. Lewis, T.K. Maycock, and B.C. Stewart (eds.)]. U.S.
+Global Change Research Program, Washington, DC, USA. doi: 10.7930/NCA4.2018.CH1)
+
+i
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+600,000 customers and inflicted almost $2 billion in statewide
+damages.5 The latter forced thousands of Connecticut residents to
+evacuate, saw thousands apply for FEMA assistance, damaged roads
+and infrastructure, and took nine days for utilities to restore
+power.6 Many of Connecticut’s coastal communities and assets face
+escalating risk of storm events exacerbated by climate change.
+Connecticut’s commitment to address climate change is evident in
+the policies, programs, and voluntary actions it has pursued over
+the past 15 years. Passage of the 2008 Global Warming Solutions
+Act, which set forth a statutory requirement to reduce GHG
+emissions 10 percent below 1990 levels by 2020 and 80 percent
+below 2001 levels by 2050, establishes a commitment that the State
+will mitigate harmful GHG emissions. While long-term GHG
+reduction trends indicate the Connecticut is on a trajectory to meet
+its targets, the urgency of action cannot be overstated. Beyond
+2020, far deeper cuts are needed to ensure meeting the State’s
+reduction targets.
+Anticipating the need to ensure the State maintains a downward
+trajectory, Governor Malloy issued Executive Order No. 46, creating
+the Governor’s Council on Climate Change (GC3). The GC3 was
+tasked with 1) “examining the efficacy of existing of existing policies
+and regulations designed to reduce greenhouse gas emissions and
+identify new strategies”; 2) “establish[ing] interim goals that, if met,
+will ensure that the state will achieve the 2050 target”; 3)
+“recommend[ing] policies, regulations, or legislative actions that will
+assist in achieving the interim goals and 2050 target”; and 4)
+“monitor[ing] greenhouse gas emission levels … annually to
+establish whether the state is poised to meet the interim goals and
+5
+
+NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather
+and Climate Disasters (2018). Retrieved from https://www.ncdc.noaa.gov/billions/
+
+EXECUTIVE SUMMARY
+
+the 2050 target.” After a thorough review of a variety of scenarios
+on how the State can drive down GHG emissions in the electric,
+building, and transportation sectors, the GC3 unanimously
+recommended an economy-wide GHG emission reduction target of
+45 percent below 2001 levels by 2030. As one of the most ambitious
+mid-term reduction targets in the nation, the target places the State
+on a linear downward trajectory from today’s GHG emissions to the
+80 percent reduction by 2050 required by the Global Warming
+Solutions Act.
+The GC3’s mid-term reduction target recommendation was adopted
+by the Connecticut General Assembly when it passed An Act
+Concerning Climate Change Planning and Resiliency (Public Act 1882). The 2030 target of reducing GHG emissions 45 percent below
+2001 levels was signed into law by Governor Malloy on June 20,
+2018.
+Summary of Recommendations
+The recommendations in this report build upon the successful
+policies and measures the State has implemented to date, propose
+strengthening existing programs, and put forth new strategies to
+help Connecticut reach its mid- and long-term GHG reduction
+targets. The recommendations underscore that there is no single
+solution; instead, they offer a balanced mix of strategies that allow
+for flexibility and mid-course adjustments as technologies and costs
+change over time.
+The GC3’s analysis of a variety of scenarios to determine the best
+pathway to meet the 2030 and 2050 targets helped establish a long-
+
+6 Burgeson, John. Rising Above the Tide: 5 Years Since Sandy. CTPost. October 28, 2017.
+
+Retrieved from https://www.ctpost.com/local/article/Rising-above-the-tide-5-years-sinceSandy-12313727.php
+
+ii
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+term vision for decarbonizing Connecticut’s economy. Three broad,
+fundamental objectives emerged from this vision:
+1. Zero-carbon electricity generation
+2. Clean transportation
+3. Clean, efficient, and resilient buildings
+The following proposed strategies and suite of recommendations
+would put Connecticut on track to meet these objectives and help
+build a strong foundation for achieving a zero-carbon future.
+Additional actions, beyond those proposed in this report, will need
+to be regularly evaluated and integrated into state and local
+planning efforts, and acted upon by public and private entities alike.
+Whenever possible, climate change policymaking should assess the
+multiple added benefits, also known as co-benefits, of policies
+enacted to reduce GHG emissions. The co-benefits of reduced GHG
+
+EXECUTIVE SUMMARY
+
+emissions include: job growth and local economic benefits; livable
+and resilient communities; public health benefits; and potential
+innovation in technology, energy, and resource management
+practices. These benefits, which depend on the specific nature of
+the policy enacted, could consist of improved air and water quality,
+improved soil and ecosystem health, energy cost savings,
+sustainable land management, and so on. While co-benefits can be
+difficult to monitor, quantify, and monetize, when properly valued
+they often help demonstrate that the positive societal impacts of
+climate policy actions outweigh the costs.
+Utilizing existing and proven technologies, the following set of
+sector-specific recommendations and supporting suite of strategies
+were developed with the above objectives in mind. We believe they
+put Connecticut on a sustainable path to meeting its ambitious 2030
+target and help position it to meet its transformative 2050 target.
+
+iii
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+GHG EMISSIONS REDUCTION RECOMMENDATIONS AND SUITE OF STRATEGIES
+
+EXECUTIVE SUMMARY
+
+iv
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+EXECUTIVE SUMMARY
+
+v
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+EXECUTIVE SUMMARY
+
+vi
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+EXECUTIVE SUMMARY
+
+vii
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+EXECUTIVE SUMMARY
+
+viii
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+EXECUTIVE SUMMARY
+
+ix
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+EXECUTIVE SUMMARY
+
+x
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+EXECUTIVE SUMMARY
+
+xi
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+EXECUTIVE SUMMARY
+
+xii
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+EXECUTIVE SUMMARY
+
+xiii
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+INTRODUCTION
+The Science of Climate Change
+Since the start of the 20th century, the Earth has warmed 1°C (1.8oF)7; and the past four years have been the
+warmest on record. This temperature rise has been accompanied by disruptions in the atmospheric and
+oceanic systems, including increased frequency of severe weather events, sea level rise, and ocean
+acidification. These changes, in turn, have had many implications for natural ecosystems and processes that
+humans depend on for survival.8
+
+Temperature histories from paleoclimate data (green line) compared to the history based on modern instruments (blue
+line) suggest that global temperature is warmer now than it has been in the past 1,000 years, and possibly longer.
+(Graph adapted from Mann et al., 2008.) Retrieved from https://earthobservatory.nasa.gov/
+
+The terms global warming and climate change are often applied and used interchangeably to describe
+these changes. However, they do not refer to exactly the same phenomenon. Global warming refers to the
+rising temperature of the Earth system, whereas climate change encapsulates the set of effects that the
+warming has on humans and the environment. While Earth’s climate has historically varied due to natural
+causes such as changes in the sun’s radiation, 97 percent of the scientific community is in agreement that
+climatic changes observed since the beginning of the Industrial Revolution are primarily anthropogenic, or
+human-caused.9 By combusting fossil fuels and cutting down forests, humans have dramatically increased
+the levels of CO2 in the atmosphere, which causes global temperatures to increase due to the greenhouse
+effect.10 According to the IPCC, the internationally accepted authority on climate change, evidence suggests
+with greater than 95 percent probability that the recent warming trend is caused by human activity since
+the mid-20th century and is proceeding at a rate that is unprecedented over decades to millennia.11
+
+7 Wuebbles, D.J., D.W. Fahey, K.A. Hibbard, B. DeAngelo, S. Doherty, K. Hayhoe, R. Horton, J.P. Kossin, P.C. Taylor, A.M. Waple, and C.P. Weaver,
+
+2017: Executive summary. In: Climate Science Special Report: Fourth National Climate Assessment, Volume I [Wuebbles, D.J., D.W. Fahey, K.A.
+Hibbard, D.J. Dokken, B.C. Stewart, and T.K. Maycock (eds.)]. U.S. Global Change Research Program, Washington, DC, USA, pp. 12-34, doi:
+10.7930/J0DJ5CTG.
+8 Ibid.
+9 John Cook et al 2013 Environ. Res. Lett. 8 024024
+10
+Causes of Climate Change. United States Environmental Protection Agency. 2016. Retrieved from
+https://19january2017snapshot.epa.gov/climate-change-science/causes-climate-change_.html
+11 IPCC, 2014: Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change [Core Writing Team, R.K. Pachauri and L.A. Meyer (eds.)].
+
+INTRODUCTION
+
+1|Page
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+Greenhouse effect refers to the capability of some
+gases in the atmosphere to absorb heat energy from
+the sun. These gases, collectively known as
+“greenhouse gases,” include CO2, methane, and
+chlorofluorocarbons. Carbon dioxide represents the
+greatest warming potential due to its atmospheric
+abundance.12 When the concentration of GHGs in the
+atmosphere increases, more heat energy from the
+sun becomes trapped in the atmosphere rather than
+radiating back into space, thus heating the Earth
+system.13 This overall temperature increase causes
+melting of land-based ice and the thermal expansion
+of ocean water, which contribute to sea level rise, as
+well as a host of local and regional climate effects. In
+A build-up of CO2 in the atmosphere causes heat to be
+2015, the Parties to the United Nations Framework
+trapped in the Earth’s atmosphere, instead of escaping.
+Convention on Climate Change developed the Paris
+Source: Greenovate Boston, 2014 Climate Action Plan
+Agreement at COP 21, aiming to limit global
+temperature rise in this century to 2°C (3.6°F) above pre-industrial levels.14
+The Greenhouse Gas Effect
+
+Part I of the Fourth National Climate Assessment, released in 2017, reported that “Without major
+reductions in emissions, the increase in annual average global temperature relative to preindustrial times
+could reach 5°C (9°F) or more by the end of this century.” And in an IPCC special report released in October
+2018, it was stated that climate scientists are highly confident that global warming is likely to reach 1.5°C
+(2.7oF) between 2030 and 2052 if temperatures continue to increase at the current rate. The last time
+temperatures were 1-2oC (1.8-3.6oF) higher than they are now, 125,000 years ago, sea levels were 16-20
+feet (5-6 meters) higher. A 1.5oC (2.7oF) change in temperature will also have devastating impacts on
+ecosystems, water supplies, human health, and socioeconomic systems. Based on several lines of evidence,
+the intensity and frequency of some climate and weather extremes are also projected to increase. In 2017
+alone, extreme weather events such as Hurricane Harvey, Hurricane Maria, and California’s raging wildfires
+caused over $306.2 billion in losses,15 the costliest year for climate- and weather-related events.16
+Since the mid-20th century, annual average temperatures across the region have already risen more than
+0.7°C (1.26°F)17 and annual precipitation has increased by approximately 7 percent.18 In Connecticut
+average annual temperatures have risen by over 0.9°C (1.62oF) between 1980 and 2018. Over the same
+period, winter temperatures have warmed by 1.6°C (2.88oF). In conservative estimates, climate projections
+12 Why does CO get most of the attention when there are so many other heat-trapping gases? Union of Concerned Scientists. August 3, 2017.
+2
+
+Retrieved from https://www.ucsusa.org/global-warming/science-and-impacts/science/CO2-and-global-warming-faq.html#bf-toc-1
+13 Ibid.
+14
+What is the Paris Agreement? United Nations Framework Convention on Climate Change. Retrieved from https://unfccc.int/process-andmeetings/the-paris-agreement/what-is-the-paris-agreement
+15 Lawson, Ashley. A Dubious Record: Increasing Costs of Climate Change – Blog. Center for Climate and Energy Solutions. January 11, 2018.
+Retrieved from https://www.c2es.org/2018/01/setting-dubious-records-increasing-costs-of-climate-change/
+16 Billion-Dollar Weather and Climate Disasters: Overview. National Centers for Environmental Information, National Oceanic and Atmospheric
+Administration. Retrieved from https://www.ncdc.noaa.gov/billions/overview
+17 Vose, R.S., D.R. Easterling, K.E. Kunkel, A.N. LeGrande, and M.F. Wehner, 2017: Temperature changes in the United States. In: Climate Science
+Special Report: Fourth National Climate Assessment, Volume I [Wuebbles, D.J., D.W. Fahey, K.A. Hibbard, D.J. Dokken, B.C. Stewart, and T.K.
+Maycock (eds.)]. U.S. Global Change Research Program, Washington, DC, USA, pp. 185-206, doi: 10.7930/J0N29V45.
+18
+Easterling, D.R., K.E. Kunkel, J.R. Arnold, T. Knutson, A.N. LeGrande, L.R. Leung, R.S. Vose, D.E. Waliser, and M.F. Wehner, 2017: Precipitation
+change in the United States. In: Climate Science Special Report: Fourth National Climate Assessment, Volume I [Wuebbles, D.J., D.W. Fahey, K.A.
+Hibbard, D.J. Dokken, B.C. Stewart, and T.K. Maycock (eds.)]. U.S. Global Change Research Program, Washington, DC, USA, pp. 207-230,
+doi: 10.7930/J0H993CC.
+
+INTRODUCTION
+
+2|Page
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+for Connecticut robustly indicate that annual mean temperature will rise by 3-6°C (5.4-10.8oF) by the end of
+the 21st century with winter warming at three times the rate of summer.19
+In general, the Northeast has experienced a greater recent increase in extreme precipitation than any other
+region in the nation. Mean annual precipitation is likely to increase, particularly in winter and spring,
+contributing to increased flooding risk throughout the region. Additionally, weather and climate extremes
+are projected to be more frequent and intense, which will impact both natural and socioeconomic systems.
+As temperatures increase along the coast, humidity will also rise, resulting in amplified heat stress during
+summer months. In inland areas, drought events will become longer and more severe, causing increased
+competition for limited water resources, agricultural crop damage, ecosystem stress, and risk of wildfire.
+Direct and remotely sensed measurement of sea level have shown that the annual mean level of the ocean
+surface is rising. In the Northeast, coastal flooding has increased due to an approximately 1-foot rise of sea
+level rise since 1900. This rate of sea level rise exceeds the global average of approximately 8 inches, due
+primarily to land subsidence and thermal expansion (of ocean water) along the Northeastern coast.
+Sea level rise along the Connecticut coast is projected to be as high as 20 inches (approximately 0.5 meters)
+by 2050.20 As a result, communities in Connecticut should expect the frequency and intensity of coastal
+flooding to increase in coming decades due to accelerating trends in coastal erosion, extreme precipitation,
+and storms.
+Connecticut is highly vulnerable to changes in mean and extreme climate due to regional characteristics like
+a dense population and aging infrastructure. Urban areas are at risk for large numbers of evacuated and
+displaced populations and damaged infrastructure due to prolonged heat waves, extreme precipitation
+events, and recurrent flooding. As winters become shorter and milder, tick and flea populations are
+predicted to rise, leading to more annual cases of vector-borne illnesses such as Lyme disease.
+Policymakers must be aware that climate change poses a serious threat to the environment, economy, and
+public health — and should take decisive action to reduce the risks associated with an increase in global
+temperatures.21
+
+The Cost of Inaction
+Climate inaction in the U.S. will have serious effects across the country in the near- and long-term. As air
+and water temperatures continue to increase, extreme weather events such as hurricanes, heat waves, and
+winter storms will become more frequent and intense, as will the physical damages and financial expenses
+associated with such events. Some areas of the country may experience longer and harsher droughts and
+more dangerous wildfires, while others may experience heavier flooding and rainfall due to increased
+precipitation. These extreme weather events exacerbated by climate change impose major costs on
+residents, businesses, and government and can damage local, state, and regional economies.
+According to a Bulletin of the American Meteorological Society report in 2017, climate change was a
+“significant driver” in 21 of 27 extreme weather events studied in 2016. U.S. states are already seeing the
+
+19 Dupigny-Giroux, L.A., E.L. Mecray, M.D. Lemcke-Stampone, G.A. Hodgkins, E.E. Lentz, K.E. Mills, E.D. Lane, R. Miller, D.Y. Hollinger, W.D. Solecki,
+
+G.A. Wellenius, P.E. Sheffield, A.B. MacDonald, and C. Caldwell, 2018: Northeast. In Impacts, Risks, and Adaptation in the United States: Fourth
+National Climate Assessment, Volume II[Reidmiller, D.R., C.W. Avery, D.R. Easterling, K.E. Kunkel, K.L.M. Lewis, T.K. Maycock, and B.C. Stewart
+(eds.)]. U.S. Global Change Research Program, Washington, DC, USA. doi: 10.7930/NCA4.2018.CH18
+20 O`Donnell, J. (March 27, 2018). Sea Level Rise in Connecticut. Draft Report, Connecticut Institute for Resilience and Climate Adaptation.
+21 What Climate Change Means for Connecticut, United States Environmental Protection Agency. 2016. Retrieved from
+https://19january2017snapshot.epa.gov/sites/production/files/2016-09/documents/climate-change-ct.pdf
+
+INTRODUCTION
+
+3|Page
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+economic impact of such events. In addition to concluding that weather and climate events in 2017 caused
+over $306.2 billion in losses, the report also concluded that hurricanes Harvey and Maria, and California’s
+wildfires would not have occurred naturally without manmade GHGs causing climate change. 22,23 Further,
+according to the National Oceanic and Atmospheric Administration, since 1980 the nation has sustained
+238 weather and climate disasters, with total costs exceeding $1.5 trillion. In 2018 alone, there has been
+one drought event, six severe storm events, a tropical cyclone event, a wildfire event, and two winter storm
+events with losses over $1 billion each.24
+With over 600 miles of coastline and 2.2 million people living in shoreline communities in Connecticut, the
+State’s residents and communities are extremely vulnerable to the impacts of weather and climate events.
+Connecticut residents are already beginning to experience such effects as climate change ramps up. For
+instance, in Connecticut alone, Hurricane Irene (2011) caused power outages affecting 754,000 customers
+and over $1 billion in damage, and Hurricane Sandy (2012) caused power outages affecting more than
+600,000 customers and inflicted almost $2 billion in statewide damages.25 The latter forced thousands of
+Connecticut residents to evacuate, saw thousands apply for FEMA assistance, damaged roads and
+infrastructure, and took nine days for utilities to restore power.26 Many of Connecticut’s coastal
+communities and assets face escalating risk of storm events exacerbated by climate change.
+
+NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters (2018). Retrieved from
+https://www.ncdc.noaa.gov/billions/
+
+22 Lawson, Ashley. A Dubious Record: Increasing Costs of Climate Change – Blog. Center for Climate and Energy Solutions. January 11, 2018.
+
+Retrieved from https://www.c2es.org/2018/01/setting-dubious-records-increasing-costs-of-climate-change/
+23 Explaining Extreme Events of 2016 from a Climate Perspective. Bulletin of the American Meteorological Society. Vol. 99, No. 1. January 2018.
+24 NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters (2018). Retrieved from
+https://www.ncdc.noaa.gov/billions/
+25
+NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters (2018). Retrieved from
+https://www.ncdc.noaa.gov/billions/
+26 Burgeson, John. Rising Above the Tide: 5 Years Since Sandy. CTPost. October 28, 2017. Retrieved from
+https://www.ctpost.com/local/article/Rising-above-the-tide-5-years-since-Sandy-12313727.php
+
+INTRODUCTION
+
+4|Page
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+Future risks associated with increased sea level rise and tidal flooding will result in significant costs to
+property owners from both damages and a decrease in the overall value of their property. For instance,
+using the FloodiQ tool to assess the impacts of future sea level rise on properties located in Branford,
+Connecticut, the U.S. Army Corps of Engineers estimates that over the next 15 years, sea level will increase
+by 6.24 inches. As a result, tidal flooding in Branford will affect 166 residential properties and decrease
+property values by $16.3 million.27 This is just one example of the potential costs to Connecticut property
+owners. We must continue to analyze and communicate these risks to individuals and communities who
+will bear the brunt of these costs in future years.
+In addition to extreme weather events, climate inaction will lead to further ecosystem degradation,
+negative public health and economic impacts, and infrastructure vulnerability. Some studies estimate labor
+productivity losses nationwide of $150 billion by 2099 and $53 billion in losses from reduced crop yields.28
+As temperatures rise and air quality worsens, more individuals will suffer from heat-related illness,
+cardiopulmonary illness, food-, water-, and vector-borne diseases, and mental health illness.29 Delays to
+climate action will cause greater damages and increase future mitigation costs as climate threats continue
+to escalate in the absence of significant action.
+
+Leadership & Demonstration
+Over the past two decades, Connecticut
+has taken a series of strong actions to
+respond to climate change. Recognizing the
+value of demonstrating leadership,
+Connecticut repeatedly has affirmed its
+commitment to addressing climate change,
+as illustrated in the timeline below.
+Though the Connecticut has a relatively
+small GHG footprint, policymakers,
+businesses, non-profits, associations,
+municipalities, and individuals understand
+that a pathway to a clean and low-carbon
+future is not only possible but also
+profitable. As such, the State is committed
+to leading the way by developing and
+demonstrating credible, scalable solutions.
+This explicit demonstration helps galvanize
+responses in the private sector and
+jurisdictions around the world.
+
+Connecticut GHG Footprint
+
+27
+
+FloodiQ is a nonprofit focused on empowering homeowners to protect their property from flooding. It was created using the most advanced open
+source data from partners like: NOAA, USGS, National Weather Service, US Army Corps of Engineers, and Columbia University. Retrieved from
+https://floodiq.com/
+28 Climate Change: Information on Potential Economic Effects Could Help Guide Federal Efforts to Reduce Fiscal Exposure (September 2017). United
+States Government Accountability Office.
+29 Balbus, J., A. Crimmins, J.L. Gamble, D.R. Easterling, K.E. Kunkel, S. Saha, and M.C. Sarofim, 2016: Ch. 1: Introduction: Climate Change and Human
+Health. The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment. U.S. Global Change Research Program,
+Washington, DC, 25–42. Retrieved from http://dx.doi.org/10.7930/J0VX0DFW
+
+INTRODUCTION
+
+5|Page
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+With the goal of reducing statewide GHG emissions and demonstrating effective solutions, Connecticut has
+utilized tools such as goal setting, legislation, regulations, and voluntary action to advance its climate
+agenda.
+Goal setting provides the basis for designing, evaluating the feasibility of, and monitoring the effectiveness
+of policies that aim to reduce GHG emissions. In 2008, Connecticut legislators enacted the Global Warming
+Solutions Act (Public Act 08-98), which established mandatory statewide GHG reduction targets of: 10
+percent below 1990 levels by 2020; and 80 percent below 2001 levels by 2050.
+Legislation provides the opportunity to establish, authorize, and fund actions that spur innovative solutions
+in support of Connecticut’s climate change goals. In 2011, the General Assembly established the nation’s
+first Green Bank to leverage public and private funds to accelerate the growth of green energy in
+Connecticut. To date the bank has invested a total of $1.3 billion for clean energy projects across the
+state.30
+State agencies utilize regulations to set forth requirements for carrying out legislation necessary to reduce
+GHG emissions. For example, in 2008 under Connecticut General Statute section 22a-200c, the then
+Department of Environmental Protection developed RSCA Section 22a-174-31 Control of Carbon Dioxide
+Emissions to implement the Regional Greenhouse Gas Initiative (RGGI). RGGI is the first U.S. mandatory
+cap-and-invest program to reduce GHGs emissions from electricity-generating units.
+Voluntary actions taken by Connecticut’s private companies, higher education institutions, non-profit
+organizations, and other organizations demonstrate economy-wide leadership on addressing climate
+change. Collectively, these institutions are advancing climate change mitigation and adaptation agendas to
+protect bottom-lines, assets, investments, and customers while building brand innovation and expressing
+their values. One such example of corporate climate leadership is The Hartford, a member of the GC3 and a
+U.S.-based investment and insurance company headquartered in Hartford. The company recognizes that
+climate change is of real and increasing concern and has exerted strong leadership to understand, manage,
+and mitigate the risks associated with climate change. For instance, the company has taken aggressive
+action to promote energy efficiency, and has reduced the company’s scope 1, 2, and 3 GHG emissions 66.2
+percent below 2007 levels.31
+
+30 Connecticut Green Bank Impact Report. 2018. Retrieved from https://www.ctgreenbank.com/wp-content/uploads/2018/10/Green-Bank-
+
+CAFR_2018.pdf
+31
+The Harford 2017 Sustainability Highlight Report. Retrieved from https://s0.hfdstatic.com/sites/the_hartford/files/sustainability-highlightreport.pdf
+
+INTRODUCTION
+
+6|Page
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+INTRODUCTION
+
+7|Page
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+Connecticut’s GHG Reduction Path
+Under the consumption-based accounting approach for the electric sector, Connecticut’s economy-wide
+GHG emissions in 2016 were 41.1 million metric tons of carbon dioxide equivalent (MMT CO2e), 9 percent
+below 1990 levels and 16 percent below 2001 levels.32 In comparison, emissions using the generation-based
+accounting approach were 40.4 MMT CO2e, 11 percent below 1990 levels and 16 percent below 2001
+levels. While there is a 2-3 year lag time in the inventory analysis, it is clear that if Connecticut is to meet its
+2020 target (10% reduction below 1990 levels) the urgency of action in 2019 is critical. It is also clear that
+far deeper cuts are needed to ensure the State meets the 2030 and 2050 targets.
+Relative to emissions in 2015, emissions in 2016 dropped by 2.7 MMT CO2e. This decline is largely due to
+reductions in overall energy consumption and an extreme temperature difference between 2015 and 2016
+— in Connecticut, winter 2016 temperatures were 5-6°F above average, whereas, across much of the
+Northeast, the months of January-March 2015 were the coldest on record, leading to increased energy
+consumption for heating and natural gas constraints for electricity generation. This susceptibility to
+weather extremes illustrates the challenges the State faces in the coming years as it seeks to implement
+actions that drive emissions downward.
+
+The three sectors with the largest GHG footprint in 2016 were transportation (38%), electric power (23%),
+and residential buildings (15.5%). The others sectors — industrial buildings and processes, commercial
+buildings, waste, and agriculture — together accounted for approximately 25 percent of emissions.
+As the single largest source of emissions in Connecticut, transportation sector emissions are generated
+primarily from the use of fossil fuels in passenger cars and light-duty trucks. Dropping 0.3 percent since
+1990 and 13 percent since 2001, further transportation emission reductions are critical to meeting the
+State’s targets. And, although national fuel economy standards have improved vehicle efficiency, the
+number of vehicle miles driven in Connecticut have increased, which is likely the contributing factor for not
+attaining greater emission reductions in the transportation sector. Significantly reducing transportation
+32 Electric sector emissions are calculated using the consumption-based approach, which takes into account the regional nature of the grid and
+
+multiplies Connecticut’s electricity consumption by the regional emission factor.
+
+INTRODUCTION
+
+8|Page
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+emissions in the coming decades will require continued improvements in vehicle fuel economy and GHG
+emission standards for all class sizes, increased deployment of zero-emission vehicles, and strategies that
+reduce VMT.
+Connecticut’s largest reduction has occurred in the electric sector — down 22 percent from 1990 to 2016
+and 24.7 percent from 2001 to 2016. This reduction correlates with state and regional policies and
+programs that encourage investment in energy efficiency in homes and businesses, a shift from dirtier fossil
+fuels such as coal and oil to natural gas, and increased deployment of renewable energy sources. Further
+reductions are expected as more energy demand will be met by renewable sources.
+
+Overall trends in the inventory demonstrate that the carbon intensity of Connecticut’s economy has
+declined — falling 53 percent from 1990 and 23 percent from 2001. This demonstrates significant long-term
+decoupling of economic growth and carbon pollution. In addition, Connecticut’s per capita emissions,
+among the lowest in the country, declined 20 percent between 2001 and 2016.
+The State’s commitment to cutting carbon pollution through energy efficiency, low-carbon fuels, renewable
+energy resources, and zero-emission vehicles will help transition Connecticut to a low-carbon economy.
+However, significant and continued reductions across all sectors are necessary to meet the State’s
+mandatory GHG reduction targets for 2020, 2030, and 2050.
+
+INTRODUCTION
+
+9|Page
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+Executive Order No. 46
+On April 22, 2015, Governor Dannel P. Malloy issued Executive Order No. 46, creating the Governor’s
+Council on Climate Change (GC3 or Council). As delineated in the executive order, the GC3 is comprised of
+15 individuals from state agencies, non-profit organizations, and businesses and is tasked with “examin[ing]
+the efficacy of existing policies and regulations designed to reduce greenhouse gas emissions and identify
+new strategies to meet the established emission reduction targets” and “establish[ing] interim goals that, if
+met, will ensure that the State will achieve the 2050 target” (see Appendix A for Executive Order No. 46 and
+Appendix B for GC3 membership).
+
+Meetings, Process, and Accomplishments to Date
+GC3 meetings provide opportunities for structured discussion informed by current research on GHG
+mitigation strategies in order to help identify issues that need to be addressed, highlight, and discuss
+various strategies for significant GHG emissions reduction, and provide members the opportunity to
+contribute to the decision-making process. The chair of the GC3 is responsible for ensuring that all
+members have equal opportunities to access, discuss, and respond to the issues under consideration. A
+variety of opportunities for dialogue are provided before decisions are made and adequate time is allowed
+for discussion and feedback.
+GC3 meetings are accessible and open to the public, either in person or via webinar and teleconference. A
+public notice issued prior to each meeting includes the meeting agenda, comment submission deadlines,
+and instructions for attending in person or virtually. During each meeting, the Council allocates time to
+receive public comments from stakeholders.
+Meeting materials including agendas, presentations, and meeting minutes are posted publically on the
+Department of Energy and Environmental Protection’s GC3 website. Written public comments submitted to
+the Council also are posted.
+Since the GC3’s first meeting on July 10, 2015, the GC3 has held 38 public meetings and 5 stakeholder
+outreach events that informed the recommendations of this report and development of:
+
+
+Exploring Climate Solutions webinar series which explores innovative and successful climate change
+solutions in Connecticut and across the nation – 38 webinars to date
+
+
+
+GC3 Exploratory Report – a preliminary report published in 2016 that:
+o
+
+projected GHG emissions under a business as usual scenario (reference case)
+
+o
+
+provided a set of recommendations to enable voluntary action across all sectors
+
+o
+
+outlined a transparent and effective engagement process with stakeholders on
+development and implementation of statewide GHG mitigation strategies
+
+
+
+GHG reduction scenarios that evaluated opportunities for emission-reduction pathways for the
+transportation, building, and electric sectors
+
+
+
+An economic impact analysis of the emission-reduction scenarios
+
+
+
+A mid-term target recommendation and statement of principles
+
+GHG EMISSION REDUCTION ANALYSIS
+
+10 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+Mid-term Target
+After a thorough review of a variety of mitigation scenarios that drive down GHG emissions in the electric,
+building, and transportation sectors, the GC3, through consensus, recommended an economy-wide
+reduction target of 45 percent below 2001 levels by 2030. As one of the most ambitious mid-term
+reduction targets in the nation, the selected target ensures Connecticut is on a downward trajectory from
+today’s GHG emissions to the 80 percent reduction the Global Warming Solutions Act requires by 2050.
+The GC3’s mid-term reduction target recommendation was adopted by the General Assembly when it
+passed An Act Concerning Climate Change Planning and Resiliency (Public Act 18-82). The consensus 2030
+target was signed into law by Governor Malloy on June 20, 2018.
+
+GC3 Statement of Principles to Guide Implementation of 2030 Target
+Connecticut has already demonstrated that reducing GHG emissions goes hand in hand with economic
+growth and job creation. Transitioning to a clean energy economy will further strengthen the State’s
+economic growth, creating jobs, and lowering energy bills for families and businesses. Going forward,
+the GC3 recognizes that a 45 percent reduction by 2030 is an ambitious goal that will require significant
+changes to all sectors of the State’s economy, and participation by all parts of society. In order to
+ensure success in meeting this goal, the GC3 adopts and endorses the following statement of principles
+to guide the implementation of actions needed to meet the target:
+
+
+We must design and implement a major transformation of how we generate and utilize energy.
+This requires a commitment to modernizing and decarbonizing our transportation system,
+vehicles, building stock, heating and cooling systems, and electricity generation system.
+
+
+
+We must prioritize and implement measures that:
+o achieve the largest GHG emission reductions in a cost-effective, timely, and efficient
+manner, with a focus on implementing proven, scalable strategies;
+o balance and factor in measurable in-state co-benefits (such as improved health,
+economic development, energy security and independence, and quality of life) as well
+as life-cycle costs and the cost of inaction;
+o address racial, class, gender, geographic and generational equity in both costs and
+benefits.
+
+
+
+The success of our efforts to reduce GHG emissions in Connecticut – and its value to the
+national and international efforts to limit the increase in global average temperature to below
+2oCelsius – requires engagement and action from all levels of government (local, state,
+regional, national, and international).
+
+
+
+We must harness and foster innovation by engaging, incentivizing, and supporting the private
+sector as it develops and implements solutions that will lead to GHG emission reductions. This
+includes leveraging limited public funds to attract and mobilize multiples of private investment.
+
+
+
+We must effectively engage and incentivize individual citizens, civic organizations, religious
+groups, non-governmental organizations, and other members of civil society to understand the
+urgency in becoming active participants in the transition to a decarbonized economy.
+
+
+
+We must maximize synergies between mitigation and adaptation measures, and avoid tradeoffs between the two.
+
+
+
+We must implement a regular review process to ensure the State is on a clear and consistent
+path to achieve its GHG goals, and allow for course-correction in the face of unanticipated
+changes over time.
+
+GHG EMISSION REDUCTION ANALYSIS
+
+11 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+GHG EMISSION REDUCTION ANALYSIS
+
+Economy-wide Projections of GHG Emissions — Business-as-Usual
+Scenario
+Northeast States for Coordinated Air Use
+Management (NESCAUM) worked closely
+with the GC3 to develop a Connecticutspecific business-as-usual (BAU) reference
+case for future emissions through 2050 to
+provide the basis for examining potential
+GHG mitigation technologies and measures.
+The reference case relies on: projection data
+from the U.S. Energy Information
+Administration; historical and projected
+energy use data; and existing federal,
+regional, and state regulatory requirements expected to shape Connecticut’s future energy consumption.
+The BAU case serves as a point of reference for assessing various mitigation scenarios. As with any
+modeling exercise, uncertainty will always exist when projecting outcomes many years into the future.
+These estimates are based on the best data available at the time of the analysis, with recognition that
+future conditions can evolve differently. (see Appendix C for a more detailed description of the BAU
+assumptions)
+The BAU reference case projected in 2050 that the transportation sector will remain the largest source of
+GHG emissions in Connecticut (35%), followed by the residential buildings, electricity, and commercial
+building sectors (15%, 13%, and 12%, respectively). Combined thermal energy consumption in buildings
+would be equal to 37 percent.
+
+GHG EMISSION REDUCTION ANALYSIS
+
+12 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+GHG Mitigation Scenarios
+The GC3 evaluated and discussed the feasibility, costs, and benefits of a variety of existing and proven
+emission reduction measures and technologies in three key sectors: transportation, building, and electricity
+(see Appendix D for a list of technology and measures). A range of measures were combined to develop
+sector-specific reduction scenarios. Illustrative low- or zero-carbon technology penetration rates for each
+sector were also developed to inform these discussions. Upon combining the sector-specific reduction
+scenarios and reviewing the illustrative technology-penetration levels, the Council evaluated economy-wide
+mid-term targets in the range of 35 to 55 percent below 2001 levels by 2030. Within this range, several
+reduction pathways were evaluated and included discussions on market maturity, rate of technology
+turnover, customer upfront and life-cycle costs, regional cooperation and momentum, and federal
+regulations. Upon thorough review of the various mitigation scenarios, technology-penetration rates, and
+costs and benefits, the Council recommended through consensus an economy-wide greenhouse reduction
+target of 45 percent below 2001 levels by 2030.
+The 45 percent reduction by 2030 scenario is designed to provide high-level direction on the sector-specific
+actions needed to achieve the mid-term target (see reduction pathways diagram below). The high-level
+recommendations in this report are guided by the following key conclusions, which emerged from the
+analysis of reduction pathways:
+Beneficial Electrification – To achieve deep decarbonization across all sectors, electrification of energy end
+uses is essential. This will require shifting away from utilizing fossil fuels to power transportation and
+building thermal loads to electric technologies that have no direct emissions. Widespread deployment of
+electric technologies such as electric vehicles and heat pumps will be a primary means to achieve deep
+economy-wide reductions.
+Zero-Carbon Electricity Generation – As Connecticut moves to electrify energy end uses, it will see
+increased demand in electricity and a simultaneous shifting of emissions away from the building and
+transportation sectors to the electric sector. While electricity generation has become increasingly cleaner
+over the past 15 years, we will need to continue to decarbonize the electric grid – achieving 84 percent
+carbon-free electric generation by 2050.
+Energy Efficiency – Cost-effective energy efficiency measures are essential in the early years to drive down
+energy consumption and GHG emissions from fossil fuels. However, in the long term, as the electric-grid
+decarbonizes, the marginal impact of efficiency leads to less potent reductions in carbon emissions.
+Nevertheless, in the long run energy efficiency measures will help reduce the extent of increased electricity
+demand and avoid the costs of developing unnecessary generation and transmission/distribution capacity.
+Scale and Pace of Change – The scale and pace of change needed to achieve Connecticut’s emissionreduction targets require immediate and consistent action. Moreover, action across all sectors of the
+economy is necessary, in part because of interactive effects between them.
+Economic Impacts – Meeting Connecticut’s near- and long-term GHG emission reduction targets will have a
+small net positive economic impact. Economic analysis of the 45 percent reduction by 2030 scenario
+concluded there will be a small net positive impact on employment levels (0.9% per year) and state GDP
+(0.62% per year) from 2020 to 2030.
+
+GHG EMISSION REDUCTION ANALYSIS
+
+13 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+Economic and Fiscal Impact of Achieving the 2030 Target
+To inform its decision-making, the GC3 conducted a macro-economic analysis of the mid-term target. This
+included an analysis of the transportation, building, and electric sector mitigation pathways, as well as all
+pathways combined. The economic analysis focused on 2020 through 2030 due to increasing uncertainty of
+economic outcomes beyond 2030.
+A consultant and adjunct professor from the Department of Economics at the University of Connecticut
+(and former economist for the Department of Economic and Community Development) was retained to
+conduct the macro-economic analysis. Using the Regional Economic Models, Inc., software modeling tool,
+the analysis looked at the effects of changes in the economy comparing a baseline forecast against the
+selected scenario forecast. The analysis evaluated the difference between anticipated economic conditions
+with and without the implementation of a policy scenario(s) and compared them.
+The analysis looked at each sector individually and then combined them to show net economic impacts. A
+more detailed report of the economic and fiscal impact of the 45 percent below 2001 level scenario is
+provided as a supplement to this report. The key outcomes of the analysis are:
+New Job Creation – Net new job creation averages 22,000 jobs (or 0.9%) more than the baseline
+forecast each year over the period 2020 to 2030. The 19,200 net new jobs created in 2020
+represent 0.8 percent of Connecticut’s workforce. In 2030, 22,540 net new jobs (0.91%) are added
+relative to the baseline forecast.
+Increased State GDP – Net new state GDP averages $2.34 billion (in current dollars) higher than the
+baseline forecast (or 0.62%) each year over the period 2020 through 2030. Net new state GDP in
+2020 is $1.91 billion (in current dollars) and represents 0.62 percent of state GDP. In 2030, net new
+state GDP increases by $2.54 billion (in current dollars; 0.54%) relative to the baseline forecast.
+This pattern of economic and fiscal change arises from the offsetting positive and negative economic
+activities occurring in Connecticut as it transitions from a petroleum-based economy to a “significantly
+reduced-carbon” economy. The employment gains are primarily in the construction industry, wholesale
+
+GHG EMISSION REDUCTION ANALYSIS
+
+14 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+trade, waste and remediation services, and the professional and technical services sectors. The
+employment losses are primarily in the retail sectors.
+It is important to note that the assumptions underpinning the economic analysis may be optimistic.
+Without significant incentives, some of the projected developments will not materialize. Whatever
+incentives that may be implemented may offset the benefits because they entail additional costs (for
+example, road tolls, a carbon price, grants, and loans subsidized by an increased system benefits charge,
+net-zero building codes, among other GHG-reducing regulations). Further, the positive co-benefits of
+improved health and averted environmental damage were not considered in this analysis.
+
+GHG EMISSION REDUCTION RECOMMENDATIONS AND STRATEGIES
+
+Introduction
+The recommendations in this report build upon the successful policies and measures the State has
+implemented to date, proposes strengthening existing programs, and recommends pursuing new strategies
+to ensure Connecticut is on a sustainable path to reach its mid- and long-term GHG emission- reduction
+targets. The recommendations underscore that there is no single solution, instead, they offer a balanced
+mix of strategies that allow for flexibility and mid-course adjustments as technologies improve and costs
+change over time.
+The GC3’s analysis of a variety of scenarios to determine the best pathway to meet the 2030 and 2050
+targets helped establish a long-term vision for decarbonizing the State’s economy. Three broad,
+fundamental objectives emerged from this vision:
+1. Zero-carbon electricity generation
+2. Clean transportation
+3. Clean, efficient, and resilient buildings
+The following strategies and suite of recommendations serve as foundational steps to put Connecticut on
+track to actualize these objectives. Additional actions, beyond those proposed in this report, will need to be
+regularly evaluated and integrated into state and local planning efforts and acted upon by public and
+private entities alike.
+It also is important to recognize that climate change policymaking should, when possible, assess the
+multiple added benefits, also known as co-benefits, of policies enacted to reduce GHG emissions. The
+known and potential co-benefits of reduced GHG emissions include: job growth and local economic
+benefits; public health benefits; new innovation in technology, energy, and resource management
+practices; and benefits for ecological systems. Depending on the specific nature of the policy enacted, cobenefits could consist of improved air and water quality, improved soil and ecosystem health, energy cost
+savings, sustainable land management, and so on. Co-benefits can be difficult to quantify, monetize, and
+monitor. However, when properly valued, co-benefits often help demonstrate that the positive societal and
+environmental impacts of climate policy actions outweigh the costs.
+Utilizing existing and proven technologies, the following set of sector-specific priorities and supporting suite
+of recommended strategies were developed to put Connecticut on a sustainable path to meeting its
+ambitious 2030 target.
+
+RECOMMENDATIONS AND STRATEGIES
+
+15 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+Roles and Responsibilities
+Legislators, state agencies, municipalities, businesses, non-profit organizations, and residents must work
+together if Connecticut is to meet its emission-reduction goal of 45 percent below 2001 levels by 2030.
+Legislative support is necessary to research, draft, and enact policy that places the State on a path to
+achieve its GHG emissions reduction goals. State agencies will be responsible for establishing the proper
+regulatory framework and programs to enforce the State’s environmental policy agenda. Home rule
+enables municipalities to lead by example in: adopting modern, efficient, and sustainable building codes;
+transitioning their vehicle fleets to zero-emission vehicles; and sharing resources to help residents and
+businesses achieve energy savings and emission reductions. Businesses can advance climate leadership by
+investing in renewable energy, deploying low-carbon technologies, sustainably sourcing resources, and
+developing transformative solutions. Non-profit organizations can contribute to policymaking processes by
+advocating for equitable outcomes. Connecticut’s residents will be critical to adopting the technologies and
+behaviors necessary to reduce emissions and supporting progressive climate action.
+
+RECOMMENDATIONS AND STRATEGIES
+
+16 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+Sustainable CT — Local Actions. Statewide Impact.
+Successful achievement of Connecticut’s GHG reduction targets requires the engagement and
+commitment of all sectors. Perhaps the most impactful starting point is in our communities, taking action
+at the local level.
+Sustainable CT, launched in 2018, provides a powerful platform for progress on the State’s climate
+goals through “local actions, statewide impact.” Sustainable CT is an independently funded program
+created by towns, for towns to accelerate, support, and recognize sustainability action by Connecticut
+municipalities. The program provides municipalities with a detailed menu of actions, resources and
+technical support, peer learning, and certification awards for ongoing sustainability achievements.
+Sustainable CT embraces a broad and inclusive definition of sustainability, with actions that provide
+multiple benefits for all residents, leading to:
+• Inclusive and equitable community impacts
+• Thriving local economies
+• Well-stewarded land and natural resources
+• Vibrant and creative cultural ecosystems
+• Dynamic and resilient planning
+• Clean and diverse transportation systems and choices
+• Efficient physical infrastructure and operations
+• Strategic and inclusive public services
+• Healthy, efficient and diverse housing
+The municipal actions within the categories listed above align with the key GHG priorities in this report:
+zero-carbon electricity generation; clean, efficient, and resilient buildings; and clean transportation.
+Furthermore, Sustainable CT strengthens civic infrastructure, equity, and community engagement while
+also saving money, promoting health, and increasing residents’ connection and sense of place.
+During Sustainable CT’s first year, 40 percent of Connecticut’s municipalities registered to participate
+and 22 municipalities achieved the prestigious Sustainable CT certification.
+Sustainable CT is scaled for greater global impact through similar programs across the U.S. and the
+world. The Sustainability States Network (www.nnsso.com), co-chaired by Sustainable CT, is one such
+organization catalyzing change at the local level and advancing sustainability and climate solutions
+across the nation.
+
+Sustainable CT communities strive to be thriving, resilient, collaborative, and forward-looking. They build
+community and local economy. They equitably promote the health and well-being of current and future
+residents, and they respect the finite capacity of the natural environment. www.sustainablect.org
+
+RECOMMENDATIONS AND STRATEGIES
+
+17 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+CROSS SECTOR
+As Connecticut decarbonizes its statewide economy, solutions must focus on a systematic approach that
+adequately integrates the electric power, building, and transportation sectors. Several strategies for
+reducing emissions will cross two or more sectors, including but not limited to, technology integration, grid
+management and time-of-use (TOU) rates, price signals and incentives, and education and outreach.
+Accordingly, the cross-sector impacts of specific strategies must be considered by policymakers, regulators,
+municipalities, and utilities.
+A key example is the electrification of end uses in the building and transportation sectors. For electrification
+of these to reduce overall emissions, Connecticut must continue to aggressively decarbonize its electric
+power sector. Electrified technologies such as EVs and heat pumps will become increasingly cleaner as the
+regional grid’s dependence on fossil fuel generation diminishes.
+To accelerate EV deployment, building codes must be updated to require EV supply equipment (EVSE)
+installation or pre-wiring for EVSE in new construction. At the same time, price signals, rebates, and lowinterest financing options will be required to support the nascent EV market; and electric utilities can
+advance EV adoption by introducing dynamic TOU rates that incentivize consumers to charge their EVs
+during off-peak periods. Moreover, EVs and RTTs may provide demand-response capabilities and other
+grid-management services, in addition to reducing overall energy consumption and GHG emissions.
+The recently released IPCC Special Report recommended that putting a price on carbon (combined with
+other policy measures) may be the most efficient and effective way to reduce carbon emissions. This is
+because the damage from burning carbon-intensive fuels is largely “externalized”—meaning the price of
+carbon-intensive fuels, goods, and services does not reflect the cost of climate damage. While Connecticut
+and other jurisdictions have implemented policies that foster adoption of zero-carbon renewable energy
+technologies and promote energy conservation and load management, economists widely agree that,
+without putting a price on carbon we will not be able to transition to a zero-carbon economy at the pace
+and scale necessary to avoid 1.5-2°C (2.7-3.6°F) warming. Worldwide, there is growing attention on using
+market-based mechanisms that sets a fee or price on the carbon content of fuels or places a cap on carbon
+emissions that sets a price on price through the sale of allowances. Internalizing the cost of carbon can
+most efficiently reduce emissions, change behavior, and transform the market.
+
+Recommendations and Suite of Strategies
+Put a price on carbon
+1.
+
+Implement an economy-wide carbon fee that assesses the carbon content of fossil fuels and sets a price
+per ton of carbon emitted.
+
+A carbon fee policy represents the greatest opportunity to raise revenue while reducing economy-wide
+GHG emissions. A carbon fee charges a fee based on the amount of CO2 emissions released through fossil
+fuel combustion. A properly priced carbon fee will provide a strong, systematic monetary incentive to
+transition away from fossil fuels toward a more innovative, clean energy economy.33 Revenues generated
+from a carbon fee can be reinvested in climate change adaptation and mitigation efforts that provide
+meaningful local and state economic, environmental, and public health benefits.34 In addition, because
+33 What’s a carbon tax? Carbon Tax Center. Retrieved from https://www.carbontax.org/whats-a-carbon-tax/
+34 Kennedy, K.,
+
+Obeiter, M., and Kaufman, Noah. Putting a Price on Carbon: A Handbook for U.S. Policymakers. World Resources Institute. April
+2015. Retrieved from http://www.wri.org/sites/default/files/carbonpricing_april_2015.pdf
+
+RECOMMENDATIONS AND STRATEGIES
+
+18 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+carbon fees increase according to a predetermined schedule, they provide market certainty allowing
+companies and consumers alike to effectively plan how to adjust their operations and behaviors. Carbon
+fees can also be set in a manner that protects low-and moderate-income households from higher costs, and
+supports a just transition for impacted workers, communities and businesses.
+In 2008, the Canadian province of British Columbia implemented the first comprehensive, revenue-neutral
+carbon fee in North America, beginning at $10 per ton CO2e and increasing $5 per ton until it reached $30
+per ton in 2012. From 2007 to 2015, British Columbia’s carbon fee produced 4.7 percent net emission
+reductions while provincial GDP grew more than 17 percent.35 Recognizing the program’s effectiveness,
+British Columbia set its carbon fee at $35 per ton in 2018 and will increase it $5 per ton per year until it
+reaches $50 per ton in 2021. Program revenues will help provide carbon fee relief and protect affordability
+for consumers, maintain industry competitiveness, and encourage new green initiatives.
+2. Implement an economy-wide cap-and-invest program that sets a limit on carbon emissions and allows
+the market to determine a price on carbon based on least-cost reduction measures.
+An economy-wide cap-and-invest program is another effective, low-cost market-based approach to reduce
+emissions. It establishes a mandatory GHG emissions limit that lowers over time, and then reinvests
+proceeds from the auction of emissions allowances into strategies that drive emission reductions, provide
+benefits for residents, and mitigate costs to consumers. Compliance entities are required to purchase an
+equal number of allowances through an auction to meet its carbon budget. The price of the allowances are
+determined by the market demand, allowing for emission reductions at the lowest cost. This policy option
+would reduce economy-wide GHG emissions while generating revenue that could be invested in energy
+efficiency, clean vehicles, transit and infrastructure, zero-carbon electricity generation, and green job
+training.
+Nine Northeastern and Mid-Atlantic states have already imposed a cap on carbon emissions in the electric
+sector through the implementation of the Regional Greenhouse Gas Initiative (RGGI). The cap represents a
+budget negotiated by the member states, and the price of allowances is a function of supply and demand.
+In its 10 years, RGGI has demonstrated that along with complementary policies, a cap-and-invest marketbased mechanism can successfully reduce emissions and generate economic development. From 2005 to
+2016, RGGI states reduced electric-sector carbon emissions by over 50 percent while the region’s GDP
+continued to grow.
+
+Expand consumer education and awareness efforts to increase the uptake of zero- and lowcarbon technology measures
+1. Increase visibility of EnergizeCT resources.
+2. Enhance outreach efforts by using social media campaigns, webinars, case studies, testimonials, and
+customer engagement platforms.
+In order to increase consumer uptake of energy efficiency and low-carbon technology, the state
+government and its partners must enhance consumer outreach efforts across all media and social platforms
+— social media such as Twitter and Facebook, informational webinars, Connecticut- and New Englandbased case studies, consumer testimonials, and customer engagement feedback platforms.
+
+35 British Columbia’s Carbon Tax. Government of British Columbia. Retrieved from https://www2.gov.bc.ca/gov/content/environment/climate-
+
+change/planning-and-action/carbon-tax
+
+RECOMMENDATIONS AND STRATEGIES
+
+19 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+The Connecticut Green Bank, Eversource, Avangrid, and the Department of Energy and Environmental
+Protection have worked through the public-private partnership known as “Energize Connecticut,” or
+EnergizeCT, to prepare a vast number of resources for Connecticut residents, businesses, and municipalities
+to adopt cost-effective and comprehensive clean energy solutions. The website, EnergizeCT.com, provides
+information regarding available rebates, low-interest loans, and financing; available technologies; tips for
+energy conservation; lists of certified contractors and installers; and information on past and upcoming
+events. Connecticut agencies and municipalities should use social media and outreach events to increase
+the visibility and utilization of EnergizeCT resources, particularly to increase awareness around energy
+efficiency programs and technologies that can be utilized by low-income households that suffer a
+disproportionate energy burden.
+Connecticut’s Statewide Energy Efficiency and Clean Energy Communities dashboards, launched in 2012,
+have documented energy efficiency and renewable-energy deployment across the state.36 The Statewide
+Energy Efficiency Dashboard tracks and provides performance metrics for energy spending, energy demand
+savings, annual energy savings, and lifetime energy savings for Eversource Energy gas and electric
+companies and the Avangrid companies (United Illuminating, Connecticut Natural Gas, and Southern
+Connecticut Gas). The Clean Energy Communities dashboard tracks town-level CO2 emissions avoided,
+electricity savings, natural gas savings, and renewable energy capacity in addition to mapping municipal
+energy reduction pledges and providing case studies. Additional efforts should be made to promote
+awareness and use of these valuable tools.
+Leveraging opportunities to enhance public awareness of the advantages of EV ownership is an important
+strategy for increased adoption. Private and public entities across Connecticut should utilize and promote
+the recently announced Drive Change. Drive Electric. campaign to “advance consumer awareness,
+understanding, consideration and adoption” of EVs.37 The campaign, developed jointly with auto
+manufacturers and Northeastern states, offers a variety of tools to educate consumers on the advantages
+of EV ownership by exploring real-life scenarios and helping consumers find vehicles that fit their needs.
+Several studies have found that consumers exposed to EVs are more likely to value the benefits of EV
+ownership and as a result are more inclined to consider purchasing an EV in the future.38,39 As a result, DEEP
+has partnered with several workplaces to host “Ride and Drive” events to let consumers test-ride EVs. We
+must continue to support and encourage “Ride and Drive” opportunities through programming coordinated
+by state agencies, local governments, non-profits, and businesses.
+3.
+
+Increase training of real-estate industry professionals on integrating U.S. DOE Home Energy Scores and
+information on energy efficiency, renewables, and resiliency into real-estate transactions processes.
+
+Mainstreaming energy efficiency is key to market transformation. One key strategy to achieve this is
+through demonstrating the value of energy efficiency in the real-estate market. In 2015, Connecticut
+became the first state in the nation to fully adopt the U.S. Department of Energy’s Home Energy Score, an
+assessment that estimates a home’s energy use, associated costs, and cost-effective efficiency upgrade
+
+36
+
+CT Energy Efficiency Dashboard. Retrieved from www.ctenergyefficiencydashboard.com
+
+37 Drive Change. Drive Electric. Press Release, March 29, 2019. Retrieved from https://driveelectricus.com/wp-content/uploads/2018/03/Drive-
+
+Change-Drive-Electric-Press-Release.pdf
+38 Zeinab Rezvani, Johan Jannson, and Jan Bodin, “Advances in consumer electric vehicle adoption research: A review and research agenda,”
+Transportation Research Part D: Transport and Environment, Volume 34, January 2015, 122-136. Retrieved from
+http://www.sciencedirect.com/science/article/pii/S1361920914001515.
+39 Kenneth S. Kurani, Nicolette Caperello, & Jennifer TyreeHageman, New Car Buyers’ Valuation of Zero-emission Vehicles: California, Institute of
+Transportation Studies, University of California Davis, March 2016. Retrieved from https://www.arb.ca.gov/research/apr/past/12-332.pdf.
+
+RECOMMENDATIONS AND STRATEGIES
+
+20 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+recommendations in its energy-efficiency assessment programs.40 A score provides potential homebuyers
+and renters with directly comparable and credible information about a home’s energy use, allowing them
+to adequately predict energy costs and in turn value the energy efficiency of the home. To date, more than
+25,000 Connecticut residences have received Home Energy Scores that are usable in the real-estate market.
+Connecticut should continue to promote the integration of U.S. DOE’s Home Energy Score in the industry’s
+Multiple Listing Services to ensure accurate and consistent sharing of energy data in real-estate
+transactions.
+
+Pursue an integrated approach to GHG mitigation, adaptation, and resiliency
+1. Prioritize opportunities for achieving synergies among actions that cut carbon pollution and prepare for
+the impacts of climate change.
+2. Ensure state building codes and performance standards are coordinated to incorporate Insurance
+Institute for Business and Home Safety (IBHS) best practices for resiliency.
+Climate change mitigation refers to actions taken to stabilize and reduce the levels of GHGs in the
+atmosphere, whereas climate change adaptation refers to actions taken in anticipation of adverse effects
+of climate change to minimize and adapt to the resulting impacts. Climate change resilience refers to the
+capacity to withstand, respond to, and recover rapidly from climate-caused disruptions. As much as
+possible, Connecticut should pursue an integrated approach to mitigation, adaptation, and resiliency. When
+discussing and funding infrastructure investments on behalf of Connecticut citizens, the State should be
+asking: does it reduce GHG emissions while also preparing for and responding to climate impacts?
+Much of our infrastructure — buildings and transportation, energy, water, and sanitation systems — is not
+currently designed to withstand the projected increased frequency of extreme weather events in the
+coming decades. In order to adapt to the changing climate and its impacts, we should strive to design and
+build infrastructure to meet current functionality with an appropriate level of risk tolerance. This includes
+adoption, application, and enforcement of up-to-date building codes that incorporate the best-available
+data on future risks; zoning and land-use policies that encourage development in less-vulnerable areas and
+improve resilience; and a regulatory framework that improves the resiliency and reliability of our energy
+infrastructure.
+One clear opportunity for a synergistic approach is at the intersection of energy, waste management, and
+our built environment. A commitment to constructing stronger, more resilient buildings is an integral part
+of a holistic approach to resiliency and recovery and needs to be a consideration in our policies.
+Consistently enhancing Connecticut’s building codes will result in structures that are better able to
+withstand the natural perils of a coastal state – hurricanes and tropical storms. Constructing buildings using
+IBHS best practices can reduce the volume of building materials that end up in our waste-stream after a
+major event and reduce the energy “embedded” in the building over its lifetime. For example, according to
+the National Hazard Mitigation Saves: 2017 Interim Report, mitigation funding can save the nation $6 in
+future disaster costs, for every $1 spent on hazard mitigation.41
+
+40 U.S. Department of Energy. Home Energy Score. Retrieved from https://www.energy.gov/eere/buildings/downloads/home-energy-score
+41 National Institute of Building Sciences Issues New Report on the Value of Mitigation. National Institute of Building Science. January 11, 2018.
+
+Retrieved from https://www.nibs.org/news/381874/National-Institute-of-Building-Sciences-Issues-New-Report-on-the-Value-of-Mitigation.htm
+
+RECOMMENDATIONS AND STRATEGIES
+
+21 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+ELECTRIC SECTOR
+As the second-largest source of emissions, the electricity sector makes up 22.6 percent of Connecticut’s
+economy-wide GHG emissions. Connecticut has taken numerous actions to accelerate the transition toward
+a cleaner energy future while reducing energy costs, improving system reliability, and minimizing negative
+environmental impacts. However, the State must pursue additional actions to decarbonize the electric
+sector to the levels needed to achieve the 2030 target.
+Illustrative zero-carbon electricity generation based on the “45% below 2001 levels by 2030” scenario
+
+As the building and transportation sectors move towards electrification, zero-carbon electricity generation
+will play an ever more crucial role in achieving a low-carbon future. This first requires retaining zero-carbon
+nuclear resources in the near term and developing a comprehensive plan to ensure that in the long term
+these resources are replaced with zero-carbon supply or demand reduction by the time their licenses
+expire. To bring more zero-carbon renewables online, RPS throughout New England have helped provide a
+clear signal to attract diverse resources; in the coming years Connecticut will need to ensure that RPS
+eligibility reflects the need for a zero-carbon portfolio. Distributed resources hosted by residents,
+businesses, and government can help alleviate the siting challenges faced by grid-scale projects, and a new
+compensation design will make these resources more cost-effective for Connecticut ratepayers. In addition
+to supply changes, demand-side measures and conservation will also play an important role in reducing the
+sector’s emissions. In New England, electricity demand-reduction measures can now compete with supply
+options to meet (or reduce) total system need, helping to achieve emission reductions at minimal cost. This
+transition will require a combination of technological innovation, innovative financing, price signals, and
+state, regional, and federal policies.
+
+Recommendations and Suite of Strategies
+Commit at least 50 megawatts of demand reduction per year to the ISO-New England forward
+capacity market
+Due to electric energy efficiency investments, Connecticut’s electric demand has begun to flatten, relieving
+pressure on the grid and minimizing peak periods of carbon-intensive power generation. Importantly, over
+the next 10 years, electric energy efficiency efforts are expected to eliminate growth in peak demand in
+Connecticut, decreasing it by about 0.4 percent annually. Continuing to reduce peak demand will become
+even more critical as the transportation and building sectors are electrified.
+Recognizing energy efficiency as a reliable and predictable energy resource, the ISO-New England Forward
+Capacity Market (FCM) permits market participants to bid energy-efficiency resources into its annual
+auction. Resources competing in the auction commit supply capacity in exchange for a market-priced
+capacity payment. In the past few auctions, Connecticut electric utilities have bid in demand-reduction
+sources that are a result of the C&LM program. FCM payments are then re-invested in further C&LM
+
+RECOMMENDATIONS AND STRATEGIES
+
+22 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+programs, providing an important and sustainable source of energy efficiency funding. In 2017, revenue
+from FCM payments comprised over 12 percent of the total C&LM Plan budget.42 As a critical benefit to all
+ratepayers, Connecticut should continue to commit at least 50 megawatts (MW) per year to the FCM.
+1. Reduce electricity consumption by 1-2 million megawatt hours by replacing existing inefficient electricresistance space- and water-heating equipment with high-efficiency renewable thermal technology
+(RTT). This reduction should be implemented through the Conservation and Load Management Plan and
+other efficiency-procurement strategies.
+All inefficient electric space- and water-heating equipment should be replaced with high-efficiency RTTs
+that save consumers energy and money. According to a recent Yale study, Feasibility of Renewable Thermal
+Technologies in Connecticut: Market Potential, replacement of conventional electric technologies with RTTs
+for space and water heating are financially beneficial across all customer groups.43 Accordingly, as a first
+priority, the State should target households that heat with inefficient electric resistance space- and waterheating equipment and replace these systems with high-efficiency RTTs. These conversions would result in
+emissions reductions and significant annual energy and cost savings to customers.
+2. Invest in electric measures that reduce peak demand such as exterior lighting, retail lighting, lighting in
+state buildings, and high efficiency refrigeration. These type of reductions should be implemented
+through the C&LM Plan and other efficiency procurement strategies.
+Electric energy efficiency helps reduce emissions by lowering overall system demand, but it can have an
+even greater impact by reducing peak demand. Peak electric demand for New England is typically highest
+during the summer, when warmer weather leads to increased use of energy-intensive air conditioning.
+Peak demand during the winter months typically occurs in the late afternoon and early evening when the
+sun sets and people return home from work. In both winter and summer, meeting peak demand requires
+grid operators to call on inefficient, expensive, carbon-intensive generating units.44
+While energy-efficiency measures lower overall system demand year-round, their marginal value is greatest
+when they are deployed as a demand-capacity resource through demand response during peak-demand
+events. By lowering the peak and minimizing the need for more expensive and polluting generation, energy
+efficiency as a demand response helps reduce emissions and prices. Thus, to effectively maximize peak
+demand reductions, C&LM programs should continue with a targeted approach, deploying efficient electric
+measures for exterior and retail lighting, replacing inefficient window cooling units with efficient RTTs, and
+deploying high-efficiency refrigeration.
+
+Achieve at least 66% zero-carbon energy generation by 2030
+1. Meet the RPS target of 40% by 2030, with an aim to reduce the carbon intensity of the RPS.
+Earlier this year, Public Act 18-50 doubled the state’s RPS, boosting it from 20 percent by 2020 to 40
+percent by 2030. This increase in the RPS helps deploy new Class I renewable energy sources, aligning state
+policy to support achievement of the 2030 GHG-reduction target. A combination of cost-effective grid-scale
+and behind-the-meter generation that ensures affordability and reliability for all ratepayers will be
+necessary to meet the 2030 RPS target.
+
+42 Connecticut Energy Efficiency Board. State Legislative Report 2017.
+
+2017. Retrieved from https://www.energizect.com/sites/default/files/Final2017-Annual-Legislative-Report-WEB-2-20-18.pdf
+43 Gronli et al. Feasibility of Renewable Thermal Technologies in Connecticut: Market Potential. Yale Center for Business and the Environment.
+March 2017.
+44 ISO-NE, New England’s Energy Use. Retrieved from https://www.iso-ne.com/about/key-stats/electricity-use/
+
+RECOMMENDATIONS AND STRATEGIES
+
+23 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+Connecticut’s commitment to phase down RPS Class I biomass renewable energy credits (RECs) will lead to
+increased Class I renewable energy development and further GHG emission reductions. The gradual phasing
+out of Class I biomass RECs will require EDCs to purchase RECs from other renewable energy sources such
+as offshore wind, grid-scale solar, and small-scale hydropower. The State should consider further RPS
+revisions, such as including energy storage as Class I sources and phasing out natural gas-powered fuel cells
+as a Class I source. Energy storage inclusion in the RPS would enable Connecticut to take full advantage of
+renewable energy sources during high-generation periods. Various forms of energy storage, including
+batteries and pumped hydro, can be controlled remotely to dispatch energy during peak periods.
+2. Ensure a transparent and predictable compensation framework to maintain at least the historical
+annual average 40-90 megawatts of residential behind the meter renewable energy resources.
+The current compensation structure for behind-the-meter output in Connecticut is based on net energy
+billing (also known as “net metering”) and is linked to retail electricity rates. As retail electricity rates
+continue to rise, the State must develop a transparent and consistent compensation structure for behindthe-meter renewable energy generation to enable future renewable deployment. The compensation
+structure implemented should be consistent and easy to understand, and it should ensure a reasonable
+rate of return for customers and project developers that continues to incentivize deployment of distributed
+generation sources to facilitate grid decarbonization.
+3. Deploy at least 50 megawatts per year distributed solar and 10 megawatts per year of fuel cells.
+The Low and Zero Emissions Renewable Energy Credit (LREC/ZREC) Program established in 2012 requires
+the state’s utilities to procure Class I RECs under 15-year contracts through annual auctions. Under this
+program, Eversource Energy and United Illuminating have procured 133 MW and 69 MW of RECs,
+respectively. Given the success of the LREC/ZREC program, Connecticut passed Public Act 18-50 to create a
+new auction opportunity for commercial, industrial, and virtual-net metering eligible customers
+(agricultural, state, and municipal). Instead of conducting an auction for RECs, the utilities will ask projects
+to bid the full project cost, including both REC and energy costs, with the resulting contract providing a
+replacement for both net metering and LREC/ZREC. This new auction is authorized for up to 50 MW of solar
+and 10 MW of fuel cells per year. As the cost of solar power is rapidly declining, increasing procurement
+levels to support the state’s clean energy goals may become optimal.
+4. Maintain in-state zero-carbon nuclear generation and develop a long-term zero-carbon replacement
+strategy equivalent to 2100 megawatts.
+Connecticut currently receives approximately 24 percent of its load from carbon-free nuclear power,
+specifically the Millstone 2 and 3 units in Connecticut and the Seabrook plant in New Hampshire. The
+Millstone units are critical to Connecticut’s and New England’s energy generation and GHG emissions
+reduction goals. The State must retain zero-carbon nuclear generation as it develops a transition plan to
+replace it. A transition plan must consider: the costs of nuclear retirement borne by ratepayers; a diverse
+mix of replacement energy sources; and the economic, environmental, health, and social impacts of
+potential replacement generation sources.
+5. Implement a shared clean energy program deploying at least 25 megawatts per year, with a focus on
+low- and moderate-income customers.
+Building on the 6 MW pilot program solicitation conducted in 2017, DEEP is now developing a 25 MW per
+year program. A shared clean energy program provides access to customers who rent, live in a multi-family
+dwelling, or otherwise cannot host an onsite solar PV system. Further, as required by statute, 20 percent of
+program subscribers must be low- or moderate-income (LMI) customers. This program element is
+important because LMI households are more likely to face physical and financial barriers to participation in
+behind-the-meter programs and do not have equitable access to lowering their energy bill. The new
+
+RECOMMENDATIONS AND STRATEGIES
+
+24 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+program will incorporate best practices from the pilot project, including a price cap, the possibility of an
+auction structure, and consumer-protection measures. The new program should be scalable so that as
+demand grows and costs continue to drop, the state can continue to expand the program.
+6. Exercise procurement authority for zero-carbon energy through competitive bidding processes that drive
+down prices.
+As outlined in the 2018 Comprehensive Energy Strategy, competitive procurement of zero-carbon
+generation is a key tool for decarbonizing Connecticut’s electric sector. Utilizing a competitive bidding
+process this past June, DEEP committed to the purchase of 200 MW of zero-carbon, offshore wind to supply
+3 percent of the State’s load. DEEP should exercise its full discretionary procurement authority for gridscale renewable and zero-carbon energy. Continued investment in diverse, zero-carbon, renewable energy
+technologies will be necessary for Connecticut to meet its GHG emissions reduction goals.
+
+Optimize grid management strategies to reduce carbon emissions
+1. Increase adoption of smart-management technologies to optimize flexibility of distributed energy
+resources.
+Connecticut’s grid should be modernized to better accommodate zero- and low-carbon generation sources
+and increase system safety, reliability, security, and resiliency in a cost-effective manner. Grid
+modernization will optimize electricity-grid assets such as distributed-generation sources, enable greater
+consumer engagement and two-way communication, and facilitate bi-directional energy flows that help
+reduce peak energy demand. Modernizing the grid will enable electric distribution companies (EDCs) be
+better prepared for future high penetration of EVs and RTTs. In addition, grid modernization will inform
+utilities’ distribution-system planning efforts and help avoid unnecessary infrastructure upgrades.
+EDCs should accelerate grid modernization by deploying advanced metering infrastructure (AMI)
+technologies that enable optimal grid management and enhance grid security and resiliency. AMI
+technologies provide for better, more-timely communication between utilities and customers, in addition
+to enabling utilities to implement TOU rate programs and incentives to reduce peak energy demand.
+Moreover, AMI technologies enable demand-response technologies such as electric water heaters and EVs
+to provide energy storage capacity which, when actively managed, can help match energy demand to
+energy supply. These technologies can store energy at times when overall energy demand is low and
+energy generation is cheap. This type of storage is increasingly beneficial as more renewable energy
+resources are deployed, helping to optimize renewable resources during times of oversupply. Integration of
+AMI and demand-response technologies can improve grid resiliency, reduce operating costs, and provide
+costs savings to all consumers.
+As thermal electrification expands, there will be a resulting increase in electricity demand, therefore
+demand response and energy-efficiency measures will become increasingly important. Demand-response
+technologies offer the potential to minimize overall electricity consumption and peak demand, minimize
+transmission and distribution costs, and mitigate price effects in the wholesale electricity market.
+EnergizeCT demand-response pilots must inform continued investment in optimized building electrification.
+Additional pilot programs could target communities with high RTT penetration rates to track energy
+consumption, energy savings, load shifting, and grid benefits. For example, Avangrid and Eversource
+Energy’s Wi-Fi thermostat pilot program enables the utility to control residents’ heat pump and thermostat
+
+RECOMMENDATIONS AND STRATEGIES
+
+25 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+technologies to shift electricity loads and financially reward participating customers through peak-time
+rebates for reduced demand.45
+2. Over the next 2-5 years, research and identify opportunities to integrate battery storage and distributed
+renewable energy technologies to reduce and displace carbon emissions.
+Battery storage is an energy resource that can provide value to the grid across a wide variety of
+applications, including: providing additional, flexible capacity; enhancing the reliability of the transmission
+and distribution system; and minimizing peak demand. By storing energy during times of low demand and
+providing a peaking resource when demand is high, storage can reduce, defer, or eliminate the need to
+build additional generation capacity. To maximize emission reductions, a key strategy may be pairing
+energy storage with renewable energy generation. Batteries can store clean, renewable energy generation
+when demand is low and discharge it when demand is high, maximizing the availability of renewable energy
+on the grid and offsetting dirtier, fossil fuel generation. Another application may be the pairing of storage,
+distributed generation, and EV charging or electric thermal demand to manage peak demand.
+Connecticut should continue to research and identify appropriate applications of integrated battery storage
+and clean, renewable energy generation. This should include developing pilot projects that evaluate
+different use cases, system and non-energy benefits, and compensation structures.
+
+TRANSPORTATION SECTOR
+The transportation sector continues to be the single largest source of emissions in Connecticut, contributing
+38 percent of economy-wide emissions, principally from the use of fossil fuels in passenger cars and lightduty trucks. Critical to achieving the necessary emission reductions in the transportation sector,
+Connecticut must accelerate its transition toward a modern, clean transportation system. This includes
+facilitating access to low- and zero-emitting passenger vehicles, public transit options, alternative modes of
+travel, and the efficient movement of goods and services. The primary strategies for the clean
+transportation transformation include retaining stringent fuel economy and low- and zero-emission
+standards, creating price signals to accelerate the adoption of EVs, reducing VMT through increased use of
+public transit services and alternatives modes of transportation, supporting transit-oriented development
+(TOD), and encouraging sustainable land-use planning. Identifying sustainable funding to implement these
+strategies will be essential.
+
+Recommendations and Suite of Strategies
+Maintain increasing fuel economy and low- and zero-emissions standards
+1. Maintain adherence to Corporate Average Fuel Economy (CAFE) and GHG emission standards mid-term
+review 2016 final determination.
+2. Maintain adherence to California low-emissions and zero-emission vehicle requirements.
+Connecticut must maintain its strong commitment to stringent fuel economy and low-emission vehicle
+standards. In 2009 the California Air Resources Board (CARB), the U.S. Environmental Protection Agency
+(EPA), and the auto manufacturers agreed to harmonize California’s Motor Vehicle Greenhouse Gas
+Emissions Program and related standards with the National Program (i.e., EPA tailpipe standards and
+National Highway Traffic Safety Administration (NHTSA) CAFE standards). Connecticut, 12 other states, and
+the District of Columbia, under Section 177 of the Clean Air Act (CAA), have adopted California’s more
+45 Eversource Connecticut DR Pilots Overview and Status. Eversource Energy. October 27, 2016. Retrieved from
+
+https://www.ct.gov/deep/lib/deep/energy/ces/Eversource_Demand_Resources_Presentation_10-27-16.pdf
+
+RECOMMENDATIONS AND STRATEGIES
+
+26 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+stringent rules.46 These standards are a foundational strategy for achieving the emission reductions needed
+in the transportation sector and were included in GC3’s BAU scenario. Accordingly, Connecticut, along with
+several other states and vehicle manufacturers, strongly support the 2016 mid-term review final
+determination of current CAFE and GHG emission standards, which concluded that the model year (MY)
+2025 targets were attainable given advances in automotive manufacturing technologies. These standards
+would reduce fuel consumption by 4 million barrels of oil per day, save consumers up to $5,000 in fuel
+costs, and reduce GHG emissions by roughly 2 billion metric tons over the lifetimes of vehicles produced in
+MYs 2017-2025.47
+However, with the changeover in the federal administration, the U.S. EPA and NHTSA recently announced
+they would abandon the mid-term determination and proposed the Safer Affordable Fuel-Efficient Vehicles
+Rule for MYs 2021-2026 Passenger Cars and Light Trucks (SAFE Vehicles Rule), which would freeze the
+standards at the MY 2021 level. This proposed new rule would not only significantly weaken the CAFE and
+GHG standards but may also revoke the CAA waiver that allows California to set tailpipe emissions stricter
+than federal law.48,49 If finalized, the proposed new standards would result in $37 billion in annual public
+health and environmental costs due to increased CO2 pollution,50 with drivers paying an additional $193
+billion to $236 billion in oil and gas expenses through 2035.51 Moreover, revocation of California’s waiver
+would greatly limit Connecticut’s ability to reduce GHG emissions from light-duty vehicles. Connecticut has
+thus joined 18 states and the District of Columbia in opposition to the proposed rule. In addition,
+Connecticut is currently in the process of taking regulatory action to ensure it maintains adherence to the
+more stringent standards.
+
+Amending R.C.S.A section 22a-174-36c
+As a means to provide flexibility for auto manufacturers when the standards were harmonized in 2009,
+CARB agreed to adopt a “deem to comply” provision which accepts manufacturers’ compliance with the
+National Program standards as compliance with the California program. In 2013, DEEP updated the
+existing Low Emission Vehicle Program, originally adopted in 2004 pursuant to 22a-174g of the
+Connecticut General Statutes, by adopting section 22a-174-36c of the Regulations of Connecticut State
+Agencies (RCSA), which incorporates the California Program standards for 2017-2025, including the
+“deem to comply” provision.
+On August 10, 2018, CARB proposed amendments to the California Program to amend the “deem to
+comply” provision to disallow compliance with the National Program as a means of compliance with the
+California Program if it is modified via a final rule in the Federal Register after October 25, 2016, the last
+date of modification for the National Program. The CAA requires states that have adopted the California
+standards for vehicles to remain identical or risk being unable to enforce standards for a model year in
+which the standards are not identical. For this reason, given California’s current rulemaking process,
+Connecticut began the process necessary to amend RCSA section 22a-174-36c to mirror the
+amendments sought by CARB.
+
+46 Low-Emission Vehicle Program. California Air Resources Board. January 25, 2017. Retrieved from
+
+https://www.arb.ca.gov/msprog/levprog/levprog.htm
+47 2017 and Later Model Year Light-Duty Vehicle Greenhouse Gas Emissions and Corporate Average Fuel Economy Standards, Vol. 77, No. 199 Fed.
+Reg. (October 15, 2012) 49 CFR Parts 523, 531, 533, 536, and 537.
+48 Joselow, Maxine. “Trump proposes rollback of Obama’s clean car rules.” E&E News. August 2, 2018. Retrieved from
+https://www.eenews.net/stories/1060091945
+49
+Section 209 of the federal Clean Air Act (CAA) permits California to seek a waiver of the preemption which prohibits states from enacting emission
+standards for new motor vehicles due the state’s existing emission standards that preceded the federal CAA. Under the Act, California may submit a
+waiver to set emissions standards more stringent than the federal government.
+50 Akpan, Nsikan. “What Trump’s plan to roll back fuel-economy standards means for your wallet and the environment.” PBS News Hour. August 2,
+2018. Retrieved from https://www.pbs.org/newshour/nation/what-trumps-plan-to-roll-back-fuel-economy-standards-means-for-your-wallet-andthe-environment
+51 Larsen, K., Houser, T., and Mohan, S. Sizing Up a Potential Fuel Economy Standards Freeze. Rhodium Group. May 3, 2018. Retrieved from
+https://rhg.com/research/sizing-up-a-potential-fuel-economy-standards-freeze/
+
+RECOMMENDATIONS AND STRATEGIES
+
+27 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+Increase light-duty ZEV penetration rate to at least 20% by 2030
+1. Implement price signals to incentivize EV adoption and reduce electric system impacts.
+2. Expand EV charging network to ensure consumer confidence and reduce range anxiety.
+3. Develop a state fleet transportation Lead by Example program that sets annual emission-reduction
+targets and enables increasing adoption of zero-emission vehicles.
+As depicted in the 45 percent reduction scenario, the leading measures to reduce emissions in the
+transportation sector are accelerating the pace of vehicle electrification coupled with deep decarbonization
+of electricity generation. The illustrative number of passenger and heavy-duty vehicles projected to be
+needed to achieve the 45 percent reduction scenario requires ramping up the EV adoption rate significantly
+over the next 12 years (see illustrative penetration rates below).
+Illustrative deployment of electric vehicles based on GC3 “45% below 2001 levels by 2030” scenario
+
+Battery technology improvements continue to reduce EV ownership costs, and EV costs are projected to
+reach parity with gasoline-powered vehicles at the point of sale by 2025. Automobile manufacturers are
+increasing investment in EVs to boost the variety of vehicles available as well as vehicle range.52 EVs also
+have significantly lower maintenance costs than gasoline-powered vehicles and operate at about onequarter the cost of the average conventional vehicle due to the their highly efficient drivetrains. The rapid
+pace of advancements in technology, declining costs, customer cost-savings, and policy drivers are all
+reasons why several independent firms have continued to recalculate and increase their EV sales forecasts
+over the past few years. For instance, in 2016 Bloomberg New Energy Finance forecasted 35 percent of all
+light-duty vehicle sales in 2040 would be electric, but its 2018 forecast bumped the figure to 55 percent of
+all new cars sold.53
+Recognizing the benefits of EV adoption, Connecticut has already signaled its commitment to electrify its
+public and private light-duty vehicle fleet by signing onto the Zero Emission Vehicle (ZEV) Memorandum of
+Understanding (MOU) in 2011. Under the MOU, Connecticut and eight other states are committed to
+putting 3.3 million ZEVs on the road by 2025. To meet this target, member states have implemented
+financial incentives and consumer-outreach and -education programs that raised consumer awareness and
+confidence, made ZEVs more affordable, spurred sales growth, and demonstrated the viability of the ZEV
+program. Coordinated action to implement ZEV programs across all member states is a key strategy for
+achieving both Connecticut’s 2025 share of the MOU (approximately 125,000 EVs) and the 2030 GHG
+reduction target. Accordingly, Connecticut should work to implement the applicable list of priority actions
+outlined in the recently released Multi-State ZEV Action Plan: Accelerating the Adoption of Zero Emission
+Vehicles 2018-2021.54 The action plan presents strategies in five core areas: consumer education and
+52 Schmidt, Eric. SmartCharge New York and $10,000 Nissan Rebate Makes Switching to an Electric Vehicle the Easiest It’s Ever Been. FleetCarma.
+
+August 9, 2017. Retrieved from https://www.fleetcarma.com/smartcharge-new-york-10000-nissan-rebate-makes-switching-electric-vehicle-easiestever/
+53 Bloomberg New Energy Finance, Global sales outlook. Retrieved from https://about.bnef.com/blog/electric-vehicles-to-be-35-of-global-new-carsales-by-2040/ & https://bnef.turtl.co/story/evo2018?teaser=true
+54 Multi-State ZEV Task Force. Retrieved from https://www.zevstates.us/wp-content/uploads/2018/07/2018-zev-action-plan.pdf
+
+RECOMMENDATIONS AND STRATEGIES
+
+28 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+outreach, charging and hydrogen fueling infrastructure, consumer purchase incentives, light-duty fleets,
+and dealerships.
+Connecticut’s 2018 Comprehensive Energy
+Strategy calls on DEEP to initiate an EV
+Roadmap process that identifies Connecticutspecific policies, programs, and strategies to
+optimize deployment of EVs and associated
+infrastructure. In concert with the Multi-State
+ZEV Action Plan, the EV Roadmap will outline
+how the State can further support
+development of a self-sustaining EV market
+and the necessary infrastructure. Commencing
+in 2018, the public process will include a multifaceted dialogue that considers how proposed
+efforts will impact Connecticut’s citizens,
+businesses, and environment.
+
+Connecticut EV Roadmap
+The Roadmap will evaluate and make
+recommendations on the following:
+• Education, outreach, and marketing
+• Public and private fleet strategies
+• Bringing ZEVs to market (incentives, financing,
+and partnerships)
+• Partnering with dealerships
+• Bringing clean transportation options to low-tomiddle income communities
+• Role of fueling/charging infrastructure
+• Rate design and demand charges
+• Streamlining building codes and permitting
+
+• Role of advanced metering infrastructure
+Ahead of other states, Connecticut has taken
+• Future proofing
+steps to help bridge the price gap between
+• Interoperability
+conventional and electric vehicles by offering
+customers “on-the-hood” rebates through the
+• Consistency of customer experience
+Connecticut Hydrogen and Electric Automobile
+• Data collection
+Purchase Rebate (CHEAPR) program (rebates
+• Medium- and heavy-duty vehicle and non-road
+electrification
+up to $5,000 for fuel cell vehicles, $2,000 for
+battery electric vehicles, and $1,000 for plug-in
+• VW settlement funds for EVSE infrastructure
+hybrid electric vehicles). When these are
+coupled with the federal tax incentives (up to
+$7,500), the full cost of EV ownership is often
+more advantageous to the customer than a conventional gasoline vehicle. However, the federal EV tax
+incentive will phase out and expire after individual automobile manufacturers’ domestic EV sales reach
+200,000 units, potentially creating a funding shortage in an emerging market. And while the CHEAPR
+program has provided over $8 million in rebates deploying over 3,000 EVs, the program will soon run out of
+funding. Sustainable funding into the future, will be necessary to ensure Connecticut meets its EV
+deployment goals. DEEP’s EV Roadmap process should recommend a sustainable source of funding that
+incentivizes EV purchases as the market continues to mature.
+
+High EV penetration will certainly increase overall electricity demand and revenues for utility providers. To
+effectively minimize the effects of increased demand, regulators should ensure implementation of
+incentives and rate structures that encourage off-peak charging that shifts demand to low-emission, lowcost charging times. Price signals such as TOU rates provide a financial disincentive to charging during peak
+load times and provide EV owners an incentive by offering a lower rate during non-peak times. Through its
+EV Roadmap process, DEEP should provide recommendations to the Public Utilities Regulatory Authority on
+how best to provide EV customers with appropriate prices signals to incentivize off-peak EV charging.
+While there has been significant progress in creating adequate EVSE in Connecticut, the current charging
+network is insufficient to meet the number of EVs that GC3 envisions will be on the State’s roads in the
+coming years. To meet anticipated EV demand by 2030, the State must deploy roughly 831 Level 3 chargers,
+
+RECOMMENDATIONS AND STRATEGIES
+
+29 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+6,704 Level 2 public chargers, and 11,085 Level 2 workplace chargers.55 While 80 percent of EV charging
+takes place at home, Connecticut should assess where EV charging gaps exist, particularly as they relate to
+multi-unit dwellings. In addition, supporting the deployment of faster charging along highway corridors will
+help consumers feel more confident in their vehicle’s range and accelerate widespread EV adoption.
+Ramping up public and private investment in EVSE infrastructure is a critical step to ensure consumer
+confidence and reduce range anxiety. The EV Roadmap should recommend strategies for public and private
+investment that enables a robust buildout of the State’s EV charging infrastructure. Connecticut will set
+aside 15 percent of its total Volkswagen (VW) settlement funds for EVSE infrastructure. Electrify America,
+the company created to oversee investment of VW settlement funds across the nation, has completed
+installation of two DC fast chargers in Stratford and Waterford as part of Cycle 1 of Electrify America’s
+investment plan. The company is now evaluating DC fast charging projects in Connecticut under Cycle 2.
+Electrifying state, corporate, and institutional vehicle fleets offers the greatest opportunity to transition
+toward EVs while increasing consumer exposure. Connecticut should introduce a multi-agency Lead by
+Example fleet program aimed at reducing GHG emissions from state and local government vehicle fleets.
+Targets for ZEV and LEV deployment should be adopted and aligned with the 2030 GHG emission reduction
+target. In order to set targets and right-size fleets, agencies could monitor and benchmark GHG emission
+data from fleet vehicles.
+The Connecticut Department of Transportation (CTDOT) is now utilizing Federal Transit Administration Low
+or No Emission Program funding to launch an electric bus pilot in Bridgeport. Once the pilot demonstrates
+the reliability and viability of electric buses, CTDOT should commit to a fully electric transition and seek to
+expand electric bus services to additional transportation corridors. CTDOT should share its experiences and
+best practices with municipalities to increase transit electrification across the State.
+
+Advance initiatives that eliminate the rate of VMT growth by 2030
+1. Implement transit-oriented development (TOD) projects and adopt state policies and local zoning
+regulations that support walkable, mixed-use, and sustainable urban and suburban development in
+areas served by transit.
+Connecticut should implement initiatives that advance opportunities to reduce VMT by expanding TOD,
+enhancing public transit, and encouraging alternative modes and active transportation options. Reducing
+VMT provides the potential for reduced traffic congestion, reduced transportation costs, and shorter
+commute/travel times.
+Over the past 20 years, VMT in Connecticut has grown at an average rate of 0.6 percent annually.56
+Connecticut follows national trends that demonstrate a correlation between VMT growth in periods of
+higher economic GDP output and lower growth in economic recessions. The graph below shows the
+correlation in Connecticut VMT to the economic recession of 2007, when VMT decreased, and the more
+recent economic stabilization, beginning in 2012, when VMT began increasing again. The chart shows a
+positive correlation between economic expansion and contraction.
+
+55 National Renewable Energy Laboratory, Electric Vehicle Infrastructure Projection Tool (EVI-Pro) Lite. Retrieved from https://afdc.energy.gov/evi-
+
+pro-lite
+56 CTDOT Roadway Inventory Section
+
+RECOMMENDATIONS AND STRATEGIES
+
+30 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+32.2
+
+Connecticut Annual Vehicle Miles Traveled
+2006 - 2017
+
+32
+31.8
+
+Billion Miles
+
+31.6
+31.4
+31.2
+31
+30.8
+30.6
+30.4
+
+The Federal Highway Administration’s long-range forecast of VMT released in the spring of 2018
+incorporates three economic factors: U.S. national economic GDP outlook, population growth, and gasoline
+and diesel prices. 57 The forecast presents multiple scenarios, each scenario closely tied to economic output
+for a 20- or 30-year period. Projected VMT growth in the 20-year forecast is 0.9 percent in the loweconomic-growth scenario, 1.2 percent in the baseline economic-growth scenario, and 1.3 percent at the
+high-economic-growth scenario, with overall VMT increase of 0.4 percent primarily based on the national
+economic GDP output.
+A critical strategy for Connecticut to reduce VMT is ensuring the CTDoT has the means to follow through on
+its long-term transportation plan. Planned initiatives like extending CTfastrak east of the Connecticut River,
+extending the Shore Line East line to Rhode Island, increasing service on the branch lines, and completing
+gaps in the regional and statewide trails networks are important measures for bolstering statewide VMT
+reductions. Such improvements, coupled with complementary land-use policies, can create urban and
+suburban communities that promote shorter trips, reduce automobile trips, and ultimately reduce the rate
+of VMT growth.
+TOD supports walkable, mixed-use, and sustainable urban and suburban community development aimed at
+increasing public transit ridership. TOD typically focuses development around central transit locations in
+high-density areas to prevent suburban sprawl through well-managed land-use planning practices that
+enables a “live-work-play” lifestyle in one location, eliminating the need for frequent automobile trips. TOD
+reduces GHG emissions, expands individuals’ transportation options, provides greater mobility to LMI
+residents, reduces transportation costs, and spurs economic development in nearby dense population
+centers.58 California communities implementing TOD have reported annual GHG emission reductions of 2.5
+
+57
+
+FHWA Forecasts of Vehicle Miles Traveled (VMT): Spring 2018, Office of Highway Policy Information, Federal Highway Administration, May 2018.
+Retrieved from https://www.fhwa.dot.gov/policyinformation/tables/vmt/vmt_forecast_sum.pdf
+58 Smart Growth and Transportation. U.S. Environmental Protection Agency. Retrieved from https://www.epa.gov/smartgrowth/smart-growth-andtransportation
+
+RECOMMENDATIONS AND STRATEGIES
+
+31 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+to 3.7 tons, annual fuel savings of $3,000-$4,000, and 20-40 percent reduced VMT per household.59
+Connecticut should continue to focus on deploying policies and funding that support smarter TOD, zoning
+and land-use decisions.
+2. Encourage, incentivize, and support alternative modes and active transportation that reduce singleoccupant vehicle driving.
+Employers should encourage and incentivize carpooling and carpool-matching services, such as CT rides,
+that encourage a shift from single-occupant to multiple-occupant commutes. CT rides has nearly 50,000
+users and since 2005 has saved commuters $111 million in travel costs and prevented 91,284 tons of GHG
+emissions.60 Employer incentives to encourage carpooling and mass-transit ridership may include transit
+subsidies and reduced or free parking for participants. Expanded mass transit services such as commuter
+rail and bus rapid transit may increase ridership and reduce automobile dependence. Expanded “active
+transportation” such as bicycling and walking also promote emission-free travel but are often limited to
+urban areas.
+Municipalities across the state should adopt a Complete Streets policy that helps ensure that streets are
+safe for all users, especially cyclists, pedestrians, and public transit users. Safe walking paths and bikeways
+connect system users to public-transit hubs, making a commuter more likely to use transit. To date, CTDOT
+and 10 municipalities have adopted Complete Streets policies.
+Furthermore, municipalities should investigate opportunities to bring more travel options to citizens. New
+Haven and Hartford both recently introduced bike-share programs that encourage residents and visitors
+alike to utilize an alternative mode of transportation.
+
+Develop sustainable funding for transportation electrification and transit infrastructure
+Sustainable funding will be critical to Connecticut’s efforts in electrifying the transportation sector and
+maintaining and improving transit-system infrastructure. The State should consider implementing market
+mechanisms that utilize price signals and generate needed revenue for reinvestment. Possible options
+include fuel tax increases, VMT fees, tolls, congestion pricing, and a multi-state carbon fee or cap-andinvest program for the transportation sector.
+Ensuring sustainable funding for transportation infrastructure will be critical to maintaining public roadways
+and expanding low-carbon transit options such as bus rapid transit and commuter rail. Earlier this year,
+hundreds of transportation projects were postponed due to the insolvency of the Special Transportation
+Fund that finances the State’s transportation system. Increasing the State’s gasoline tax from 25 cents to 32
+cents per gallon would provide $105 million per year in additional revenue to support the transportation
+system’s evolution.61
+1. Implement a multi-state cap-and-invest program that sets a limit on transportation-sector emissions
+and reinvests program proceeds in measures that drive down emissions; provides benefits to citizens;
+protects existing transportation funding; generates sufficient additional funding to support
+transportation infrastructure and operation; and mitigates costs to consumers.
+
+59 T. Parker, G. Arrington, M. McKeever, and J. Smith-Heimer, Statewide Transit-Oriented Development Study: Factors for Success in California
+
+(Sacramento: California, Department of Transportation, 2002).
+60
+CT rides. Viewed August 14, 2018. Retrieved from https://ctrides.nuride.com
+61 Gov. Malloy Outlines Proposal to Stabilize Special Transportation Fund. Office of Governor Dannel P. Malloy. January 31, 2018. Retrieved from
+https://portal.ct.gov/Office-of-the-Governor/Press-Room/Press-Releases/2018/01-2018/Gov-Malloy-Outlines-Proposal-to-Stabilize-SpecialTransportation-Fund
+
+RECOMMENDATIONS AND STRATEGIES
+
+32 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+A cap-and-invest program sets a GHG emission limit and penalizes companies that exceed that limit. The
+program allows companies to buy and sell allowances that permit a certain amount of emissions,
+incentivizing these companies to reduce emissions and to trade allowances for profit.62 This market-based
+program reduces emissions at the lowest cost and produces revenue that can be invested in energy
+efficiency, transit infrastructure, clean energy development, and green job training. As a regional policy
+option, this would require concurrent adoption by other New England states, as RGGI does. Connecticut
+should continue to play a leading role in this regional effort.
+2. Implement transportation user fees — market mechanisms to reduce traffic congestion and improve
+efficiency of travel for all drivers.
+VMT fees are being explored across the country as gas tax revenues decline. Also known as a road usage
+charge, a VMT fee can be charged to individual drivers based on their mileage driven. The objective often is
+two-fold: to provide a substitute for fuel tax revenue, which is declining as fuel economy increases; and to
+encourage reduction of VMT. Oregon and California are piloting VMT fees, but a VMT fee has not been
+implemented in any state. Oregon’s pilot charges drivers 1.5 cents per mile traveled, measured by a device
+added to vehicles, and is not susceptible to revenue loss from fuel efficiency.63 A 2017 report estimates that
+statewide adoption of VMT fees in Oregon would generate $340 million more in gross revenue over the
+next 10 years than a fuel tax system.64
+Congestion pricing is a travel-demand-management strategy to reduce wasted time and energy associated
+with traffic congestion. According to the Federal Highway Administration there are four main types of
+pricing strategies:
+Variably priced lanes — variable tolls on separated lanes within a highway, such as express toll
+lanes or high occupancy toll Lanes.
+Variable tolls on entire roadways — both on toll roads and bridges, as well as on existing toll-free
+facilities during rush hours.
+Cordon charges — either variable or fixed charges to drive within or into a congested area within a
+city.
+Area-wide charges — per-mile charges on all roads within an area that may vary by level of
+congestion.
+These pricing strategies incentivize drivers to use the highway during low volume periods, allowing the
+system to flow more efficiently during peak periods. Economists agree that congestion pricing may be the
+most efficient and sustainable mechanism to reduce traffic congestion. It also encourage drivers to shift
+their travel from single-occupancy vehicles to bus, rail, or carpool. Several cities and counties across the
+nation have implemented one of the above pricing strategies to effectively reduce traffic congestion. For
+example, Lee County, Florida introduced variable pricing in 1998 on the Midpoint and Cape Coral toll
+bridges. Drivers crossing the bridge were given a 50 percent discount on their toll if they traveled during
+specific discount periods and paid their toll electronically. This “time-of-use rate” encouraged drivers to
+shift from peak periods to off-peak periods. Congestion pricing is a way for Connecticut to implement
+
+62 How cap and trade works. Environmental Defense Fund. Retrieved from https://www.edf.org/climate/how-cap-and-trade-works
+63
+
+Miller, Stephen. Oregon’s Pay-Per-Mile Driving Fees: Ready for Prime Time, But Waiting for Approval. StreetsBlog USA. June 26, 2017. Retrieved
+from https://usa.streetsblog.org/2017/06/26/oregons-pay-per-mile-driving-fees-ready-for-prime-time-but-waiting-for-approval/
+64 Oregon’s Road Usage Charge: The OReGo Program, Final Report. Oregon Department of Transportation. April 2017. Retrieved from
+https://usa.streetsblog.org/2017/06/26/oregons-pay-per-mile-driving-fees-ready-for-prime-time-but-waiting-for-approval/
+
+RECOMMENDATIONS AND STRATEGIES
+
+33 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+electronic tolling without risk of losing federal highway funding. Connecticut would benefit from
+congestion pricing, as it would both produce revenue and reduce GHG emissions and traffic congestion.
+
+BUILDING SECTOR
+Non-electric thermal loads in residential, commercial, and industrial buildings contribute approximately 30
+percent of total GHG emissions in Connecticut. Heating, ventilation, and air conditioning comprise roughly
+60 percent of all building energy consumption, and over 80 percent of Connecticut households and
+commercial and industrial buildings are heated with fossil fuels.65 In concert with building energy
+conservation improvements, Connecticut must accelerate decarbonizing building energy end-uses through
+increasing deployment of RTTs such as cold-climate air- and ground-source heat pumps and heat pump
+water heaters. This will require increased education and training of the HVAC workforce as well as
+expansion of consumer education and outreach regarding building energy efficiency measures and
+technologies.
+Obstacles to high RTT penetration include: lack of public awareness of RTTs and RTT benefits; upfront RTT
+capital and installation costs that often are higher than those of less-efficient equipment; lack of a
+comprehensive RTT deployment plan; HVAC companies’ long-standing familiarity with fossil-fuel
+equipment; and limited workforce development resources for skilled technicians installing RTTs.
+Connecticut’s clean-energy programs and industry also face uncertainty due to the Connecticut General
+Assembly’s diversion of $165 million in total funds in fiscal years 2018-2019 C&LM Plan funds, Connecticut
+Green Bank funding, and RGGI auction proceeds. This resulted in deep cuts to programs and incentives
+provided through the C&LM Plan and the Connecticut Green Bank, hindering GHG emission reductions from
+the building sector.
+
+Recommendations and Suite of Strategies
+Accelerate adoption of building thermal energy conservation improvements such as
+weatherization, insulation, efficient windows, and HVAC
+Investments in building-envelope improvements such as air sealing, insulation, efficient windows, and
+energy-management systems for existing and new buildings greatly improve energy efficiency, minimize
+energy losses due to leakage, and reduce energy demand for heating and cooling. Energy conservation and
+the associated cost savings can be maximized by pairing building-envelope improvements with deployment
+of energy-efficient thermal technologies.
+1. Prioritize building envelope improvements and expand access to thermal energy-efficiency measures
+through innovative financing options for all income levels.
+The C&LM Plan, developed and implemented in three-year planning cycles by Connecticut’s electric and
+natural gas utilities, is designed to implement energy-efficiency measures beyond what is required by
+building codes and to mainstream energy efficiency through market-transformation techniques. The plan’s
+various energy-efficiency programs for residential, commercial, and industrial customers has spurred CO2
+emission reductions equal to 262,511 tons per year and has saved residents, businesses, and state agencies
+over $80 million annually.
+
+65 Gronli et al. Feasibility of Renewable Thermal Technologies in Connecticut: Market Potential. Yale Center for Business and the Environment.
+
+March 2017.
+
+RECOMMENDATIONS AND STRATEGIES
+
+34 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+Connecticut must continue to ensure diverse financing options are available to expand thermal energyefficiency measures for all income levels. EnergizeCT’s successful financing partnerships should be
+continued. This includes the Connecticut Green Bank’s Smart-E and Smart-E Bundle Loans. These
+partnerships have been successful in integrating building envelope efficiency measures with RTTs. Similarly,
+the Home Energy Solutions Micro Loan Financing Program, which offers three-year zero percent loans up to
+$3,000 for high-efficiency insulation, should be continued and marketed toward LMI residents. Technicians
+administering home energy audits through EnergizeCT should harmonize recommended thermal energyefficiency measures with these financing options.
+2. Ensure building codes are continuously aligned with the most recent International Energy Conservation
+Code standards.
+The primary mechanisms through which Connecticut motivates and invests in thermal efficiency
+improvements are changes in state building codes, changes in product and appliance efficiency standards,
+and market transformation via implementation of the C&LM Plan. Connecticut must continue to adopt
+progressive building codes that incorporate the latest International Energy Conservation Code (IECC)
+standards, including product-efficiency and resiliency standards, while working regionally with other states
+to advance federal product-efficiency standards. Building codes help to standardize installation of energy
+efficient HVAC in new construction and can be amended to incentivize electrification by prohibiting the use
+of electric-resistance space heating as a primary heat source in buildings and setting performance-based
+compliance standards that account for dynamic, TOU electricity rates.66 Connecticut is presently in the
+process of updating its State Building Code to conform with 2015 IECC standards.
+3. Track and reduce energy consumption and associated GHG emissions in state and municipal buildings,
+including Lead by Example targets for 2030.
+State buildings represent about 9 percent of Connecticut’s commercial and industrial sector energy
+consumption, the equivalent of roughly 44.8 trillion BTUs. Through the Lead by Example program, state
+agencies are able to identify and implement comprehensive energy-efficiency projects that reduce the
+energy intensity of government buildings. Lead by Example helps state agencies that lack the technical and
+financial resources to identify and invest in efficiency upgrades. As of December 2017, the DEEP-led Lead by
+Example process has approved 72 energy-efficiency projects in state buildings, 60 of which are completed
+and have collectively achieved an annual cost avoidance of approximately $2.9 million. As these projects
+represent only about 1.5 percent of the total state buildings in Connecticut, this is only the beginning of the
+program’s energy-savings potential. Within the limits of available funding, DEEP will continue to
+aggressively identify opportunities for improving building envelopes to minimize energy losses and
+installing thermal systems that improve efficiency and reduce emissions. Connecticut should work on a
+predictable funding stream for Lead by Example projects with an annual investment commitment to
+support additional projects, which will pay of themselves and save money over time.
+Recently, DEEP instituted an energy tracking and management system called EnergyCAP across all state
+agencies. The system utilizes a web-based platform to collect energy consumption data in a consolidated
+format, and tracks State building energy use and costs. The platform’s features include the capability to:
+feed data directly into EPA Portfolio Manager; analyze GHG emissions and weather-normalized data; track
+
+66 Deason et al. (March 2018) Electrification of buildings and industry in the United States. Energy Analysis and Environmental Impacts Division,
+
+Lawrence Berkeley National Laboratory. Retrieved from http://ipu.msu.edu/wp-content/uploads/2018/04/LBNL-Electrification-of-Buildings2018.pdf
+
+RECOMMENDATIONS AND STRATEGIES
+
+35 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+cost avoidance; process and audit utility bills; and create reports. Once EnergyCAP has been fully deployed
+and opportunities for reduction have been assessed, state agencies should set reduction targets for 2030.
+4. Review consistency of energy efficiency cost-effectiveness testing with public policy goals.
+Cost-effectiveness testing plays an important role in shaping the C&LM Plan’s energy-efficiency programs,
+ensuring they are designed and implemented to obtain energy savings and system benefits greater than the
+costs of the programs. Consistent with its role and
+responsibilities in CGS §16-245m and CGS §22aResource Value Framework Steps,
+1a, Connecticut should evaluate best practices
+National Standard Practice Manual, 2017
+and modify its cost-effectiveness testing to
+ensure consistent, effective valuation of the
+services energy efficiency provides. DEEP will
+implement the Resource Value Framework steps
+outlined in the 2017 National Standard Practice
+Manual, utilizing its principles, concepts, and
+methods for developing a balanced costeffectiveness test. This process will include
+public informational meetings, written
+comments, and opportunities for consulting with
+the Connecticut Energy Efficiency Board.
+
+Transition building fossil fuel thermal loads to efficient renewable thermal technologies
+Beneficial electrification of building thermal-energy end-uses such as space heating and cooling and water
+heating will reduce GHG emissions and total customer energy consumption and costs over the life of the
+technology. As illustrated in the 45 percent reduction scenario, Connecticut must significantly increase
+deployment of RTT technologies in residential and commercial buildings (see illustrative building
+penetration rates below).
+Illustrative deployment of renewable thermal technologies based on GC3 “45% below 2001 levels by
+2030” scenario
+
+Heat pumps reduce end-use energy consumption in homes and businesses — and lower emissions —
+because of their inherent efficiency. By extracting heat from the air (rather than generating heat), common
+air-source heat pump space and water heating systems are 200-300 percent more efficient than electric
+resistance heating systems or water heaters, and 70-80 percent more efficient than traditional oil or natural
+gas boilers — and heat pumps provide both heating and cooling services (see table).67
+
+67 Department of Energy. Retrieved from https://www.energy.gov/energysaver/heat-pump-systems/air-source-heat-pumps
+
+RECOMMENDATIONS AND STRATEGIES
+
+36 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+Thermal Electrification Efficiency Gains
+Technology
+Electric resistance for heating replaced with cold-climate
+air-source heat pump
+Oil-fired boiler replaced with cold-climate air-source heat
+pump
+Natural gas-fired boiler replaced with cold-climate airsource heat pump
+
+Approximate Average Efficiency Gain
+↑ 300%
+↑ 68-78%
+↑ 73-83%
+
+Calculations include efficiency of electric generation from EGUs in ISO-NE
+
+In addition, heat pump water heaters provide important opportunities for energy storage, and when
+actively managed, can help match energy demand to energy supply. These devices can store energy at
+times when the overall energy demand is low and energy generation is cheap. Such storage will be
+increasingly important as more renewable energy resources are deployed, helping to optimize these
+resources during times of oversupply. The beneficial use of these technologies can help improve grid
+efficiency, reduce operating costs, and provide costs savings to all consumers.
+1. Develop sustainable funding mechanisms to incentivize replacement of fossil fuel space and water
+heating with efficient renewable thermal technologies.
+Currently, electric and natural gas customers contribute to implementation of the C&LM Plan through a
+consumption-based charge on their electricity and natural gas bills. The C&LM Plan provides all electricity
+customers incentives for measures they take to reduce their household or business energy consumption.
+However, there is no heating consumption-based charge on the bills of oil or propane customers to support
+the conservation programs, even though oil customers are the largest segment of participants in the C&LM
+Plan programs, constituting over 50 percent of Home Energy Solutions projects and rebate uptake.68 Due
+to this unbalanced contribution mechanism, heating oil and propane customers who participate in state
+energy-efficiency programs essentially have been subsidized by natural gas and electric customers who are
+charged a conservation assessment on both their heating and their non-heating consumption. Further, in
+light of the General Assembly’s diversions of RGGI auction proceeds that funded conservation and
+efficiency investments in homes not heated with electricity or natural gas, it is now more important than
+ever to establish an equitable and sustainable funding source for promotion of energy-efficiency measures
+in Connecticut’s 600,000 oil- and propane-heated homes.
+One way to provide sustainable funding for oil and propane thermal energy efficiency improvements is
+implementation of an oil and propone conservation charge (applied on a per-gallon and per-ccf basis) to
+fund weatherization services and incentivize installation of high-efficiency equipment.
+Carbon pricing on heating fuels is another possible approach. As described in the Cross Sector
+recommendations section of this document, carbon pricing for all heating fuels could provide an incentive
+to invest in energy-efficiency measures as well as support a transition to lower-carbon thermal alternatives.
+Monies collected through a conservation or carbon charge can help provide sustainable funding for lowinterest financing and rebate incentives, which are important to catalyze decisions to switch to air-source
+heat pumps for heating and cooling. Current incentives and financing products available for heat pumps
+include: low-interest loans for efficient heating equipment, water heating, and renewable energy
+
+68 HES is a home weatherization and energy efficiency program funded by the Connecticut Energy Efficiency Fund and administered by Eversource,
+
+United Illuminating, Yankee Gas Services Company, Connecticut Natural Gas Corporation, and Southern Connecticut Gas Company. Retrieved from
+www.energizect.com.
+
+RECOMMENDATIONS AND STRATEGIES
+
+37 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+improvements; low-cost building energy assessments; and rebates for air- and ground-source heat pumps,
+mini ductless air-source heat pumps, and heat-pump water heaters.
+The Connecticut Green Bank should work with municipalities and RTT contractors to explore launching a
+“Thermalize” campaign, modeled after its successful SolarizeCT community-based program that leverages
+social networks to reduce costs and expand solar deployment through a declining block grant group-pricing
+scheme.69 SolarizeCT works with city governments, the Connecticut Green Bank, and qualifying contractors
+to: provide free, no-obligation solar site assessments; connect residents with certified local solar installers;
+offer high-quality solar equipment at reduced prices; and provide information regarding federal and state
+tax credits. Given that RTTs integrate well with existing solar PV installations, towns where successful
+Solarize campaigns have taken place should be among the first communities targeted for widespread
+adoption of RTTs, integrated with building envelope improvements, including air sealing and insulation.
+Synergies in these areas will realize even greater GHG emission reductions and overall energy-system
+efficiency and cost savings.
+2. Incentivize installation of renewable thermal technologies in new construction.
+Because building codes and practices have improved, a new building is more likely than an existing building
+to have a well-insulated envelope. This makes newly constructed buildings prime candidates for RTT
+installation.70 The Department of Economic and Community Development reported 3,803 building permits
+in 2017.71 Connecticut should focus on capturing the opportunity these projects provide for renewable
+thermal deployment and market transformation.
+The 2019-2021 C&LM Plan the utilities submitted to DEEP in November 2018 outlines an increased focus on
+programs that push the building marketplace toward high-efficiency and “renewable-ready” construction.
+The New Constructions, Additions & Major Renovations program will provide a new, all-electric package
+that gives homeowners a clear path to strategic electrification of residential energy end-uses through
+incentives for air-source or ground-source heat pumps, building envelope measures, and thermal-energy
+efficiency measures. Additionally, participating new construction projects will be encouraged to incorporate
+passive house design principles such as passive solar, which reduces space heating demands. The utilities
+plan to target geographic regions across the state, including those that do not have access to natural gas.
+For these incentive programs to have maximum effect, the building and construction community needs to
+be aware of and educated on the benefits they provide. The C&LM Plan commits to continue offering
+community education and training on high-efficiency building standards and code compliance for the 2015
+IECC and Home Energy Rating System Index.
+
+Improve training and technical capacity of workforce
+1. Expand training programs to include renewable thermal technology installations and standards training.
+Increasing technology awareness and training among HVAC contractors about RTT and new building
+standards is essential for widespread deployment at the scale needed to meet our goals. Equipment
+installers must possess strong knowledge of the available energy-efficient technologies and their
+integration into new and existing buildings. The number of RTTs and manufacturers is increasing, and HVAC
+69 Solarize Connecticut. Connecticut Green Bank. Retrieved from http://solarizect.com
+70
+
+Gronli et al. Feasibility of Renewable Thermal Technologies in Connecticut: Market Potential. Yale Center for Business and the Environment.
+March 2017.
+71 Connecticut Housing Information. Connecticut Department of Economic and Community Development. Retrieved from
+http://www.ct.gov/ecd/cwp/view.asp?a=1106&q=250640.
+
+RECOMMENDATIONS AND STRATEGIES
+
+38 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+industry professionals must have the knowledge and experience necessary to service the technologies
+regardless of the manufacturer or equipment model. The expertise needed includes proper equipment
+selection, right-sizing of equipment, and customer education to optimize the efficiency of building energy
+systems. For example, heat pump or water heater thermostats should be programmed to communicate
+with adaptive building energy management systems to facilitate demand response and grid flexibility, and
+heat pumps systems can be paired with PV and energy storage systems to minimize the incremental cost of
+increased electric demand.72
+EnergizeCT has advanced-training opportunities through building-code training for professionals and
+Building Operator Certification (BOC) training for building managers and operators. The training aims to
+ensure that building managers and operators gain the skills and knowledge necessary to optimize building
+energy systems.73 Tunxis Community College also offers a two-year Associate of Applied Science Degree in
+Energy Management to prepare students for careers in renewable energy, energy efficiency, HVAC and
+lighting, energy auditing, and building management. Efforts should be undertaken to expand training
+programs to include RTT installation and standards training across the state.
+
+NON-ENERGY GHG EMISSIONS
+Non-energy sector emissions include emissions from the agricultural, industrial, and waste sectors.
+Combined, these sectors accounted for approximately 10 percent of Connecticut’s GHG emissions in 2016.
+Agricultural-sector emissions are caused by crop and livestock production and processing. Industrial sector
+emissions are produced by industrial processes (e.g., manufacture and use of refrigerants). Waste sector
+emissions are caused by incineration and methane releases from landfills and wastewater treatment plants.
+
+Connecticut’s Non-Energy Sector GHG Commitments
+Short-lived climate pollutants (SLCPs) such as methane, HFCs, and black carbon have a shorter atmospheric
+lifetime but have a high global warming potential. This means they warm the Earth at a much faster rate
+compared to CO2. Taking immediate steps to reduce SLCPs has an near-term beneficial impact and thus
+should be prioritized.
+The State’s first step toward addressing SLCPs should be to implement the SLCP reduction strategies as
+outlined in the U.S. Climate Alliance SLCP Challenge to Action Roadmap.74 The roadmap details SLCP
+reduction strategies concerning energy generation and distribution, agricultural and livestock operations,
+waste treatment and landfill management, SLCP emissions monitoring and accounting, refrigerant
+destruction and management, transportation fuel combustion, wildfire and open biomass burning, and
+energy efficiency.
+HFCs are a class of SLCPs used in refrigeration, air conditioning, foam blowing, aerosols, fire protection, and
+solvents. HFCs have 1,000 to 3,000 times the global warming potential of CO2. In September 2018,
+
+72 Driving the Heat Pump Market: Lessons Learned from the Northeast. Vermont Energy Investment Corporation. February 20, 2018.
+73 Building Operator Certification Training. EnergizeCT. Retrieved from https://www.energizect.com/your-town/solutions-list/Building-Operator-
+
+Certification-BOC-Training-UP
+74
+From SLCP Challenge to Action: a roadmap for reducing short-lived climate pollutants to meet the goals of the Paris Agreement. United States
+Climate Alliance. September 2018. Retrieved from
+https://static1.squarespace.com/static/5a4cfbfe18b27d4da21c9361/t/5b9a9cc1758d466394325454/1536859334343/USCA+SLCP+Roadmap_final+
+Sept2018.pdf
+
+RECOMMENDATIONS AND STRATEGIES
+
+39 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+Governor Dannel Malloy directed DEEP to develop regulations to phase out the use of HFCs.75 Connecticut
+must transition toward climate-friendly, HFC-free technologies and HFC substitutes in refrigerators, airconditioning equipment, and vehicle air-conditioning systems by setting achievable timelines for the phaseout. Connecticut should closely examine California’s adopted regulations to phase out HFCs in new airconditioning and refrigeration systems as well as work with Maryland and New York as those states develop
+regulations to phase out HFCs.
+Natural and working lands consist of forests, farms, rangelands, and wetlands that sequester carbon and
+support Connecticut’s economy, communities, and ecosystems. Collectively, these lands provide us with an
+important carbon sink. Connecticut should work with the other New England states to measure and
+account for changes in land-use practices to inform smart growth and protect valuable core forestland and
+prime farmland. Connecticut and three other New England states have already committed to U.S. Climate
+Alliance goals to: improve inventory methods for land-based carbon flux; identify best practices to reduce
+GHG emissions and increase resilient carbon sequestration; advance programs, policies, and incentives to
+reduce GHG emissions and enhance resilient carbon sequestration; undertake actions that will maintain
+natural and working lands as a net sink of carbon and protect and increase carbon storage capacity, while
+balancing near- and long-term sequestration objectives; and integrate priority actions and pathways into
+state GHG plans by 2020.76 DEEP should work with land trusts, forest owners, and working lands managers
+to help adopt carbon accounting methodologies that further support sustainable land-use practices.
+
+75 Gov. Malloy Joins Connecticut in Coalition Committed to Phasing out Coal Power in Favor of Clean Energy. The Office of Governor Dannel P.
+
+Malloy. September 13, 2018. Retrieved from https://portal.ct.gov/Office-of-the-Governor/Press-Room/Press-Releases/2018/09-2018/Gov-MalloyJoins-Connecticut-in-Coalition-Committed-to-Phasing-out-Coal-Power
+76 The U.S. Climate Alliance Commits to Maintain Lands as a Net Carbon Sink and Develop Pathways to Act by 2020. United States Climate Alliance.
+August 23, 2018. Retrieved from https://www.usclimatealliance.org/publications/2018/8/23/the-us-climate-alliance-commits-to-maintain-lands-asa-net-carbon-sink-and-develop-pathways-to-act-by-2020
+
+RECOMMENDATIONS AND STRATEGIES
+
+40 | P a g e
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+APPENDICES
+Appendix A: Executive Order Number 46
+
+APPENDICES
+
+41
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+APPENDICES
+
+42
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+Appendix B: Members of the Governor’s Council on Climate Change
+
+Council members, listed below in alphabetical order, will serve two year appointments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Claire Coleman, Climate and Energy Attorney, Connecticut Fund for the Environment
+Melody Currey, Commissioner, Department of Administrative Services
+Katie Dykes, Chair, Public Utilities Regulatory Authority
+Bryan Garcia, President and Chief Executive Officer, Connecticut Green Bank
+T.J. Hanson, Product Director, Thule Inc.
+John Humphries, CT Roundtable on Climate and Jobs
+Rob Klee [Council Chair], Commissioner, Department of Energy and Environmental Protection
+Rebecca French, Director of Resilience, Department of Housing (serving on behalf of
+Commissioner Klein)
+James O'Donnell, Executive Director, Connecticut Institute for Resilience and Climate
+Adaptation
+James Redeker, Commissioner, Department of Transportation
+David Robinson, Executive Vice President and General Counsel, The Hartford Financial Services
+Group, Inc.
+Catherine Smith, Commissioner, Department of Economic and Community Development
+Lynn Stoddard, Director, Institute for Sustainable Energy at Eastern Connecticut State University
+David Kalafa, Comprehensive Planning and Intergovernmental Policy, Office of Policy and
+Management (serving on behalf of Secretary Barnes)
+Katharine Wade, Commissioner, Connecticut Insurance Department
+
+APPENDICES
+
+43
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+Appendix C: Connecticut Business-As-Usual Case
+The first step in developing a climate strategy is building a Connecticut-specific business-as-usual
+reference case to provide a basis for examination of potential GHG mitigation technologies and
+measures. Utilizing projection data from the Energy Information Administration and factors expected to
+shape Connecticut’s future energy consumption, Northeast States for Coordinated Air Use Management
+(NESCAUM), GC3’s technical consulting group, developed a reference case projection of future
+emissions through 2050.
+The below table is a summary of informational resources used to develop the Connecticut greenhouse
+gas emissions reference case in the Long-range Energy Alternatives Planning (LEAP) framework. The
+reference case incorporates historical and projected energy use data from publicly available resources
+to create a greenhouse gas (GHG) baseline from which future GHG mitigation scenarios in Connecticut
+were evaluated.
+Energy use data for individual technologies and end uses form the basis of the reference case, and these
+individual technologies and end uses collectively comprise the main aggregated transportation, electric
+power, residential, commercial, and industrial sectors.
+
+Reference Case Assumptions
+
+Description
+
+The LEAP reference case projection includes
+existing federal, regional, and state regulatory
+requirements expected to shape future energy
+use in Connecticut.
+
+Examples of rules included in the reference case are federal
+energy efficiency standards, state renewable portfolio
+standards (RPS), and the revised power plant GHG emissions
+cap under the Regional Greenhouse Gas Initiative (RGGI).
+For state EE programs not in AEO 2015, we use data from
+Energize CT, which provides evaluation reports from CT
+utilities on energy savings from their energy efficiency
+programs: http://www.energizect.com/connecticut-energyefficiency-board/evaluation-reports.
+
+Transportation Sector
+The transportation sector within the LEAP
+reference case is based on emissions estimated
+using the Motor Vehicle Emissions Simulator
+(MOVES2014a) emissions model. MOVES2014a
+is the latest version of MOVES. It incorporates
+significant improvements in calculating on-road
+and non-road equipment emissions.
+
+MOVES is the EPA-accepted mobile source emissions model
+for state air quality planning and emissions inventory
+development under the Clean Air Act. The MOVES runs for
+the LEAP reference case use input data specific to
+Connecticut for projecting state vehicle miles travelled
+(VMT), energy consumption, and emissions out to 2050 by
+vehicle type for all key vehicle classes (e.g., passenger cars,
+passenger trucks, long haul trucks, refuse trucks, etc.). The
+vehicle emission estimates from MOVES include vehicles
+meeting the latest federal fuel efficiency (CAFE) standards
+and low sulfur gasoline requirements (“Tier 3”).
+
+APPENDICES
+
+44
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+Electric Power
+The electric power sector in the LEAP reference
+case is based on the state’s consumption of
+electricity, which can be supplied by power
+plants inside and outside of Connecticut. For
+this reason, the LEAP approach is to
+characterize the generation mix for the overall
+ISO-NE region out to 2050.
+
+The generation mix depends upon a number of key variables,
+such as capacity in megawatts by fuel type, operating
+efficiency, availability factor, capital cost, and operations and
+maintenance costs. Capacity data are based on the ISO-NE
+Capacity, Energy, Loads, and Transmission (CELT) 2016
+report. Operating characteristics and economic data are
+based on the input assumptions for power plants used in the
+U.S. Energy Information Administration’s Annual Energy
+Outlook (AEO) 2015 projections.
+
+Residential, Commercial, and Industrial
+The residential, commercial and industrial
+sectors in the LEAP reference case are
+developed using detailed model outputs from
+AEO 2015 to project energy consumption and
+emissions for specific end-use technologies out
+to 2040. AEO 2015 assumptions are given at the
+links below:
+NEMS Residential Demand Module
+NEMS Commercial Demand Module
+NEMS Industrial Demand Module
+
+The LEAP reference case continues the projection to 2050 as
+a straight-line extrapolation based on the average annual
+growth rate from 2030 to 2040. Specific examples of enduse technologies are natural gas furnaces in commercial
+space heating applications and distillate oil boilers for
+residential space and water heating applications.
+
+Assumptions NOT included in the
+reference case
+
+Description
+
+The reference case projection does not include
+proposed rules or policies that are not yet
+adopted as requirements.
+
+Examples of rules and policies not included are state-specific
+energy efficiency programs that are in the planning stages
+and EPA’s recently proposed heavy-duty vehicle GHG
+standards. EPA’s currently suspended Clean Power Plan rule
+is also not in the reference case as it was still a proposal at
+the time the latest energy use data were collected. The
+revised RGGI cap, however, would likely meet the
+requirements of the Clean Power Plan, should it be
+implemented, for Connecticut and the other New England
+states covered by the ISO-NE grid.
+
+The reference case does not reflect potential
+long-term contracts for renewables or natural
+gas that emerge from the PA 15-107
+procurement process.
+
+The LEAP modeling tool does not use existing or projected
+expansion of pipeline capacity as a basis for projecting
+increased natural gas use. Expanded use of natural gas is
+incorporated through the AEO 2015 projections.
+
+APPENDICES
+
+45
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+Appendix D: Technology & Measures
+TECHNOLOGY/
+MEASURE
+
+DESCRIPTION
+
+SUITE OF POLICY OPTIONS
+
+ESTIMATED CO2
+REDUCTION POTENTIAL*
+
+Buildings (residential & commercial)
+
+Deep envelope retrofits for existing
+buildings
+
+Expanded High-efficiency lighting
+
+Renewable thermal technologies
+
+District heating/cooling
+
+Expanded advanced energyefficient appliances
+
+APPENDICES
+
+Insulation, window, envelope improvements, building
+energy management systems in existing and new
+buildings to make them substantially more efficient.
+(Could be achieved through advanced building codes
+e.g. Beyond IECC 2012.)
+
+ State Building Codes
+ Efficiency Procurement
+ Establish a Residential
+Property Assessed Clean
+Energy Program
+ Lead by Example Program
+ EE incentives
+
+Large
+
+LEDs and advanced control systems.
+
+ State Building Codes
+ Efficiency Procurement
+ Lead by Example Program
+ EE incentives
+
+Large
+
+Renewable energy used for heating or cooling (e.g.,
+air/ground source heat pumps, solar thermal for
+domestic water heating, biomass, biofuels).
+
+ State Building Codes
+ Establish a Residential
+Property Assessed Clean
+Energy Program
+ Thermal Renewable Energy
+Credit Program (T-REC)
+ Lead by Example Program
+ EE incentives
+ CPACE
+
+Large
+
+ CPACE
+ Incentives
+
+Large
+
+ State EE appliance
+standards
+EE incentives
+
+Medium
+
+System for distribution of a heating and/or cooling
+resource (e.g., chilled water) generated in a
+centralized location to nearby residential and
+commercial facilities to satisfy their requirements for
+space heating, water heating, air conditioning, etc.
+Adoption of state standards for appliance energy
+efficiency which are more stringent than federal
+standards.
+
+46
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+High-efficiency HVAC
+
+High-efficiency water heating
+
+High-efficiency heating, ventilation, and air
+conditioning equipment.
+
+Heat-pumps and other high-efficiency domestic water
+heaters.
+
+ State Building Codes
+ Efficiency Procurement
+ CPACE
+ EE incentives
+ State Building Codes
+ Establish a Residential
+Property Assessed Clean
+Energy Program
+ Thermal Renewable Energy
+Credit Program (T-REC)
+ CPACE
+
+Medium
+
+Medium
+
+EE incentives
+
+Lower carbon fuel switching
+
+Shifting from high-carbon fuel oil to lower-carbon
+natural gas.
+
+EE incentives
+
+Small
+
+Electric Power Generation
+
+Utility-scale renewable
+technologies
+
+Large-scale zero-carbon generation using solar
+photovoltaic, on-shore/off-shore wind, hydroelectric,
+geothermal, or tidal power.
+
+ State procurement
+ Clean Energy Standard
+ Increased RPS
+ Shared clean energy
+program
+
+Large
+
+ State procurement
+ Clean Energy Standard
+Expanded nuclear
+
+APPENDICES
+
+Expansion of nuclear generation beyond present level.
+
+Large
+
+47
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+Combined heat and power(CHP)
+
+Generate electricity and useful thermal energy in a
+single, integrated system. Heat that is normally wasted
+in conventional power generation is recovered as
+useful energy, which avoids the losses that would
+otherwise be incurred from separate generation of
+heat and power.
+
+Distributed generation
+
+Non-centralized generation using zero-carbon
+renewable energy -- e.g., rooftop solar photovoltaic
+
+Distributed energy storage
+
+Diversion of organics to anaerobic
+digestion
+
+Utility-scale energy storage
+
+Demand response
+
+APPENDICES
+
+Storage of electricity for subsequent use at or near the
+point of generation (e.g., using batteries). Such
+storage can make it possible to take better advantage
+of variable sources (e.g., from photovoltaic
+generation) and integrate them more effectively into
+the regional grid.
+Diversion of non-recyclable organic waste -- principally
+yard waste and food scraps -- to an anaerobic
+digestion facility where microorganisms break down
+organic materials in the absence of oxygen. This
+process produces biogas and a solid residual. The
+biogas, made primarily of methane and carbon
+dioxide, can be used as a source of energy similar to
+natural gas. The solid residual can be land applied or
+composted and used as a soil amendment.
+Centralized storage of electricity for subsequent use
+(e.g., using batteries, pumped water storage). Such
+storage can make it possible to take better advantage
+of variable renewable energy (e.g., from photovoltaic
+generation) and integrate them more effectively into
+the regional grid.
+Programs that enable consumers to reduce their
+energy usage during periods of peak demand in
+response to time-based rates or other forms of
+financial incentives, enabling the grid to meet energy
+demands at lower cost and with lower emissions.
+Methods include offering time-of-use pricing, critical
+
+ Incentives (rebate/grant,
+tax)
+ CPACE
+
+ Clean Energy Standard
+ Increased RPS
+ Tariff adder
+ RPS multiplier
+ Lead by Example
+
+Medium
+
+Medium
+
+Medium
+
+ RPS
+
+Medium
+
+ State Procurement
+ RPS multiplier
+Medium
+
+ EE incentives
+ Grid modernization
+ Time of use rates
+
+Medium
+
+48
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+peak pricing, variable peak pricing, real time pricing,
+and critical peak rebates.
+Advanced natural gas combined
+cycle gas turbines
+
+Expanded use of the most efficient form of natural gas
+turbines.
+
+Reductions in natural gas leaks
+
+Enhanced efforts to reduce leakage from natural gas
+distribution network.
+
+ RGGI
+Small
+
+N/A
+
+Transportation
+
+Expand zero-emissions vehicles
+
+Battery electric vehicles, plug-in hybrid electric
+vehicles, hydrogen fuel cell vehicles.
+
+Electrification of transit buses
+
+Conversion to plug-in battery technology
+
+Electrification of commuter rail
+
+Conversion of remaining diesel locomotives to
+electricity.
+
+Low-carbon biofuels, CNG and
+Propane for medium/heavy duty
+vehicles
+
+Biofuels, compressed natural gas and propane instead
+of petroleum for medium-and heavy-duty vehicles/
+freight modes, plus necessary fueling infrastructure.
+
+Increased public transit service
+levels and ridership
+
+Expanded use of bus rapid transit and commuter rail
+to reduce private passenger vehicle miles traveled.
+
+ Maintaining California
+LEV/ZEV standards
+ Incentives (tax break,
+rebate, reduced
+fees/taxes, LEV/ZEV access
+to HOV Lanes, free
+parking)
+ Time-of-use rate for EV
+charging
+ Lead by Example
+ Time of use rates
+ Time of use rates
+
+ Low carbon fuel standard
+ Congestion Pricing/Tolls
+ Vehicle Miles Travel Tax
+
+Large
+
+Medium
+Medium
+
+Medium
+
+Medium
+
+Non-Energy Sectors (land use, agriculture, and waste)
+Forestry BMPs
+
+APPENDICES
+
+Best management practices for public and private
+forests to maximize carbon sequestration and storage.
+
+Medium
+
+49
+
+
+
+GOVERNOR’S COUNCIL ON CLIMATE CHANGE
+
+Wetlands restoration for "blue"
+carbon
+
+Increased source reduction and
+recycling of solid waste
+
+Smart growth practices
+
+Protection of salt marshes and other wetlands to
+maintain their ability to sequester and store carbon.
+Source reduction, often called ‘waste prevention,’ is
+any change in the design, manufacturing, purchase, or
+use of materials or products (including packaging) to
+reduce their amount or toxicity before they become
+municipal solid waste. Recycling, which occurs after
+waste is produced, is conversion of materials for use in
+remanufacturing.
+Urban planning and transportation practices that
+concentrate growth in compact urban centers to
+reduce sprawl and its associated high-emissions forms
+of building and transportation. Compact, transitoriented, walkable, bicycle-friendly land use, including
+neighborhood schools, "complete streets," and mixeduse development.
+
+Medium
+
+Medium
+
+Further Development of the
+Complete Streets Program
+and Multi-Mobility
+Small
+
+Improved agricultural practices
+
+Practices to reduce GHG emissions and maintain/build
+soil carbon: organic farming, nutrient reductions, notill agriculture, and improved residue management.
+
+Small
+
+Urban/suburban tree planting and
+retention
+
+Urban/suburban tree planting and retention
+
+Small
+
+Conversion of marginal agriculture
+to forests
+
+Reforestation of marginal agricultural lands to
+sequester and store carbon.
+
+N/A
+
+Reduction of F-gas emissions
+
+Improved management practices for fluorinated gases
+(e.g., HFC refrigerants) that have high global warming
+potential and are responsible for a small but growing
+proportion of CT's GHG emissions.
+
+N/A
+
+Note: A carbon tax, cap and invest/tax program, or a variety of incentives can be utilized as policy across all of these measures.
+**Carbon reduction potentials were estimated based on a literature review and expert opinion.
+
+APPENDICES
+
+50
+
+

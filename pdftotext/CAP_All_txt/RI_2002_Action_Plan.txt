@@ -1,0 +1,2990 @@
+Rhode Island
+Greenhouse Gas Action Plan
+Developed by
+The Rhode Island Greenhouse Gas Stakeholder Process
+
+Convened by
+Rhode Island Department of Environmental Management
+Rhode Island State Energy Office
+Project Manager/Facilitator
+Raab Associates, Ltd.
+Technical/Policy Consultant
+Tellus Institute
+
+July 15, 2002
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Dedication
+We dedicate this Plan to
+the memory of Mary Kilmarx
+for her decades of service to Rhode Island on energy and environmental issues
+and for helping to launch this Rhode Island Greenhouse Gas Process.
+
+2
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+Stakeholder Members
+
+I. Executive Summary
+In the fall of 2001, the Rhode Island Department of
+Environmental Management and the State Energy
+Office convened a group of over 30 diverse
+stakeholders from business, industry, citizen
+groups, environmental organizations, and other
+government agencies to develop a Greenhouse Gas
+Action Plan for Rhode Island.
+The convening of this group was largely
+precipitated by the growing international consensus
+among scientists and policymakers that carbon
+dioxide and other greenhouse gases are warming
+the planet at a rapid rate. If this trend continues, it
+could have adverse impacts on Rhode Island’s
+environment and economy. More immediately, the
+Rhode Island process builds on a recent agreement
+among all the New England Governors and Eastern
+Canadian Premiers to reduce greenhouse gases in
+the region to 1990 levels by 2010, 10% below
+those levels in 2020, and by as much as 75% over
+the longer-term.
+The Rhode Island Greenhouse Gas Process is
+funded by the U.S. Environmental Protection
+Agency, the U.S. Department of Energy, the
+Institute for Environmental Conflict Resolution,
+and the State of Rhode Island. The state hired
+Raab Associates, Ltd. to provide facilitation and
+project management services, and Tellus Institute
+to provide consulting and modeling services on
+technical and policy issues.
+
+Associated Builders and Contractors
+Audubon Society of Rhode Island
+Brown University
+Business Roundtable
+Conservation Law Foundation
+Department of Administration
+Governor's Policy Office (ex officio)
+Narragansett Electric
+Nat. Fed’n of Independent Businesses
+New England Gas Company
+Northern RI Chamber of Commerce
+Oil Heat Institute
+Providence Chamber of Commerce
+RI Builder's Association
+RI Dept. of Environmental Management
+RI Dept. of Transportation
+RI Economic Development Corporation
+RI House, Policy Office (ex officio)
+RI League of Cities and Towns
+RI Petroleum Institute
+RI Public Interest Research Group
+RI Public Transit Authority
+RI Division of Public Utilities and Carriers
+RI Senate, Policy Office (ex officio)
+RI Society of Environmental Professionals
+RI State Energy Office
+RI Statewide Planning
+Save The Bay
+Sierra Club
+Sustainability Coalition
+The Energy Council of Rhode Island
+US EPA (ex officio)
+US DOE (ex officio)
+
+The process has three distinct phases:
+•
+•
+•
+
+Phase I - Stakeholders developed a GHG Action Plan and prioritized and evaluated a
+list of greenhouse gas reduction options.
+Phase II - In the Fall of 2002, the Stakeholders will further research, analyze, and (as
+warranted) design implementation strategies for key high priority program and policy
+options.
+Phase III -Actual program implementation of the highest priority options, and
+development of implementation plans for other options.
+
+During the course of Phase I the Stakeholder Steering Committee met five times. Three
+additional Working Groups – 1) Buildings and Facilities; 2) Transportation and Land
+3
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Use; and 3) Energy Supply and Solid Waste - met three times each, for a total of 14
+meetings between October 2001 and July 2002.
+Over 60 individuals participated actively in the Working Groups. Each of the Working
+Groups discussed multiple greenhouse gas reduction initiatives, programs, and policy
+options. Tellus Institute analyzed these options in Scoping Papers, detailing potential
+carbon emissions reductions, net costs and savings, and other benefits. Each of the
+Working Groups ultimately made recommendations to the Stakeholder Steering
+Committee regarding the prioritization of the options, as well as additional comments and
+considerations for certain options. The Stakeholders shaped this Plan with the assistance
+of the consultants and facilitator.
+The Stakeholders accept the New England Governors and Eastern Canadian Premiers’
+regional Greenhouse Gas Reduction target of reducing GHG emissions to the 1990 level
+by 2010 and 10% below 1990 levels by 2020 as a reasonable goal for now, on which to
+base a Rhode Island GHG Action Plan. Thus this Plan adopts Rhode Island’s
+proportional share of these regional targets as its own targets, i.e., the same percentage
+reductions below Rhode Island’s Baseline emissions path.
+Fig. ES1: Baseline Emissions Scenario Compared to Governors’/Premiers’ Target
+
+Million Tonnes Carbon Equivalent
+
+4.0
+
+Baseline
+
+3.5
+
+Governors' Premieres' Target
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Years
+
+Figure ES1 above shows the Baseline path for Rhode Island’s GHG emissions (expected
+growth of its related GHG emissions absent new initiatives) and a path for Rhode Island’s
+proportional share of the Governors’ and Premiers’ regional targets, indicating the gap
+that needs to be filled with initiatives, programs, and policies in a comprehensive GHG
+Action Plan. Since the Baseline entails steady growth in GHG emissions over the next
+twenty years following the growth in the 1990s, the target of 10 percent below 1990
+emissions in 2020 will require that emissions in 2020 be about one-third below the level
+of the Baseline. This presents the challenge of identifying and implementing policies and
+measures to close the gap.
+4
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+The Stakeholders have agreed to include 52 program and policy options in this Plan to begin to fill
+this gap between the baseline and the greenhouse gas reduction targets.
+Higher Priority Consensus In-State Options
+
+Lower Priority Consensus In-State Options
+
+# Name
+
+#
+
+Buildings and Facilities
+1 Commercial/Industrial Fossil Fuel Retrofit
+2 Compact Residential Appliances Initiative
+3 Energy Efficiency Targeting Initiative
+(Industrial)
+4 Combined Heat & Power (CHP) Initiative
+(Industrial)
+5 Electric Energy Efficiency Retrofit in NonResidential Buildings and Facilities
+6 Efficient Residential Fossil Fuel Heating
+7 Tax Credits For Energy Efficiency
+8 Combined Heat & Power (CHP) Initiative
+(Non-Industrial)
+9 Efficient Residential Electric Cooling
+10 Retrofit Program For Electrically Heated
+Residences
+11 Retrofit For Fossil Heated Residences
+12 Electric Equipment Retrofit Program
+(Small Commercial & Industrial)
+13 Public Facilities Efficiency Initiative
+14 Efficient Residential Lighting / Appliances
+15 Efficient Non-Residential Construction
+16 Energy Star Home Construction Program
+17 Use of Lower Carbon Fossil Fuels
+Transportation
+18 Local Fuel Economy Improvements
+(Feebate)
+19 Transit Oriented Development and
+Enhancing Transit Options and Operations
+20 Expand Bicycle/Pedestrian Infrastructures
+21 Commuting Efficiency Program
+22 Commuting Trip Reduction Initiative
+23 Government Owned And Private FleetVehicle Efficiency Initiative
+Land Use
+24 Urban/Suburban Forestry Program
+25 Open Space Protection Program
+Energy Supply/Solid Waste
+26 Renewable Portfolio Standards
+27 Resource Management (RM) Contracting
+28 Pay-As-You-Throw (PAYT) Initiative
+29 State Facilities Renewable Purchase
+Requirement
+1
+
+Saved
+Carbon1
+
+Name
+
+Saved
+Carbon
+
+Buildings and Facilities
+30 Compact Floorspace Initiative
+5
+31 Switch from Electric to Fossil Fuel Heating
+1
+32 Solar Photovoltaic (PV) Buydown Program
+1
+33 Active Solar Hot Water Heating Initiative
+1
+34 Non-Residential Natural Gas Air
+<1
+Conditioning Initiative
+Transportation
+35 Fleet Fuel GHG Content Mandate
+40
+Land Use
+36 Conversion of Marginal Cropland to Forest
+40
+Initiative
+37 Conversion of Marginal Cropland to
+<1.5
+Wetlands Initiative
+38 Low Input Agriculture and Improved
+0.4
+Cropping Systems Initiative
+39 Forest Management Initiative
+TBD2
+Energy Supply
+40 Promote New Renewable Electricity
+8
+Supply Using System Benefit Charge Funds
+41 Promote Green Power Purchases Using
+13
+System Benefit Charge Funds
+42 Incentive Package Initiative
+2
+• Production tax credit
+2
+• Investment tax credit
+0.2
+• Net metering
+TBD2
+• Backup rates
+43 Direct Government Investments Or
+0.5
+Expenditures in Renewable Energy
+Solid Waste
+44 Deposit Bottle System (“Bottle Bill”)
+19
+
+100
+80
+40
+35
+30
+25
+15
+15
+10
+9
+6
+5
+5
+5
+5
+1
+TBD2
+125
+19
+19
+19
+18
+<2.5
+
+Non-Consensus In-State Options
+#
+
+<120
+60
+
+Name
+
+Saved
+Carbon
+
+Buildings and Facilities
+45 Upgrade New Residential Construction
+Building Code
+46 Upgrade New Commercial Construction
+Building Code
+Transportation and Land Use
+47 Increase the Gasoline Tax
+
+140
+70
+55
+0.4
+
+Estimates of thousands of metric tons in 2020 of greenhouse gases expressed as carbon equivalent
+
+5
+
+2
+
+20
+40
+
+38
+
+TBD: To Be Determined
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Consensus Regional/National Options
+# Name
+
+Consensus Priority Study Options
+
+Saved
+Carbon
+
+Buildings and Facilities
+48 Upgrade And Extend Appliance Efficiency
+Standards
+Transportation
+49 National Fuel Efficiency Standards For Cars
+And Light Trucks (CAFÉ)
+Energy Supply
+50 Carbon (And Multi-Pollutant) Cap And
+Permit Trade System For The Power Sector
+
+#
+
+Name
+
+51 Vehicle Miles Traveled (VMT)-Based
+Insurance Premium Structures
+52 Transportation Infrastructure Planning
+TBD
+• Commuter rail/light rail and its
+potential electrification
+• Advanced bus rapid transit
+• Barging
+• Shifting transportation resources to
+preserving RI’s transportation infrastructure
+
+100
+
+250
+
+140
+
+The Stakeholder Group’s decision to include these options was based primarily on a
+preliminary assessment of the saved carbon and the cost of saved carbon. These factors
+as well as additional factors will be examined in Phase II and beyond and the
+prioritization of the options will be revisited at that time, and on this basis a decision will
+be made as to whether and if so how to proceed on each option.
+Forty-nine of the options are consensus options endorsed by all the Stakeholders. Only
+three options are non-consensus options. Also, 49 of the options are primarily in-state
+options, while only three options would require regional or national implementation. Of
+the full set of options, 25 are targeted at buildings and facilities, 11 at transportation, 6 at
+land use, 6 at energy supply, and 4 at solid waste. In addition to these 52 options, the
+Stakeholders also identified numerous other potentially fruitful areas for Rhode Island to
+track and study for possible future inclusion in the Plan.
+Figure ES2: RI GHG Emissions Scenarios Compared to Governors’/Premiers’ Target
+Baseline
+
+Million Tonnes Carbon Equivalent
+
+4.0
+
+Consensus
+
+Consensus + NonConsensus
+
+3.5
+
+Governors'/Premiers'
+Target
+3.0
+In State Consensus +
+Federal/Regional
+Consensus + NonConsensus +
+Federal/Regional
+
+2.5
+
+2.0
+1990
+
+2000
+
+Saved
+Carbon
+110
+
+2010
+
+6
+
+2020
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+As can be seen in Figure ES2 above, substantial carbon savings can be attained if these options are
+implemented. The In-State Consensus options are projected to almost meet the 2020 target of the
+Governors and Premiers. The In-State options as a whole (Consensus plus Non-Consensus) could
+meet the 2020 target. With national and regional options added the target could be exceeded with or
+without the non-consensus In-State options. Moreover, the sharp downward trend approaching the
+year 2020 indicates that continuation of these options would have additional reductions in the
+following years. We assume that elements of the policy portfolios will begin to be implemented in
+2003.
+The modeling effort also shows that these carbon savings can be achieved while producing
+substantial cumulative net economic benefits to Rhode Island. For example, implementing all the instate options could be accomplished at a cumulative net economic benefit of over $700 million. This
+occurs largely because many of the options identified in this Plan also save energy and those savings
+exceed capital and operation and maintenance costs for the energy saving technologies and practices.
+There are also savings due to reductions in other air pollutants.
+The Stakeholders agree that some of the in-state options identified in the Plan could and should be
+replaced by a combination of regional, national, and trading options when they are both timely and
+more cost-effective than in-state activities. To this end, Rhode Island needs to continue to monitor
+new technologies as well as programs and policies adopted by other jurisdictions to identify
+opportunities to improve Rhode Island’s in-state GHG reduction programs and policies. The Rhode
+Island GHG Plan should be reviewed every 3-5 years to ensure that it is appropriate and achievable,
+and reflects the best technologies and program/policy designs, as well as the right mix of local,
+regional and national initiatives, and to adjust its targets and Plan accordingly. Because there will be
+an on-going need to coordinate among a wide range of entities including state agencies, local
+government, the Legislature, businesses, and citizens, Rhode Island should consider having one
+entity such as a state agency serve in a shepherding (i.e., coordinating and tracking) role.
+
+7
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Phase I Rhode Island Greenhouse Gas Action Plan
+Table of Contents
+Executive Summary ...............................................................................................................3
+Table of Contents...................................................................................................................8
+List of Tables and Figures .....................................................................................................9
+I. Introduction and Stakeholder Process Overview ...............................................................10
+II. Rhode Island GHG Reduction Targets .............................................................................12
+III. Recommended Program and Policy Options ...................................................................15
+IV. Impact Analysis and Results ...........................................................................................35
+V. List of Participants in Stakeholder and Working Groups ................................................43
+Appendix A: Ground Rules ...................................................................................................A-2
+Appendix B: New England Governors’ and Eastern Canadian Premiers’
+Regional GHG Reduction Targets .......................................................................A-5
+Appendix C: Climate Change and Rhode Island ...................................................................A-6
+Appendix D: Rhode Island Greenhouse Gas Baseline Scenario:
+Summary Figures and Tables...............................................................................A-10
+Appendix E: Scenario Modeling Methods.............................................................................A-26
+Appendix F: LEAP 2000 Model ............................................................................................A-30
+Appendix G: Detailed Program and Policy Option Descriptions ..........................................A-32
+
+8
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+List of Tables and Figures
+Figure ES1: GHG Baseline Emissions Scenario Compared to Governors’/Premiers’ Target..................................... 4
+Figure ES2: RI GHG Emissions Scenarios Compared to Governors’/Premiers’ Target............................................. 6
+Figure 2a: GHG Emissions of Baseline Scenario Compared to Governors’/Premiers’ Target ................................... 12
+Figure 2b: RI GHG Emissions Scenarios Compared to Governors’/Premiers’ Target ............................................... 13
+Figure 3a: Rhode Island GHG Reduction Option Categories .................................................................................... 15
+Table 3b: Higher Priority Consensus In-State Options ............................................................................................... 17
+Table 3c: Lower Priority Consensus In-State Options ................................................................................................ 18
+Table 3d: Non-Consensus In-State Options ................................................................................................................ 19
+Table 3e: Consensus Regional/National Options (Higher Priority) ............................................................................ 19
+Table 3f: Consensus Priority Study Options ............................................................................................................... 19
+Table 3g: Consensus In-State Options: Prioritized by Saved Carbon ......................................................................... 31
+Table 3h: Non-Consensus State Options ..................................................................................................................... 33
+Table 3i: Consensus Regional/National Options......................................................................................................... 33
+Table 3j: Consensus Priority Study Options................................................................................................................ 33
+Figure 4a: Rhode Island GHG Emissions Scenarios Compared to Governors’/Premiers’ Target .............................. 35
+Table 4b: GHG Emissions from Scenarios.................................................................................................................. 36
+Figure 4c. Contribution of Options to GHG Savings versus Baseline in Scenario: Consensus & Non-Consensus.... 36
+Figure 4d: Contribution of Options to GHG Savings vs. Baseline in 2020 in Scenario: Cons & Non-Cons
+
+37
+
+Figure 4e: Scenario Net Economic Benefits and GHG Savings versus Baseline........................................................ 38
+Figure 4f. Costs and Benefits of Scenarios vs. Baseline ............................................................................................. 39
+Figure 4g.Iimpacts of Options on Emissions of Oxides of Nitrogen (NOx) ............................................................... 39
+Figure 4h.Iimpacts of Options on Emissions of Volatile Organic Compounds (VOCs)............................................. 40
+Figure 4i: PM10 Emissions from Scenarios ................................................................................................................ 41
+Figure4j: SO2 Emissions from Scenarios.................................................................................................................... 41
+Table 5a: Stakeholder Members .................................................................................................................................. 43
+Table 5b: Working Groups ........................................................................................................................................ 44
+
+* Many additional tables and figures are included in the Appendices.
+
+9
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+I. Introduction and Stakeholder Process Overview
+There is a growing international consensus among scientists and policymakers that carbon dioxide
+and other greenhouse gases are warming our planet at a rapid rate. If this trend continues it could
+have severe impacts on human life and the environment. Thus global warming and greenhouse gas
+issues have become a major concern for policymakers and citizens worldwide. Reducing
+greenhouse gases can help reduce global warming -- a major concern for Rhode Islanders because of
+its potential adverse impacts through flooding in coastal areas, saltwater contamination of drinking
+water, extreme weather events, damage to local crops, and other potential adverse Rhode Island
+impacts described by EPA in its publication Climate Change And Rhode Island (See Appendix C).
+In response, the Rhode Island Department of Environmental Management (DEM) and the State
+Energy Office convened stakeholders from business, industry, citizen groups, environmental
+organizations, and other government agencies. The product of their work, this Action Plan,
+developed by a broad Stakeholder group, identifies ways Rhode Island can substantially reduce its
+contribution to greenhouse gas emissions.
+The Rhode Island Greenhouse Gas Process began in the Fall of 2001 with funding from the U.S.
+Environmental Protection Agency, the U.S. Department of Energy, the Institute for Environmental
+Conflict Resolution, and the State of Rhode Island. The state hired Raab Associates, Ltd. to provide
+facilitation and project management services and Tellus Institute to provide consulting and modeling
+services on technical and policy issues. The process has three distinct phases:
+•
+•
+•
+
+Phase I - Stakeholders developed a GHG Action Plan which includes its prioritized a list of
+greenhouse gas reduction options.
+Phase II - In the Fall of 2002, the stakeholders will further research, analyze, and (as warranted)
+design implementation strategies for key high priority program and policy options.
+Phase III Actual program implementation of the highest priority options, and developing
+implementation plans for other options.
+
+In Phase I, Raab Associates assisted DEM and the Energy Office in structuring the process and
+identifying key stakeholders. During the course of Phase I the Stakeholder Steering Committee met
+five times and three Working Groups – 1) Buildings and Facilities; 2) Transportation and Land Use;
+and 3) Energy Supply and Solid Waste - met three times each, for a total of 14 meetings between
+October 2001 and July 2002. (For a full list of participants in each Group please refer to Section V.)
+Tellus Institute used its LEAP 2000 software (See Appendix F) to model energy demand and supply,
+GHG and criteria air pollutant emissions, and cost scenarios for Rhode Island. The process is also
+supported by a dedicated website (http://righg.raabassociates.org) that houses all the relevant
+documents, the schedule, and contact information for the participants. The Stakeholders first
+reviewed the goals, mission and objectives of the process and discussed the forecasted baseline for
+Rhode Island GHG emissions over the planning horizon. The Stakeholders also agreed on Ground
+Rules that would govern the process, including:
+•
+
+Decisions are to be made by consensus, meaning that everyone in the decision-making group
+is at least willing to live with a decision and chose not to dissent.
+
+10
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+•
+•
+•
+
+July 15, 2002
+
+Representatives are responsible for voicing their objections and concerns, and silence or
+absence is considered consent.
+For non-consensus issues, the Stakeholder Group members supporting each alternative
+approach are to be listed under each alternative.
+The Group’s Report at the end of the Phase I and Final Report at the end of Phase II will
+include all areas of consensus, as well as a description of the alternative approaches preferred
+by Group members in areas where consensus is not reached, if any. (For a full copy of the
+Ground Rules, refer to Appendix A)
+
+The Group reviewed a comprehensive list of options for reducing GHG emissions prepared by
+Tellus Institute. Some of these options built on ongoing activities in Rhode Island and some were
+completely new. Tellus described each option, and characterized each by its carbon reductions, costof-saved carbons and criteria pollutant reduction co-benefits. The Stakeholders discussed the criteria
+they would use to prioritize the set of options, including the carbon reductions, cost of saved carbon,
+and co-benefits such as the reduction of other air pollutants.
+The Working Groups convened to identify, flesh-out, and prioritize options in specific areas. Most
+of the Stakeholders participated in at least one Working Group. The Working Groups also included
+other people from the Stakeholder organizations as well as other invited interested individuals. Each
+Working Group began by reviewing a Scoping Paper prepared by Tellus Institute describing options
+to reduce GHG emissions in their particular sectors. For each option, the Scoping Paper presents a
+summary description of the option and it’s potential application in Rhode Island, the impact of the
+option over time, the GHG reductions associated with the option’s impact, and the option’s overall
+costs, savings and co-benefits. Many of the options were iterated over several meetings between the
+Working Groups and the consulting team.
+The Working Groups prioritized the options into four bins: high priority, medium priority, low
+priority, and non-consensus. They reached consensus on the priority of the vast majority of options.
+Each Working Group then drafted a memo for the Stakeholder Group explaining their binning
+decisions along with additional thoughts and concerns regarding specific options.
+The full Stakeholder Group convened in June and July 2002 to review the Working Group
+recommendations and to weave them into a unified and comprehensive GHG Action Plan. The
+Stakeholder Group’s deliberations were supported by GHG modeling runs showing the costs and
+benefits of various portfolios of options. The Phase I Action Plan represents the culmination of the
+Stakeholder Group’s Phase I effort. It includes consensus language on targets for Rhode Island, as
+well as unanimous support for nearly 50 different options. Only 3 options remain as non-consensus
+items.
+Section II includes the Stakeholders’ recommendations on greenhouse gas targets for Rhode Island.
+Section III contains the 52 policy and program options to meet these targets, with the cost and
+benefit impacts of these options analyzed in Section IV. Section V lists all the members of the
+Stakeholder and Working Groups, and Section VI is for the signatures of the Stakeholder members.
+The Appendices include the process Ground Rules, the New England Governors’ and Eastern
+Canadian Premiers’ Regional GHG Reduction Targets, an EPA paper outlining the impact of climate
+change on Rhode Island, the baseline RI GHG scenario, scenario modeling methods, information on
+the LEAP 2000 model, and detailed program and policy option descriptions.
+11
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+II. Rhode Island Greenhouse Gas Reduction Targets
+In August of 2001 all the New England Governors and Eastern Canadian Premiers signed a Climate
+Action Plan for New England and Eastern Canada that included the following regional GHG
+reduction targets:
+•
+•
+
+•
+
+Short-term Goal: Reduce regional GHG emissions to 1990 emissions by 2010.
+Mid-term Goal: Reduce regional GHG emissions by at least 10% below 1990 emissions by 2020,
+and establish an iterative five-year process, commencing in 2005, to adjust the goals if necessary and
+set future emissions reduction goals.
+Long-term Goal: Reduce regional GHG emissions sufficiently to eliminate any dangerous threat to
+the climate; current science suggests this will require reductions of 75–85% below current levels
+
+These targets are to be achieved on a regional basis with states and provinces contributing to the
+overall reduction in aggregate but not necessarily in equal measure by each jurisdiction. The full
+text regarding these targets is in Appendix B.
+After careful consideration, the Rhode Island Stakeholder Group accepts the New England
+Governors and Eastern Canadian Premiers’ regional Greenhouse Gas Reduction target of decreasing
+GHG emissions to the 1990 level by 2010 and 10% below 1990 levels by 2020 as a reasonable goal
+for now, on which to base a Rhode Island GHG Action Plan. Thus it would set its proportional share
+of these regional targets as its own targets, i.e., the same percentage reductions below Rhode Island’s
+Baseline emissions path.
+Fig. 2a: Baseline GHG Emissions Compared to Governors’/Premiers’ Target
+
+Million Tonnes Carbon Equivalent
+
+4.0
+
+3.5
+
+Baseline
+Governors' Premieres' Target
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Years
+
+The figure above shows the Baseline path for its GHG emissions and a path for Rhode Island’s
+proportional share of the Governors’ and Premiers’ regional targets, indicating the gap that needs to
+be filled with policies and measures in a comprehensive GHG Action Plan. Since the Baseline
+entails steady growth in GHG emissions over the next twenty years following the growth in the
+1990s, the target of 10 percent below 1990 emissions in 2020 will require that emissions in 2020 be
+about one-third below the level of the Baseline. This presents the challenge of identifying and
+implementing policies and measures to close the gap.
+12
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+The Stakeholder Group examined many GHG reduction options that could be used to meet these
+targets, and concluded that Rhode Island could potentially meet its proportional share of the regional
+targets using only in-state options if need be. This would require launching new statewide
+initiatives and policies as well as expanding existing programs and policies. (These options are
+delineated in the next section of this Plan.) With the Governors’ and Premiers regional targets
+serving to guide Rhode Island’s own targets in this way, the Stakeholders acknowledged that it could
+prove desirable in the future to depart from these targets as more is learned, either by strengthening
+or relaxing them, based upon perceived requirements for climate stabilization co-benefits, and the
+role desired by Rhode Island citizens, the performance and emergence of technologies and policies,
+trading across state boundaries, and enactment of national and regional programs.
+The figure below shows the projected baseline for GHG emissions in Rhode Island; what the
+emissions for Rhode Island would need to be to meet a proportional share of the regional target, plus
+what the emissions could be if certain GHG reductions policies and programs options are
+implemented. Two of these lines show what the emissions would be from just in-state Rhode Island
+actions (the consensus options representing those that all the stakeholders agree should be pursued,
+and the consensus options plus just a few non-consensus options). The last two lines show what the
+emissions could be if a few key regional and national actions are added to the in-state actions.
+Figure 2b: RI GHG Emissions Scenarios Compared to Governors’/Premiers’ Target
+Baseline
+Consensus
+4.0
+Consensus + Non-Consensus
+
+Million Tonnes Carbon Equivalent
+
+Governors'/Premiers' Target
+In State Consensus +
+Federal/Regional
+
+3.5
+
+Consensus + Non-Consensus
++ Federal/Regional
+
+3.0
+
+2.5
+
+2.0
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+It is important to point out that although the Group agrees that this Plan should show how the
+regional proportional share could be met by in-state activities if need be, the Group also agrees that
+13
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+some of these in-state options could and should be replaced by a combination of regional, national,
+and trading options when they are both timely and more cost-effective than in-state activities.
+Also the Group stresses the importance of Rhode Island needing to continue to monitor new
+technologies as well as programs and policies adopted by other jurisdictions to identify opportunities
+to improve Rhode Island’s in-state GHG reduction programs and policies. To this end, the
+Stakeholders agree that the Rhode Island GHG Plan should be reviewed every 3-5 years to ensure
+that it is appropriate and achievable, and reflects the best technologies and program/policy designs,
+as well as the right mix of local, regional and national initiatives, and to adjust its targets and Plan
+accordingly. The Group further notes that the options delineated in the next section would need to
+be coordinated among a wide range of entities including state agencies, local government, the
+Legislature, businesses, and citizens. To this end the Group acknowledges the importance of having
+one entity such as state agency serve in a shepherding (i.e., coordinating and tracking) role.
+The Group also notes that Tellus Institute derived the carbon reduction and other option specific
+numbers in this Plan using a range of data sources from in Rhode Island and elsewhere and these
+were refined through Stakeholder input in the Working Group process. The Group recognizes that
+until actual GHG reduction programs and policies can be designed and implemented in Rhode Island
+many of these numbers will remain as educated placeholders. The actual GHG reduction factors for
+a particular program or policy will depend on numerous factors including the final design and
+successful implementation. Therefore the Group acknowledges that carbon savings as well as other
+costs and benefits associated with a particular option could depart from what is shown in this
+document.
+
+14
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+III.
+
+July 15, 2002
+
+Recommended Program and Policy Options
+
+As shown in Figure 3a below, the Rhode Island Greenhouse Gas Plan includes 52 options. Fortynine of the options are consensus options endorsed by all the Stakeholders. Only three options are
+non-consensus options indicating a split among the Stakeholders on recommendations concerning
+that option. Also, 49 of the options are primarily in-state options, while only three options would
+require regional or national implementation.
+Figure 3a: Rhode Island GHG Reduction Option Categories
+Buildings/
+Facilities
+
+Transportation
+
+Land
+Use
+
+Energy
+Supply
+
+Solid
+Waste
+
+Total
+
+In State
+Higher
+Lower
+Non-Consensus
+Priority Study
+
+17
+5
+2
+
+6
+1
+1
+2
+
+2
+4
+
+1
+4
+
+3
+1
+
+29
+15
+3
+2
+
+Sub-Total
+Regional/ National
+
+24
+1
+
+10
+1
+
+6
+
+5
+1
+
+4
+
+49
+3
+
+Total
+
+25
+
+11
+
+6
+
+6
+
+4
+
+52
+
+The Stakeholders identify 29 of the 49, in-state consensus options as higher priority, 15 as lower
+priority, and 2 for priority research. Of the full set, 25 options are targeted at buildings and facilities,
+11 at transportation, 6 at land use, 6 at energy supply, and 4 at solid waste. In addition to these 52
+options, the Stakeholders also identified numerous other potentially fruitful areas for Rhode Island to
+track and study for possible future inclusion in the Plan.
+It is noteworthy that the options represent a combination of maintaining and expanding existing
+programs and policies, as well as putting into place many new initiatives. A number of the programs
+particularly in the buildings and facilities and energy supply areas, can use systems benefit charge
+(SBC) funds approved by the Legislature as part of electric restructuring legislation, while other
+programs and policies will require new funding sources. The options would also require a wide
+range of different lead actors from the Legislature, state agencies, local governments, businesses,
+and citizens.
+The tables below show each of the options included in this Plan, as follows:
+• Higher priority consensus in-state options
+• Lower priority consensus in-state options
+• Non-consensus in-state options
+• Consensus regional/national options (higher priority)
+• Consensus priority study
+The options are grouped by sector (buildings & facilities, etc) in each table. In addition, the tables
+include the projected potential saved tons of carbon in 2020, the cost for each ton of saved carbon,
+and the co-benefits associated with each ton of saved carbon. Note that negative costs of saved
+carbon and negative co-benefits indicate economic savings. For example, when energy bills are
+reduced over the useful life of installed high efficiency equipment by more than the additional
+15
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+capital and operation and maintenance costs for this improved equipment, the result is a net
+economic savings (negative costs of saved carbon). Similarly, the negative costs of co-benefits
+indicate savings from reducing key air pollutants. The Stakeholders note that all the numbers in
+these tables are being provided by Tellus Institute based on their professional judgment and
+analyses, and that these numbers need to be studied further and refined as appropriate as actual
+programs and policies are designed and implemented in Rhode Island.
+Following the table is a short description of each of the programs, including important consensus
+notes from the Stakeholders regarding certain options. More detailed descriptions of each of the
+options as well as the modeling assumptions for each option are located in Appendix G where the
+options are organized by the option numbers shown in the tables below.
+Following the descriptions of each of the options is another table showing the same options arranged
+in descending order of saved carbon for the in-state consensus and non-consensus options as well as
+for the few regional/national initiatives and the study options. This section of the report ends with a
+list of other areas and issues identified by the Stakeholders for potential future greenhouse gas
+reduction options.
+
+16
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Table 3b: Higher Priority Consensus In-State Options
+#
+
+Name
+
+Buildings and Facilities
+1 Commercial/Industrial Fossil Fuel Retrofit Initiative
+2 Compact Residential Appliances Initiative
+3 Energy Efficiency Targeting Initiative (Industrial)
+4 Combined Heat & Power (CHP) Initiative (Industrial)
+5 Electric Energy Efficiency Retrofit in Non-Residential Buildings
+and Facilities
+6 Efficient Residential Fossil Fuel Heating Initiative
+7 Tax Credits For Energy Efficiency
+8 Combined Heat & Power (CHP) Initiative (Non-Industrial)
+9 Efficient Residential Electric Cooling Initiative
+10 Retrofit Program For Electrically Heated Residences
+11 Retrofit Initiative For Fossil Heated Residences
+12 Electric Equipment Retrofit Program (Small Commercial &
+Industrial)
+13 Public Facilities Efficiency Initiative
+14 Efficient Residential Lighting and Appliances Programs
+15 Efficient Non-Residential Construction
+16 Energy Star Home Construction Program
+17 Use of Lower Carbon Fossil Fuels
+Transportation
+18 Local Fuel Economy Improvements (Feebate) Initiative
+19 Transit Oriented Development And Enhancing Transit Options
+And Operations Initiative5
+20 Bicycle and Pedestrian Infrastructures Initiative
+21 Commuting Efficiency Program
+22 Commuting Trip Reduction Initiative
+23 Government Owned And Private Fleet-Vehicle Efficiency
+Land Use
+24 Urban/Suburban Forestry Program
+25 Open Space Protection Program
+Energy Supply
+26 Renewable Portfolio Standards
+Solid Waste
+27 Resource Management (RM) Contracting Initiative
+28 Pay-As-You-Throw (PAYT) Initiative
+29 State Facilities Renewable Purchase Requirement
+1
+
+Saved
+Carbon1
+
+CSC2
+
+CoBenefits3
+
+100
+80
+40
+35
+30
+
+-200
+-550
+-180
+-70
+-200
+
+-13 to –19
+-43 to –61
+-32 to –46
+-51 to –72
+-51 to –72
+
+25
+15
+15
+10
+9
+6
+5
+
+10
+-150
+-90
+0
+-7
+-7
+-150
+
+-13 to –19
+-32 to –46
+-51 to –72
+-51 to –72
+-51 to –72
+-13 to –19
+-36 to –51
+
+5
+5
+5
+1
+TBD4
+
+-160
+-226
+-200
+0
+TBD
+
+-25 to -36
+-51 to –72
+-36 to –51
+-27 to -38
+TBD
+
+125
+19
+
+-300
+-500
+
+-22 to –32
+-22 to –32
+
+19
+19
+18
+<2.5
+
+-500
+-500
+-500
+-300
+
+-22 to –32
+-22 to –32
+-22 to –32
+-22 to –32
+
+<120
+60
+
+~0
+~0
+
+NSB6
+NSB
+
+140
+70
+55
+0.4
+
+46 & 2307 -30 to -75
+<0
+<0
+250
+
+TBD
+TBD
+-30 to -75
+
+Estimates of thousands of metric tons in 2020
+CSC is cost of saved carbon, which is net costs (costs minus savings) per metric ton carbon equivalent reduced by the
+option.
+3
+Net co-benefits (a savings, thus negative) per metric ton of carbon equivalent reduced by the option.
+4
+This item is TBD because this is a new option that Tellus and the Stakeholders have not analyzed.
+5
+The carbon savings and CSC are based on the TOD option in the Scoping Paper, which does not include additional
+savings and costs associated with transit enhancements.
+6
+NSB is Net Social Benefit, may include economic benefits or costs, but not readily quantifiable
+7
+These numbers represent upper bounds from a national and Massachusetts study respectively. See Appendix G.
+2
+
+17
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Table 3c: Lower Priority Consensus In-State Options
+#
+
+Name
+
+Buildings and Facilities
+30 Compact Floorspace Initiative
+31 Switching From Electricity To Fossil Fuel Heating
+32 Solar Photovoltaic (PV) Buydown Program
+33 Active Solar Hot Water Heating Initiative
+34 Non-Residential Natural Gas Air Conditioning Initiative
+Transportation
+35 Fleet Fuel GHG Content Mandate
+Land Use
+36 Conversion of Marginal Cropland to Forest Initiative
+37 Conversion of Marginal Cropland to Wetlands Initiative
+38 Low Input Agriculture and Improved Cropping Systems
+Initiative
+39 Forest Management Initiative
+Energy Supply
+40 Promote New Renewable Electricity Supply Using System
+Benefit Charge Funds
+41 Promote Green Power Purchases Using System Benefit
+Charge Funds
+42 Incentive Package Initiative
+• Production tax credit
+• Investment tax credit
+• Net metering
+• Backup rates
+43 Direct Government Investments Or Expenditures in
+Renewable Energy
+Solid Waste
+44 Deposit Bottle System (“Bottle Bill”)
+
+8
+
+NEB is Net Economic Benefit, but not readily quantifiable
+
+18
+
+Saved
+Carbon
+
+CSC
+
+CoBenefits
+
+5
+1
+1
+1
+<1
+
+-400
+170
+1200
+1100
+300
+
+-17 to –24
+-40 to –50
+-13 to –19
+-20 to –30
+-40 to -50
+
+40
+
+100
+
+-22 to –32
+
+40
+<1.5
+0.4
+
+25
+25
+2-6
+
+NSB
+NSB
+NSB
+
+NRA
+
+0-40
+
+NEB8
+
+8
+
+250
+
+-30 to -75
+
+13
+
+300
+
+-30 to -75
+
+2
+2
+0.2
+TBD
+0.5
+
+417
+417
+294
+TBD
+
+-30 to -75
+-30 to -75
+-30 to -75
+TBD
+-30 to -75
+
+200
+19
+
+>0
+
+TBD
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Table 3d: Non-Consensus In-State Options
+#
+
+Name
+
+Buildings and Facilities
+45 Upgrade New Residential Construction Building Code
+46 Upgrade New Commercial Construction Building Code
+Transportation and Land Use
+47 Increase The Gasoline Tax
+
+Saved
+Carbon
+
+CSC
+
+CoBenefits
+
+20
+40
+
+-20
+-300
+
+-32 to –47
+-32 to –47
+
+38
+
+0
+
+-22 to –32
+
+Table 3e: Consensus Regional/National Options (Higher Priority)
+#
+
+Name
+
+Buildings and Facilities
+48 Upgrade And Extend Appliance Efficiency Standards
+Transportation
+49 National Fuel Efficiency Standards For Cars And Light
+Trucks (CAFÉ)
+Energy Supply
+50 Carbon (And Multi-Pollutant) Cap And Permit Trade System
+For The Power Sector
+
+Saved
+Carbon
+
+CSC
+
+CoBenefits
+
+100
+
+-50
+
+-51 to –72
+
+250
+
+-300
+
+-22 to –32
+
+140
+
+46, and -30 to -75
+2309
+
+Table 3f: Consensus Priority Study Options
+#
+
+Name
+
+51 Vehicle Miles Traveled (VMT)-Based Insurance Premium
+Structures
+52 Transportation Infrastructure Planning
+• Commuter rail/light rail and its potential electrification
+• Advanced bus rapid transit
+• Barging
+• Carbon impacts of shifting transportation resources from
+new lane miles to preserving, enhancing and better
+integrating the State’s transportation infrastructure
+
+9
+
+Saved
+Carbon
+110
+
+CSC
+<0
+
+CoBenefits
+-22 to –32
+
+TBD
+
+TBD
+
+TBD
+
+The saved carbon target of the Carbon Cap and Trade program is the same as the saved carbon from RPS by design,
+and the cost of implementation is assumed to track the RPS cost by design.
+
+19
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Higher Priority Consensus In-State Options
+Buildings and Facilities
+1. Commercial/Industrial Fossil Fuel Retrofit Initiative
+This new program would target facilities heated with natural gas or oil in order to conserve fossil
+fuel. New sources of funding such as a gas/oil system benefit charge and/or Energy Office resources
+would be needed and could be used to support this program, which could be structured like
+Narragansett Electric Company’s SBC-funded current “Energy Initiative” program for facilities
+heated with electricity. The program would provide education, program marketing and/or contractor
+training as well as financial incentives.
+2. Compact Residential Appliances Initiative
+This initiative would provide outreach and education to encourage households to select the smallest
+appropriate appliances for their service needs thereby reducing energy use and costs.
+3. Energy Efficiency Targeting Initiative (Industrial)
+This initiative would assist industries to set energy efficiency targets for production areas and
+processes using computerized monitoring and targeting systems.
+4. Combined Heat & Power (CHP) Initiative (Industrial)
+This initiative would promote the use of CHP in industry with technical studies, program marketing
+and financial incentives. Possible CHP technologies include combustion turbine (CT) type systems
+and internal combustion engines (ICEs), likely fueled by natural gas.
+The Stakeholder Group unanimously agrees that this should be a higher priority option, and though
+some members felt that rate structure issues were not an impediment to expanded appropriate use of
+Combined Heat & Power, the Group noted that back-up rates will be reviewed by the Public Utility
+Commission in 2004 with an order to follow in 2005.
+5. Electric Energy Efficiency Retrofit in Non-Residential Buildings and Facilities
+Continue Narragansett Electric Company’s SBC-funded program to promote installation of measures
+to save electricity in non-residential buildings and facilities through rebates, financing options and
+technical assistance for qualifying lighting, heating, air conditioning, electric motors and motor
+drive, and other measures.
+6. Efficient Residential Fossil Fuel Heating Initiative
+This new program would promote installation of the highest efficiency natural gas and oil heating
+equipment instead of the standard efficiency equipment that is usually installed in new and
+replacement applications in the State. New sources of funding such as a gas/oil system benefit
+charge and/or Energy Office resources would be needed and would be used to support education,
+program marketing and/or contractor training as well as financial incentives.
+20
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+7. Tax Credits For Energy Efficiency
+This initiative would reinstate and expand energy efficiency tax credits to promote energy efficiency
+in the commercial and residential sectors. If the tax credits were extensive enough to encourage
+substantial energy efficiency investment, the state could slightly increase other relevant taxes to
+offset the revenue lost from the credits.
+8. Combined Heat & Power (CHP) Initiative (Non-Industrial)
+This initiative would promote the use of CHP in non-industrial buildings and facilities through
+technical studies, program marketing and financial incentives. Potential CHP technologies include
+micro-turbines, fuel cells, combustion turbine (CT) type systems and internal combustion engines
+(ICEs) likely fueled by natural gas. Multi-building campuses are especially promising sites for CHP.
+The Stakeholder Group unanimously agrees that this should be a higher priority option, and though
+some members felt that rate structure issues were not an impediment to expanded appropriate use of
+Combined Heat & Power, the Group noted that back-up rates will be reviewed by the Public Utility
+Commission in 2004 with an order to follow in 2005.
+9. Efficient Residential Electric Cooling Initiative
+This new program would provide incentives for efficient home electric cooling, including promoting
+the purchase of high- efficiency units, improved installation and proper equipment sizing. The
+program would use SBC or other public benefit funds for education, program marketing and/or
+contractor training, as well as financial incentives. This option is currently being designed and
+implemented by Narragansett Electric with SBC funds.
+10. Retrofit Program For Electrically Heated Residences
+Continue Narragansett Electric Company’s “Energy Wise” program, which provides energy-use
+audits and surveys and financial assistance for installing weatherization measures in existing homes,
+thereby saving electricity.
+11. Retrofit Initiative For Fossil Heated Residences
+This new program would be targeted to homes heated with natural gas or oil. The program would
+deliver such services as energy audits, information, and financial incentives for cost-effective
+measures that reduce fuel consumption. It could be structured like Narragansett Electric’s “Energy
+Wise” program, which provides funding for education, program marketing and/or contractor training
+as well as financial incentives.
+12. Electric Equipment Retrofit Program (Small Commercial & Industrial)
+Continue Narragansett Electric Company’s SBC-funded retrofit assistance program to increase
+energy efficiency in small commercial & industrial buildings by providing information, interest-free
+financing and rebates for qualifying equipment.
+
+21
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+13. Public Facilities Efficiency Initiative
+This option would expand programs to increase energy efficiency in state and local public facilities
+through such measures as comprehensive retrofitting, best technology in all new construction,
+maximum use of day lighting and lighting controls, and using lower carbon fossil fuels for space
+heat. It could entail legislative or regulatory changes governing leasing and financing by such
+facilities, new resources via expanded energy-related revolving loan funds, and mandated standards.
+14. Efficient Residential Lighting and Appliances Programs
+Continue two programs at Narragansett Electric Company to promote (1) efficient lighting and (2)
+energy-efficient washing machines and other equipment in U.S. EPA’s “Energy Star Appliances”
+programs. These systems benefits charge (SBC) funded programs offer information and rebates
+toward the purchase of the appliances. These programs are currently part of a regional effort
+spearheaded by the Northeast Energy Efficiency Project (NEEP).
+15. Efficient Non-Residential Construction
+Continue Narragansett Electric Company’s SBC-funded program to promote installation of energyefficiency measures, primarily for electricity savings, in new non-residential buildings and those
+undergoing renovation, by combining information, technical assistance, and rebates for qualifying
+measures affecting building shells, HVAC systems, lighting and equipment.
+16. Energy Star Home Construction Program
+Continue and intensify marketing of the US EPA’s Energy Star Homes program, sponsored in
+Rhode Island by Narragansett Electric Company and Pascoag Fire District using SBC funds. The
+program promotes energy efficiency in new house construction (aiming for 30% greater efficiency
+than in Rhode Island’s current Model Energy Code (MEC) by combining a house efficiency rating
+system with rebates for reaching a target rating.
+17. Use of Lower Carbon Fossil Fuels
+This initiative replaced an option titled Switching from Oil to Natural Gas, but the Stakeholder
+Group was strongly divided about the advisability of this switching from oil to natural gas due to a
+lack of clarity regarding the relative GHG impacts of oil and gas heat. The Group agreed that we
+should encourage use of lower carbon fossil fuels (where fossil fuels are in use) when such fuels are
+available and cost effective, and that Rhode Island should continue to look for those opportunities.
+So this new option was created and the Group agreed that it should be a higher priority.
+Transportation
+18. Local Fuel Economy Improvements (Feebate) Initiative
+This initiative would create a fee and rebate (“feebate”) incentive system (through a refinement of
+taxes paid in automobile purchases) for the purchase of new cars and light trucks. Rhode Island
+residents purchasing low efficiency vehicles would pay a higher fee and those purchasing high
+efficiency vehicles would get a rebate. This could be designed to be revenue neutral, thus keeping
+22
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+the overall revenues the same as before. The feebate would need to be adjusted annually to ensure
+stability of revenues, and updated periodically to (1) monitor impacts and adjust the incentive system
+to meet or change the goals, (2) take account of technology changes, and (3) take account of national
+or regional initiatives.
+19. Transit Oriented Development And Enhancing Transit Options And Operations Initiative
+This initiative would combine efforts underway in Rhode Island to integrate land-use zoning and
+transit planning to reduce automobile trips i.e., maximize walkability, easy access to transit, smart
+growth, etc. It would also include improved bus routing and services, better integration with
+community settlement patterns and other transportation modes, and long term incentives and land
+use approaches to guide growth along rail transit routes. The Stakeholder Group acknowledges the
+relationship of transit oriented development and increased non-automobile transit opportunities, and
+recommended studying the creation of more aggressive implementation programs to relieve
+dependence on the automobile and provide greater public transit ridership.
+20. Bicycle and Pedestrian Infrastructures Initiative
+This initiative would build on the State’s Greenspace and Greenways Element of the State Guide
+Plan, the existing bikeways and other efforts throughout the State to: create more bicycle lanes and
+paths, eliminate hazards to cyclists and pedestrians, improve street network connectivity, as well as
+establish pedestrian malls and walkways, through grant programs, incentive systems, zoning and
+regulations.
+21. Commuting Efficiency Program
+This program would build upon existing incentive programs in the State such as car and van pools,
+preferred parking, and park-and-ride lots. It would provide fare reductions (subsidies/vouchers) for
+transit use in commuting and Ride-Home programs for commuters who use alternative modes.
+22. Commuting Trip Reduction Initiative
+This initiative, one of several energy and transportation options included in the State Guide Plan,
+would reduce vehicle use by providing incentives for flex time, telecommuting, telecommunications
+and internet commerce.
+23. Government Owned And Private Fleet-Vehicle Efficiency Initiative
+This initiative would build on Rhode Island’s current state alternative vehicle fuel program to create
+additional programs to optimize efficiency of vehicle use, to encourage government and industry to
+purchase more energy efficient vehicles and/or promote alternate fuel use. Note: the numbers in the
+tables and figures in this document regarding this option include only the impacts from government
+fleets, but the Stakeholder Group agreed that these standards should also be applied to private fleets.
+
+23
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Land Use
+24. Urban/Suburban Forestry Program
+This program would expand programs of the Rhode Island Department of Environmental
+Management, the Rhode Island Tree Council and the Statewide Planning Program to expand tree
+cover and thus achieve energy savings as well as other environmental and aesthetic benefits.
+25. Open Space Protection Program
+This program would expand Rhode Island’s efforts to acquire and preserve open space, reduce
+sprawl and encourage use of existing infrastructure. The Stakeholder Group clarifies that the saved
+carbon estimate for this option assumes the continuation of existing open space protection programs
+or comparable efforts through 2020.
+Energy Supply
+26. Renewable Portfolio Standards
+This initiative would establish a system requiring that a minimum percentage of retail electricity sold
+to Rhode Island consumers come from qualifying renewable resources. Important design features
+include the eligible types (e.g., wind, biomass, solar, hydroelectric, or ocean), vintages and
+geographic location of qualifying renewable generation, and how the percentage requirement
+changes over time (e.g., progressively increasing). The Stakeholder Group agrees that the RPS is an
+important option for consideration. The Group further agrees that the potential rate impacts of the
+RPS need to be looked at and modeled for Rhode Island prior to final endorsement. With this
+clarifying note, all the members of the Stakeholder Group felt that this should be a higher priority
+except for Narragansett Electric, who felt it should be a lower priority.
+Solid Waste
+27. Resource Management (RM) Contracting Initiative
+This initiative would provide support for contractual arrangements between haulers and nonresidential waste generators that cap compensation for garbage hauling and disposal and provide
+profit-sharing to contractors for waste minimization.
+28. Pay-As-You-Throw (PAYT) Initiative
+This initiative would not require state law or regulation. Instead, it would provide education and
+incentives to communities to adopt Pay-As-You-Throw, that would in turn require households to pay
+for waste disposal based on the amount they generate through a fee either for each bag or can of
+waste or based on the weight of their trash, thereby providing an incentive for households to
+generate less waste. It would expand beyond the existing PAYT programs in five Rhode Island
+communities, to widespread implementation by municipalities throughout the State, and would
+recover recycling costs as part of the fee for disposal.
+
+24
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+29. State Facilities Renewable Purchase Requirement
+This option would require state agencies and facilities to buy minimum portions of their electricity
+from renewable resources, by setting deadlines for reaching specific target for renewables as a
+percentage of total electricity consumption.
+
+Lower Priority Consensus In-State Options
+Buildings and Facilities
+30. Compact Floorspace Initiative
+This voluntary initiative would encourage households and businesses to reduce floorspace perresident or per-employee to reduce energy use and costs. The outreach and education program
+would explain the tradeoffs involved in reducing floorspace.
+The Stakeholder Group agreed that this is a lower priority option in spite of its very low projected
+cost of saved carbon because many in the Group questioned the political viability of promoting
+smaller living units.
+31. Switching From Electricity To Fossil Fuel Heating
+This new initiative would promote the switching from electric space heating to natural gas and oil
+heating when cost-effective and would result in reduced overall carbon emissions.
+32. Solar Photovoltaic (PV) Buydown Program
+This involves renewal of the PV/small wind program funded by the SBC, for installation of rooftop
+solar Photovoltaic (PV) systems in buildings and facilities which currently subsidizes the cost by $3
+per watt of installed PV capacity.
+33. Active Solar Hot Water Heating Initiative
+This initiative would create a program to provide funding for education, program marketing and/or
+contractor training, as well as financial incentives for installation of systems that collect and store
+thermal energy from the sun to heat water for residential and small commercial use.
+34. Non-Residential Natural Gas Air Conditioning Initiative
+This natural gas air conditioning initiative would focus on commercial, industrial, and institutional
+applications with favorable economics such as combined replacement of electric cooling and water
+heating. It could be promoted through New England Gas Co.’s DSM program. The program would
+provide funding for education, program marketing and/or contractor training, as well as financial
+incentives.
+
+25
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Transportation
+35. Fleet Fuel GHG Content Mandate
+This initiative would study policies to establish a minimum requirement (perhaps progressively
+stronger over time) to reduce the life-cycle GHG content of vehicle fuels sold in the State. The
+requirement is not-fuel-specific or prescriptive, but could be met in a number of ways such as blends
+(e.g., cellulosic ethanol) and/or alternative fueled vehicles (e.g., natural gas, biodiesel), thereby
+reducing oil consumption and GHG emissions. Among the questions that would require resolution
+are supply availability, the other environmental (e.g., land and water) impacts of the alternatives
+versus gasoline, and the level of the requirement and availability and cost of the options to meet it.
+Land Use
+36. Conversion of Marginal Cropland to Forest Initiative
+This initiative, which is a priority of the Rhode Island Land Acquisition Program, would adapt the
+types of approaches taken by the US Soil Bank and Conservation Reserve Program (CRP) to provide
+incentives to farmers to convert under-utilized or low value cropland to forested land. Incentives
+could include compensation, cost-sharing, and tax treatment.
+37. Conversion of Marginal Cropland to Wetlands Initiative
+This initiative, which is a priority of the Rhode Island Land Acquisition Program, would adapt the
+types of approaches taken by the US Soil Bank and Conservation Reserve Program (CRP) to provide
+incentives to farmers to convert under-utilized or low value cropland to wetlands (new or restored).
+Incentives could include compensation, cost-sharing, and tax treatment. While this would have
+important local ecological benefits, its net GHG impacts are uncertain and need further study, owing
+to the potential releases of methane.
+38. Low Input Agriculture and Improved Cropping Systems Initiative
+This initiative would support such practices as conservation tillage or low-tillage farming, integrated
+pest management, organic farming, and increased use of cover crops, which would increase carbon
+retention and decrease GHG releases (e.g., N2O) from reduced fertilizer use and CO2 from decreased
+diesel use while providing soil and water benefits.
+39. Forest Management Initiative
+This initiative would build upon ongoing Rhode Island Best Management Practice programs. It
+would expand legislative frameworks to increase biomass in existing forests, require prompter
+revegetation of cut areas and restrict harvesting in streamside areas, and establish new forests and
+plantings.
+
+26
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Energy Supply
+40. Promote New Renewable Electricity Supply Using System Benefit Charge Funds
+This would continue the existing or emerging renewable energy programs supported by the SBC
+beyond the current 2012 sunset date. New renewable capacity anywhere in New England would be
+eligible as long as it supplies Rhode Island customers.
+41. Promote Green Power Purchases Using System Benefit Charge Funds
+This would also continue the programs supported by the SBC beyond the 2012 sunset date to
+provide subsidies to Rhode Island customers who buy green power or their suppliers. Green power
+is generated from renewable energy sources, such as wind and solar power, geothermal, and a
+limited set of hydropower and biomass resources
+42. Incentive Package Initiative
+•
+•
+•
+•
+
+production tax credit
+investment tax credit
+net metering
+back-up rates
+
+This initiative would build upon existing Rhode Island programs to provide a package of incentives
+that complement the RPS and SBC, including tax credits and net metering, to promote use of
+renewable technologies. A production tax credit is typically applied to the early years of operation
+of qualifying renewable electric generators, while the investment credit is designed to reduce the
+costs for the purchase, installation, or manufacture of renewable energy systems, equipment, and
+facilities. Tax credits can apply to income, corporate, property, and sales taxes.
+Net metering allows Rhode Island retail customers to use on-site electricity generation from
+renewable resources and fuel cells up to 25 kW to effectively run the meter backwards, reducing the
+usage on which their retail electric bill is calculated. Net metering eligibility could be expanded
+beyond the current 25 kW limit; and the current 1 MW limit on aggregate enrollment could be raised
+or eliminated. Supporting electric rate provisions (e.g., tariffs for back-up electric service) could
+also be changed to address barriers/changes in wholesale, distribution or retail electricity market
+rules.
+The Stakeholder Group recommended implementation of the Incentive Package to provide an
+important infrastructure for renewable energy and distributed generation even though the measures
+themselves don’t provide substantial GHG savings. Any backup rate or net metering proposals
+should evaluate and appropriately address potential adverse rate impacts and lost revenue to the
+utility.
+43. Direct Government Investments Or Expenditures in Renewable Energy
+The State or its municipalities could pay directly to promote renewable projects ranging from
+investment in renewable facilities in Rhode Island (customer-sited or bulk) or using low-cost
+financing to the purchase of renewable energy credits or CO2 emission reduction credits.
+27
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Solid Waste
+44. Deposit Bottle System (“Bottle Bill”)
+A Bottle Bill would require a deposit at the time of purchase for certain bottles which is refunded
+upon return. The Stakeholder Group agreed to put the bottle bill in the low priority bin, assuming
+Pay-As-You-Throw is aggressively implemented. If not, the Group recommended restudying this
+option for potentially moving it up in priority.
+
+Non-Consensus In-State Options
+Buildings and Facilities
+45. Upgrade New Residential Construction Building Code
+46. Upgrade New Commercial Construction Building Code
+The residential code change would consist of promulgating and applying higher energy-efficiency
+standards than are reflected in current state building codes (the 1995 Model Energy Code), as the
+amount of energy consumed in new or substantially renovated buildings is strongly affected by
+building codes. This would be complemented by funding for some mix of education, training for
+contractors and inspectors, and possible financial incentives. The commercial code change would
+consist of promulgating and applying higher energy-efficiency standards than are reflected in current
+state building codes (the ASHRAE 90.1 Standard). This would be complemented by funding for
+education, training for contractors and inspectors, and possible financial incentives.
+The following nine parties feel that these two options should be given higher priority: the
+Conservation Law Foundation, Brown University, Rhode Island DEM, the Sierra Club, RI PIRG,
+Sustainability, NECo, RIPTA, and TEC-RI. The following four parties feel that the two options
+should be given lower priority: RI DPUC, Business Roundtable, the Building Commission, and the
+Economic Development Corporation. The following four parties feel that it is premature to bin the
+two options until further study: the RI Petroleum Institute, the Oil Heat Institute, the New England
+Gas Company, and the Rhode Island Builders Association.
+Transportation and Land Use
+47. Increase The Gasoline Tax
+A policy to increase the gasoline tax by $0.50 per gallon would provide an incentive to purchase
+more fuel-efficient vehicles and to encourage more efficient travel choices. It could be explicitly
+tax-revenue neutral, thus not increasing overall household taxes, via complementary income-tax
+reductions, or it could be implicitly tax-revenue neutral by providing the funding for the rebate
+portion of the feebate system. The Stakeholder Group was unable to reach consensus due to
+significant disagreement about the wisdom and feasibility of a gasoline tax and its relative priority.
+The group discussed several options, including putting it in the higher priority category with clearly
+expressed uncertainty or the lower priority category because of the political and social barriers. The
+Group did agree on a need for more research, analysis and discussion to assess this option, including
+elasticities, neighboring state effects, the advisability of state vs. federal taxes and equity issues.
+28
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Regional/National Consensus Options
+Buildings and Facilities
+48. Upgrade And Extend Appliance Efficiency Standards
+This initiative would support the “Northeast Equipment Standards Project” organized by the
+Northeast Energy Efficiency Partnership (NEEP) for states to propose or adopt energy efficiency
+standards for fifteen types of equipment, which would exceed existing federal efficiency standards or
+apply to equipment not subject to federal efficiency standards. This would be complemented by
+funding for training for contractors and inspectors, and possible financial incentives.
+The Stakeholder Group agrees to categorize this initiative as “higher priority” but to emphasize that
+a focus on regional and federal standards would be a more effective strategy than RI- only
+implementation, which the Group believes is probably impractical.
+Transportation
+49. National Fuel Efficiency Standards For Cars And Light Trucks (CAFÉ)
+With this initiative, Rhode Island’s local and state governments, coordinating with other New
+England State governments, would encourage the US Congress to enact new national corporate
+average fuel efficiency (CAFÉ) standards for automobiles, raising the standards for cars and
+including light trucks (e.g., SUVs) in the same category. This would involve progressive increases
+in mpg in each year’s fleet of new sales, to double the average mpg by 2020 to about 50 mpg. If this
+were achieved it could reduce the level, influence the design, or obviate the need for Rhode Islandspecific fuel-efficiency incentives or standards.
+The Stakeholder Group agreed that the bigger the region covered by CAFÉ standards the better, and
+that the Group’s clear preference is to focus Rhode Island’s efforts on supporting the establishment
+of a more efficient national standard. If establishment of a more efficient national standard isn’t
+immediately forthcoming, however, the Group agreed that RI should look at the viability of a
+regional standard, but that a Rhode Island only standard does not really make sense.
+Energy Supply
+50. Carbon (And Multi-Pollutant) Cap And Permit Trade System For The Power Sector
+These options would be implemented to reduce GHG emissions either directly through a carbon cap
+and trade system, or indirectly through reductions in other pollutants (SO2 and NOx), or both. They
+are best pursued at the national or regional level, but could be applied at the state level in lieu of (or
+as a complement to national or regional system). Currently, various multi-pollutant national
+approaches have been studied and proposed in Congress, and some states have taken this path.
+
+29
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Consensus Priority Study Options
+51. Vehicle Miles Traveled (VMT)-Based Insurance Premium Structures
+Explore the impacts and design of a Pay-As-You-Drive Insurance system in the State, which would
+base all or some portion of annual insurance premiums on vehicle miles traveled (VMT), providing
+incentive to make more efficient travel decisions and thus reduce VMT’s, energy use and emissions
+of GHGs and pollutants. Some have suggested a Pay-At-The-Pump premium tied to gasoline
+purchases, but a more direct way to address VMT (rather than VMT and fuel efficiency together)
+would be odometer-based fee (e.g., at the time of annual registration).
+The Stakeholder Group acknowledges that the idea of VMT-based insurance is potentially
+promising, but the members felt that RI should not be the first to implement such a program. The
+Group agreed to recommend monitoring developments in this area and keep it open as a possibility.
+It also agreed that this program may be more effective regionally.
+52. Transportation Infrastructure Planning
+Study the impact of various transportation infrastructure initiatives, including:
+• commuter rail/light rail and its potential electrification
+• advanced bus rapid transit
+• barging
+• carbon impacts of shifting transportation resources from new lane miles to preserving,
+enhancing and better integrating the State’s transportation infrastructure
+
+30
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Table 3g: Consensus In-State Options (ordered by saved carbon)
+#
+
+Name
+
+26 Renewable Portfolio Standards
+
+Saved
+Carbon
+140
+
+18 Local Fuel Economy Improvements (Feebate) Initiative
+24 Urban/Suburban Forestry Program
+1 Commercial/Industrial Fossil Fuel Retrofit Initiative
+
+125
+<120
+100
+
+CoBenefits
+46, and -30 to -75
+230
+-300 -22 to –32
+~0
+NSB
+-200 -13 to –19
+
+2 Compact Residential Appliances Initiative
+27 Resource Management (RM) Contracting Initiative
+25 Open Space Protection Program
+28 Pay-As-You-Throw (PAYT) Initiative
+35 Fleet Fuel GHG Content Mandate
+36 Conversion of Marginal Cropland to Forest Initiative
+3 Energy Efficiency Targeting Initiative (Industrial)
+4 Combined Heat & Power (CHP) Initiative (Industrial)
+5 Electric Energy Efficiency Retrofit in Non-Residential
+Buildings and Facilities
+6 Efficient Residential Fossil Fuel Heating Initiative
+19 Transit Oriented Development/Enhancing Transit Options &
+Operations Initiative
+44 Deposit Bottle System (“Bottle Bill”)
+20 Bicycle and Pedestrian Infrastructures Initiative
+21 Commuting Efficiency Program
+22 Commuting Trip Reduction Initiative
+7 Tax Credits For Energy Efficiency
+8 Combined Heat & Power (CHP) Initiative (Non-Industrial)
+41 Promote Green Power Purchases Using System Benefit
+Charge Funds
+9 Efficient Residential Electric Cooling Initiative
+10 Retrofit Program For Electrically Heated Residences
+40 Promote New Renewable Electricity Supply Using System
+Benefit Charge
+11 Retrofit Initiative For Fossil Heated Residences
+30 Compact Floorspace Initiative
+12 Electric Equipment Retrofit Program (Small Commercial &
+Industrial)
+13 Public Facilities Efficiency Initiative
+
+80
+70
+60
+55
+40
+40
+40
+35
+30
+
+-550
+<0
+~0
+<0
+100
+25
+-180
+-70
+-200
+
+-43 to –61
+TBD
+NSB
+TBD
+-22 to –32
+NSB
+-32 to –46
+-51 to –72
+-51 to –72
+
+25
+19
+
+10
+-500
+
+-13 to –19
+-22 to –32
+
+19
+19
+19
+18
+15
+15
+13
+
+>0
+-500
+-500
+-500
+-150
+-90
+300
+
+TBD
+-22 to –32
+-22 to –32
+-22 to –32
+-32 to –46
+-51 to –72
+-30 to -75
+
+10
+9
+8
+
+0
+-7
+250
+
+-51 to –72
+-51 to –72
+-30 to -75
+
+6
+5
+5
+
+-7
+-400
+-150
+
+-13 to –19
+-17 to –24
+-36 to –51
+
+5
+
+-160
+
+-25 to -36
+
+31
+
+CSC
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Table 3g: Consensus In-State Options (continued)
+Name
+#
+14 Efficient Residential Lighting and Appliances Programs
+15 Efficient Non-Residential Construction
+23 Government Owned And Private Fleet-Vehicle Efficiency
+Initiative
+42 Incentive Package Initiative
+• Production tax credit
+• Investment tax credit
+• Net metering
+• Backup rates
+37 Conversion of Marginal Cropland to Wetlands Initiative
+16 Energy Star Home Construction Program
+31 Switching From Electricity To Fossil Fuel Heating
+32 Solar Photovoltaic (PV) Buydown Program
+33 Active Solar Hot Water Heating Initiative
+34 Non-Residential Natural Gas Air Conditioning Initiative
+43 Direct Government Investments Or Expenditures in
+Renewable Energy
+38 Low Input Agriculture and Improved Cropping Systems
+Initiative
+29 State Facilities Renewable Purchase Requirement
+39 Forest Management Initiative
+17 Use of Lower Carbon Fossil Fuels
+
+32
+
+Saved
+Carbon
+
+CSC
+
+CoBenefits
+
+5
+5
+<2.5
+
+-226
+-200
+-300
+
+-51 to –72
+-36 to –51
+-22 to –32
+
+2
+2
+0.2
+TBD
+<1.5
+1
+1
+1
+1
+<1
+0.5
+
+417
+417
+294
+TBD
+25
+0
+170
+1200
+1100
+300
+
+-30 to -75
+-30 to -75
+-30 to -75
+TBD
+NSB
+-27 to -38
+-40 to –50
+-13 to –19
+-20 to –30
+-40 to -50
+-30 to -75
+
+0.4
+
+200
+2-6
+
+NSB
+
+0.4
+NRA
+TBD
+
+250
+0-40
+TBD
+
+-30 to -75
+NEB
+TBD
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Table 3h: Non-Consensus State Options
+(ordered by saved carbon)
+#
+Name
+Saved Carbon CSC Co-Benefits
+46 Upgrade New Commercial Construction Building Code
+40
+-300 -32 to –47
+47 Increase The Gasoline Tax
+38
+0
+-22 to –32
+45 Upgrade New Residential Construction Building Code
+20
+-20 -32 to –47
+
+Table 3i: Consensus Regional/National Options
+(ordered by saved carbon)
+#
+
+Name
+
+49 Nat’l Fuel Efficiency Standards for Cars/Light Trucks (CAFÉ)
+50 Carbon (and Multi-Pollutant) Cap & Permit Trade System For
+The Power Sector
+48 Upgrade and Extend Appliance Efficiency Standards
+
+Saved
+Carbon
+250
+140
+100
+
+CSC
+
+CoBenefits
+-300 -22 to –32
+46, and -30 to -75
+23010
+-50 -51 to –72
+
+Table 3j: Consensus Priority Study Options
+
+#
+
+Name
+
+51 Vehicle Miles Traveled (VMT)-Based Insurance Premium
+Structures
+52 Transportation Infrastructure Planning
+• Commuter rail/light rail and its potential electrification
+• Advanced bus rapid transit
+• Barging
+• Carbon impacts of shifting transportation resources from new
+lane miles to preserving, enhancing and better integrating the
+State’s transportation infrastructure
+
+10
+
+Saved
+Carbon
+110
+
+CSC
+<0
+
+CoBenefits
+-22 to –32
+
+TBD
+
+TBD
+
+TBD
+
+The saved carbon target of the Carbon Cap and Trade program is the same as the saved carbon from RPS by design,
+and the cost of implementation is assumed to track the RPS cost by design.
+
+33
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Options to Research and Monitor For Possible Future Plan Inclusion
+The Stakeholder Group agreed the Rhode Island needs to research and monitor several options for
+possible future implementation:
+Energy Supply and Solid Waste
+• Backyard Compost (education)
+• Sludge Reduction Options (research/capital investment)
+• Environmentally Preferable Procurement (EPP) Program (research)
+• Performance-Based Ratemaking, including decoupling utility sales from profit to
+encourage energy efficiency and other public benefits
+• Improving Power Factor and Reducing Line Losses
+Transportation/Land Use
+• Improving the carbon efficiency of ground vehicles (air-side and land-side) at the
+airport
+• Assess the current state of aircraft emissions and RI’s role in influencing it (including
+best management practices)
+• Taxing heavy duty vehicles
+• Reducing emissions from small engines (off-road and utility engines, including
+lawnmowers, boats, snowmobiles, and snowblowers)
+• Location efficient mortgages
+Buildings/Facilities and Transportation/Land Use
+• Biodiesel fuels for both heating and transportation applications
+
+34
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+IV. Impact Analysis and Results
+The In-State Consensus options are projected to almost meet the 2020 target of the Governors and
+Premiers. The In-State options as a whole (Consensus plus Non-Consensus) could meet the 2020
+target. With national and regional options added the target could be exceeded. Moreover, the sharp
+downward trend approaching the year 2020 indicates that continuation of these options would have
+additional reductions in the following years.
+The overall impacts of the three policy scenarios can be reflected in three broad categories – GHG
+reductions, economic costs and savings, and pollutant reduction co-benefits. Tables 4a through 4d
+show various GHG emission reduction scenarios. Tables 4e and 4f show the economic costs and
+benefits. And Tables 4g through 4j show the impacts of each policy on air pollutants.
+For a description of the scenario modeling methods and the LEAP modeling software used to
+produce the graphs in this section, please see Appendices D and E respectively.
+Figure 4a: Rhode Island GHG Emissions Scenarios Compared to Governors’/Premiers’ Target
+
+Baseline
+4.0
+
+Consensus
+
+Million Tonnes Carbon Equivalent
+
+Consensus + Non-Consensus
+Governors'/Premiers' Target
+
+3.5
+
+In State Consensus +
+Federal/Regional
+Consensus + Non-Consensus
++ Federal/Regional
+3.0
+
+2.5
+
+2.0
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Figure 4a shows the GHG emissions trajectory of each of the four policy scenarios, along with the
+Baseline scenario and a path based on the targets for 2010 and 2020 adopted by the New England
+Governors/Canadian Premiers. These values combine emissions from all greenhouse gases from
+end-uses through supplies that are tracked in the LEAP system, including carbon dioxide and
+methane, based on the global warming potential (GWP) of each (in metric tons of carbon
+equivalent).
+35
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Table 4b shows the numerical values for these scenarios for two historic years, 1990 and 1999, and
+for three years spanning our policy scenario time-horizon, 2002, 2010 and 2020. Note that the
+reduction below the Baseline projection for the In-State Consensus plus Non-Consensus options
+reaches about 16 percent (3.1 versus 3.7 million metric tons) by 2010, and about 34 percent (2.7
+versus 4.1 million metric tons) by 2020.
+Table 4b.
+GHG Emisssions from Scenarios
+Million Metric Tons Carbon Equivalent
+1990
+3.0
+
+Baseline
+Consensus
+Consensus + Non-Consensus
+Governors'/Premieres' Target
+In State Consensus + Federal/Regional
+Consensus + Non-Consensus + Federal/Regional
+
+1999
+3.5
+
+2002
+3.6
+3.6
+3.6
+3.6
+3.6
+3.6
+
+2010
+3.7
+3.1
+3.1
+3.0
+3.0
+3.0
+
+2020
+4.1
+2.8
+2.7
+2.7
+2.6
+2.5
+
+Figure 4c shows the In-state Consensus plus Non-Consensus policy scenario broken out into the
+three groups of options studied in the scoping papers. It shows how that scenario is built up
+progressively from options in Buildings and Facilities, Transportation and Land-use and Energy and
+Solid Waste. Note that each group of options contributes substantially to the overall reductions.
+Fig 4c. Contribution of Options to GHG Savings vs. Baseline Scenario: Consensus/Non-Consensus
+
+Baseline
+
+4
+
+Million Tonnes Carbon Equivalent
+
++Buildings & Facilities
+
+3.5
+
++Transport & Land-Use
++Energy Supply and Solid Waste =
+Consensus & Non-Consensus
+
+3
+
+2.5
+
+2
+
+1.5
+
+1
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Years
+
+Figure 4d (see next page) shows the contribution of each individual measure to the total emission
+reductions in 2020 for the In-State Consensus plus Non-Consensus policy scenario. While these
+measure-specific impacts span a range of magnitudes, with the state RPS, vehicle efficiency, and
+industrial efficiency providing the largest reductions, no single measure dominates and all make
+important contributions.
+36
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+July 15, 2002
+
+Figure 4d: Contribution of Options to GHG Savings vs. Baseline in 2020 in Scenario: Consensus & Non-Consensus
+Tax Credits for Energy Efficiency
+1%
+All Others
+Fuel Switch Oil to Gas
+5%
+1%
+Building Shell Retrofits
+
+“All Other” Measures
+State Incentives for Fuel Economy
+9%
+
+1%
+Bottle Bill
+Efficient Heating
+1%
+2%
+Fleet Fuel GHG Content
+3%
+
+VMT-based Insurance
+8%
+
+Increase Gas Tax
+3%
+Compact Appliances
+3%
+Renewable Portfolio Standard
+7%
+
+Convert Cropland to Forestry
+3%
+Elec Eff in Non-Res Facilities
+3%
+
+Design 2000
+Efficient Residential Cooling
+Tax Credits for Energy
+Efficiency
+Retrofit Program
+Efficient Lighting & Appliances
+Compact Floor Space
+Fuel Switching: Electric to Fossil
+Public Facilities Initiative
+Local Govt. Vehicle Fuel
+Efficiency
+Convert Croplands to Wetlands
+Solar Water Heating
+Solar Water Heating
+Low Input Agric
+Energy Star Homes
+Solar PV Cells Program
+Gas Air Conditioning
+
+Industrial Energy Efficiency
+7%
+
+Non Industrial CHP
+3%
+
+Pay as You Throw
+4%
+Fossil Energy Efficiency
+6%
+Open Space Protection
+4%
+Industrial CHP
+4%
+
+Energy
+Supply &
+Solid
+Waste
+18%
+
+Urban & Suburban Forestry
+5%
+
+Upgrade Building Codes
+Transit Oriented Development
+5%
+5%
+Resource Management Contracting
+5%
+
+37
+
+Transport
+& LandUse
+40%
+
+Buildings
+and
+Facilities
+42%
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+Figure 4e shows the cumulative GHG reductions and the cumulative discounted net economic
+benefits (i.e., savings minus costs) through 2020 of each scenario versus the Baseline. Note that
+costs are only assessed through 2020, not through each measure’s entire lifetime. There will
+therefore be additional net savings (and GHG reductions) beyond 2020 for technologies installed
+before 2020 that are still functioning beyond 2020, which are not shown here. Note also that
+the more aggressive scenarios actually yield more economic benefits; this is because each of
+the scenarios have the many options with net savings along with the few (such as the RPS) with
+net costs, and the progression shown here adds sets of options with overall net savings.
+Figure 4e: Scenario Net Economic Benefits and GHG Savings vs. Baseline
+
+1,200
+
+18
+Cumulative GHG Savings
+Cumulative Net Economic Benefit
+
+1,000
+
+14
+800
+
+12
+10
+
+600
+8
+400
+
+6
+
+Million Discounted 1999$
+
+Million Tonnes C Equivalent
+
+16
+
+4
+200
+
+Consensus + NonConsensus +
+Regional/National
+
+Consensus
+
+0
+
+Consensus & NonConsensus
+
+2
+-
+
+Figure 4f shows the net economic savings for each of the three policy scenarios in greater detail.
+Costs are the additional capital and O&M costs of purchasing and using more expensive energy
+efficient equipment. These result mainly from incremental investments in the transport sector
+and in buildings and facilities. Net capital and O&M costs for electric power generation are very
+small since the additional costs of purchasing and operating more expensive renewables are
+balanced by the benefits of the combined cycle natural gas power plants that are avoided because
+of the lower electricity demands owing to greater end-use efficiency in electricity using
+equipment. Benefits are (a) the avoided costs of fuel that no longer needs to be purchased in the
+scenario (compared to the fuel that would have been purchased in the Baseline scenario); (b)
+avoided environmental externality costs due to the lower level of non-greenhouse gas air
+pollutant emissions in the policy scenarios compared to the Baseline scenario. Externalities
+values are based on a review of externality values that have been adopted or proposed by State
+Public Utility Commissions in the U.S. for use in electric power planning.
+38
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+Figure 4f. Costs and Benefits of Scenarios vs. Baseline
+1800
+Million Cumulative Discounted 199$
+
+Avoided Environmental Externalities
+
+1600
+Avoided Transport Fuel Costs
+
+1400
+1200
+
+Avoided Buildings & Facilities Fuel Costs
+
+1000
+
+Avoided Electric Generation Fuel Costs
+
+800
+
+Energy Supply & Solid Waste Capital & O&M
+Costs
+
+600
+
+Buildings & Facilities Capital & O&M Costs
+
+400
+Transport & Land-Use Capital & O&M Costs
+Benefits
+
+200
+0
+
+Costs
+
+-200
+
+Consensus
+
+Consensus + Non
+Consensus
+
+-600
+
+Consensus, NonConsensus +
+Regional/National
+
+-400
+
+Figure 4g shows the impacts of each policy scenario on emissions of oxides of Nitrogen (NOx).
+Nitrogen oxides form when fuel is burned at high temperatures, as in a combustion process. NOx
+is involved in the formation of ground-level ozone, which can trigger serious respiratory
+problems. It reacts to form nitrate particles, acid aerosols, as well as NO2, which also cause
+respiratory problems. It also contributes to formation of acid rain and to nutrient overload that
+lowers water quality. NOx also contributes to atmospheric particles that cause visibility
+impairment most noticeable in national parks, and reacts to form toxic chemicals. It also
+contributes to global warming. (summarized from EPA web site:
+http://www.epa.gov/air/urbanair/nox/index.html)
+Figure 4g. Impacts of Options on Emissions of Oxides of Nitrogen NOx)
+18
+
+Baseline
+
+17
+Consensus
+16
+Thousand Tonnes
+
+15
+
+Consensus + Non
+Consensus
+
+14
+
+Consensus, NonConsensus + Regional/National
+
+13
+12
+11
+10
+9
+8
+2000
+
+2005
+
+2010
+
+2015
+
+Years
+
+39
+
+2020
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+Figure 4h shows the impacts of each policy scenario on emissions of Volatile Organic
+Compounds (VOCs). This pollutant contributes to the production of photochemical smog and to
+ground level ozone, which affects the human respiratory system. High ozone levels can also
+damage crops, forests and wildlife (summarized from “A Guide to Environmental Analysis for
+Energy Planners”: http://www.tellus.org/seib/publications/emanual.pdf
+Figure 4h: Impacts of Options on Emissions of Volatile Organic Compounds (VOCs)
+33
+Baseline
+31
+
+Consensus
+
+Thousand Tonnes
+
+29
+
+Consensus + Non
+Consensus
+Consensus, NonConsensus + Regional/Nat
+
+27
+
+25
+
+23
+
+21
+
+19
+
+17
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Years
+
+Figure 4i shows the impacts of each policy scenario on emissions of Particulate matter. The
+graph focuses on particulate matter of size less than 10 microns in diameter (PM10), but a
+similar effect is expected for particulate matter of smaller sizes (PM2.5). Particulates are
+associated with serious health effects including increased hospital admissions and emergency
+room visits for people with heart and lung disease, and work and school absences. Particulates
+are the major source of haze that reduces visibility in many parts of the United States, including
+National Parks. Particulates settle on soil and water and harm the environment by changing the
+nutrient and chemical balance. They also cause erosion and staining of structures. (Summarized
+from EPA web site: http://www.epa.gov/ebtpages/airairposulfuroxidesso2.html)
+
+40
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+Figure 4i: PM10 Emissions from Scenarios
+2.9
+Baseline
+Consensus
+
+2.7
+
+Consensus + Non
+Consensus
+Thousand Tonnes
+
+2.5
+
+Consensus, NonConsensus + Regional/National
+
+2.3
+
+2.1
+
+1.9
+
+1.7
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Years
+
+Figure 4j shows the impacts of each policy scenario on emissions of Sulfur Dioxide (SO2). This
+pollutant is formed when fuels containing sulfur, such as coal and oil are burned. SO2
+contributes to respiratory illness, particularly in children and the elderly, and aggravates existing
+heart and lung diseases. It contributes to the formation of acid rain, which damages trees, crops,
+historic buildings, and monuments; and makes soils, lakes, and streams acidic. It also
+contributes to the formation of atmospheric particles that cause visibility impairment, most
+noticeably in national parks. (summarized from EPA web site:
+http://www.epa.gov/ebtpages/airairposulfuroxidesso2.html)
+Figure4j: SO2 Emissions from Scenarios
+
+Thousand Tonnes
+
+32
+
+Baseline
+
+30
+
+Consensus
+
+28
+
+Consensus + Non
+Consensus
+Consensus, NonConsensus + Regional/National
+
+26
+
+24
+
+22
+
+20
+
+18
+2000
+
+2005
+
+2010
+
+2015
+
+Years
+
+41
+
+2020
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+References
+Brown University and Rhode Island Department of Environmental Management. 2000. Rhode Island
+Greenhouse Gas Emissions Inventory.
+http://www.brown.edu/Research/EnvStudies_Theses/GHG/index.shtml
+Bureau of Economic Analysis. 2001. Regional Accounts Data. U.S. Department of Commerce.
+http://www.bea.doc.gov/bea/regional/data.htm
+
+Oak Ridge National Laboratory. 2000. Transportation Energy Data Book. Edition 20. http://wwwcta.ornl.gov/data/tedb20/ ORNL-6959 (Edition 20 of ORNL-5198)
+Office of Highway Policy Information, Federal Highway Administration. 1999. Highway Statistics.
+http://www.fhwa.dot.gov/ohim/hs99/index.htm
+United States Environmental Protection Agency. National Air Quality and Emissions
+Trends Report, 1999 http://www.epa.gov/ttn/chief/trends/index.html
+
+Bernow, S. et al., Tellus Institute. 2001. The American Way to the Kyoto Protocol: An
+Economic Analysis to Reduce Carbon Pollution. For World Wildlife Fund.
+Tellus Institute. 2001. LEAP: Long-range Energy Alternatives Planning System. User Guide.
+http://www.tellus.org/seib/leap.
+United States Department of Energy, Energy Information Administration (DOE/EIA). 2001. Annual
+Energy Outlook 2001 With Projections to 2020. http://www.eia.doe.gov/oiaf/aeo/
+Report#:DOE/EIA-0383(2001).
+United States Department of Energy, Energy Information Administration (DOE/EIA). 2000. National
+Energy Modeling System. http://www.eia.doe.gov/oiaf/aeo/overview/index.html
+Report#:DOE/EIA-0581(2000)
+United States Department of Energy, Energy Information Administration (DOE/EIA). 2001. Sate Energy
+Data Report. http://www.eia.doe.gov/emeu/states/main_ri.html
+
+42
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+
+V. List of Participants in Stakeholder and Working Groups
+
+Table 5a: Stakeholder Members
+
+Associated Builders and Contractors, Robert Boiselle
+Audubon Society of Rhode Island, Eugenia Marks
+Brown University, Harold Ward
+Business Roundtable, Gary Ezovski
+Conservation Law Foundation, Richard Kennelly
+Department of Administration, Bill Ferguson
+Narragansett Electric, Kate Ringe-Welch
+National Federation of Independent Businesses, Terrence Martiesian
+New England Gas Company, Marc Viera
+Northern Rhode Island Chamber of Commerce, Jason Martiesian
+Oil Heat Institute, Peter Lombardi
+Providence Chamber of Commerce, Janet Raymond
+RI Builder's Association, Roger Warren
+RI Department of Environmental Management, Jan Reitsma
+RI Department of Transportation, Diane Badorek
+RI Economic Development Corporation, Mike Walker
+RI League of Cities and Towns, Jennifer Perkins
+RI Petroleum Institute, Lenette Boiselle
+RI Public Interest Research Group, Kate Strouse
+RI Public Transit Authority, Mark Therrien
+RI Public Utilities Division, Doug Hartley
+RI Society of Environmental Professionals, Richard Austin
+RI State Energy Office, Janice McClanaghan
+RI Statewide Planning, John O'Brien
+Save The Bay, Topher Hamblett
+Sierra Club, Alicia Karpick
+Sustainability Coalition, Bradley Hyson
+The Energy Council of Rhode Island, Roger Buck
+Ex Officio (non-voting) Stakeholder Members
+
+Governor's Policy Office, Janis Loiselle
+RI Senate, Policy Office, Kenneth Payne
+RI House, Policy Office, Gary Ciminero
+US EPA (ex officio), Norm Willard/ Bill White/ Elissa Tonkin
+US DOE (ex officio), Lois Pasquerella
+
+43
+
+
+
+Rhode Island Greenhouse Gas Action Plan
+Table 5b: Working Groups
+Energy Supply and Solid Waste
+
+Buildings and Facilities
+
+Brown University, Harold Ward
+Env. Science Services, Inc, Jan Greenwood
+Lincoln Environmental/Biz RTB, Brenda Pope
+Narragansett Electric Co., Kate Ringe-Welch
+New England Gas Company, Gary Beland
+People’s Power and Light, Erich Stephens
+RI PIRG, Kate Strouse
+RI DPUC, Doug Hartley
+RI Resource Recovery Corp, Dante Ionata
+RI Society of Env. Prof., Richard Austin
+RI State Energy Office, Janice McClanaghan
+RIDEM - Str. Planning & Policy, Janet Keller
+RI State Energy Office, Julie Capobianco
+Statewide Planning, Bruce Vild
+Sustainability Coalition, Bradley Hyson
+The Energy Council of RI, Roger Buck
+URI's Energy Center, Vin Rose
+US Navy, Jim Carlson
+
+Associated Builders/Contractors, Robert Boiselle
+Brown University, Kurt Teichert
+Conservation Services Group, Ned Reynolds
+Lincoln Environmental/Biz RTB, Gary Ezovski
+Natl. Federation of Ind. Biz, Terrance Martiesian
+Narragansett Electric Company, Dave Jacobson
+New England Gas Company, Diane Geaber
+Oil Heat Institute, John Batey
+Oil Heat Institute, Peter Lombardi
+Pawtucket Pub. Works Director, Jack Carney
+People’s Power and Light, Erich Stephens
+RI Builders Association, Roger Warren
+RI DOA Building Code, Stuart Cowen
+RI DPUC, Al Contente
+RI State Energy Office, Janice McClanaghan
+RI State Energy Office, Tim Howe
+RIDEM-Air Resources, Tom Barry
+Sustainability Coalition, Bradley Hyson
+The Energy Council of RI, Roger Buck
+US DOE, Lois Pasquerella
+Weil-McLain, John Brady
+
+Transportation and Land Use
+AAA Public Affairs, Bob Murray
+Alliance Environmental Group, Michael Geisser
+APA, Clark Collins
+Aquidneck Is. Planning Comm, Kelly Woodward
+Brown University, Harold Ward
+Dept. of Adminstration, Bill Ferguson
+East Coast Greenway Alliance, Sue Barker
+New England Gas Company, Dave Moniz
+Northeast Sustainable Energy Assn., Karina Lutz
+RI Airport Corporation, Jim Zisiades
+RI Builders Assn., Roger Warren
+RI Dept. of Transportation, Diane Badorek
+RI Petroleum Institute, Lenette Boiselle
+RI State Energy Office, Janice McClanaghan
+RIDEM- Air Resources, Steve Majkut
+RI Public Transportation Authority, Rachel Ede
+Save The Bay, Topher Hamblett
+Sierra Club Transportation Chair, Barry Schiller
+Sierra Club, Alicia Karpick
+Statewide Planning, George Johnson
+URI Comm. Planning/LS Arch., Rob Thompson
+URI/RISea Grant/CRC, Jennifer McCann
+
+44
+
+

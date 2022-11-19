@@ -1,0 +1,4448 @@
+Report of the
+Illinois Climate Change
+Advisory Group
+
+Submitted to
+Governor Rod R. Blagojevich
+
+
+
+
+
+Cover Photos: (top, left to right) methane power generation at central Illinois landfill; Chicago expressway; central
+Illinois wind energy farm (bottom, left to right) methane digester at dairy farm in northern Illinois; power plant in
+central Illinois; compact fluorescent bulbs on sale in Illinois hardware store.
+
+Illinois Climate Change Advisory Group Members
+Director Doug Scott, Chair of Task Force
+Illinois Environmental Protection Agency
+
+John Johnson
+Business Agent
+Illinois Brotherhood of Electrical Workers, Local 51
+
+Patrick Quinn
+Lieutenant Governor
+State of Illinois
+
+Sadhu Johnston
+Commissioner, Department of Environment
+City of Chicago
+
+Michael Carrigan, Vice Chair of Task Force
+President
+Illinois AFL-CIO
+
+David Kolata
+Executive Director
+Citizens Utility Board
+
+Art Gibson, Vice Chair of Task Force
+Senior Vice President, Baxter Healthcare
+
+Al Larson
+Village President
+Village of Schaumburg
+
+Howard Learner, Vice Chair of Task Force
+Executive Director
+Environmental Law & Policy Center
+
+Paula Lawson
+President
+League of Women Voters of Illinois
+
+Gary Butler
+United Mine Workers of America
+
+Ann McCabe
+Union of Concerned Scientists
+
+Reverend Clare Butterfield
+Executive Director
+Faith in Place
+Mark Calmes
+Vice President, Environmental Office of Compliance & Ethics
+Archer Daniels Midland Company
+Mary Culler
+Government Affairs
+Ford Motor Company
+
+Doug McFarlan
+Vice-President Public Affairs
+Midwest Generation
+Keith McFarland
+Vice President Midwest Fleet Operations
+Dynegy, Inc
+William McNary
+Co-Executive Director
+Citizen Action of Illinois
+
+Jack Darin
+Illinois State Director
+Sierra Club-Illinois Chapter
+
+Stefan Noe
+President
+Midwest Wind Energy
+
+John Disharoon
+Director of Sustainable Development
+Caterpillar, Inc.
+
+Paul Pike
+Strategic Analyst
+Ameren
+
+Dr. Samuel Dorevitch
+Research Assistant, Professor, School of Public Health
+University of Illinois - Chicago
+
+Lois Vitt Sale
+Principal, Phoenix Architects, Inc.
+US Green Building Council
+
+Amanda Espitia
+Illinois League of Conservation Voters
+
+Michael Schlesinger
+Professor, Atmospheric Sciences
+University of Illinois - Urbana/Champaign
+
+William Gerwing
+General Manager, Regulatory Affairs
+BP America Inc.
+Henry Henderson
+National Resource Defense Council
+
+Steve Schlickman
+Executive Director
+Regional Transportation Authority
+
+James J. Jerozal Jr.
+General Manager, Environmental Health & Safety
+NICOR
+
+William Schubert
+Vice President Operations Support
+Waste Management
+
+i
+
+
+
+Craig Sieben
+President
+Sieben Energy Associates
+
+James T. Volanski, P.E.
+General Manager, Environmental Affairs
+US Steel
+
+Rebecca Stanfield
+Executive Director
+Environment Illinois
+
+Susan M. Watkins
+Vice President
+State Farm
+
+Joe Szabo
+Illinois State Director
+United Transportation Union
+
+Scott Wiseman
+Vice-President Midwest Region
+Center for Energy & Economic Development
+
+John Thompson
+Director, Coal Transport Project
+Clean Air Task Force
+
+Laurie Zelnio
+Director, Safety, Environment Standards & E-PDP
+Deere & Company
+
+ii
+
+
+
+TABLE OF CONTENTS
+
+Page Number
+Section I.
+
+Executive Summary
+
+1
+
+Section II.
+
+Governor Blagojevich’s Global Warming Initiative
+
+9
+
+Section III.
+
+Overview of the ICCAG Process
+
+11
+
+Section IV.
+
+Illinois Greenhouse Gas Inventory and Projections to 2020
+
+15
+
+Section V.
+
+Evaluation of Greenhouse Gas Reduction Strategies
+
+22
+
+Section VI.
+
+Emissions and Economic Impact Modeling
+
+26
+
+Section VII.
+
+Strategies Recommended by the Advisory Group
+
+42
+
+Section VIII.
+
+Concluding Remarks
+
+56
+
+Section IX.
+
+Key Developments Since the ICCAG Made Its Recommendations
+
+57
+
+Appendices, Volume 1
+A. Governor Blagojevich’s Executive Order
+B. Governor Blagojevich’s GHG Reduction Goals
+C. WRI GHG Emissions Inventory and Documentation
+D. WRI Policy Options Spreadsheet
+E. ICCAG Priority Options Voting Results
+F. Complete Text of Approved Strategies
+G. Illinois EPA’s Response to Comments about the ICCAG Process
+H. ICFI Modeling Assumptions Book
+I. ICFI Modeling Results
+
+Appendices, Volume 2
+A. Written Comments from ICCAG Members and Interested Parties
+
+iii
+
+
+
+
+
+SECTION I. EXECUTIVE SUMMARY
+
+Background
+On October 5, 2006, Governor Blagojevich launched his Global Warming Initiative by signing an
+Executive Order (EO) that created the Illinois Climate Change Advisory Group (ICCAG). See
+Appendix A for a copy of the EO. The Advisory Group was chaired by Doug Scott, Director of the
+Illinois Environmental Protection Agency (Illinois EPA), and included 39 other members
+representing local government; labor unions; public transit; scientists; environmental, consumers,
+and faith-based groups; and the following industries: agriculture, utilities, power generators, auto
+manufacturing, farm and construction equipment, oil, insurance, and waste management. Three vice
+chairs were also appointed to help guide the process: Michael Carrigan, AFL-CIO; Arthur Gibson,
+Baxter Healthcare; and Howard Learner, Environmental Law and Policy Center.
+The Governor charged the ICCAG with recommending state-level strategies to meet his statewide
+greenhouse gas (GHG) reduction goals, which are similar to goals set by other states and those
+proposed in Congress: (a) 1990 levels by 2020, and (b) 60 percent below 1990 levels by 2050.
+See Appendix B for more information on the Governor’s goals. Scientists believe that GHG
+reductions of this magnitude are needed to avoid significant consequences due to climate change.
+Key Findings
+ICCAG members voted on 24 strategies to reduce greenhouse gas emissions in Illinois. ICF
+International (ICFI), a global energy and environmental consulting firm, was retained to model the
+emissions and economic impacts of different policy scenarios. ICFI’s modeling found that
+implementing the 24 strategies voted on by ICCAG members would meet the Governor’s goal for
+reducing greenhouse gas emissions to 1990 levels by 2020.
+In addition, ICFI’s modeling found that executing all 24 strategies to reduce greenhouse gases
+would benefit the Illinois economy compared to taking no action to address climate change.
+According to ICFI, these economic benefits include cutting average electricity costs by more than 3
+billion dollars per year in 2020 as well as boosting the gross state product (GSP) and personal
+disposable income by billions of dollars while creating tens of thousands of new jobs (see Section
+VI for detailed economic estimates).
+At its July 10 meeting, ICCAG members voted to support nineteen strategies with no dissent and at
+least one abstention. At the September 6 meeting, a majority of voting ICCAG members voted to
+support an additional five strategies, with eight to ten members dissenting and several members
+abstaining. These strategies are listed below in Tables 1 and 2:
+
+1
+
+
+
+Table 1. Nineteen Strategies Supported by ICCAG Members with No Dissent
+Brief Description of Strategy
+
+Subgroup
+
+Implement smart growth initiatives and expansion of mass transit
+
+Transport
+
+Incentives for fuel efficient vehicles
+
+Transport
+
+Low-carbon fuels standard
+
+Transport
+
+Fuel efficiency and/or low carbon fuel requirements for all government vehicles
+
+Transport
+
+Passenger and freight rail upgrades
+
+Transport
+
+Small renewable distributed generation: rules, legislation, incentives
+
+Power/Energy
+
+Energy efficiency standards for appliances and equipment
+
+Power/Energy
+
+Establish residential and commercial energy efficiency construction codes
+beyond international standards; includes government buildings.
+
+Power/Energy
+
+Phase-in of energy efficiency standards for light bulbs
+
+Power/Energy
+
+Energy conservation and efficiency programs for existing state facilities
+
+Power/Energy
+
+Enhanced renewable portfolio standard of 25 percent by 2025
+
+Power/Energy
+
+Enhanced energy efficiency: two percent demand reduction by 2015. No revenue
+cap.
+
+Power/Energy
+
+Programs to encourage forest management, reforestation, tree- and grassplanting
+
+Commercial,
+Industrial,
+Agriculture (CIA)
+
+Energy efficiency incentives, assistance and standards for commercial/industrial
+generators and boilers
+
+CIA
+
+Expand use of no-till farming
+
+CIA
+
+Encourage methane capture from coal mines, landfills, livestock farms and
+wastewater treatment plants.
+
+CIA
+
+Increase traditional recycling diversion rate with municipal goals and by
+stimulating demand for recycled materials
+
+CIA
+
+Land use development offset requirement
+
+CIA
+
+Encourage or require reductions in emissions of high GWP gases (N2O, HFCs,
+PFCs, SF6)
+
+CIA
+
+2
+
+
+
+Table 2. Five Strategies Supported by a Majority of Voting ICCAG Members
+Brief Description of Strategy/Vote
+GHG emissions standards for automobiles
+In favor: 20 Opposed: 8
+Abstaining: 5
+CO2 emissions performance standards for electricity generation or purchases
+electricity (new generation only)
+In favor: 20 Opposed: 8 Abstaining: 2
+Carbon capture & storage (from the outset) portfolio standard of 5 percent.
+Utilities must buy if available.
+In favor: 20 Opposed: 8 Abstaining: 2
+20 percent carbon offset requirements for new fossil fuel power plants
+In favor: 19 Opposed: 8 Abstaining: 3
+Cap and trade program for power generators and relatively large industrial
+sources; preference to link with other states
+In favor: 21 Opposed: 10 Abstaining: 3
+
+Subgroup
+Transport
+
+Power/Energy
+
+Power/Energy
+Cap and Trade
+
+Cap and Trade
+
+Summaries of the ICCAG strategies are provided in Section VII, and complete descriptions are
+included in Appendix F. Written comments from ICCAG members and the public are in Volume 2
+of the Appendices.
+Potential economic impacts were discussed extensively by the ICCAG, and ICFI modeling
+indicated macro-level economic benefits from implementing the 24 strategies compared to taking
+no additional steps to reduce GHG emissions. However, some members voted against these five
+strategies largely due to concerns about potential negative economic and employment impacts in
+specific sectors (i.e., conventional coal-fired electric generation). These dissenting members also
+argued that these strategies should only be implemented at the national level.
+Description of the ICCAG Process
+The ICCAG process was designed to be transparent, inclusive, and collaborative. ICCAG meetings
+and conference calls were open to other stakeholders and the general public, and anyone who
+participated was given the opportunity to raise questions, concerns, and other issues. All major
+decisions regarding policy proposals were vetted through ICCAG subgroups and the full ICCAG.
+All information prepared in support of the process, and any written comments from members and
+non-members, were posted on the Web at www.ilclimatechange.org.
+ICFI was retained to model the emissions and economic impacts of different policy scenarios. ICFI
+is a global energy and environmental consulting firm based in Washington, D.C., with a staff of
+over 1,500 consultants in 20 offices. The firm’s clients include the Canadian government, the US
+federal and state governments, the EU, and several oil and gas producing nations.
+The World Resources Institute (WRI) was retained to assist in the facilitation of ICCAG meetings
+and to provide technical expertise. WRI is a Washington D.C.-based environmental research and
+policy organization, and their climate change experience includes co-authoring the standard for
+measuring and reporting GHG that is used by companies throughout the world. They have provided
+similar assistance to northeastern states, western states, and Wisconsin. WRI prepared an inventory
+of Illinois GHG emissions (1990-2003) and projections for future emissions through 2020 to help
+guide the ICCAG’s development and assessment of policy options to meet the Governor’s goal (see
+Appendix C). A variety of other background documents were also prepared throughout the process
+to better inform ICCAG members.
+3
+
+
+
+WRI developed an initial list of 88 policy options for reducing GHG emissions (see Appendix D)
+that was narrowed down by ICCAG members to 25 through an anonymous, on-line voting process
+(see Appendix E). These 25 policy options were assigned to four subgroups to formulate policy
+proposals that could be modeled for their emissions and economic effects. A fifth subgroup was
+created to oversee the modeling process. The subgroups were chaired by the ICCAG chair and vice
+chairs:
+•
+•
+•
+•
+•
+
+Power and Energy: Chair, Howard Learner, Environmental Law and Policy Center
+Transportation: Chair, Michael Carrigan, AFL-CIO
+Cap and Trade: Chair, Doug Scott, Illinois EPA
+Commercial, Industrial, and Agricultural: Chair, Arthur Gibson, Baxter Healthcare
+Modeling: Chair, Doug Scott, Illinois EPA
+
+Illinois EPA and other state agencies such as the Illinois Department of Commerce and Economic
+Opportunity (DCEO) helped staff the ICCAG process.
+Table 3. Illinois Climate Change Advisory Group Timeline
+Event
+
+Location
+
+Date
+
+Subjects
+
+Meeting 1
+
+Chicago
+
+February 22, 2007
+
+•
+•
+•
+•
+•
+•
+
+Review ICCAG’s mission
+Process overview; ground rules
+IL GHG inventory and forecast
+Overview of Governor’s energy plan
+Introduction of policy options
+Discussion of modeling strategy
+
+Meeting 2
+
+Springfield
+& Chicago
+via video
+conference
+
+April 3, 2007
+
+•
+•
+•
+•
+
+Updates to IL GHG inventory and forecast
+Results of policy option voting
+Formation of subgroups and tasks
+Update on selection of modeling contractor
+
+Meeting 3
+
+Chicago &
+Springfield
+via video
+conference
+
+May 23, 2007
+
+•
+
+Meeting 4
+
+Chicago &
+Springfield
+via video
+conference
+
+July 10, 2007
+
+•
+
+Presentation on the ENERGY 2020 model by ICF
+International
+• Subgroup recommendations for policies to be
+modeled
+• Discussion and action on subgroup
+recommendations
+• Modeling assumptions and the Modeling
+Subgroup’s role
+
+•
+•
+•
+•
+
+Review of modeling results and input by the
+Modeling Subgroup
+Reference case modeling results
+Preliminary policy scenario modeling results
+Discussion of modeled policies
+19 strategies supported by ICCAG members with
+no dissent
+
+4
+
+
+
+Meeting 5
+
+Chicago &
+Springfield
+via video
+conference
+
+September 6, 2007
+
+•
+•
+•
+•
+
+Emissions inventory update
+Review of final reference case modeling results
+Review of final policy scenario modeling results
+Majority of voting ICCAG members supported five
+additional strategies
+
+The subgroups were allowed to add or delete policy options under their consideration as long as
+ICCAG members agreed. After many conference calls and hours of discussions that were open to
+the public, the subgroups recommended 24 policy proposals for modeling (see Section V, Table 8).
+Of the 24 proposals, four were new proposals not in the top 25 list. Two proposals from the top 25
+list were not recommended, and six from this list were combined into three proposals.
+Among the 24 proposals was a market-based “cap and trade” program to reduce GHG emissions
+from fossil fuel power plants and other relatively large emitters. Under a cap and trade program, the
+total pool of emissions are initially limited, or capped, to a set amount that shrinks over time, and
+sources that stay below their allotted emissions can sell emissions “allowances,” or allotments, to
+sources that exceed their allowable limits.
+ICFI developed a detailed forecast of emissions and economic trends under “business as usual”
+conditions through 2020, which is called the reference case. It assumes a continuation of current
+economic trends and the associated GHG emissions and reflects, to the extent possible, recently
+enacted policies and new projects that could affect GHG emissions trends. The reference case
+serves as a point of comparison in analyzing the GHG reductions from strategies included in the
+proposed policy scenarios.
+Because no single strategy alone can achieve the Governor’s goals, ICFI modeled the emissions and
+economic effects of four policy packages (scenarios) recommended by the Modeling Subgroup:
+Scenario #1. All 24 strategies except for cap and trade.
+Scenario #2. All the strategies including an Illinois-only cap and trade program.
+Scenario #3. All the strategies including cap and trade with a link to the Northeast States’
+Regional Greenhouse Gas Initiative (RGGI) cap and trade program.
+Scenario #4. The same as #2, but with an assumption of high oil and gas prices.
+ICFI projects that Illinois GHG emissions will grow to 312 million metric tons of CO2 equivalents*
+(Mt CO2e) by 2020 under the business as usual scenario. In order to meet the Governor’s goal of
+reducing greenhouse gas emissions to 1990 levels (231 Mt CO2e) by 2020, emissions in 2020 would
+need to be 81 Mt CO2e less (312 minus 231) than what ICFI projects for the business as usual
+scenario. Current annual GHG emissions in Illinois are about 276 Mt CO2e, or 45 Mt CO2e, above
+1990 levels. Figure 1 shows the emission trajectories for the reference case and Scenarios #1, #2
+and #3 compared to the goal of achieving 1990 levels by 2020.
+
+* CO2 equivalent provides a standardized unit of measurement to represent various greenhouse gases that have
+different global warming potentials relative to the global warming potential of carbon dioxide, the most prevalent
+greenhouse gas.
+
+5
+
+
+
+By 2020, Illinois GHG emissions are projected to be
+81 million metric tons above 1990 levels.
+
+Figure 1. Illinois GHG Emissions: Reference Case and Three Policy Scenarios**
+350
+Total Emissions in 1990: 231
+Mt CO 2 e (Source: WRI)
+
+300
+
+Total - 312 Mt CO2e
+
+Gap -
+
+81 Mt CO2e
+
+250
+
+Mt CO2e
+
+Target - 231 Mt CO2e
+
+200
+
+Reference Case
+All except Cap & Trade
+
+150
+
+All In with C&T
+All In with C&T & RGGI
+
+100
+
+50
+
+0
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+** Includes reductions achieved inside Illinois (including purchased offsets that are allowed under the cap and
+trade proposals) plus allowances purchased outside Illinois for compliance in-state. Does not include modeled
+direct emissions reductions outside Illinois that would be difficult to verify.
+
+The modeling results (see footnote** above) indicate that Scenario #1 is not a viable option because
+it achieves less than half of the reductions needed to meet the Governor’s 2020 reduction goal of
+231 Mt CO2e in 2020; Scenario #2 meets the goal with 2020 emissions of 227 Mt CO2e. Scenario
+#3 also meets the goal, with 2020 emissions of 229 Mt CO2e if emissions allowances purchased
+from sources in the RGGI states count.
+ICFI’s modeling found that implementing the policy scenarios to reduce greenhouse gases would
+reduce electricity costs and increase employment, GSP and personal disposable income compared to
+the business as usual reference case of not implementing new polices to reduce greenhouse gases.
+For policy Scenario #3, the computer modeling showed the following economic impacts:
+•
+•
+•
+•
+
+Average electricity costs decline for residential, industrial and commercial customers, with
+total savings across all sectors of approximately $1.1 billion in 2010, $2.6 billion in 2015,
+and $3.2 billion in 2020.
+61,000 additional jobs per year in 2020.
+Annual gross state product $7.5 billion higher in 2020.
+Assuming that 85 percent of emissions allowances are auctioned, the cap and trade program
+would likely generate hundreds of millions of dollars per year.
+
+6
+
+
+
+The positive economic outcomes are largely due to policies that would replace imports of coal,
+oil, and natural gas with in-state investments in renewable energy and energy efficiency
+measures. Dollars that would otherwise be exported to out-of-state companies are instead
+invested in Illinois. Although electricity rates would increase modestly due to compliance costs
+for fossil fuel electric power plants, the amount of the rate increases is reduced over time. In
+addition, the rate increases are more than offset by the energy efficiency measures that would
+reduce overall energy costs through energy savings for homes and businesses as noted above.
+The modeling process benefited from oversight by the Modeling Subgroup and significant input
+from ICCAG members and non-members. The ICFI modeling team responded verbally and in
+writing to numerous questions and comments, and they often revised their analyses in response
+to this input. However, some ICCAG participants felt the modeling process was inadequate
+and/or disagreed with some modeling assumptions and/or results. For more information about
+ICCAG modeling, see Section VI and Appendices H and I.
+Because the ICCAG process was open and responsive to members and non-members alike, the
+process was revised on numerous occasions in response to suggestions. However, certain process
+decisions made by Illinois EPA and its advisors, such as the decision to exclude federal policy
+recommendations, were questioned. The Illinois EPA’s response to those concerns is found in
+Appendix G. Written comments from ICCAG members and the public are in Volume 2 of the
+Appendices.
+The ICCAG membership represented diverse interests and perspectives, and the process was
+infused with a spirit of achieving a common goal—the Governor’s emissions reduction goals for
+the state of Illinois. Chairman Scott indicated that additional stakeholder input would be sought
+if the Governor directs agencies to design and implement any of these strategies. In addition,
+given the long-term nature of the climate change challenge, the chair is recommending to the
+Governor that the ICCAG continue to meet periodically.
+Key Developments Since the ICCAG Made Its Recommendations
+Since the ICCAG voted on its recommendations, a number of important actions have been taken
+at the state, regional, and federal levels to mitigate GHG emissions. Some of these actions
+overlap with particular ICCAG recommendations.
+At the state level, the Illinois Power Agency Act (IPAA) of 2007 was signed into law by
+Governor Blagojevich in August of last year. The IPAA includes two provisions that are similar
+to two ICCAG recommendations:
+•
+
+•
+
+Renewable portfolio standard. Beginning in 2008, electric utilities must supply renewable
+energy for two percent of the electricity they provide customers, increasing to 25 percent
+by 2025. The requirements only apply to electricity supplied to residential and small
+commercial customers. The renewable energy requirement is scaled back if electricity
+rates increase more than 0.5 percent per year or two percent total. The ICCAG
+recommendation, which was approved with no dissent does not include spending caps
+and applies to all electricity customers.
+Energy efficiency portfolio standard. Beginning in 2008, electric utilities must achieve a 0.2
+percent energy use reduction through investments in energy saving programs, increasing to
+two percent by 2015. The reduction goals are scaled back if electricity rates increase more
+than 0.5 percent per year or two percent total. The ICCAG recommendation has the same
+
+7
+
+
+
+energy reduction goals but with no spending caps, and the goals also apply to natural gas
+utilities. This recommendation was approved with no dissent.
+At the regional level, Governor Blagojevich signed the Midwestern Greenhouse Gas Reduction
+Accord (the “Accord”) in November 2007 along with the governors of Iowa, Kansas, Michigan,
+Minnesota, and Wisconsin, and the Premier of Manitoba. The Accord states that the participating
+states will develop (a) regional greenhouse reduction goals by the summer of 2008, and (b) a model
+rule for a multi-sector, market-based cap and trade program by November 2008. The Accord will
+largely implement the cap and trade program recommendation approved by a majority of the voting
+ICCAG members. The recommendation calls for links to other states, preferably nearby states,
+because that would create a more efficient, less costly program and would minimize the extent to
+which emissions “leak” from Illinois to other states rather than being eliminated.
+In December 2007, the federal Energy Independence and Security Act (EISA) of 2007 was signed
+into law. The EISA includes four provisions that are similar to four ICCAG recommendations:
+•
+•
+•
+
+Energy efficiency standards for light bulbs. The new EISA standards are virtually identical
+to the ICCAG recommendation that was approved without dissent, although the ICCAG
+approved mercury content standards that are not included in EISA.
+Energy efficiency standards for appliances and equipment. The new EISA standards are very
+similar to the ICCAG recommendation that was approved with no dissent.
+Increased Corporate Average Fuel Efficiency requirements. Increased Corporate Average
+Fuel Efficiency requirements will be phased in, starting in 2010. More fuel efficient vehicles
+emit fewer GHG emissions because they consume less fuel. A majority of voting ICCAG
+members recommended that Illinois adopt and implement state-level GHG emissions limits
+for passenger vehicles based on the California vehicle emissions standards. Under the
+federal Clean Air Act, California is allowed to adopt more stringent vehicle emissions
+requirements with approval from the U.S. Environmental Protection Agency (USEPA), and
+states must choose either the California standards or the federal standards established by
+USEPA. Eleven other states have chosen the California standards. California has more
+stringent vehicle emissions standards for non-methane organic gases (NMOGs, similar to
+volatile organic compounds or VOCs), nitrogen oxides (NOx), particulate matter (PM),
+carbon monoxide (CO), and hazardous air pollutants.
+Neither California nor USEPA currently regulate GHGs from motor vehicles, but California
+had asked for USEPA’s approval to do so. USEPA denied that request late last year.
+California and other states, including Illinois, have challenged USEPA’s decision in court.
+Compared to the new CAFE standards in the EISA, the California standards would reduce
+global warming gases and improve fuel economy three to four years faster and
+approximately 13.1 percent more in the year 2020. (Based on data from: California Air Resources
+Board Addendum to February 25 Technical Assessment, May 8, 2008: Comparison of Greenhouse Gas
+Reductions for the United States and Canada under ARB GHG Regulations and Proposed Federal 2011-2015
+Model Year Fuel Economy Standards.)
+
+•
+
+Low carbon fuels standard. Under EISA, lifecycle carbon emissions for new renewable fuels
+production facilities must be 20 percent below a baseline level. The ICCAG recommended,
+with no dissent, a broader “low carbon fuels standard” that would require transportation fuel
+producers, importers, refiners and blenders to ensure that all transportation fuels sold in
+Illinois have lifecycle carbon emissions that are 10 percent less than current levels by 2020.
+8
+
+
+
+SECTION II: GOVERNOR BLAGOJEVICH’S GLOBAL WARMING INITIATIVE
+
+Formation of the Illinois Climate Change Advisory Group
+On October 5, 2006, Governor Blagojevich launched his Global Warming Initiative by signing an
+EO that created the ICCAG. (See Appendix A for a copy of the EO.) The ICCAG was directed to
+consider the full range of policies and strategies to reduce GHG emissions in Illinois and to make
+recommendations to the Governor. The EO said the ICCAG should have broad representation and
+be chaired by the Director of the Illinois EPA, Doug Scott.
+In addition to the chair, 39 members were selected representing: local government; labor unions;
+public transit; academia; environmental, consumer and faith-based groups. The following industries
+were also represented: agriculture; utilities; power generators; auto manufacturing; farm and
+construction equipment; oil; insurance; and waste management. (See Appendix A for the ICCAG
+membership list.) Three vice chairs were also appointed to help guide the process: Michael
+Carrigan, AFL-CIO; Arthur Gibson, Baxter Healthcare; and Howard Learner, Environmental Law
+and Policy Center.
+Governor’s Greenhouse Gas Reduction Goals
+Before the first ICCAG meeting, Governor Blagojevich announced a statewide goal to reduce GHG
+emissions to 1990 levels by 2020 and 60 percent below 1990 levels by 2050. The Governor charged
+the ICCAG with recommending strategies to meet these GHG reduction goals, which are similar to
+goals set by other states and those proposed in legislation before Congress. Scientists believe that
+global reductions of this magnitude are needed to avoid significant, adverse consequences due to
+climate change.
+Other Elements of the Governor’s Global Warming Initiative
+The Governor has already launched a number of strategies for reducing GHG emissions in order to
+protect the environment and public health, including:
+•
+
+•
+
+•
+
+•
+
+In the summer of 2006, Governor Blagojevich announced an Energy Independence Plan to
+meet the state’s energy needs by investing in wind power and cleaner burning renewable
+fuels that will cut greenhouse gas emissions. The plan also included a proposed pipeline to
+help capture carbon dioxide emissions from new coal gasification plants.
+Recently, the Governor signed into law the IPAA that implements elements of his energy
+plan. For example, the new law requires Illinois utilities to generate or obtain a certain
+percentage of their electricity from renewable energy sources (renewable portfolio standard,
+or RPS). The IPAA also requires utilities to invest more in energy efficiency and demand
+response to meet specific energy saving goals.
+In February 2007, the Governor joined California Governor Arnold Schwarzenegger and
+executives from BP to launch the Energy Biosciences Institute to be based at the University
+of Illinois Urbana/Champaign and the University of California, Berkeley. The $500 million
+effort funded by BP will invest in research on next-generation homegrown biofuels made
+from crops that will cut GHG emissions, boost America’s energy independence, and create
+new markets for Illinois farmers.
+In January 2007, Illinois adopted rules that the Governor introduced to dramatically improve
+air quality and protect public health by slashing mercury, sulfur dioxide, and nitrogen oxide
+9
+
+
+
+•
+•
+
+•
+•
+•
+
+•
+
+•
+
+•
+•
+•
+•
+
+emissions from the three largest coal-fired power plant companies in Illinois—Midwest
+Generation, Ameren, and Dynegy. The agreements include commitments to shut down three
+of the oldest, least efficient boiler units, leading to a reduction of 2.1 million tons of CO2
+annually.
+Illinois has become only the second state in the nation to join the Chicago Climate Exchange
+(CCX). As a CCX member, the state makes a voluntary, but legally binding, commitment to
+reduce GHG emissions from state buildings and vehicle fleets.
+In July 2006, the Governor announced the State of Illinois would power 141 Springfieldbased facilities under his control with clean renewable wind energy purchased from the
+Springfield’s municipal utility company, City Water Light and Power. This is one of the
+largest wind power purchases by any state or local government in the U.S.
+The first two utility-scale wind farms in Illinois became operational during the Blagojevich
+administration, and fifteen more are proposed.
+Illinois played a pivotal role in the creation of The Climate Registry, a collaboration among
+39 states to develop and manage a common greenhouse gas emissions reporting system.
+Illinois EPA Director Doug Scott is Vice Chair of The Climate Registry.
+In early 2006, Illinois launched the Illinois Conservation Climate Initiative (ICCI) in
+partnership with the CCX and the Delta Institute. ICCI offers farmers and other landowners
+the opportunity to earn and sell greenhouse gas emission reduction credits through CCX
+when they use conservation tillage and plant grasses and trees. These practices keep carbon
+in the soil and plants instead of being released as carbon dioxide. Illinois is the first state to
+sponsor such a program. More than 650 landowners have enrolled 127,000 acres.
+The state has taken numerous steps to reduce GHG emissions from its vehicle fleet,
+including reducing the overall number of state vehicles by 11 percent, from 13,635 in 2003
+to 12,100 in 2007; increasing the number of flex fuel vehicles in the state fleet from 1,339 in
+2000 (10 percent of fleet), to 1,944 now (16 percent of fleet); and increasing the use of
+renewable and cleaner burning ethanol and biodiesel in the state fleet. More than one million
+gallons of biofuels have been consumed by state vehicles since April 2004.
+The Governor has approved incentives and programs that helped make Illinois the number
+one consumer of biodiesel in the nation and the state with the second largest number of retail
+gasoline stations that offer 85 percent ethanol fuel (E85). Biodiesel and E85 reduce CO2
+emissions compared to diesel and gasoline.
+In 2006, the Governor signed legislation to limit idling by diesel vehicles in the state’s air
+quality nonattainment areas (metropolitan Chicago and E. St. Louis). This reduces fuel
+consumption and greenhouse gas emissions.
+In 2005, the Governor signed into law energy-efficiency commercial building code
+standards, which reduce electricity demand and the corresponding GHG emissions from
+power plants.
+The Governor introduced open road tolling on the Illinois Toll Highway System, which
+reduces congestion, idling, fuel use, and greenhouse gas emissions.
+The Governor has recently signed three others pieces of legislation that will reduce GHG
+emissions through energy efficiency and renewable energy generation:
+o HB 1384 (P.A. 95-559) State buildings to reduce energy use by 10 percent in 10 years.
+o HB 1460 (P.A. 95-104) State-owned and -leased buildings to have Energy Star lights.
+o SB 680 (P.A. 95-420) Net metering for distributed renewable energy.
+
+10
+
+
+
+SECTION III: OVERVIEW OF THE ICCAG PROCESS
+
+Description of ICCAG Membership and Staffing
+As noted above, the ICCAG was chaired by Doug Scott, Director of the Illinois EPA, and included
+39 other individuals from private sector businesses, environmental groups, non-profit organizations,
+academia, agriculture, local government, and labor unions. Members represented diverse
+stakeholders and interests from throughout the state of Illinois. Members who were not able to
+attend group meetings frequently sent another representative for their organization or business.
+Illinois EPA retained the services of the World Resources Institute (WRI)—a Washington D.C.based environmental research and policy organization—to assist in the facilitation of ICCAG
+meetings and provide technical expertise and general guidance in the formation of policy proposals.
+They have provided similar assistance to northeastern states, western states, and Wisconsin. Dr.
+Jonathan Pershing, Director of WRI’s Climate, Energy, and Pollution program, headed the WRI
+team and facilitated each of the ICCAG’s five general meetings, along with Director Scott. Staff
+from Illinois EPA and other state agencies such as DCEO were also asked to support the
+stakeholder process, providing analytical and logistical support as needed.
+With the input and assistance of WRI, the ICCAG retained the services of the consulting firm ICFI
+to assess the recommended policy packages using the ENERGY 2020 model, a multi-sector energy
+and emissions analytical computer model used in conjunction with the macroeconomic REMI
+model, managed by DCEO staff. This enabled a full-economy assessment of state GHG trends as
+well as the commensurate impacts on the economy (e.g., gross domestic product, personal income,
+and jobs) resulting from the implementation of the proposed suite of climate policies through the
+year 2020. The ENERGY 2020 model was chosen in large part because the ICCAG members
+expressed a preference for a multi-sector model that accounts for the interaction of policies within
+and between sectors. Section VI describes the modeling process.
+Description of the ICCAG Process and Timeline
+The ICCAG process was designed to be transparent, inclusive, and collaborative. ICCAG meetings
+and conference calls were open to other stakeholders and the general public; moreover, anyone who
+participated was given the opportunity to raise questions, concerns, and other issues. All major
+decisions regarding policy proposals were vetted through ICCAG subgroups and the full ICCAG.
+All information prepared in support of the process, and any written comments from member and
+non-members, were posted on the Web at www.ilclimatechange.org.
+At the first ICCAG meeting on February 22, 2007, Chairman Scott presented some ground rules to
+help the ICCAG meet its goal of recommending strategies to achieve the Governor’s GHG
+reduction goals. In particular, some subjects were designated as outside the scope of the process
+and the discussions intended for the meetings, such as the following:
+•
+
+Quality of climate change science. The Governor’s EO on climate change states that “the
+scientific consensus is that increasing emissions of greenhouse gases are causing global
+temperatures to rise at rates that could cause worldwide economic disruption, environmental
+damage and public health crises.” Therefore, the ICCAG process did not assess nor debate
+climate science.
+
+11
+
+
+
+•
+
+•
+
+•
+
+Recommendations for national and international policies. While the Governor supports
+national strategies to reduce GHG emissions, he and other governors around the country are
+taking action to fill the void due to inaction at the federal level. The Governor’s leadership
+on climate change is positioning Illinois to adjust to, and take advantage of, the low carbon
+economy that is on the horizon. Moreover, by pursuing GHG abatement strategies that work
+well in Illinois, the state is better positioned to help shape national strategies that may be
+adopted in the future. Therefore, the process focused on measures that can be implemented
+in Illinois.
+Policies related to vulnerability and adaptation. The Illinois EPA is participating in the
+Chicago Climate Change Task Force, which includes an analysis of vulnerabilities and
+adaptation strategies for the city of Chicago. This analysis has some applicability to the state
+as a whole, and these important issues may be further considered at the state level in another
+forum.
+Research and development. The long-term solutions to climate change will require extensive
+research and development efforts at all levels of government. While such efforts are
+important, the advisory group focused on recommending policy options with predictable
+emissions reduction benefits.
+
+It was also decided that the ICCAG would focus on strategies to meet the Governor’s 2020 goal,
+and that this is the first step towards meeting the 2050 goal. Chairman Scott indicated that he would
+recommend that the ICCAG, or a successor entity, should continue to meet periodically to both
+assess progress toward meeting the Governor’s 2020 GHG reduction goal, and to discuss additional
+strategies that will be needed to meet the Governor’s 2050 goal.
+At the outset of the process, WRI created several documents for the ICCAG to facilitate the
+assessment and selection of policy measures to reduce statewide GHG emissions. These documents
+included an inventory of Illinois GHG emissions based on WRI data (see Section IV and Appendix
+C), along with supplementary analysis regarding the emission profiles of other Midwest states and
+states considered to be major exporters of electricity (like Illinois), as well as a detailed analysis of
+key economic sectors within Illinois.
+Table 4 below shows the ICCAG timeline, from the first meeting in February to the last meeting in
+September. The ICCAG started with a list of 88 policy options (see Appendix D) that was
+winnowed down to 25 for further analysis through an anonymous, online voting process for ICCAG
+members designed by WRI. Four subgroups were created to assess these 25 policy options and to
+ultimately recommend policy proposals to the full ICCAG to be modeled for their emissions and
+economic effects. A fifth subgroup was created to oversee the modeling process. ICCAG members
+and non-members alike were allowed to participate in the subgroups’ calls.
+The ICCAG chair and vice chairs chaired the five subgroups, which were:
+•
+•
+•
+•
+•
+
+Power and Energy: Chair, Howard Learner, Environmental Law and Policy Center
+Transportation: Chair, Michael Carrigan, AFL-CIO
+Cap and Trade: Chair, Doug Scott, Illinois EPA
+Commercial, Industrial, and Agricultural: Chair, Arthur Gibson, Baxter Healthcare
+Modeling: Chair, Doug Scott, Illinois EPA
+
+The subgroups recommended 24 proposals to be modeled, including a market-based cap and trade
+strategy to control emissions from fossil fuel power plants and relatively large commercial and
+industrial sources of GHG emissions. Under a cap and trade program, the total pool of emissions is
+12
+
+
+
+initially capped to a set amount that shrinks over time, and sources that stay below their allotted
+emissions can sell emissions allowances, or allotments, to sources that exceed their allowable limits.
+See Section V, Table 8 for a summary of the subgroup modeling recommendations.
+Table 4: Illinois Climate Change Advisory Group Timeline
+Event
+
+Location
+
+Date
+
+Agenda
+
+Meeting 1
+
+Chicago
+
+February 22, 2007
+
+•
+•
+•
+•
+•
+•
+
+Meeting 2
+
+Springfield &
+Chicago via
+video
+conference
+
+April 3, 2007
+
+•
+
+Meeting 3
+
+Chicago &
+Springfield via
+video
+conference
+
+May 23, 2007
+
+•
+
+Meeting 4
+
+Chicago &
+Springfield via
+video
+conference
+
+July 10, 2007
+
+•
+
+Updates to IL GHG inventory and
+forecast
+• Results of policy option voting
+• Formation of subgroups and tasks
+• Update on selection of modeling
+contractor
+Presentation on the Energy 2020
+model by ICF International
+• Subgroup recommendations for
+policies to be modeled
+• Discussion and action on subgroup
+recommendations
+• Modeling assumptions and the
+Modeling Subgroup’s role
+
+•
+•
+•
+•
+
+Meeting 5
+
+Chicago &
+Springfield via
+video
+conference
+
+September 6, 2007
+
+13
+
+Review ICCAG’s mission
+Process overview; ground rules
+IL GHG inventory and forecast
+Overview of Governor’s energy plan
+Introduction of policy options
+Discussion of modeling strategy
+
+•
+•
+
+Review of modeling results and input
+by the Modeling Subgroup
+Reference case modeling results
+Preliminary policy scenario modeling
+results
+Discussion of modeled policies
+19 strategies supported by ICCAG
+members with no dissent
+
+Emissions inventory update
+Review of final reference case
+modeling results
+• Review of final policy scenario
+modeling results
+• Majority of voting ICCAG members
+supported five additional strategies
+
+
+
+With input from the Modeling Subgroup, ICFI developed a forecast of emissions and economic
+trends under “business as usual” conditions through 2020, which is called the reference case. It
+assumes a continuation of current economic trends and the associated GHG emissions and reflects,
+to the extent possible, recently enacted policies and new projects that could affect GHG emissions
+trends. The reference case serves as a point of comparison in analyzing the GHG reductions from
+strategies included in the proposed policy scenarios developed by the ICCAG. A first iteration of
+the reference case was presented to the full ICCAG at the fourth general meeting on July 10, 2007.
+Four policy scenarios were modeled during the ICCAG process using the ENERGY 2020 and
+REMI models to assess how close each scenario came to meeting the 2020 emissions reduction
+goal, and to assess the economic impacts of each scenario. These policy scenarios included:
+Scenario #1. All 24 strategies except for cap and trade.
+Scenario #2. All the strategies including an Illinois-only cap and trade program.
+Scenario #3. All the strategies including cap and trade with a link to the Northeast States’
+Regional Greenhouse Gas Initiative (RGGI)—a regional cap and trade program.
+Scenario #4. An additional model ‘sensitivity’ run on #2 above was performed that assumes
+higher oil and gas prices (i.e., higher than those suggested by national government
+agencies).
+NOTE: Scenario #3 assumed a link to RGGI, rather than another cap and trade program,
+because it is the only mandatory cap and trade program in the U.S. that is completed and can be
+modeled.
+Preliminary modeling results for the policy scenarios were presented to the full ICCAG membership
+at the July 10, 2007, meeting, and the final results were presented at the last meeting on September
+6, 2007. These results indicated that Scenarios #2, #3, and #4 would meet the Governor’s 2020
+GHG reduction goal, and Scenario #1 would not. Compared to the reference case with no new
+policies to address climate change, the modeling found that all four scenarios would increase
+employment and GSP while decreasing electricity costs. See Section VI for more information about
+the modeling results.
+At its July 10 meeting, ICCAG members voted to support 19 strategies with no dissent and at least
+one abstention. At the September 6 meeting, a majority of voting ICCAG members voted to support
+an additional five strategies with eight to ten members dissenting and several members abstaining.
+Summaries of the strategies supported by ICCAG members are provided in Section VII. Complete
+descriptions of the strategies are included in Appendix F, and written comments from ICCAG
+members and the public are in Volume 2 of the Appendices.
+Because the ICCAG process was open and responsive to members and non-members alike, the
+process was revised on numerous occasions in response to suggestions. However, certain process
+decisions made by Illinois EPA and its advisors, such as the decision to exclude federal policy
+recommendations, were questioned. The Illinois EPA’s response to those concerns is found in
+Appendix G. Written comments from ICCAG members and the public are in Volume 2 of the Appendices.
+
+14
+
+
+
+SECTION IV. ILLINOIS GREENHOUSE GAS INVENTORY
+AND PROJECTIONS TO 2020
+
+To provide the ICCAG with background and baseline data from which to base policy
+recommendations, WRI developed an inventory of GHG emissions in Illinois (1990-2003) and
+projections for future emissions through 2020. The inventory included each of the six major GHGs:
+carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and those referred to as the “F-Gases” –
+hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulfur hexalfuoride (SF6). For the
+purposes of compilation and comparison, emissions were described in terms of CO2e (CO2
+equivalent*), referring to their global warming potential (GWP) relative to CO2.
+All data for 1990-2003, unless otherwise noted, were derived from the U.S. module of WRI’s
+Climate Analysis Indicators Tool (CAIT-US), and projections through 2020 were based on
+historical trends and regional energy consumption growth rates developed by the U.S. Department
+of Energy.
+The inventory and projections document prepared by WRI was originally presented to the full
+ICCAG in February 2007. At that meeting there were several technical comments and questions
+from the group reflecting a desire to have more detailed GHG data in each major sector; to see how
+GHG emissions in Illinois compare with other states; and to better understand how much electricity
+Illinois exports and how this compares to others states. As a result, WRI prepared three addenda to
+the emissions inventory that were presented at the April ICCAG meeting. The original inventory
+document and the three addenda are found in Appendix C.
+Since that time, revised and updated data have been incorporated into CAIT-US. To provide the
+Governor with the most accurate and complete data available, this report presents emissions data
+from CAIT-US version 2.0 (released in June 2007). The following is an overview of the original
+document, incorporating the latest emissions data available. For additional information on the
+emissions inventory, see Appendix C.
+GHG Emissions in Illinois in 2003
+In 2003, the most recent year for which data were available, Illinois produced an estimated 269
+million metric tons of GHGs on a CO2 equivalent basis (MtCO2e), ranking it 7th compared to other
+states, only slightly behind Florida and Indiana. Illinois generated 4.0 percent of total U.S.
+emissions in 2003. For international context, if Illinois were its own country, it would rank as the
+26th largest emitter in the world, slightly ahead of Thailand. See Table 5 below.
+
+*CO2 equivalent provides a standardized unit of measurement to represent various greenhouse gases that have
+different global warming potentials relative to the global warming potential of carbon dioxide, the most prevalent
+greenhouse gas.
+
+15
+
+
+
+Table 5. Top 10 GHG Emitting States
+MtCO2e
+
+% of US
+
+1
+
+Texas
+
+782
+
+11.6%
+
+2
+
+California
+
+453
+
+6.7%
+
+3
+
+Pennsylvania
+
+301
+
+4.5%
+
+4
+
+Ohio
+
+299
+
+4.4%
+
+5
+
+Florida
+
+271
+
+4.0%
+
+6
+
+Indiana
+
+269
+
+4.0%
+
+7
+
+Illinois
+
+268
+
+4.0%
+
+8
+
+New York
+
+244
+
+3.6%
+
+9
+
+Michigan
+
+212
+
+3.1%
+
+10
+
+Louisiana
+
+209
+
+3.1%
+
+Table 6 provides a breakout of emissions data by gas and sector, further illustrated in Figures 2 and
+3.
+Table 6. Illinois GHG Emissions by Gas and Sector – 2003
+1,000 Tons CO2e
+
+CO2
+
+CH4
+
+N2O F-Gases
+
+Total
+
+Electricity Generation
+
+86,365
+
+21
+
+410
+
+86,796
+
+Residential
+
+26,363
+
+155
+
+37
+
+26,556
+
+Commercial
+
+12,641
+
+42
+
+14
+
+12,698
+
+Industrial
+
+39,334
+
+60
+
+95
+
+39,489
+
+Transport
+
+64,677
+
+94
+
+1,414
+
+66,185
+
+Fugitive Emissions
+Industrial Processes
+
+1,878
+
+1,878
+
+8,331
+
+5,103
+
+13,434
+
+Agriculture
+
+2,861 11,773
+
+14,634
+
+Waste
+
+6,085
+
+6,817
+
+Total
+
+237,711
+
+732
+
+11,196 14,477
+
+16
+
+4,852
+
+268,487
+
+CO2 = carbon dioxide
+CH4 = methane
+N2O = nitrous oxide
+HFC = hydrofluorocarbons
+PFCs = perfluorocarbons
+SF6 = sulfur hexafluoride
+
+
+
+Figure 2. Illinois GHG Emissions by Gas
+
+5% 2%
+
+Figure 3. Illinois GHG Emissions by
+Economic Sector
+Electric Generation
+
+CO2
+
+4%
+
+5%
+
+5%
+
+3%
+Transportation
+
+1%
+31%
+
+5%
+
+Industrial
+
+Residential
+
+CH4
+10%
+
+Commercial
+Fugitive Emissions
+
+N2O
+
+Agriculture
+15%
+Industrial Processes
+
+89%
+
+25%
+
+F-Gases
+
+Waste
+
+Broken out by gas, CO2 comprises the largest share of Illinois GHG emissions at 89 percent,
+equivalent to the proportion at the national level. It is also worth noting that N2O comprises a larger
+share of GHG emissions in Illinois than does CH4 owing to the greater prevalence of cultivated
+crops and fertilizer use in Illinois. By sector, electricity generation and transportation account for
+more than half the state’s emissions. Energy-related emissions (electricity generation,
+transportation, industrial, residential, commercial, and fugitive emissions) account for over 85
+percent of Illinois GHG emissions.
+GHG Emissions Trends in Illinois (1990-2003)
+Total GHG emissions in Illinois increased between 1990 and 2003, as they did in all other states. In
+Illinois, GHG emissions increased, in aggregate, by 16.1 percent. By comparison, the national rate
+was 13.9 percent. However, an analysis of trends at the sector level reveals significant differences
+between emissions growth in Illinois and the country as a whole. Table 7 presents emission trends
+in Illinois and the U.S., and Figure 4 presents the annual trends in Illinois emissions by sector
+between 1990 and 2003.
+
+17
+
+
+
+Table 7. Emissions Growth in Illinois vs. U.S.
+Illinois
+
+1990
+
+2003
+
+Growth
+
+Annual Rate
+
+Total (MtCO2Eq)
+
+231.3
+
+268.5
+
+16.1%
+
+1.2%
+
+Electricity Generation
+
+56.9
+
+86.8
+
+52.5%
+
+3.3%
+
+Residential
+
+25.7
+
+26.6
+
+3.3%
+
+0.2%
+
+Commercial
+
+12.6
+
+12.7
+
+1.1%
+
+0.1%
+
+Industrial
+
+45.7
+
+39.5
+
+-13.6%
+
+-1.1%
+
+Transportation
+
+55.9
+
+66.2
+
+18.5%
+
+1.3%
+
+Fugitive Emissions
+
+4.2
+
+1.9
+
+-55.6%
+
+-6.1%
+
+Industrial Processes 1
+
+3.6
+
+13.4
+
+275.8%
+
+10.7%
+
+Agriculture
+
+17.5
+
+14.6
+
+-16.6%
+
+-1.4%
+
+Waste
+
+9.2
+
+6.8
+
+-25.9%
+
+-2.3%
+
+U.S. 2
+
+1990
+
+2003
+
+Growth
+
+Annual Rate
+
+Total (MtCO2Eq)
+
+6,108.9
+
+6,959.1
+
+13.9%
+
+1.0%
+
+Electricity Generation
+
+1,803.6
+
+2,272.2
+
+26.0%
+
+1.8%
+
+Residential
+
+338.0
+
+378.8
+
+12.1%
+
+0.9%
+
+Commercial
+
+222.6
+
+235.8
+
+5.9%
+
+0.4%
+
+Industrial
+
+1,082.2
+
+1,065.4
+
+-1.6%
+
+-0.1%
+
+Transport
+
+1,460.0
+
+1,818.4
+
+24.6%
+
+1.7%
+
+Fugitive Emissions
+
+254.9
+
+217.4
+
+-14.7%
+
+-1.2%
+
+Industrial Processes
+
+301.1
+
+304.1
+
+1.0%
+
+0.1%
+
+Agriculture
+
+439.6
+
+439.1
+
+-0.1%
+
+0.0%
+
+Waste
+
+210.0
+
+194.8
+
+-7.2%
+
+-0.6%
+
+18
+
+1
+
+According to WRI, there
+is a discontinuity in data
+availability for state level
+emissions in the
+Industrial Processes
+sector between 1996 and
+1997. As this sector is the
+major source of F-gases it
+remains in this inventory;
+however, trends in this
+category from 1990-2003
+are hindered by an
+artificial growth in
+emissions, and trend
+values are therefore likely
+lower than those
+presented here.
+
+2
+
+U.S. data are sourced
+from EPA’s Inventory of
+U.S. Greenhouse Gas
+Sources and Sinks: 19902004. Because of
+differences in sector
+definitions and methods
+for assigning GHG
+emissions to economic
+sectors, emissions trends
+for the Residential,
+Commercial and
+Industrial sectors are
+illustrative, but not
+directly comparable to
+those presented for
+Illinois. Only CO2
+emissions from direct
+fossil fuel combustion are
+displayed for the
+Residential, Commercial
+and Industrial sectors,
+thus the sum of U.S.
+sector data does not
+match the actual total
+shown in Table 7.
+
+
+
+Illinois emissions increased steadily between 1990 and 2003, although there were three notable
+periods when emissions declined. Between 1991-1992 and 2001-2002, the U.S. experienced mild
+economic recessions resulting in lower economic output and GHG emissions. Emissions in 2002
+and 2003 did not increased significantly primarily due to a lack of continued growth in electric
+generation emissions in these years. The other instance of a decrease in Illinois emissions occurred
+in 1998, coinciding with a significantly warmer than normal winter that resulted in lower than
+average emissions from the residential and commercial sectors due to a reduced demand for heating
+fuels.
+
+Figure 4. Illinois GHG Emission Trends by Sector: 1990-2003
+300
+
+Million Metric Tons CO2 Eq.
+
+Industrial Processe
+
+250
+
+Fugitive Emissions
+Waste
+
+200
+Commercial
+Residential
+
+150
+
+Agriculture
+
+100
+
+Industrial
+Transportation
+
+50
+
+Electric Generation
+
+19
+90
+19
+91
+19
+92
+19
+93
+19
+94
+19
+95
+19
+96
+19
+97
+19
+98
+19
+99
+20
+00
+20
+01
+20
+02
+20
+03
+
+0
+
+Between 1990 and 2003, electricity generation from nuclear power and coal increased by
+approximately 30 percent and 65 percent, respectively, with total electricity generation increasing
+46 percent over the same time period compared to 28 percent for the U.S. as a whole. See Figure 5
+below. The significant increase in coal-fired generation contributed to the 52.5 percent increase in
+GHG emissions from the electricity sector shown in Table 7 above.
+Electricity generation increased even though no new coal or nuclear capacity was installed over this
+time span; instead, existing nuclear and coal plants increased their generation of electricity. The
+significant growth in electricity generation coincided with Illinois’ adoption of utility deregulation
+in 1997 and the subsequent expansion of Illinois electricity exports. See Figure 6 below. Electricity
+exports have steadily increased, more than doubling since 1990, with the exception of a clear
+decrease in 1997-1998. During this time, a portion of Illinois’ nuclear generation capacity was
+temporarily off-line. This reduced total state electricity generation as well as net electricity exports,
+but not GHG emissions since some of the lost, zero-emitting nuclear generation was made up by
+increased coal generation.
+19
+
+
+
+Figure 5. Illinois Electric Generation by Fuel 1990-2005
+200,000
+180,000
+
+Other
+
+160,000
+
+Hydroelectric
+Conventional
+
+Thousand MWH
+
+140,000
+
+Other Renewables
+
+120,000
+
+Other Gases
+
+100,000
+Petroleum
+80,000
+Natural Gas
+60,000
+Coal
+40,000
+Nuclear
+20,000
+0
+1990
+
+1995
+
+2000
+
+2005
+
+Figure 6. Illinois Electricity Exports 1990-2005
+
+Thousand MWH
+
+60,000
+50,000
+40,000
+Illinois Electricity
+Exports 1990-2005
+
+30,000
+20,000
+10,000
+
+19
+90
+19
+92
+19
+94
+19
+96
+19
+98
+20
+00
+20
+02
+20
+04
+
+0
+
+Source for Figures 5 and 6: Energy Information Administration, Electric Power Annual 2005
+http://www.eia.doe.gov/cneaf/electricity/epa/epa_sprdshts.html; WRI calculations
+
+Emissions from transportation also increased significantly (nearly 19 percent), as vehicle miles
+traveled (VMT) in Illinois increased by 28 percent in the aggregate and 17 percent per capita
+between 1990 and 2003 (an increase in emissions and VMT slightly less than the national trend).
+The decline in industrial emissions was due primarily to fuel switching away from coal and towards
+natural gas as well as increased efficiency as energy use in the sector remained stable through this
+period. Meanwhile, emissions from the agriculture sector decreased 17 percent in Illinois between
+1990 and 2003, compared to an essentially flat rate nationally, due in part to lower methane
+20
+
+
+
+emissions with decreased numbers of livestock, especially cattle and swine.
+It is difficult to attribute the trends in several of the other sectors, such as residential and
+commercial sectors due to seasonal and annual variations in temperature, or the waste sector due to
+population-based emissions estimates.
+Projections of Illinois GHG Emissions (2003-2020)
+To provide a range of possible future emissions trends, WRI presented three emissions forecasts
+through 2020, referred to by WRI as “low,” “best guess,” and “high,” at the first ICCAG meeting in
+February. The projections were based on regional growth rates for energy consumption developed
+by the Energy Information Administration (EIA) (published in the Annual Energy Outlook 2006)
+and historic emission trends for electric power, waste, agriculture, and industrial processes. See
+Appendix C. Some members asked why the emissions forecasts did not extend to 2050 to be
+consistent with the Governor’s 2050 goal. WRI explained that due to difficulties and uncertainties
+around 2050 projections, 2020 projections are more reliable.
+WRI also provided preliminary estimates of emissions reductions from implementing Governor
+Blagojevich’s Energy Independence Plan (EIP). Some ICCAG members thought WRI’s EIP
+estimates were overly optimistic, and they asked for a range of emissions projections based on
+different assumptions around the effectiveness of cellulosic ethanol and integrated gasification
+combined cycle power plants using carbon capture and sequestration (CCS) to reduce emissions.
+This information was provided at the next meeting in April.
+WRI’s projections were simply an early stage range of estimates to give ICCAG members a relative
+sense of Illinois’s future GHG emissions in advance of the modeling by ICFI. The ICFI modeling
+produced a far more detailed and robust forecast of emissions that was ultimately used for decision
+making (see Section VI). At the same time, the information that was assembled at this earlier stage
+of the process ultimately helped inform the modeling by ICFI. See Appendix C for further
+discussion of WRI’s emissions projections.
+
+21
+
+
+
+SECTION V: EVALUATION OF GREENHOUSE GAS REDUCTION STRATEGIES
+
+Developing a List of Policy Options
+Illinois EPA asked WRI to develop a list of state policy options for consideration by the ICCAG
+(see Appendix D). This initial set of options, generated in collaboration with Illinois EPA and other
+Illinois agency staff, included possible GHG reduction strategies for all economic sectors (e.g.,
+electric generation, transportation, industry, agriculture). The list included a total of 88 policy
+options, and was informed by several factors, including:
+•
+•
+•
+•
+•
+•
+•
+
+State and national policy trends.
+Illinois state-level policy considerations.
+Potential impact on GHG emissions.
+Balance among sectors/emissions sources.
+Implementation costs and revenue implications.
+Environmental co-benefits.
+Inclusion in the Illinois EIP.
+
+WRI’s list of policy options was discussed at the first meeting in February. The options were
+presented as brief descriptions, and Chairman Scott decided to narrow the list down to a smaller
+number of priority options that would be fleshed out in greater detail by the subgroups. The chair
+indicated that the group didn’t need to address the strategies that the Governor had already
+endorsed in his EIP. However, the group could recommend additional measures that go beyond
+the Governor’s plan.
+Selecting Priority Policy Options for Further Analysis
+Before beginning to winnow the list down, some ICCAG members thought it was important to get
+additional information about the policy options. WRI and state agency staff compiled qualitative
+and quantitative information regarding the expected GHG emissions reductions and administrative
+costs of the 88 policy options. These data were largely drawn from previously published sources
+and WRI expertise. Although not exhaustive, the initial policy options list provided a foundation for
+the ICCAG to begin policy analysis and formulation.
+Between the first meeting on February 22 and the second meeting on April 3, this information was
+distributed electronically to ICCAG members. The ICCAG then narrowed down this initial list
+through an anonymous, online voting process for ICCAG members designed by WRI. ICCAG
+members were given approximately one week to select 30 strategies for further analysis, and the
+final results were then tabulated by WRI. A presentation and discussion of the voting results
+occurred at the full ICCAG meeting on April 3, 2007. The top 25 policy options that received at
+least 15 votes were selected for further analysis (see Appendix E for the voting results).
+Although there was general satisfaction with the voting procedure, there was an acknowledgment
+by Director Scott that the voting process did not indefinitely remove any particular option from
+further consideration by the group; rather, it was a means to focus the group’s attention on certain
+policy options deemed by the group to be most relevant to meeting the Governor’s goals. Other
+measures could be revisited at any point during the ICCAG process.
+
+22
+
+
+
+Subgroup Formation
+At the April 3 meeting, the ICCAG decided that in the next phase of the process, the top 25 policy
+options would be further developed and analyzed by five independent subgroups: power and energy;
+transportation; commercial, industrial, and agriculture (CIA); cap and trade; and modeling.
+The top 25 policy options were assigned to the first four subgroups listed above to formulate one to
+three page policy proposals that could be modeled for their emissions and economic effects. The
+subgroups were allowed to add or delete policy options under their consideration, but only if there
+were no objections from ICCAG members. This restrictive ground rule was intended to protect the
+integrity of the voting process. The fifth subgroup, Modeling, was created to review the work of the
+modeling contractors.
+Between the April 3 and May 23 general meetings of the ICCAG, each subgroup convened three
+times via teleconference at approximately two-week intervals. The calls were open to the public and
+other observers. Calls were moderated by each of the workgroup chairs. At least one representative
+from WRI participated on all workgroup calls to provide technical guidance and research support.
+Calls typically lasted two to three hours.
+Subgroup Recommendations for Modeling Policy Options
+Initially, WRI, Illinois EPA, and DCEO staff developed a series of preliminary policy proposals for
+each of the 25 policy options. These proposals included a fuller description of each policy option
+and well-documented estimates regarding the expected GHG emission reductions from the
+implementation of a particular policy in isolation. The proposals also identified expected policy
+timetables, duration, and stringencies, and remarked on potential barriers (economic or legal) to
+implementation. These were not intended to be detailed legislative, regulatory or programmatic
+proposals. The objective was to provide a policy framework that could be analyzed by ICFI with the
+ENERGY 2020 model.
+The proposals were iteratively revised as subgroup members offered verbal and written comments,
+provided additional information or data, or made general suggestions for policy design
+improvements during and following each conference call. At the May 23 meeting, the subgroups
+recommended 24 policy proposals for modeling, and these recommendations were approved by the
+full ICCAG. At this point, the ICCAG was not making final decisions to approve strategies.
+However, the modeling results would help inform which strategies were ultimately approved.
+Of the 24 proposals to be modeled, the following four were new proposals added by the subgroups
+that were not among the 25 policy options that received the most votes:
+•
+•
+•
+•
+
+Increase traditional recycling diversion rate with municipal goals and by stimulating demand
+for recycled materials.
+Land use development offset requirement.
+Enhanced renewable portfolio standard.
+Enhanced energy efficiency program.
+
+23
+
+
+
+The recycling and land use strategies arose during subgroup discussions. The renewable energy and
+energy efficiency proposals were not part of the initial vote because the Governor had already
+supported similar strategies as part of his energy plan; however, the ICCAG voted to model more
+aggressive versions of these strategies.
+Two proposals from the top 25 list were not recommended, and six from this list were combined
+into three proposals. Among the 24 proposals to be modeled was a market-based “cap and trade”
+program to reduce GHG emissions from fossil fuel power plants and other relatively large emitters.
+Under a cap and trade program, the total pool of emissions are initially limited, or capped, to a set
+amount that shrinks over time, and sources that stay below their allotted emissions can sell
+emissions “allowances,” or allotments, to sources that exceed their allowable limits. See Table 8
+below for a summary of the approved subgroup modeling recommendations.
+Table 8. Summary of Approved Subgroup Recommendations for Policy Options to be Modeled
+Policy Proposal
+
+Survey
+Votes
+
+Sector
+
+Subgroup
+
+Recommended
+for Modeling?
+
+Implement smart growth initiatives and
+expansion of mass transit
+
+27
+
+Transportation,
+Developers,Local Govt.
+
+Transport
+
+Yes
+
+GHG emission standards for automobiles
+(California standards)
+
+25
+
+Auto Manufacturers, Dealers
+
+Transport
+
+Yes
+
+Incentives for fuel efficient vehicles
+
+23
+
+Auto Manufacturers, Dealers
+
+Transport
+
+Yes
+
+Renewable fuels standard (RFS) and/or
+low-carbon fuels standard
+
+27
+
+Transportation Fuels
+
+Transport
+
+Yes
+
+Fuel efficiency and/or low carbon fuel
+requirements for all government vehicles
+
+15
+
+Government
+
+Transport
+
+Yes
+
+Passenger and freight rail upgrades
+
+15
+
+Rail Transport
+
+Transport
+
+Yes
+
+CO2 emission performance standards for
+new electricity generation; emissions
+portfolio standard for LSEs.
+
+25
+
+Electric
+
+Power/
+Energy
+
+Yes
+
+Small renewable distributed generation:
+rules, legislation, incentives
+
+20
+
+Electric
+
+Power/
+Energy
+
+Yes
+Yes
+
+Energy efficiency standards for
+appliances and equipment
+
+30
+
+Electric
+
+Power/
+Energy
+
+Carbon capture and storage (from the
+outset) portfolio standard
+
+15
+
+Electric
+
+Power/
+Energy
+
+Yes
+
+Establish residential and commercial
+energy efficiency construction codes
+beyond international standards; Energy
+efficiency building codes/standards for
+government buildings.
+
+24
+
+Multi-sector
+
+Power/
+Energy
+
+Yes
+
+Phase-in of energy efficiency standards
+for light bulbs
+
+15
+
+Multi-Sector
+
+Power/
+Energy
+
+Yes
+
+24
+
+
+
+Table 8 (cont’d). Summary of Approved Subgroup Recommendations for Policy Options to be
+Modeled
+Policy Proposal
+
+Survey
+Votes
+
+Sector
+
+Subgroup
+
+Recommended
+for Modeling?
+
+Expand transmission capacity for wind
+power
+
+23
+
+Electric
+
+Power/
+Energy
+
+No
+
+Energy conservation and efficiency
+programs for existing state facilities
+
+19
+
+Government
+
+Power/
+Energy
+
+Yes
+
+Enhanced Renewable portfolio standard
+of 25 percent by 2025
+
+N/A
+
+Electric
+
+Power/
+Energy
+
+Yes
+
+Yes
+
+Enhanced energy efficiency programs
+
+N/A
+
+Multi-sector
+
+Power/
+Energy
+
+Carbon offset requirements for new fossil
+fuel generation
+
+16
+
+Electric
+
+Cap and
+Trade
+
+Yes
+Yes
+
+State-level cap and trade program
+
+18
+
+Multi-sector
+
+Cap and
+Trade
+
+Incentives to reduce nitrogen application
+in crop fertilization
+
+16
+
+Agriculture
+
+CIA
+
+No
+
+Programs to encourage forest
+management, reforestation, tree- and
+grass-planting
+
+21
+
+Agriculture
+Forestry
+
+CIA
+
+Yes
+
+Encourage or require reductions in
+emissions of high GWP gases (N2O,
+HFCs, PFCs, SF6)
+
+16
+
+Commercial Industrial
+
+CIA
+
+Yes
+
+Energy efficiency incentives, assistance
+and/or standards for
+commercial/industrial generators and
+boilers
+
+22
+
+Commercial Industrial
+
+CIA
+
+Yes
+
+Expand use of no-till farming
+
+15
+
+Agriculture
+
+CIA
+
+Yes
+
+Encourage methane capture from coal
+mines, landfills, livestock farms and
+wastewater treatment plants.
+
+22
+
+Multi-sector
+
+CIA
+
+Yes
+
+Increase Traditional Recycling Diversion
+Rate with Municipal Goals and by
+Stimulating Demand for Recycled
+Materials
+
+N/A
+
+Multi-sector
+
+CIA
+
+Yes
+
+Land Use Development Offset
+Requirement
+
+N/A
+
+Multi-sector
+
+CIA
+
+Yes
+
+25
+
+
+
+SECTION VI. EMISSIONS AND ECONOMIC IMPACT MODELING
+
+Early in the ICCAG process, WRI and the state agencies provided estimates of GHG reductions for
+each of the individual proposals implemented in isolation. These estimates were used solely to
+inform the subgroups and the ICCAG as it considered which policies should be included in the
+modeling exercise. Since these estimates do not account for interactions between policies, adding
+the reductions for each policy together would substantially overestimate the emissions reductions
+from implementing them in combination.
+An economic and emissions modeling exercise was conducted in order to provide the greatest
+amount of understanding and insight as to the emissions and economic impacts of the policy
+proposals under consideration. WRI and Illinois staff reviewed several options and recommended
+that the ICCAG retain the use of the ENERGY 2020 model owned by Systematic Solutions and
+offered in partnership with ICF International. The ICCAG had expressed a desire to use a model,
+such as ENERGY 2020, that could represent the entire economy of Illinois as opposed to one or two
+important sectors (e.g., electric generation).
+Some ICCAG members wanted analytical modeling results for individual strategies. However, WRI
+and ICFI recommended that the ICCAG process model packages of strategies (scenarios), but not
+individual strategies. This was because the emissions reductions from any single measure
+implemented by itself will vary significantly compared to the reductions from that same strategy
+implemented in combination with other strategies. Moreover, the order in which strategies are
+implemented will affect the emission reductions of a single strategy. Thus, the results from
+modeling the stand-alone impacts of a single strategy would not be meaningful. While it is possible
+to tease out the impacts of a single strategy implemented in combination with other strategies, this
+would require a level of modeling that is far beyond the scope of the project at this time. The
+emissions projections constructed through the ICF modeling exercise provided a sophisticated and
+robust forecast of GHG emissions against which all policy scenarios were compared.
+About ENERGY 2020
+ENERGY 2020 is an integrated, multi-sector, multi-region energy model that provides complete
+and detailed, all-fuel demand and supply sector simulations. These simulations can additionally
+include macroeconomic interactions to determine the benefits or costs to the local economy of new
+facilities or changing energy prices. The economic inputs for ENERGY 2020 and the subsequent
+macroeconomic modeling used the REMI macroeconomic model as provided by DCEO.
+ENERGY 2020 is a causal and descriptive model, which dynamically describes the behavior of both
+energy suppliers and consumers for all fuels and for all end-uses. It simulates the physical and
+economic flows of energy users and suppliers. It simulates how they make decisions and how those
+decisions causally translate to energy-use and emissions (see Figure 7).
+The model uniquely captures the feedback among energy consumers, energy suppliers, and the
+economy. For example, a change in price affects demand that then affects future supply and price.
+Increased economic activity increases demand; increased demand increases the investment in new
+supplies. The new investment affects the economy and energy prices. The energy prices also affect
+the economy.
+
+26
+
+
+
+Figure 7. Structure of ENERGY 2020 model and sectoral relationships
+
+GHG Emissions
+DEMAND
+Residential
+Commercial
+Industrial
+Transportation
+
+Demand
+Prices
+
+Policy Costs:
+Gross Investments
+Gross Output
+Utilization
+Tax Rates, Inflation
+Interest Rates
+
+Price
+
+SUPPLY
+Electric Utility/IPPs
+Gas Supply
+Oil Supply
+Coal Supply
+International Supply
+International Trade
+
+(investments,
+permits, taxes...)
+
+Financials
+
+Tax Rates
+Inflation
+Interest
+
+MACROECONOMIC
+MODEL (REMI)
+
+Reference Case (“Business as Usual”)
+In order to accurately analyze policy portfolios, a reference case was constructed to forecast
+economic and emissions trends through 2020. It assumes a continuation of current economic trends
+and the associated GHG emissions and reflects, to the extent possible, recently enacted policies and
+new projects that could affect GHG emissions trends. The reference case is a “business as usual”
+scenario, which means policies that might affect emissions and economic trends are assumed to be
+unchanged through 2020. For example, under the reference case, federal fuel economy standards for
+motor vehicles do not change. The reference case is the point of comparison for the modeled policy
+scenarios.
+For modeling purposes, state or federal legislation or regulations were not included in the reference
+case if they had not yet been enacted at the time that the modeling was completed. For example, the
+Governor recently signed into law the Illinois Power Agency Act that implements elements of his
+energy plan, including a RPS and an energy efficiency portfolio standard (EEPS). The RPS and EEPS
+were not included in the reference case because they had not been approved before the modeling was
+completed. However, policies recommended by the ICCAG, and included in the modeling analysis,
+meet or exceed the law’s requirements for renewable energy and energy efficiency (see Section IX).
+Macroeconomic data for the reference case, such as forecasts for population, employment and GSP
+growth, were provided by DCEO from a control forecast of its REMI model. In addition, fuel cost
+data, technology performance and cost data, and other key inputs were derived from state and
+federal sources and were approved for use by the ICCAG modeling subgroup. A complete
+accounting of all input data and assumptions used in the modeling exercise can be found in the
+“Assumptions Book” compiled by ICFI and presented in Appendix H.
+
+27
+
+
+
+Under the reference case, population growth is forecast to be moderate (<1 percent annually) while
+personal income in real terms is expected to grow more rapidly, resulting in rising income per
+capita. See Table 9.
+
+Table 9. Historic and Projected Growth in Illinois Population and Disposable Income
+Average Annual Growth
+Population and Income
+
+1990
+
+2005
+
+2020
+1990-2005
+
+2005-2020
+
+Population (thousands)
+
+10,825
+
+12,770
+
+13,816
+
+1.1%
+
+0.5%
+
+Disposable Personal Income
+(billions 2000 $)
+
+306
+
+385
+
+498
+
+1.5%
+
+1.7%
+
+Disposable Income per
+Capita (2000 $)
+
+28,306
+
+30,149
+
+36,066
+
+0.4%
+
+1.2%
+
+The mix of housing types is expected to continue to show a gradual intensification as an increasing
+proportion of the population moves into multiple unit buildings such as row housing, apartments
+and condominiums. The pattern of employment has changed significantly over the past 15 years, as
+growth in the service economy has offset decreases in employment in industry and agriculture. This
+pattern is expected to continue over the forecast period. See Table 10 for employment data.
+
+Table 10. Illinois Historical and Projected Employment by Major Economic Sector
+Average
+Employment (thousands)
+
+1990
+
+2005
+
+2020
+
+Annual Growth
+
+Industrial
+
+1,335
+
+1,169
+
+1,130
+
+-0.3%
+
+Commercial
+
+4,824
+
+5,173
+
+5,893
+
+0.6%
+
+Government
+
+670
+
+735
+
+776
+
+0.5%
+
+Agriculture & Forestry
+
+123
+
+103
+
+93
+
+-0.9%
+
+Total
+
+6,951
+
+7,181
+
+7,892
+
+0.4%
+
+In addition to macroeconomic input data, the following sources were used for fuel price data:
+•
+
+Oil, coal, and natural gas prices in the model are based on U.S. Department of Energy’s
+Annual Energy Outlook (AEO) for 2007 to 2030.
+
+28
+
+
+
+•
+•
+
+•
+
+Historic electricity prices used in the ENERGY 2020 were derived from utility financial
+statements obtained from the Energy Information Administration Federal Electricity
+Regulatory Commission (FERC) Form 1.
+Power prices were calculated by the ENERGY 2020 model based on generation costs and
+dispatch. The model calculated retail electricity prices; however, actual consumer prices
+were calibrated to reflect the particular regulatory and market circumstances in Illinois under
+deregulation.
+The wellhead price of natural gas in the model is based on the U.S. Energy Information
+Administration’s AEO, 2007 through 2030.
+
+Some regulations affecting the power sector have been enacted but have not yet come into effect.
+Such regulations, including more stringent emission requirements for mercury, SOx, NOx and
+particulate matter, will affect the operating costs for certain generating plants. While the scope of
+this analysis did not include modeling criteria air contaminants (CACs), compliance costs for these
+regulations were incorporated in the model so that they were reflected in dispatch decisions. The
+costs of compliance were based on prior modeling carried out for the Lake Michigan Air Directors’
+Consortium and the Illinois EPA.
+When considering the results for both the reference and policy cases, it is important to note that any
+projection of the future contains a substantial amount of uncertainty. These results should not be
+considered precise answers to policy questions but instead provide directional information of
+plausible outcomes based on the best available data and assumptions as approved by the ICCAG.
+Reference Case Results
+Growth in Illinois electricity sales is projected to be robust as the state’s economy and population
+expand. In addition, electric generation is expected to increase as well, with a modest amount of
+growth in coal generation as aging plants are retired and substantial growth in generation from
+natural gas. Nuclear generation remains static in the reference case with no new plants or shutdowns
+expected through 2020 (although Illinois’ plants are scheduled for decommissioning after 2020).
+Figure 8 presents a reference case forecast for electric generation by fuel. Overall, Illinois is
+projected to maintain and expand its status as a leading electricity exporter in the reference case.
+
+29
+
+
+
+Figure 8. Projected Illinois Electricity Generation by Fuel Under the Reference Case
+250,000
+
+Other
+
+Generation (GWh/year)
+
+200,000
+
+Wind
+Landfill
+Gas/EFW
+Gas/Oil
+Hydro
+
+150,000
+
+CCS Coal
+Coal
+Nuclear
+
+100,000
+
+50,000
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+In the transportation sector, energy demand is expected to increase substantially under the reference
+case. Air travel energy demand is expected to double while passenger transport surges at a faster
+rate than was experienced between 1990 and 2005. The average fuel economy of passenger and
+freight vehicle fleets in Illinois is not projected to change from current averages over the forecast
+period. See Figure 9 and Table 11 below.
+Figure 9. Historical and Projected Transportation Energy Demand by Mode
+1,000
+900
+
+Energy Use (TBtu/year)
+
+800
+700
+600
+
+Plane
+Bus
+
+500
+
+Motorcycle
+Passenger vehicle
+
+400
+300
+200
+100
+1990
+
+2005
+
+30
+
+2020
+
+
+
+Table 11. Projected Vehicle Efficiency by Vehicle Type
+Passenger Vehicle Efficiency (miles/gallon)
+2000
+
+2010
+
+2020
+
+Small Gasoline
+
+31.6
+
+32.9
+
+31.6
+
+Medium Gasoline
+
+26.8
+
+29.3
+
+28.6
+
+Large Gasoline
+
+20.8
+
+21.4
+
+21.0
+
+Large Diesel
+
+20.8
+
+21.7
+
+21.4
+
+2000
+
+2010
+
+2020
+
+Medium Gasoline
+
+6.8
+
+7.2
+
+7.1
+
+Heavy Diesel
+
+5.8
+
+6.0
+
+6.1
+
+Freight Vehicle Efficiency (miles/gallon)
+
+With the exception of electric generation and transportation, emissions from all other sectors of the
+economy experience very little change in the forecast period. The two exceptions are waste and the
+industrial sector. Methane capture and destruction in the waste sector for use in electricity
+generation and industrial facilities results in a modest decline in emissions from this sector. For the
+industrial sector, increases in efficiency and automation and an overall decline in energy intensive
+industries result in substantial declines in emissions from this sector.
+2020 Emissions Projections Compared to 1990 Levels
+The ICFI modeling projects that Illinois GHG emissions will grow to 312 Mt CO2e by 2020 under
+the business as usual scenario. In order to meet the Governor’s goal of reducing greenhouse gas
+emissions to 1990 levels (231 Mt CO2e) by 2020, emissions in 2020 need to be 81 Mt CO2e less
+(312 minus 231) than what ICFI projects for the business as usual scenario. Current annual GHG
+emissions in Illinois are about 276 Mt CO2e, or 45 Mt CO2e, above 1990 levels. Figure 10 shows
+the emission trajectories for the reference case.
+
+By 2020, Illinois GHG emissions are projected to be 81 million
+metric tons above 1990 levels.
+
+31
+
+
+
+Figure 10. Illinois Reference Case GHG Emissions by Sector and Governor’s 2020 Goal
+350
+Total Emissions in 1990:
+231 Mt CO 2 e (Source: WRI)
+
+Total - 312 Mt CO2e
+
+300
+Gap - 81 Mt CO2e
+
+250
+
+Mt CO2e
+
+Target - 231 Mt CO2e
+Agriculture &
+Forestry
+Waste &
+Wastewater
+Power Sector
+
+200
+
+150
+
+Freight Transport
+Passenger
+Transport
+Industrial
+
+100
+
+Commercial
+
+50
+Residential
+
+0
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Modeling of Policy Scenarios
+As noted above, the ICCAG modeling subgroup agreed that the policy strategies* should be
+packaged into four different modeling scenarios to help inform the group’s decisions. These
+scenarios are as follows:
+Scenario #1. All in without cap and trade – includes all policy strategies advanced by the
+ICCAG except the “state-level cap and trade program.”
+Scenario #2. All in with an Illinois-only cap and trade – includes all policy strategies advanced
+by the ICCAG and the “state-level cap and trade program.”
+Scenario #3. All in with cap and trade and RGGI link – includes all policy strategies advanced
+by the ICCAG the “state-level cap and trade program,” as well as a link to the
+emissions market created by the RGGI among states in the northeast.
+Scenario #4. The same as #2 above, but with an assumption of high oil and gas prices. This
+scenario was recommended by some ICCAG participants who thought the oil and
+gas price assumptions in the other scenarios might be too low.
+* The policy strategies were modeled as approved by the ICCAG and described in Section VII and Appendices H
+and I.
+
+In the reference case, electricity sales are projected to continue a steady rate of increase, but each of
+the policy scenarios substantially reduces this rate of growth. The reduction in sales is driven
+largely by lower commercial sector sales and lower sales growth in other sectors as a result of
+energy savings induced by the policy package, though how much of the decrease is difficult to
+attribute to any specific policy measure. Under all policy scenarios, sales within state decrease
+significantly until 2011-2012 and then begin to grow again.
+32
+
+
+
+For Scenario #1, electricity generation increases beyond the reference case as more clean coal and
+renewable power sources come online due to the CCS and RPS policy measures. Conversely, with
+Scenario #2, all strategies plus the cap and trade program, electricity generation is projected to
+decrease compared to the reference case due to the cost of controlling GHG emissions. With cap
+and trade and a link to RGGI, generation increases, but not as much as with the policy package
+without cap and trade. Illinois remains a net exporter of electricity in all policy scenarios.
+Policy Scenario Results: Emissions Impacts
+Within the modeling results there are two initial types of emission reductions presented—those that
+take place inside Illinois and those that take place outside of Illinois. Furthermore, there are three
+types of reductions that could take place inside or outside of Illinois:
+•
+•
+
+•
+
+Direct emissions reductions from the implementation of policies.
+Offsets purchased for compliance with a given policy, such as cap and trade. GHG offsets
+can be created when an entity that is not required to reduce GHG emissions voluntarily
+chooses to do so. The emissions reductions from these projects can be used to offset the
+emissions from the regulated sources. In the modeling exercise, offsets are assumed to take
+place inside Illinois and are above and beyond the direct emission reductions achieved by a
+policy package.
+Emissions allowances purchased by Illinois sources from sources in the RGGI that are used
+for compliance with the cap and trade program under Scenario #3. Under a cap and trade
+program, sources that stay below their allotted emissions can sell emissions allowances to
+sources that exceed their allowable limits. The ICFI modeling indicated that Illinois sources
+would buy allowances from sources in the RGGI states. The emissions reductions tied to
+these allowances are considered to be above and beyond direct reductions achieved outside
+of Illinois.
+
+The model predicts direct reductions outside of Illinois due to policies that reduce electricity
+demand and create new electricity generation in-state, that in-turn displaces fossil-fuel generation
+out-of-state. While a model can predict this, WRI stated that in the real world it is very difficult to
+demonstrate whether emissions reductions in another state resulted from policies implemented in
+Illinois. In-state reductions, on the other hand, can be measured simply by tracking changes to instate emissions and verifying purchased offsets and allowances.
+Some ICCAG members argued that the state should take credit for out-of-state emissions reductions
+resulting from its policies, even if those reductions may be difficult to verify. From this perspective,
+Scenario #1 without cap and trade is almost as good as Scenario #2 with an Illinois-only cap and
+trade (see Table 12 below). For example, see the AFL-CIO’s comments in Appendix 2. Out-of-state
+emissions reductions are significantly lower under Scenario #2 compared to Scenario #1 because of
+leakage.
+However, as described above, WRI and ICFI explained that it is very difficult to show whether
+emissions reductions in some other state resulted from policies implemented in Illinois. When
+considering the Governor’s GHG reduction goal of 1990 levels by 2020 (an 81 million ton
+reduction from what is projected in 2020 under a business as usual reference scenario), WRI and
+ICFI advised the ICCAG to include only reductions achieved inside Illinois (including purchased
+offsets that are allowed under the cap and trade proposals) plus allowances purchased outside
+Illinois for compliance in-state.
+33
+
+
+
+This is why Table 12 presents estimates for direct out-of-state emissions reductions, including 44
+Mt CO2e under Scenario #1, but does not count them towards the Governor’s goal. In addition,
+Chairman Scott said the Governor has established an in-state reduction goal, and that other states
+also need to take steps in order to minimize leakage and combat global warming. Therefore, the
+ICCAG focused on in-state GHG reductions while acknowledging that leakage is an important issue
+that should be brought to the Governor’s attention.
+Table 12. GHG Reductions Achieved under ICCAG Policy Packages (Million Metric Tons CO2e)
+Total in –state reductions required to meet 2020 goal = 81Mt CO2e
+GHG Reductions vs. Reference Case
+Outside
+Illinois
+
+Inside Illinois
+Scenario
+
+#1
+#2
+
+#3
+
+Description
+
+Total
+Toward
+Goal/Meets
+Gov’s Goal?
+
+Outside
+Illinois, Direct
+Reductions
+Don’t Count
+Toward Goal,
+Difficult to
+Verify
+
+Direct
+Reductions
+
+Purchased
+Offsets
+
+Purchased
+Allowances
+
+“All in” with out
+cap and trade
+
+36
+
+0
+
+0
+
+36/No
+
+44
+
+“All in” with
+Illinois-only cap
+and trade
+
+79
+
+5
+
+0
+
+84/Yes
+
+3
+
+“All in” with cap
+and trade and link
+to RGGI
+44
+
+5
+
+33
+
+82/Yes
+
+37
+
+The policy package scenarios provide three possible emission reduction pathways based on what
+policy recommendations are pursued. Figure 11 graphically presents these emission trajectories.
+The key emission reduction results are as follows:
+Scenario #1: “All in without cap and trade” achieves estimated in-state emissions reductions of
+36 million tons by 2020 as compared to the reference case. This scenario does not
+meet the Governor’s goal.
+Scenario #2: “All in with Illinois-only cap and trade” does meet the Governor’s goal. This
+scenario achieves total in-state GHG reductions of 84 million tons when
+purchased offsets from within the state are counted.
+Scenario #3: The “all in with cap and trade plus link to RGGI” case could also meet the goal
+when allowances purchased outside Illinois are counted toward the goal, for a total
+reduction of 82 million tons.
+
+34
+
+
+
+Figure 11. Illinois GHG Emissions Under Three Policy Package Scenarios*
+
+350
+Total Emissions in 1990: 231
+Mt CO 2 e (Source: WRI)
+
+300
+
+Total - 312 Mt CO2e
+
+Gap - 81 Mt CO2e
+
+250
+
+Mt CO2e
+
+Target - 231 Mt CO2e
+
+200
+
+Reference Case
+All except Cap & Trade
+
+150
+
+All In with C&T
+All In with C&T & RGGI
+
+100
+
+50
+
+0
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+*Includes reductions achieved inside Illinois (including purchased offsets that are allowed under the cap and trade
+proposals) plus allowances purchased outside Illinois for compliance in-state. Does not include modeled direct
+emissions reductions outside Illinois that are difficult to verify.
+
+Under Scenario #2, the model predicts that allowance prices in the cap and trade program start out
+at modest levels but steadily increase as the cap becomes more stringent. Allowance prices reach a
+high of just over $18/ton in 2020. Modeling the allowance price with a link to RGGI was beyond
+the scope of this analysis. Therefore, in Scenario #3 with a link to RGGI, ICFI assumed that
+allowance prices would not exceed $10/ton. WRI thought this was a conservative assumption (on
+the high side) because RGGI modeling indicates that allowance prices will stay well below $10, and
+if prices do reach $10/ton, more generous offset policies are triggered that would help stabilize
+costs. It is important to note that the major emissions reductions for the cap and trade packages are
+achieved by reductions in the power sector.
+GHG emission reductions outside Illinois as a result of the policy scenarios also varied. Substantial
+out-of-state reductions (>30 MMTCO2e) are projected with the “all in without cap and trade” and
+the “all in with cap and trade and RGGI link” packages. However, only 3 MMTCO2e of out-of-state
+reductions are projected with the “all in with Illinois-only cap and trade” scenario.
+The modeling results indicate that emissions leakage from Illinois to other states is mitigated with a
+link to RGGI compared to an Illinois-only program. Emissions leakage arises when emissions of
+greenhouse gases in one jurisdiction or sector not subject to carbon constraints (e.g., states that do
+not cap emissions) increase due to mandated GHG reductions in another jurisdiction or sector (in
+this case, Illinois). Though the concept of emissions leakage can apply to activities in any sector of
+35
+
+
+
+the economy, it has often been of greatest concern where economic activity is subject to substantial
+interstate trade and competition such as the electric generation market. In such a case, as mandatory
+reductions are undertaken (and production costs consequently rise), lower cost competition outside
+the region (not faced with similar constraints) increases to meet demand within the carbon
+constrained jurisdiction. In short, natural gas and coal power generation and the corresponding
+carbon emissions could shift from Illinois to other states under an Illinois-only cap and trade
+program. Some members argued that leakage could also increase emissions of other air pollutants
+such as sulfur dioxide and nitrogen oxides.
+Table 13 below summarizes ICFI modeling results indicating that some coal-fired power generation
+would shift from Illinois to other states (leakage) under Scenario #2, with more out-of-state coal
+generation and less in-state coal generation compared to the reference case and in absolute terms.
+Table 11 also shows that in-state coal generation would grow in absolute terms, and compared to
+the reference case, under Scenarios #1 and #3, between 2005 and 2020. Therefore, Scenarios #1 and
+#3 do not cause a net shift in coal power generation out-of-state.
+The ICFI results indicate that coal-powered electricity generation would increase the most under
+Scenario #1, although as noted above this is not a viable scenario because it does not meet the
+Governor’s GHG reduction target. Total electricity generation under all three scenarios would grow
+in absolute terms, and Illinois would continue to be a net exporter of electricity through 2020 under
+each of these scenarios. Illinois currently exports nearly 30 percent of the electricity it generates to
+other states.
+Table 13. Change in Electricity Generation 2005-2020 (GWh)
+In-State
+
+Out-of-State
+
+Coal (incl.
+CCS*)
+
+Total
+Generation
+
+Coal (incl.
+CCS*)
+
+Total
+Generation
+
+Reference Case
+
+6,108
+
+23,955
+
+78,086
+
+224,008
+
+#1 **
+
+“All In” Except C & T
+
+19,542
+
+46,846
+
+63,473
+
+201,000
+
+#2
+
+“All In” With C & T
+
+(15,728)
+
+3,473
+
+85,031
+
+227,298
+
+#3
+
+“All In” With C & T + RGGI
+
+16,773
+
+37,441
+
+65,008
+
+206,279
+
+Scenario
+
+Description
+
+* CCS = carbon capture and sequestration
+** Not a viable scenario because it does not meet the Governor’s GHG reduction target.
+
+Leakage was discussed at length during the ICCAG process. There was agreement that, while
+leakage cannot be completely eliminated, it should be minimized because it undermines the
+effectiveness of GHG reduction strategies on a national and global scale. For example, linking with
+other states with comparable cap and trade requirements can minimize leakage as shown above with
+Scenario #3. It was noted that the cap and trade proposal called for the creation of a separate
+stakeholder process to address leakage.
+Some ICCAG members noted that the RGGI program also has leakage issues that could undermine
+the effectiveness of an Illinois program linked to RGGI; the RGGI states are evaluating new
+strategies to address leakage. Scenario #3 assumed a link to RGGI, rather than another cap and trade
+program, because it is the only mandatory cap and trade program in the U.S. that is completed and
+36
+
+
+
+can be modeled. ICCAG members encouraged Illinois to carefully assess the quality and integrity of
+emissions markets in other states, if and when the state explores linkages to other states.
+Policy Scenario Results: Economic Impacts
+ICFI modeling results found that adopting various strategies to address climate change by reducing
+GHG emissions is more beneficial to the Illinois economy than taking no action to limit GHGs.
+Compared to the reference case with no new policies to address climate change, the modeling found
+that policy Scenarios #1, #2 and #3 would increase employment, GSP, and personal disposable
+income (see Figures 12, 13 and 14) while decreasing electricity costs (see Tables 14 and 15). The
+economic benefits are slightly higher under Scenario #1 compared to #2 and #3; however, as shown
+above in Table 13, Scenario #1 is not a viable option because it achieves less than half of the GHG
+reductions needed to meet the Governor’s GHG reduction goal.
+Under Scenario #3 with a link to RGGI, employment increases 0.75 percent, or about 61,000
+additional jobs per year in 2020. GSP also increases 0.75 percent, or $7.5 billion per year in 2020.
+Personal disposable income increases 0.81 percent, or slightly more than $4 billion per year in
+2020. Due to modeling uncertainty, the benefits could be higher or lower.
+The ICFI modeling shows a positive economic outcome from meeting the carbon reduction goals,
+largely due to policies that increase energy and fuel efficiency. The savings from reducing energy
+use are reinvested to generate more economic growth. Another reason the modeling shows positive
+economic impacts is because Illinois imports large amounts of oil, natural gas, and coal that would
+be replaced with in-state investments in renewable energy and energy efficiency measures as well
+as greater use of Illinois coal in new coal gasification plants. These investments will create new jobs
+in industries and sectors that have both direct and indirect economic benefits.
+The employment results indicate some job losses in the conventional coal-fired electric generation
+sector across all scenarios, and this was a point of concern for some ICCAG participants. However,
+the modeling results also indicate that these losses are more than offset by job gains in the
+commercial and construction sectors and through renewable energy and energy efficiency
+investments.
+
+37
+
+
+
+Figure 12. Illinois Employment in the Year 2020
+8,220,000
+Doesnot
+not meet
+Does
+meetGHG
+GHG
+Reduction Goal
+Reduction Goal
+
+8,200,000
+
+Does meet GHG
+reduction goal
+
+Does meet GHG
+reduction goal
+
+8,180,000
+
+8,160,000
+Jobs
+
+8,140,000
+
+Assumes no
+action taken to
+address climate
+change
+
+8,120,000
+
+8,100,000
+
+8,080,000
+Reference Case
+
+All In Except Cap & Trade (#1)
+
+All In With Cap & Trade (#2)
+
+All In w/C&T &RGGI Link (#3)
+
+Figure 13. Illinois Gross State Product in the Year 2020
+866
+
+Gross State Product (Billions Fixed 2000$)
+
+864
+
+Does not meet
+GHG Reduction
+Goal
+
+Does meet
+Does meet
+GHG reduction
+GHG reduction
+goal
+l
+
+Does meet
+GHG
+reduction goal
+
+862
+
+860
+
+858
+
+Assumes no
+action taken to
+address climate
+h
+
+856
+
+854
+
+852
+
+850
+Reference Case
+
+All In Except Cap & Trade (#1)
+
+38
+
+All In With Cap & Trade (#2)
+
+All In w/C&T &RGGI Link (#3)
+
+
+
+Figure 14. Total Disposable Income in Illinois: Year 2020
+504
+Does not meet GHG
+Reduction Goal
+
+Personal Disposable Income (Billions Fixed 2000$)
+
+Does meet
+GHG reduction
+
+Does meet
+GHG reduction
+
+503
+
+502
+
+501
+
+500
+
+499
+
+Assumes no
+action taken to
+address climate
+
+498
+
+497
+
+496
+
+495
+Reference Case
+
+All In Except Cap & Trade
+
+All In With Cap & Trade
+
+All In w/C&T &RGGI Link
+
+ICFI projects that electricity rates would increase modestly for all scenarios as compared to the
+reference case, but the magnitude of the increases is reduced over time. The rate impacts across
+scenarios differ by approximately one percentage point. The rate impacts are also mitigated with a
+RGGI link. Average household electricity bills, however, decrease by roughly 20 percent compared
+to the reference case due to greater household energy efficiency levels. These savings are also
+apparent in the industrial and commercial sectors. Total savings across all sectors are approximately
+$1.1 billion in 2010, $2.6 billion in 2015, and $3.2 billion in 2020. See Tables 14 and 15 for a
+comparison of changes in rates and electricity costs across the three policy scenarios. It should be
+emphasized that these are average results. Changes in electricity rates and annual costs savings
+would vary based on actual energy usage and other factors.
+Reduced energy costs are largely responsible for the positive
+impacts on Illinois employment, GSP, and
+personal disposable income.
+
+Table 14. Change in Electricity Rates Relative to Reference Case by Policy Scenario
+Scenario
+
+Description
+
+2010
+
+2015
+
+2020
+
+#1
+
+“All in” without C & T
+
+5.2%
+
+2.9%
+
+2.9%
+
+#2
+
+“All in” with C & T
+
+5.2%
+
+4.0%
+
+3.7%
+
+#3
+
+“All in” with C & T + RGGI
+
+5.2%
+
+3.8%
+
+3.5%
+
+39
+
+
+
+Table 15. Estimated Sectoral Annual Electricity Cost Savings in 2020 Relative to
+Reference Case by Policy Scenario (in $ millions)
+Scenario
+
+Description
+
+Residential
+
+Commercial
+
+Industrial
+
+#1
+
+“All in” without C & T
+
+$1,138
+
+$1,346
+
+$826
+
+#2
+
+“All in” with C & T
+
+$1,114
+
+$1,318
+
+$756
+
+#3
+
+“All in” with C & T + RGGI
+
+$1,122
+
+$1,326
+
+$778
+
+High Price Scenario
+One sensitivity run (Scenario #4) was conducted in the modeling exercise to understand how
+Illinois GHG emissions may be affected by high energy prices. The “high price scenario” included
+high oil and natural gas prices while holding all other assumptions and input data constant (see
+Appendices H and I for details on the assumptions included in this scenario). The results of these
+high prices are that emissions under the “business-as-usual” reference case would be approximately
+16 million tons lower in 2020 than the primary reference case. This is largely due to lower natural
+gas generation and lower transportation energy demand due to high gasoline prices.
+Since high prices cause emissions to be lower than in the reference case, the gap between the
+Governor’s goal and projected GHG emissions is smaller—65 million tons as compared with 81
+million tons. One policy scenario, “all in with Illinois-only cap and trade,” was run against this high
+price case. The results are presented in Figure 15. The modeling results show that if Illinois were to
+experience high fossil fuel prices in the future, the Governor’s goal is still attainable. The modeling
+results also show increases in employment, GSP, and personal disposable income at levels slightly
+less than under Scenario #3.
+Figure 15. Illinois GHG Emissions Under High Energy Prices and Emissions
+Trajectory with “all in with Illinois-only cap and trade”
+350
+Total Emissions in 1990: 231 Mt
+CO 2 e (Source: WRI)
+
+Reference Case - 312 Mt CO2e
+
+300
+
+High Price Ref.- 296 Mt CO2e
+
+250
+
+Mt CO 2e
+
+Target - 231 Mt CO2e
+w/ Policies - 229 Mt CO2e
+
+200
+
+Agriculture & Forestry
+Waste & Wastewater
+Power Sector
+
+150
+
+Freight Transport
+Passenger Transport
+
+100
+
+Industrial
+Commercial
+
+50
+
+Residential
+All In plus C&T & High
+Prices
+
+0
+2000
+
+2005
+
+2010
+
+2015
+
+40
+
+2020
+
+
+
+The modeling process benefited from oversight by the Modeling Subgroup and significant input
+from ICCAG members and non-members. The ICFI modeling team responded verbally and in
+writing to numerous questions and comments, and they often revised their analysis in response to
+this input. Some ICCAG participants felt the modeling process was inadequate and/or disagreed
+with the results, such as ICFI’s projected decrease in energy costs and increase in jobs and GSP
+from implementing the policy scenarios. Instead, some members argued that electricity costs would
+increase and the state’s economy would suffer. They also wanted to see costs and savings separately
+in the modeling results, as opposed to net costs/savings.
+Some members wanted to model individual strategies for reducing GHGs instead of, or in addition
+to, packages of strategies. WRI indicated that it is very difficult to accurately isolate the impacts of
+a single strategy implemented in combination with other strategies, and trying to do so will likely
+substantially overestimate the emissions reductions from a combination of strategies. However, the
+relative significance of specific policies is provided by the estimates in the straw proposals, and the
+modeling results suggest that these estimates are reasonable.
+Although individual strategies were not modeled, WRI and Illinois EPA staff noted the obvious
+overlap between certain strategies. For example, the emissions cap on power plants under a cap and
+trade program would largely duplicate the reductions expected by requiring new power plants to
+offset a portion of their emissions. This is because emissions from new power plants would already
+be capped under the cap and trade program.
+Written comments from ICCAG members and the public are in Volume 2 of the Appendices.
+
+41
+
+
+
+SECTION VII. STRATEGIES RECOMMENDED BY THE ADVISORY GROUP
+
+Tables 16 and 17 provide a list of the 24 strategies supported by the ICCAG members, and this is
+followed by brief summaries of each. At its July 10 meeting, ICCAG members voted to support
+nineteen strategies with no dissent and at least one abstention. At the September 6 meeting, a
+majority of voting ICCAG members voted to support an additional five strategies with eight to ten
+members dissenting and several members abstaining. The strategies supported by ICCAG members
+are listed below. For the five strategies supported with some dissent, the general thoughts of those
+who agreed or disagreed with the strategies are captured in addition to the vote tallies and a
+description of each strategy. ICCAG members also noted that additional input should be sought
+from stakeholders—particularly stakeholders that may have been under-represented during the
+ICCAG process—if and when the state moves toward implementing the strategies. The order in
+which these strategies are presented should not be taken to imply any priority or rank. They should
+be considered as a package of strategies. For a full description of the final ICCAG-approved
+strategies, please see Appendix F.
+Table 16. Nineteen Strategies Supported by ICCAG Members with No Dissent
+Brief Description of Strategy
+
+Subgroup
+
+Implement smart growth initiatives and expansion of mass transit
+
+Transport
+
+Incentives for fuel efficient vehicles
+
+Transport
+
+Low-carbon fuels standard
+
+Transport
+
+Fuel efficiency and/or low carbon fuel requirements for all government vehicles
+
+Transport
+
+Passenger and freight rail upgrades
+
+Transport
+
+Small renewable distributed generation: rules, legislation, incentives
+
+Power/Energy
+
+Energy efficiency standards for appliances and equipment
+
+Power/Energy
+
+Establish residential and commercial energy efficiency construction codes
+beyond international standards; includes government buildings.
+
+Power/Energy
+
+Phase-in of energy efficiency standards for light bulbs
+
+Power/Energy
+
+Energy conservation and efficiency programs for existing state facilities
+
+Power/Energy
+
+Enhanced renewable portfolio standard of 25 percent by 2025
+
+Power/Energy
+
+Enhanced energy efficiency: two percent demand reduction by 2015. No revenue
+cap.
+
+Power/Energy
+
+Programs to encourage forest management, reforestation, tree- and grassplanting
+
+42
+
+Commercial,
+Industrial,
+Agriculture (CIA)
+
+
+
+Table 16 (cont’d.). Nineteen Strategies Supported by ICCAG Members with No Dissent
+Energy efficiency incentives, assistance and standards for commercial/industrial
+generators and boilers
+
+CIA
+
+Expand use of no-till farming
+
+CIA
+
+Encourage methane capture from coal mines, landfills, livestock farms and
+wastewater treatment plants.
+
+CIA
+
+Increase traditional recycling diversion rate with municipal goals and by
+stimulating demand for recycled materials
+
+CIA
+
+Land use development offset requirement
+
+CIA
+
+Encourage or require reductions in emissions of high GWP gases (N2O, HFCs,
+PFCs, SF6)
+
+CIA
+
+Table 17. Five Strategies Supported by a Majority of Voting ICCAG Members
+Brief Description of Strategy
+GHG emissions standards for automobiles
+
+Subgroup
+Transport
+
+CO2 emissions performance standards for electricity generation or purchases
+electricity (new generation only)
+
+Power/Energy
+
+Carbon capture & storage (from the outset) portfolio standard of 5 percent.
+Utilities must buy if available.
+
+Power/Energy
+
+20 percent carbon offset requirements for new fossil fuel power plants
+
+Cap and Trade
+
+Cap and trade program for power generators and relatively large industrial
+sources; preference to link with other states
+
+Cap and Trade
+
+Strategies Supported by ICCAG Members with No Dissent: Power and Energy Subgroup
+Enhanced energy efficiency programs. This strategy calls for both gas and electric utilities in Illinois
+to achieve incremental annual energy savings of two percent (double that of the currently enacted
+requirement) with no cap on spending. The requirement would be phased in beginning in 2008 at
+0.2 percent then increasing by 0.2 – 0.4 percent per year until the two percent goal is reached in 2016.
+The requirement would then remain at two percent from 2016 onward.
+Implement energy conservation and efficiency programs for existing state facilities. This policy
+would adopt a goal of a 20 percent reduction in energy use from existing state facilities by 2020.
+HB 1384 (P.A. 95-559) recently signed by the Governor sets a goal of a 10 percent reduction from
+state buildings within ten years. The 20 percent goal would result in even greater energy savings.
+This goal could be achieved through a combination of the state’s capital program and energy
+performance contracts of 10-20 years in length. This proposal should reduce costs and save
+taxpayers money. While there are no technological barriers to achieving a 20 percent reduction in
+
+43
+
+
+
+energy use in state buildings, there are some financial and legal barriers. The potential operating
+cost savings are significant, but the up front capital requirements could be high, if energy
+performance contracting (EPC) is not used to achieve a significant portion of the energy savings.
+Currently, universities and colleges can enter into performance contracts up to 20 years in length,
+while state agencies and local governments are limited to 10-year contracts. The statute should be
+changed to allow 20 years for all units of state and local government to facilitate EPC.
+Phase-in of energy efficiency standards for light bulbs. This policy would establish regulations that
+prohibit the sale of lamps that fail to meet specific efficiency standards. In addition, it is
+recommended that mercury standards for these lamps be adopted as well as new state and private
+recycling and programs to encourage consumer participation in CFL recycling programs. A process
+would be established to ensure that appropriate exemptions are allowed. For example, exclusions
+may be needed for special lamp types and uses. Finally, to address affordability, the state may need
+to offer subsidies or rebates, in particular for low income households. While efficient lighting will
+make their electric bills more affordable, low income households may not be in a position to afford
+the initial cost of switching to CFLs or other efficient lamps. Subsidies or rebates could be funded
+through the enhanced energy efficiency programs described above. The standard would apply
+starting in 2012, with stricter standards for years 2016 and 2020. Barriers to implementation include
+the various deficiencies of CFLs (i.e., “warm up” period in the cold, the need to be recycled, and
+affordability).
+Adopt rules, legislation and incentives for small renewable distributed generation. This policy
+would encourage adoption of small-scale renewable distributed generation (DG) by implementing a
+menu of policies, including all of the following: ICC adopts federal standards for interconnection;
+require utilities to offer net metering and real-time pricing (RTP) programs; exempt such systems
+from state and local sales taxes; increase/expand the scope of state incentives for such systems;
+require utilities to assign 15 year RPS credit value in first year/provide this amount as payment to
+system owner upon installation; and set binding goal for percentage of power that should come from
+small renewables by 2020 (one percent to two percent of sales). SB 680 (P.A. 95-420), which was
+recently enacted, requires utilities to offer net metering by April 2008. The interconnection and net
+metering rules would be in place by April 2008 under this strategy. The major barrier to the
+incentives and to an RPS set-aside for small DG would be the costs.
+Adopt energy efficiency standards for appliances and equipment. This policy, to be implemented in
+2008, would create mandatory efficiency standards for appliances not covered by federal rules and
+increase the standards for other appliances. Examples of appliances to be covered include: DVD
+players, bottle-type water dispensers, liquid-immersed distribution transformers, lamp fixtures,
+walk-in refrigerators, and hot tubs. Commercial boilers, pool heaters, and residential furnaces and
+boilers are covered by federal standards, but the standards would be made stricter after petitioning
+the U.S. Department of Energy for a waiver from federal preemption. The policy is a zero net cost
+to consumers and the main barrier to implementation will be the administrative burden of adopting
+the various standards.
+Establish residential and commercial energy efficiency construction codes beyond International
+Code Council model standards (includes government buildings). This policy, to be implemented in
+2010, would create mandatory residential, commercial and state building energy codes for new
+construction. The residential code will be equivalent to the current Energy Star Homes standard
+(Energy Star currently is a 15 percent reduction from the International Energy Conservation Code)
+and the commercial code will be capable of reducing energy consumption by 25 percent from the
+44
+
+
+
+current code. The stricter building code will also apply to state buildings. These standards will also
+be improved over time to reflect technological advances. The policy would save consumers money,
+and the main barrier to implementation will be the slight increase in upfront capital costs (one to
+three percent), although amortized monthly energy cost savings would exceed the additional costs.
+Adopt a RPS. This strategy requires the Agency to procure a portion of the electricity it purchases
+for utilities from renewable energy sources like wind, solar, and landfill gas. The RPS ramps up
+from three percent of retail sales in 2008, 10 percent of sales by 2015, 17.5 percent in 2020 and 25
+percent in 2025. The Agency however only procures power for the ‘non competitive” customer class
+sectors in Illinois (generally, residential and small commercial) reducing the impact on total electricity
+sales by about half. This strategy would expand the RPS to all customer class segments so that the
+nominal 25 percent by 2025 standard would actually be met. The major barrier, currently, to rapid
+implementation of an RPS is the shortage of wind power equipment.
+Strategies Supported by ICCAG Members with No Dissent: Transportation Subgroup
+Adopt a low carbon fuel standard. This policy, to be implemented January 1, 2010, would create a
+low carbon fuel standard based on California’s proposal, requiring a 10 percent reduction in the
+carbon content of all passenger vehicle fuels. This policy would be measured on a lifecycle basis,
+thereby including the C02 emitted during both consumption and production of the fuels. Fuel
+“providers” (such as refiners, blenders, distributors) will decide how they reduce emissions; for
+example, providers may purchase and blend more low-carbon ethanol into gasoline products, or
+purchase and blend relatively more diesel and biodiesel than gasoline, or purchase credits from
+electric utilities supplying low-carbon electrons to electric passenger vehicles, diversify into lowcarbon hydrogen as a product and more, including new strategies yet to be developed. The two
+barriers to implementation will be the difficulty in tracking and calculating carbon intensity and
+reductions, and the cost of additional staff and funds for state agencies.
+Implement incentives for fuel efficient vehicles. This policy would create financial incentives to
+encourage the purchase of more fuel-efficient vehicles. The annual registration fee for vehicles
+weighing between 6,001 and 8,000 pounds would increase by $50, with possible exclusions for
+work vehicles such as farm trucks. Currently all cars and trucks under 8,000 pounds that are
+registered in Illinois—from the smallest compact cars to the largest SUVs—pay the same $78/year
+state registration fee. Commercial trucks with a gross vehicle weight (GVW) between 8,001-12,000
+pounds pay an annual registration fee of $414. The heaviest trucks pay increasingly higher fees
+based on GVW, up to $7,995 per year.
+The revenue from these fees would be used to provide a $750 rebate for the purchase of the most
+fuel-efficient vehicles available. Eligible vehicles would have a U.S. Environmental Protection
+Agency (U.S. EPA) average fuel efficiency rating of at least 35 mpg or would use advanced
+technologies (e.g., hybrid electric) that increase fuel economy by at least 30 percent compared to the
+comparable internal combustion engine model. The mpg criterion should be designed to increase as
+CAFE increases. The fees would increase in 2009 and the revenue could be used in 2010.
+This strategy has been partially implemented by the Illinois Treasurer through a new program that
+offers $1,000 rebates to Illinois residents who purchase a hybrid, electric, fuel cell or CNG vehicle.
+The Treasurer has pledged $2 million for rebates. In comparison, the ICCAG recommendation
+
+45
+
+
+
+would generate approximately $22.5 million per year. The Treasurer’s program is funded by
+depositing money at local banks and credit unions at a below-market interest rate. The money that
+those institutions save in interest is passed to consumers in the form of $1,000 rebates at the time of
+purchase. To take advantage of the program, buyers must secure a car loan from a participating
+bank or credit union for an eligible vehicle.
+Improve passenger and freight rail service and infrastructure. This policy would fully fund and
+implement both passenger rail upgrades and service restoration throughout the state and the Chicago
+Region Environmental and Transportation Efficiency Program (CREATE) freight rail improvement
+program. Passenger rail upgrades would include: allowing for 110 mph high speed rail service
+between Chicago and St. Louis; increasing ridership on existing Chicago-Downstate rail lines
+through investments in new equipment, upgrading, and streamlining rail capacity on existing rail
+lines to reduce trip times between Chicago and Downstate; and restoring service from Chicago to
+Rockford, the Quad Cities, Decatur, and Peoria.
+CREATE would add 25 new roadway overpasses or underpasses at locations where auto and
+pedestrian traffic currently crosses railroad tracks at grade level; add six new rail overpasses or
+underpasses to separate passenger and freight train tracks; create viaduct improvements; increase
+grade crossing safety enhancements; and extensively upgrade tracks, switches, and signal systems.
+High speed rail service upgrades are to be completed between Chicago and St. Louis by January 1,
+2011. All other capital improvements are to be implemented January 1, 2013. A barrier to
+implementation is that additional resources will be required to complete upgrades and to purchase
+and maintain new equipment.
+Impose fuel efficiency and/or low carbon fuel requirements for government vehicles. Illinois law
+requires the state to purchase hybrid vehicles and flex fuel vehicles that can operate on 85 percent
+ethanol unless it is not feasible. This proposal would apply the same requirement to local
+government vehicles in Illinois as well, and hybrid vehicles must be “full” hybrids, not “mild”
+hybrids.
+Implement smart growth initiatives and expand mass transit. This policy would expand mass transit
+in Northeastern Illinois and in urban centers across the state and implement planning policies to
+facilitate smart growth and restrain urban sprawl. In addition, new transit projects currently
+proposed or in the design phase would be fully implemented by 2020. These include: the CTA
+Circle Line connecting existing transit stations along the edge of central Chicago; expansion of
+existing CTA lines including the Red, Orange, and Yellow lines; new transit service on the
+proposed Ogden/Carroll St. transit-way extending westward from Navy Pier and connecting several
+existing transit stations; construction of the Suburban STAR Line connecting dozens of large
+suburban communities between Joliet and O’Hare International Airport; extension of several Metra
+commuter rail lines including the Northwest Line, BNSF Line, and Electric District; creation of a
+new Metra line to serve Chicago’s Southeastern suburbs; and construction of two Bus Rapid Transit
+lines in the PACE transit network along Cermak Road and Golf Road.
+The policy would also implement a state development impact fee that would be limited to certain
+fast growing areas, mandate a limit on the installation of impervious surfaces in certain fast growing
+areas, use the revenue from the development impact fee along with one percent of the hotel
+operators tax to fully fund and expand the existing (but currently unfunded) Illinois Local Planning
+Fund; and apply criteria to the Local Planning Fund application that, if met, would provide higher
+consideration of applications and higher maximum levels of planning grants. These criteria would
+46
+
+
+
+require applications to create plans that encourage smart growth and allow DCEO to issue grants to
+developments that are consistent with the LEED for Neighborhood Development (LEED-ND)
+standards of the U.S. Green Building Council.
+Under this strategy, by 2008 new planning guidelines are in place, existing transit projects are
+completed, and new projects are in the planning phase. By 2015 and after, the majority of new
+development statewide is taking place in urban centers, as opposed to suburbs, and transit options
+are well on their way to a dramatic expansion. Barriers to implementation would be the additional
+resources needed to expand and maintain mass transit networks statewide and the urban planning
+agencies.
+Strategies Supported by ICCAG Members with No Dissent: Commercial, Industrial and
+Agriculture Subgroup
+Increase traditional recycling diversion rate and stimulate demand for recycled materials. This
+strategy would mandate an increase in the municipal recycling diversion goal from 25 percent to 50
+percent. In addition it is recommended that the Governor also significantly increase market
+development incentives to encourage recycled-feedstock paper producers to locate in Illinois. By
+increasing recycling in Illinois and using recycled feedstocks for production within the state, Illinois
+can capture GHG reductions from a reduction in energy demand for processing feedstocks and
+reducing landfill methane. This strategy would also stimulate new industrial economic activity in
+the state.
+Encourage or require reductions in emissions of high global warming potential gases.
+This strategy would require the following:
+•
+•
+•
+•
+•
+•
+•
+•
+
+A 40 percent overall reduction in high global warming potential (GWP) gases between 2010
+and 2020.
+Mandatory reporting for stationary sources of high GWP gases beginning January 2009.
+Emissions limits for new and existing large stationary sources beginning 2010. Reductions
+of other GHG gases can count towards the goal unless they are required by another
+law/regulation.
+Early reductions by affected sources count towards reduction goals.
+Technical assistance provided by the state.
+Affected sources must show reasonable progress by January 1, 2014, and every two years
+thereafter.
+Adopting state laws, where necessary, to limit commercial releases of high GWP gases, such
+as releasing coolants from scrapped appliances.
+Education and enforcement programs.
+
+The reporting for stationary sources should begin in January 2009, stationary source emissions
+limits should begin in January 2010 and commercial education and enforcement should begin in
+January 2009. A barrier to implementation would be that some sources of high GWP gases are
+partially decentralized and difficult to measure and track.
+Require land-use offsets requirements for large changes in land use. This strategy would create a
+land-use offset requirement, where developers/owners would be required to replace land with high
+carbon stocks (e.g., forests) that is lost with a comparable high carbon land use elsewhere. It would
+apply when land is converted from a higher to a lower carbon capacity use and where the
+development is above a threshold size (e.g., 10 acres), and meets other conditions (to be determined
+47
+
+
+
+at a later date). A 1.5 to 1.0 offset would be required (e.g., 1.5 acres for every acre lost). The major
+barrier to this policy is that it requires a new regulatory structure to track development and offset
+projects on a statewide basis.
+Provide incentives for methane capture from coal mines, landfills, livestock operations, and
+wastewater treatment plants. This strategy would provide financial incentives in the form of project
+rebates and/or grants to the owners of projects that capture and combust methane from wastewater
+treatment plants and livestock operations (through anaerobic digestion), coal mines, and landfills.
+Project developers would be able to receive a subsidy for each energy unit generated
+(approximately 1¢/kw-hr or $2.96/MMBTU). The incentive program would be implemented in
+2009, with the first projects qualifying in 2010, and projects completed, ultimately covering 50
+percent of methane emissions in these sectors between 2011 and 2020. A barrier to this policy
+would be the need for new resources to fund and implement these incentives. Resources could
+potentially be derived from the Illinois EPA’s CAIR NOx set-aside program, from the auctioning of
+allowances through a cap and trade system, or other sources.
+Expand use of no-till farming. Tilling soil releases carbon to the air that forms CO2. Continuous notill (CNT) farming sequesters carbon in the soil and therefore reduces atmospheric CO2 levels.
+Many Illinois farmers will not till the soil for one or two years as they rotate between corn and soy
+beans, but CNT is necessary to keep carbon sequestered. This strategy, to be implemented starting
+in 2009, would provide additional financial incentives for farmers to use no-till farming. Currently,
+available incentives are relatively small and/or limited in duration. Barriers include: Illinois
+farmers’ preference to till(at least every few years); funding for additional incentives is necessary,
+and some farmers may need to purchase new equipment. CNT can be more cost-effective even if
+yields are slightly lower. However, high corn prices undermine this.
+Expand programs to encourage forest management, reforestation, tree- and grass-planting. This
+policy would have the state of Illinois plant an additional 24 million trees between 2009 and 2020
+by increasing the size of the Governor’s recently announced state tree planting program from an
+additional two million to four million trees planted per year. Other policies that could increase tree
+planting in Illinois include: expanding the Forestry Development Cost Share Program, which
+provides incentives for private landowners to plant trees; increasing the number of state foresters at
+Illinois Department of Natural Resources to provide technical assistance; and ensure that the new
+CREP program for the Kaskaskia River watershed is funded. A barrier to implementation is the cost
+of tree plantings and additional/increased conservation incentive payments.
+Energy efficiency incentives, assistance, and/or standards for commercial/industrial generators and
+boilers. This strategy would create mandatory commercial and industrial boiler efficiency standards
+for new installations, with financial incentives made available for efficiency upgrades at existing
+facilities. Thermal efficiency standards would be applied for commercial and industrial boilers that
+require a permit from Illinois EPA for operation. A commercial boiler thermal efficiency standard
+of 80 percent for natural gas and 83 percent for oil fired boilers would be required for all new
+boilers sold in Illinois. A similar thermal efficiency increase of three percent as compared to the
+average efficiency of currently available models would apply to industrial boilers as well. All new
+boilers sold in Illinois would be required to meet these standards. Existing boilers would be
+unaffected.
+In addition, financial incentives in the form of grants and/or rebates would be made available to the
+owners of existing facilities to implement efficiency upgrades including the installation of
+combined heat and power (CHP) units. Incentives would apply to the costs of siting, safety,
+48
+
+
+
+equipment and installation. These incentives would be doubled if the installation is fueled
+exclusively by renewables (e.g., biodiesel, wood, switchgrass). New resources would need to be
+allocated to fund and implement these incentives and establish efficiency standards. Resources
+could be derived from the CAIR NOx set-aside, from the auctioning of allowances through a cap
+and trade system, or other sources
+Strategies Supported by a Majority of ICCAG Members
+State-Level Cap and Trade Program
+In favor: 21
+Opposed: 10
+Abstaining: 3
+This strategy would cap emissions from fossil fuel power plants and relatively large commercial
+and industrial sources of GHG emissions through a market-based cap and trade program. Under a
+cap and trade program, the total pool of emissions are initially limited, or capped, to a set amount
+that shrinks over time, and sources that stay below their allotted emissions can sell emissions
+allowances, or allotments, to sources that exceed their allowable limits. In addition, capped sources
+could buy “offset” credits on a limited basis to help them comply. Offsets are created by entities not
+covered by a cap when they implement projects that reduce GHG emissions (e,g., planting trees or
+capturing methane for energy use at a livestock facility). These emissions reductions are used to
+offset emissions from the capped sources. Emissions would be capped beginning in 2012 and
+reduced to 1990 levels by 2020.
+The ICCAG’s approved cap and trade strategy includes a preference for linking with other states,
+and in particular Midwest states, because it would create a more efficient, less costly program and
+would minimize the extent to which emissions leak from Illinois to other states rather than being
+eliminated. Scenario #3 (described above) assumed a link to RGGI, rather than another
+cap and trade program, because it is the only cap and trade program in the U.S. that is completed
+and can be modeled. Thus, the ICCAG is not explicitly recommending a link to RGGI.
+The ICFI modeling indicates that the cap and trade program would generate the most GHG
+reductions of the 24 recommended strategies, by far, and that the Governor’s goal cannot
+realistically be met without it. It was also the most complex and controversial approved strategy.
+Recommended Design Elements
+Stringency. Covered emissions would be reduced to their 1990 levels by 2020. According to
+WRI’s emissions inventory for Illinois, estimated 1990 emissions from covered sources in the
+Industrial, Commercial and Electric Generation sectors were approximately 72.6 million metric
+tons. In order to insure that the Governor’s reduction goals are met, there would be no cap on
+the price of allowances.
+Schedule. In 2012, emissions would be capped at 2011 levels and then reduced gradually to
+meet the 1990 level goal in 2020.
+Covered sources. Existing and new point-source, direct emitters of CO2, specifically fossil fuel
+fired electric generation units with a nameplate capacity of 25MW or higher or emit 25,000
+metric tons of CO2 or more annually, as well as stationary fossil fuel fired combustion units that
+emit 25,000 metric tons of CO2 or more annually, would be covered at the start of the program.
+Other sectors, smaller sources within covered sectors and GHGs other than CO2 may be
+included over time (if technically feasible and not duplicative) in order to make the market more
+robust and efficient while also potentially achieving greater emission reductions at least cost.
+49
+
+
+
+Recognition of early action. Covered sources that have achieved GHG reductions within a
+certain period of time prior to implementation of the program would be rewarded for their
+actions. GHG reductions would need to be confirmed through verification of a source’s own
+inventory or through the registration of emission reductions in a recognized GHG reporting
+program. In any event, generally accepted GHG accounting principles must be used for
+reporting early action reductions.
+(Modeling assumption: Early action credits for reductions achieved from 2007-2011.)
+Linkages with other programs outside of Illinois. The preference is for an independent cap and
+trade program (e.g., not joining RGGI or the emerging Western states programs) that will still
+be linked to other emissions markets. Efforts would be made early in the design process to
+harmonize an Illinois program with existing and emerging state and international systems.
+Linkages or regional market development would be explored with Midwest states in particular.
+(Modeling assumptions: The “all-in with cap and trade” modeling run will not include
+linkages to other states; a sensitivity run will be done that includes linkages to RGGI. Under
+the RGGI linkage sensitivity run, regulated entities in Illinois (and the RGGI states) could
+buy European Union (EU) allowances if the RGGI allowance price exceeds $10.
+Allowances can flow between Illinois and the RGGI states but cannot flow from Illinois and
+the RGGI states to the EU.)
+Distribution of allowances. In order to minimize overall costs to the state economy, consumers,
+industry, and workers, at least 85 percent of all allowances would be auctioned. All revenue
+generated by the auctioning of allowances would be recycled and directed to purposes that
+benefit the public. Possible activities that would receive funds would include: efficiency
+incentives for appliances, buildings, and industrial facilities; renewable energy deployment; the
+deployment of commercial applications of carbon capture and storage technology; financial and
+professional assistance for potentially displaced workers; and energy assistance to low income
+households. Eligible public benefits activities and the allocation methodology for any nonauctioned allowances would be determined by a subsequent stakeholder process. The share of
+auctioned allowances may also be re-examined in this stakeholder process.
+NOTE: The strategy supported by ICCAG indicates that 85 percent of the emissions
+allowances would be auctioned, but the strategy does not discuss the design elements of the
+auction process. Under an auction, it is expected that the state would sell groups of
+allowances in predetermined amounts (e.g., 100 tons) for a given year to the highest bidders.
+The total pool of allowances available for auction would shrink each year. The auction
+could be designed to auction allowances one year at a time or for multiple years at each
+auction (e.g., an auction held in 2010 could include allowances only for 2011 or for 20112013). Those bidding on allowances would likely include companies subject to an emissions
+cap, but the bidding could be open to others as well that meet certain qualifications. Such
+auctions would be held on a regular basis with consistent and predictable rules on process
+and participation. In addition to the auction, owners of allowances would be able to buy and
+sell allowances in a secondary market that would function separately from the auction.
+(Modeling assumptions: Revenue from the auction of allowances is assumed to flow into
+general state revenues so as not to interfere with the emissions reductions of other policies in
+the modeling scenarios.)
+
+50
+
+
+
+Offsets. Regulated sources could use credits generated from offset projects in unregulated
+sectors to help meet up to 10 percent of their compliance requirements in any given year. The
+program should allow for a wide range of eligible offset projects, as long as the GHG reductions
+are real, permanent, additional, and verifiable. Though offsets generated in Illinois are preferred,
+eligible offset categories and the geographic source of offset credits would be determined
+through a subsequent stakeholder process.
+(Modeling assumptions: Regulated entities can buy Clean Development Mechanism (CDM)
+credits under the “all-in” scenario in accordance with proposed offset rules stated above.
+Under the sensitivity run that links to RGGI, regulated entities in the RGGI states and
+Illinois can use RGGI and Illinois offsets.)
+Emissions leakage. Emissions leakage (the shifting of electricity generation and associated
+GHG emissions out of state to avoid emissions caps and related costs) is likely to occur to some
+degree due to this program. Informed by the modeling results and recommendations of a
+subsequent stakeholder process, steps would be taken to minimize emissions leakage during
+program design and implementation.
+Summary of ICCAG Member Comments
+Many comments were made about this proposal. To review the comments in detail, see the
+complete record of written comments in Volume 2 of the Appendices. In brief, ICCAG members
+voting against the cap and trade proposal, or abstaining, argued that: a cap and trade program should
+only be implemented at the national level; jobs in the electric generation sector would be lost to
+other states; emissions decreases in Illinois would be offset by emissions increases out-of-state
+(leakage); energy costs would go up; electricity reliability would be undermined; the proposal
+applies to relatively small emitters that should not be included; sources might have to comply with
+both an Illinois and a national program; and emissions allowances should be given to regulated
+entities at no cost.
+ICCAG members voting for the cap and trade proposal argued that: the modeling results
+demonstrate that the Governor’s goal cannot be met without a cap and trade program; energy costs
+go down and economic impacts are positive under the scenarios with cap and trade; federal action is
+more likely if states—including Illinois—take action first; the economic and health impacts of not
+reducing GHG emissions will be substantial and outweigh any negative economic impacts; and
+emissions leakage can and should be minimized.
+Nearly all the ICCAG members agreed that linking with other states and emissions markets is better
+than an Illinois-only approach because it would create a more efficient, less costly program and it
+would minimize emissions leakage. This issue of leakage was discussed at length during the
+ICCAG process. There was agreement that leakage should be minimized because it undermines the
+effectiveness of GHG reduction strategies on a national and global scale, and it was noted that the
+cap and trade proposal called for the creation of a separate stakeholder process to address leakage.
+As described above, some ICCAG members argued that the state should take credit for out-of-state
+emissions reductions resulting from its policies, even if those reductions may be difficult to verify.
+From this perspective, Scenario #1 without cap and trade is almost as good as Scenario #2 with cap
+and trade (see Section VI, Table 12 above). Out-of-state emissions reductions are significantly
+lower under Scenario #2 compared to Scenario #1 because of leakage. However, WRI, ICFI and
+Illinois EPA explained that it is very difficult to show whether emissions reductions in some other
+51
+
+
+
+state resulted from policies implemented in Illinois. This is one reason why Table 12 presents
+estimates for direct out-of-state emissions reductions, including 44 Mt CO2e under Scenario #1, but
+does not count them towards the Governor’s goal. Chairman Scott indicated that leakage is an
+important issue that would be brought to the Governor’s attention, and that additional steps would
+be needed to address it.
+Those opposed to cap and trade primarily represented the labor community and several electric
+generation companies. Three members abstained who represented industrial corporations.
+Require GHG Emissions Standards for Cars
+In favor: 20
+Opposed: 8
+Abstaining: 5
+The federal Clean Air Act allows states to adopt (“opt-into”) the California vehicle emissions
+standards, which apply to passenger vehicles only and are more stringent than the federal standards.
+If a state does not adopt California's standards, vehicle manufacturers and others are subject to the
+federal emissions standards established by the U.S. EPA. Eleven other states have adopted the
+California standards: Connecticut, Maine, Maryland, Massachusetts, New Jersey, New York,
+Oregon, Pennsylvania, Rhode Island, Vermont, and Washington.
+The California vehicle emissions standards consists of (a) the Low Emissions Vehicle II (LEV II)
+standards for non-methane organic gases (NMOGs, similar to volatile organic compounds or
+VOCs), nitrogen oxides (NOx), particulate matter (PM), carbon monoxide (CO), and hazardous air
+pollutants; and (b) the “Pavley” standards for GHG emissions. The LEV II standards took effect
+with model year 2004 (calendar year 2003) and will be completely phased-in with model year 2010.
+LEV II requires auto manufacturers to meet statewide fleet average emissions, and all vehicles must
+meet one of three different technology/emission classifications. The California Pavley GHG
+standards are scheduled to take effect model year 2009 with complete phase-in by model year 2016.
+States that adopt the California vehicle emissions standards must wait at least two model years
+before requiring the sale of California-certified cars. If the California standards were adopted in
+Illinois before January 1, 2008, the first model year that could be affected is most likely 2011,
+which would probably be calendar year 2010.
+The Pavley standards are not officially part of the California program yet because of legal challenges.
+In addition, U.S. EPA recently denied California's request to implement the Pavley standards. (See
+Section IX for more information about U.S. EPA's decision.) Some of the California opt-in states
+have already approved the Pavley standards in anticipation of their approval, while others have not.
+The California vehicle emission standards also include the Zero Emission Vehicle (ZEV) standards,
+which require auto manufacturers to sell a certain percentage of zero and extra-low emissions
+vehicles. Unlike LEV-II, U.S. EPA has ruled that states do not have to adopt the ZEV standards as
+part of the California program.
+Last year the Governor convened a Clean Car Working Group to provide guidance on implementing
+his EIP. That group considered and ultimately recommended that the state adopt the California
+Vehicle Emissions Standards. As part of that process, the Illinois EPA was asked to provide
+estimates for the costs and emissions benefits of adopting the California emissions standards. At
+that time, the Agency endorsed using cost and emissions estimates provided by the California Air
+Resources Board (CARB), and the same assumptions were used for ICCAG modeling. The
+
+52
+
+
+
+assumptions include: New cars will cost $370 more to comply with the California standards in
+2010, rising to about a little over $1,000 in 2015. However, according to CARB, the savings from
+buying less fuel exceeds these additional costs, amounting to more than $3,000 in savings over the
+life of the car on average at $2.30 per gallon and even more at today’s gas prices.
+Summary of ICCAG Member Comments
+Many comments were made about this proposal. To review the comments in detail, see the
+complete record of written comments in Volume 2 of the Appendices.
+In brief, ICCAG members who voted against this strategy stated that: the standards would impose
+excessive costs on consumers; hurt domestic car manufacturers and their employees, including
+some auto manufacturing facilities within Illinois; and exacerbate the inefficient bifurcation of
+states with California vs. federal vehicle standards. They also indicated that car manufacturers could
+not meet the standards without compromising safety; the standards are actually fuel economy
+standards not emissions standards and are therefore illegal; and that they support national legislation
+to increase fuel economy standards.
+ICCAG members voting for this strategy argued that: it would save car buyers significant amounts
+of money; generate the most GHG reductions of any transportation strategy; substantially reduce
+gasoline consumption in Illinois; increase the state’s energy independence; and enhance the state’s
+economy by keeping money in-state that would otherwise go to out-of-state or international oil
+companies. They also said the standards are legal and can be met by auto manufacturers, and that
+Illinois should approve the program now because it will take years to implement.
+Members who voted against this recommendation included an auto manufacturer and those
+representing the labor community
+20 Percent Carbon Offset Requirement For New Fossil Fuel Power Plants
+In favor: 19
+Opposed: 8
+Abstaining: 3
+This policy, to be implemented January 1, 2010, and based on a similar policy in place in Oregon
+and Washington state, would require that new and expanding fossil fuel power plants offset 20
+percent of their carbon dioxide emissions. Regulated entities could earn offsets by purchasing them
+from an organization approved by Illinois EPA or designing and implementing an offset plan
+approved by Illinois EPA. The types of offsets allowed, verification of offsets, and similar
+implementation details will be sorted out at a later date. The state would require additional
+resources to manage and enforce offset requirements.
+Summary of ICCAG Member Comments
+ICCAG members in opposition to this strategy and those who abstained were largely the same
+members who were in opposition to the cap and trade recommendation and for similar reasons.
+Opponents felt that this policy would unfairly impede the construction and expansion of fossil fuel
+power plants in Illinois and cause disadvantages compared to competitors in other states. Some said
+cap and trade would control emissions from new power plants and that it did not make sense to
+require both policies.
+ICCAG members in favor of this strategy argued that it would at least partially offset the additional
+GHG emissions from new and expanded fossil fuel power plants that will make it more difficult to
+meet the Governor’s goal. Some said the offset requirement should be more stringent.
+53
+
+
+
+Complete written comments can be found in Volume 2 of the Appendices.
+Adopt a Carbon Capture and Storage Portfolio Standard
+In favor: 20
+Opposed: 8
+Abstaining: 2
+This policy would provide incentives to encourage the development of carbon capture at new fossil
+fuel power plants in Illinois as well as ensure that developers have a market for the electricity from
+these plants. Much like a RPS, this strategy would require Illinois electric utilities and alternative
+retail electric suppliers to purchase up to five percent of their peak electric load from power plants
+that sequester carbon, once this technology is commercially available. CCS technologies, however,
+are not expected to be available until at least 2015.
+Summary of ICCAG Member Comments
+Opposition to this strategy largely revolved around the uncertainty as to the availability and cost of
+CCS technology. Opponents felt they could not support a strategy that did not also include a
+roadmap for deployment of this technology and funding for the additional costs. While some in
+opposition acknowledged that CCS is a key technology for energy security and for including coal in
+a carbon constrained future, they felt that this strategy was not complete without more certainty that
+CCS technology will be commercially deployed within the next 15 to 20 years.
+Those in favor of this strategy felt that: it would help accelerate the deployment of CCS
+technologies in Illinois; the future of coal largely depends on replacing the aging fleet of power
+plants with more efficient plants equipped with CCS; plants using CCS are likely to use Illinois
+coal; and the state can be a leader in clean coal power generation while meeting the Governor’s
+goal.
+Complete written comments can be found in Volume 2 of the Appendices.
+CO2 Emission Performance Standards For Electricity Generation And Purchased Electricity (New
+Generation Only)
+In favor: 20
+Opposed: 8
+Abstaining: 2
+Under this strategy, new fossil fuel power plants in Illinois would be required to meet an emissions
+standard for CO2. Similarly, when utilities/load serving entities (LSEs) buy electricity from new
+power plants, those plants must also meet this standard.
+The policy would apply to all new electric generation units built in Illinois that begin operation no
+less than 2 years after approval of the standard, which have a nameplate capacity of 25MW or
+greater and are intended to generate electricity at a unit capacity factor of at least 60 percent.
+Beginning on December 31, 2015, these plants and all subsequently built plants must meet a CO2
+emissions rate standard of 1,100 lbs CO2/MWH, equal to that of a typical new natural gas combined
+cycle power plant. The stringency could be increased over time. Standards could be met through
+any combination of low-carbon fuels (such as natural gas or sustainably sourced biomass),
+increased efficiency, carbon capture, and storage or other technologies. In addition, beginning
+January 1, 2009, LSEs in Illinois that enter into power purchase contracts with newly operational
+power plants, regardless of where the plants are located, may only do so if the plants meet the same
+1,100 lbs CO2/MWH. The standard would not apply to day ahead and spot market power purchases.
+Barriers to implementation include: the Illinois EPA and ICC will require additional resources to
+manage and enforce new standards and legislation would be required.
+
+54
+
+
+
+Summary of ICCAG Member Comments
+Opponents of this strategy felt that such an emissions standard would eliminate conventional coal as
+an option for new power generation in the state. This could increase the cost of electricity in the
+long term and could cause emissions leakage as new coal plants would instead be built in
+neighboring states. They also felt that the standard in general was too stringent and the limits on
+out-of-state generation may be too technically difficult to enforce and could interfere with interstate
+commerce.
+Supporters of the strategy felt that the emissions standard would help prevent the lock-in of new
+carbon-intensive generation over the medium to long term, and they noted that Illinois already
+produces 28 percent more electricity than is used in-state. In addition, the constraints on purchased
+power could help prevent emissions leakage as it would even the playing field between in-state and
+out-of-state generation. In the same way, the standard for purchased power could potentially
+mitigate leakage due to a cap and trade program.
+Complete written comments can be found in Volume 2 of the Appendices.
+
+55
+
+
+
+SECTION VIII. CONCLUDING REMARKS
+
+Governor Blagojevich created the ICCAG to recommend strategies to meet his statewide GHG
+reduction goals of 1990 levels by 2020, and 60 percent below 1990 levels by 2050. The ICCAG
+represents diverse interests and perspectives, and a transparent, inclusive, and collaborative process
+was used to ensure that ICCAG members and non-members alike would have the opportunity to
+raise questions, concerns, and other issues. All major decisions regarding policy proposals were
+vetted through ICCAG subgroups and the full ICCAG. All information prepared in support of the
+process, and any written comments from members and non-members, were posted on the Web at
+www.ilclimatechange.org.
+In addition to the expertise of the ICCAG members, WRI and ICFI assisted the ICCAG process.
+WRI is a Washington D.C.-based environmental research and policy organization, and their climate
+change experience includes co-authoring the standard for measuring and reporting GHG that is used
+by companies throughout the world. ICFI was retained to model the emissions and economic
+impacts of different policy scenarios. ICFI is a global energy and environment consulting firm
+based in Washington D.C. with a staff of over 1,500 consultants in 20 offices. The firm’s clients
+include the Canadian government, U.S. federal and state governments, the EU, and several oil and
+gas producing nations.
+After meeting five times in person and dozens of times by conference call, at its July 10 meeting
+ICCAG members voted to support nineteen strategies with no dissent and at least one abstention. At
+the September 6 meeting, a majority of voting ICCAG members voted to support an additional five
+strategies with eight to ten members dissenting and several members abstaining. The modeling
+conducted by ICFI indicates that implementing these strategies would meet the Governor’s 2020
+GHG reduction goal with positive economic benefits for the Illinois economy compared to doing
+nothing new to address climate change.
+
+56
+
+
+
+SECTION IX. KEY DEVELOPMENTS SINCE THE ICCAG MADE
+ITS RECOMMENDATIONS
+Since the ICCAG voted on its recommendations, a number of important actions have
+been taken at the state, regional, and federal levels to mitigate GHG emissions. Some of
+these actions overlap with particular ICCAG recommendations. At the state level, the
+IPAA of 2007 was signed into law by Governor Blagojevich in August of last year. The
+IPAA includes two provisions that are similar to two ICCAG recommendations:
+•
+
+•
+
+Renewable portfolio standard. Beginning in 2008, electric utilities must supply
+renewable energy for two percent of the electricity they provide customers,
+increasing to 25 percent by 2025. The requirements only apply to electricity
+supplied to residential and small commercial customers. The renewable energy
+requirement is scaled back if electricity rates increase more than 0.5 percent per
+year or two percent total. The ICCAG recommendation, which was approved with
+no dissent does not include spending caps and applies to all electricity customers.
+Energy efficiency portfolio standard. Beginning in 2008, electric utilities must
+achieve a 0.2 percent energy use reduction through investments in energy saving
+programs, increasing to two percent by 2015. The reduction goals are scaled back
+if electricity rates increase more than 0.5 percent per year or two percent total.
+The ICCAG recommendation has the same energy reduction goals but with no
+spending caps, and the goals also apply to natural gas utilities. This
+recommendation was approved with no dissent.
+
+At the regional level, Governor Blagojevich signed the Midwestern Greenhouse Gas
+Reduction Accord (Accord) in November 2007 along with the governors of Iowa,
+Kansas, Michigan, Minnesota, and Wisconsin, and the Premier of Manitoba. The Accord
+states that the participating states will develop (a) regional greenhouse reduction goals by
+the summer of 2008, and (b) a model rule for a multi-sector, market-based cap and trade
+program by November 2008. The Accord will largely implement the cap and trade
+program recommendation approved by a majority of the voting ICCAG members. The
+recommendation calls for links to other states, preferably nearby states, because that
+would create a more efficient, less costly program and would minimize the extent to
+which emissions leak from Illinois to other states rather than being eliminated.
+In December 2007, the federal Energy Independence and Security Act (EISA) of 2007
+was signed into law. The EISA includes four provisions that are similar to four ICCAG
+recommendations:
+•
+
+•
+
+Energy efficiency standards for light bulbs. The new EISA standards are virtually
+identical to the ICCAG recommendation that was approved without dissent,
+although the ICCAG approved mercury content standards that are not included in
+EISA.
+Energy efficiency standards for appliances and equipment. The new EISA
+standards are very similar to the ICCAG recommendation that was approved with
+no dissent.
+
+57
+
+
+
+• Increased Corporate Average Fuel Efficiency requirements. Increased Corporate
+Average Fuel Efficiency requirements will be phased in, starting in 2010. More
+fuel efficient vehicles emit fewer GHG emissions because they consume less fuel.
+A majority of voting ICCAG members recommended that Illinois adopt and
+implement state-level GHG emissions limits for passenger vehicles based on the
+California vehicle emissions standards. Under the federal Clean Air Act,
+California is allowed to adopt more stringent vehicle emissions requirements with
+approval from the U.S. EPA, and states must choose either the California 58
+standards or the federal standards established by U.S. EPA. Eleven other states
+have chosen the California standards. California has more stringent vehicle
+emissions standards for nonmethane organic gases (NMOGs, similar to volatile
+organic compounds or VOCs), nitrogen oxides (NOx), particulate matter (PM),
+carbon monoxide (CO), and hazardous air pollutants.
+Neither California nor U.S. EPA currently regulates GHGs from motor vehicles,
+but California had asked for U.S. EPA’s approval to do so. U.S. EPA denied that
+request late last year. California and other states, including Illinois, have
+challenged U.S. EPA’s decision in court. Compared to the new CAFE standards
+in the EISA, the California standards would reduce global warming gases and
+improve fuel economy three to four years faster and approximately 13.1 percent
+more in the year 2020. (Based on data from: California Air Resources Board Addendum to
+February 25 Technical Assessment, May 8, 2008: Comparison of Greenhouse Gas Reductions for the
+United States and Canada under ARB GHG Regulations and Proposed Federal 2011-2015 Model Year
+Fuel Economy Standards.)
+
+• Low carbon fuels standard. Under EISA, lifecycle carbon emissions for new
+renewable fuels production facilities must be 20 percent below a baseline level.
+The ICCAG recommended, with no dissent, a broader “low carbon fuels
+standard” that would require transportation fuel producers, importers, refiners and
+blenders to ensure that all transportation fuels sold in Illinois have lifecycle
+carbon emissions that are 10 percent less than current levels by 2020.
+
+

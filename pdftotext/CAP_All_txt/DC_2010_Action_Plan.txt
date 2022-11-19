@@ -1,0 +1,3395 @@
+Draft for Public Discussion
+September 2010
+
+Climate of Opportunity
+A Climate Action Plan
+for the District of Columbia
+
+
+
+Dear Residents, Business Owners
+and Partners for a Green DC:
+What will a changing climate mean for each of us in the District of Columbia?
+Records show that our average temperatures and water levels are rising, and recent
+history shows just how much extreme weather can affect our daily lives.
+But climate change can have another meaning as well: opportunity. For current residents, institutions and businesses, there are opportunities to save money and become more efficient consumers of energy and water. As new markets grow for
+renewable energy, alternative fuel vehicles, and high efficiency buildings, additional
+opportunities are created for new jobs and for businesses to expand and grow.
+For all of us, there is the opportunity to envision what our city will be like in 2020 and
+2050. How will a network of streetcars, bus lines, bike stations and Metro change our
+travel habits? How will green and cool roofs and an enhanced tree canopy make our
+neighborhoods cooler, more livable and more beautiful? How can we realize the opportunity climate change presents to increase the wealth and health of our city?
+Every day, our actions at home, school and work affect our emissions of carbon
+dioxide and other greenhouse gases. Likewise, we have opportunities each day in
+the way we commute and move around the city, the way we buy and use energy, and
+the way we build (or rebuild) our city to maximize efficiency, build smarter, and plan
+not just for this year and next, but for the city we’ll leave to the next generation.
+Last year, I tasked our District agencies to come up with an aggressive but achievable plan to reduce the “carbon footprint” of our government. This document contains a detailed list and the estimated impacts of these “government operations
+actions.” I also asked them to put together an overview of actions that others outside of the District government can take to address greenhouse gas emissions from
+our community as a whole. This document contains an overview of these “community actions” to serve as a starting point for discussion of our collective efforts to reduce our emissions.
+I invite you to join us today in envisioning the opportunities for the future, and to engage with the Fenty Administration and people across our community as we work
+together to further our Green DC Agenda.
+Mayor Adrian M. Fenty
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+Table of Contents
+1
+
+Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+2
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+3
+
+The Greenhouse Gas Emissions Inventory . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+4
+
+Emissions Growth Forecasts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+5
+
+Greenhouse Gas Emissions Reduction Targets . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+6
+
+The Climate Action Plan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+6.1 Government Operations Actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+6.2 Community Actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+7
+
+Other Benefits of Climate Protection Measures . . . . . . . . . . . . . . . . . . . . . . . . . 44
+
+8
+
+Next Steps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+
+List of Tables and Figures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Credits and Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Endnotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+What You Can Do . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+
+We Want Your Comments and Input
+This document is a Draft for Community Discussion. You can contribute to the
+District’s climate planning effort by providing input in two ways:
+First, the District Department of the Environment (DDOE) is asking for public
+comments on the list of proposed Government Operations Actions (Section
+6.1) by November 15, 2010. You can submit comments via e-mail to
+climate.plan@dc.gov or by mail to DDOE, Climate Action Comments, 1200
+First St NE, 5th Floor, Washington, DC 20002.
+Second, you can participate in a series of public forums and meetings convened by DDOE to gather input and comments on the proposed Government
+Operations Plan (Section 6.1) and the Community Discussion Draft (Section
+6.2). More information on the climate engagement process can be found at
+www.green.dc.gov, by e-mailing climate.plan@dc.gov, or calling 202-535-2600.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+1
+
+
+
+1 Executive Summary
+How efficient and competitive will the District be in 2020 and 2050? How will residents
+and businesses adapt to a changing climate and economy? How can we ensure that
+the District remains the economic engine for our metropolitan area and the place where
+people want to live and businesses want to grow?
+When Mayor Fenty released the Green DC Agenda in April 2009, he called for developing a visionary plan to address climate change in the nation’s capital. Planning for
+climate change means identifying opportunities to live and work more efficiently and
+working aggressively to create jobs and strengthen the local economy. The same actions that will help reduce greenhouse gas emissions, such as retrofitting homes,
+schools and office buildings, will create jobs for people who design and build cuttingedge facilities, people who sell and install the latest green technologies, and people
+who provide goods and services to those industries.
+For the past year, agencies across the District Government have been working to
+measure the District’s “carbon footprint”—the amount of greenhouse gases we release each year—and to draft a plan with specific targets and actions to reduce our
+emissions. Our draft plan focuses on this “Climate of Opportunity” and will begin an
+open, public engagement to help refine just what your District Government can do,
+and just what the city’s businesses and residents can do, to create a cooler, greener,
+and more efficient city for the 21st Century.
+
+Challenges and Opportunities
+Cities like Washington present both challenges and opportunities with respect to greenhouse gas emissions. As the hub of economic activity, transportation, and as a dense
+population center, our city produces significant greenhouse gas emissions. During calendar year 2006, the District’s greenhouse gas emissions totaled 10.5 million metric
+Figure ES.1 Per Capita CO2e Comparison (metric tons)
+20
+
+15
+
+10
+
+5
+
+6.4
+
+10.1
+
+11.4
+
+11.9
+
+13.3
+
+14.1
+
+14.4
+
+18.0
+
+18.9
+
+19.4
+
+2
+
+e
+ag
+
+er
+US
+
+av
+
+er
+
+nv
+
+on
+gt
+hin
+
+De
+
+,D
+C
+
+e
+Wa
+s
+
+Ba
+
+ltim
+
+or
+
+ton
+us
+Ho
+
+tle
+
+sto
+n
+Bo
+
+de
+ila
+Ph
+
+Se
+at
+
+lph
+
+ia
+
+co
+cis
+
+nF
+ra
+n
+Sa
+
+Ne
+
+w
+
+Yo
+rk
+Ci
+ty
+
+0
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+The term “CO2e” (carbon dioxide equivalents) is used throughout this document to refer to the family of greenhouse gases that contribute to climate
+change. These gases are outlined in Table ES.1, which includes the typical
+sources of these gases and their global warming potential (GWP), a measure of
+the level of potency of a particular greenhouse gas, as measured against CO2.
+Methane (CH4) is a relatively weak greenhouse gas with a GWP of 21, whereas
+sulfur hexafluoride (SF6) is 23,900 times more potent than CO2. It is important to
+note that not all of these sources of emissions are relevant to the District.
+tons of carbon dioxide equivalents (CO2e), or 18 tons CO2e for each
+District resident.
+Compared to other cities, the District’s per capita emissions are relatively high. A leading driver of these high emissions is the fact that
+the District’s daytime population swells by 400,000 workers every
+workday, which is the largest percentage increase in daytime population of any large city in the nation. Carbon emissions are also
+high because much of the District’s electricity comes from burning
+coal at distant power plants. This carbon-intensive power must be
+transmitted to the city over long distances, resulting in distribution
+losses of energy.
+Buildings are by far the largest contributors to our emissions profile, with residential, non-residential and federal buildings together
+accounting for 74% of the District’s total emissions. Reducing
+building energy use is a challenge central to the success of the District’s Climate Action Plan.
+
+Figure ES.2 2006 Community Emissions by Sector
+Transit – Metro 2%
+
+Waste 2%
+
+Residential
+Buildings
+14%
+Vehicles 22%
+
+Federal
+Buildings
+9%
+
+Non-Residential
+Buildings 51%
+
+Despite higher emissions than some comparison cities, the District
+enjoys many advantages and opportunities to achieve greater efficiency. Dense development, availability of mass transit, and walkable neighborhoods inherently support our efforts to reduce greenhouse gas
+emissions. The District’s Climate Action Plan should take advantage of the opportunities presented by our urban infrastructure to ensure efficiency gains.
+
+Table ES.1 Greenhouse Gases and Associated Global Warming Potential
+Chemical
+Global Warming
+Gas
+Formula
+Typical Activity
+Potential (CO2e)
+Carbon Dioxide
+CO2
+Combustion
+1
+Methane
+CH4
+Combustion, Anaerobic Decomposition
+21
+of Organic Waste (Landfills, Wastewater),
+Fuel Handling
+Nitrous Oxide
+N2O
+Combustion, Wastewater Treatment
+310
+Hydrofluorocarbons
+Various
+Leaked Refrigerants, Fire Suppressants
+11,700
+Perfluorocarbons
+Various
+Aluminum Production, Semiconductor
+6,500
+Manufacturing, HVAC Equipment
+to 9,200
+Manufacturing
+Transmission and Distribution of Power
+23,900
+Sulfur Hexafluoride
+SF6
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+3
+
+
+
+Significant Efforts Are Already Underway
+The District has in place a number of progressive policies and programs that are reducing energy use and promoting renewable energy and alternative transportation,
+lowering our emissions of greenhouse gases. These policies have already elevated the
+District to the top of many measures of urban sustainability. The Green Building Act,
+Clean and Affordable Energy Act, and 2008 Construction Codes set the stage for
+greening our buildings, which account for 74% of our city’s greenhouse gas emissions. Thanks to strong adoption by the private sector, the District has more LEED and
+Energy Star certified buildings than any city our size.
+Green and “cool” roofs keep buildings more comfortable and save energy and the District has one of the most aggressive green roof programs in the country. Our public and
+private buildings have over 800,000 square feet of green roofs (second in the nation behind Chicago). Green and cool roofs help cool our city, improve air quality, and reduce
+greenhouse gas emissions.
+The federal Environmental Protection Agency (EPA) recently recognized the District as
+a national leader (third among cities nationwide) in purchasing renewable power. The
+city’s renewable portfolio standard, which will require electric power sold into the city
+to be 20% renewable by 2020. The renewable energy incentive program is funding
+more than 200 residential and business photovoltaic installations each year.
+Perhaps Washington’s strongest legacy of environmental stewardship is in the acceptance and use of sustainable transportation. Thirty-nine percent of residents commute by mass transit and more than a third of households—37%—do not even own
+cars. Car-sharing, fleet-sharing by the District Government and bike sharing are all expanding and will allow us to be less and less reliant on fossil fuel and further decrease
+our greenhouse gas emissions.
+
+The Need for a Climate Action Plan
+A wide array of business owners, institutions, neighborhood groups, and individual citizens has already made significant efforts to reduce greenhouse gas emissions in the
+District, and we need to build on these successes. A comprehensive and communitywide Climate Action Plan will coordinate public and private sector efforts, foster dialogue and learning opportunities among stakeholder groups, and maintain focus on
+high-impact actions. Having a climate action plan drives progress towards reduction
+targets to achieve our goals in the short, medium and long-term.
+Likewise, the Government of the District of Columbia is committed to meeting the challenge of reducing greenhouse gas emissions from its Government Operations. The District Government’s policies, practices and programs will contribute to a city-wide effort
+to dramatically reduce greenhouse gas emissions, and the city will lead by example.
+Many efforts to reduce our emissions of greenhouse gases also have the added benefit of helping to prepare and protect the District from the negative impacts of climate
+change, including sea level rise, flooding, and increasing urban heat. Shifting to low
+carbon strategies will help local residents and businesses grow in a clean energy economy and position the District for future growth. Smarter use of energy means a more
+efficient city and lower costs for government, residents, and businesses. A low-carbon
+development strategy builds on our strengths as a transit-friendly, walkable city to pro4
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+Mitigation and Adaptation
+Although mitigating climate change is important and efforts to reduce greenhouse gas emissions are a priority for the District of Columbia, climate change
+adaptation efforts are equally critical. Generally speaking, climate change
+adaptation activities focus on the ways in which vulnerable populations, including those living in urban environments and particularly lower-income residents, can prepare for and cope with the threats posed by climate change. For
+example, the District Government could ensure that new or upgraded infrastructure is not located in floodplains or low-lying areas. The goal of a Climate
+Action Plan is not only to set targets to reduce our carbon footprint, but also to
+plan to make the city stronger and more resilient to climate change.
+vide a better quality of life for all District residents, workers and
+visitors.
+
+The District Government’s Commitment –
+Aggressive and Achievable Emissions Reductions
+The Greenhouse Gas Emissions Inventory showed that in calendar year 2006, operations of the District of Columbia Government
+were about 6% of the total emissions for the District, or 720,000
+metric tons of CO2e.
+To capitalize on the many benefits of energy efficiency and
+climate protection, the District Government is committing to
+reduce its emissions by 20% below 2006 levels by 2012, 30%
+below 2006 levels by 2020, and 80% below 2006 levels by
+2050. i
+
+Figure ES.3 Government Operations Emissions by Sector
+Vehicle Fleet 7% Employee Commute 5% Solid Waste 0.1%
+Streetlights
+and Traffic
+Signals
+6%
+
+Buildings
+and Other
+Facilities 59%
+
+Wastewater
+Facilities
+23%
+
+These are aggressive and achievable targets, and are consistent
+with the most forward-looking targets adopted by comparable jurisdictions, regional agencies, or proposed in federal legislation.
+The 2012 and 2020 targets have been modeled to be attainable
+based on measures the District Government currently has already implemented, or
+has planned or proposed. Reductions in 2050 have considerably more uncertainty surrounding them, but rely on the best information currently available pertaining to future
+changes to building codes, vehicle fuel efficiency standards, and other innovations
+over the next 40 years.
+
+Table ES.2 Government Operations Emissions Reduction Target Comparison to Other Cities
+Baseline
+Jurisdiction
+Year
+Short Term
+Mid Term
+Long Term
+New York City
+2005
+n/a
+30% by 2030
+n/a
+Seattle
+1990
+7% by 2012
+30% by 2024
+80% by 2050
+Boston
+1990
+7% by 2012
+n/a
+80% by 2050
+Baltimore
+2007
+15% by 2015
+n/a
+n/a
+Denver
+2004
+n/a
+30% by 2020
+80% by 2050
+Washington, DC
+2006
+20% by 2012
+30% by 2020
+80% by 2050
+Metropolitan
+2005
+10% by 2012
+20% by 2020
+80% by 2050
+Washington Council
+of Governments
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+5
+
+
+
+Measures to Reduce Emissions from Government Operations
+Achieving the target greenhouse gas emissions reductions for District Government
+Operations will require all District agencies and employees to work together toward
+these greenhouse gas reduction goals. Table ES.4 identifies the 17 core mitigation
+measures the District Government will pursue to reach the Government Operations
+greenhouse gas reduction targets. Each measure is identified and described briefly,
+including estimates of the potential greenhouse gas emissions reductions that the
+measure could achieve in years 2012, 2020, and 2050.
+
+Table ES.3 Government Operations Emissions Reductions by Sector
+Government
+Proposed
+Greenhouse Gas
+Greenhouse Gas
+Source
+Emissions %
+Reduction Measures %
+Buildings
+59
+63
+Vehicle Fleet and Employee Commute
+12
+11
+Street Lights & Traffic Signals
+6
+3
+Wastewater Treatment
+23
+23
+Waste and Recycling
+0.1
+0.1
+The list of Government Operations measures was developed by incorporating activities from the Mayor’s Green DC Agenda that have direct climate benefits, and by reviewing best practices from other cities around the nation and world. The measures
+detailed in this Draft Climate Action Plan were selected because they have the greatest potential to reduce greenhouse gas from the District’s main sources and because
+they were quantifiable.
+There are many other programs and policies that can have positive climate, energy efficiency and green results; however some of these measures are not
+quantifiable under standard emissions reductions protocols, like that used by
+ICLEI in developing the District’s Climate Action Plan. Many of these policies
+and programs also have ancillary environmental and human health benefits, as
+discussed later in this report.
+
+Our Community As A Whole – The ‘Carbon Footprint’
+Our city-wide greenhouse gas emissions for 2006 totaled 10.5 million metric tons CO2e,
+from buildings (residential, non-residential, and federal); vehicles (indicated as VMT or vehicle miles traveled); mass transit (Metro); and waste. Figure ES.5 provides a breakdown
+of the specific energy sources of our greenhouse gas emissions, including electricity,
+natural gas, fuel oil, vehicle fuel (gasoline and diesel), kerosene, and emissions from solid
+waste. Electricity consumption is our largest driver of greenhouse gas emissions.
+If no action is taken, greenhouse gas emissions in the District are expected to rise by
+14% by 2020 and 35% by 2050 due mainly to population growth. However, many cli-
+
+6
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+Figure ES.4 Forecasted Emissions Growth and Impact of Government Operations Actions
+1
+887,659
+
+Metric tons CO2e (millions)
+
+0.8
+
+742,178
+763,788
+719,896
+
+0.6
+568,414
+
+440,740
+
+0.4
+Forecasted Growth
+Impact of Actions
+0.2
+217,262
+
+0
+2006
+
+2012
+
+mate mitigating actions are underway city-wide. Businesses, institutions, and individuals across the
+District are demonstrating regional
+and national leadership in climate
+reduction and to maximizing cost
+savings and economic growth
+while minimizing greenhouse gas
+emissions.
+Community Commitments to
+Reduce Emissions –Regional
+and National Leadership
+
+2020
+
+2050
+
+Figure ES.5 Community Emissions by Source
+VMT – diesel 3%
+
+Municipal Solid Waste 2%
+
+VMT –
+gasoline
+18%
+
+Fuel oil 4%
+Electricity 58%
+Natural
+Gas
+15%
+
+What are the realistic options for
+community targets and mitigation
+measures? These are the options
+we will develop together during the
+community engagement process.
+There are, however, examples and
+guidelines for us to refer to. Employing the measures discussed in the report (and others identified during the public
+planning process), the District as a community should meet or exceed the Metropolitan
+Washington Council of Governments recommended regional goals of reducing emissions by 10% in 2012, 20% in 2020, and 80% in 2050. ii
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+7
+
+
+
+Figure ES.6 Forecasted Emissions Growth and Impact of Community Actions Using
+the Metropolitan Washington Council of Governments Regional Targets
+as Reduction Goals
+1.6
+14,284,067
+1.4
+
+We Want Your
+Comments and Input
+
+1.2
+Metric tons CO2e (millions)
+
+This document is a Draft
+for Community Discussion. You can contribute
+to the District’s climate
+planning effort by providing input in two ways:
+First, the District Department of the Environment (DDOE) is asking
+for public comments on
+the list of proposed
+Government Operations
+Actions (Section 6.1) by
+November 15, 2010. You
+can submit comments
+via e-mail to
+climate.plan@dc.gov or
+by mail to DDOE, Climate Action Comments,
+1200 First St NE, 5th
+Floor, Washington, DC
+20002.
+
+11,068,416
+10,505,946
+
+11,986,095
+
+1
+8,404,757
+9,455,351
+
+0.8
+0.6
+0.4
+
+Forecasted Growth
+Impact of Actions
+
+0.2
+2,101,189
+0
+2006
+
+2012
+
+2020
+
+2050
+
+Measures to Reduce Emissions from the Community
+Achieving significant greenhouse gas emissions reductions will require all sectors of the
+community to work together toward these common goals. Table ES.5 summarizes policies and programs that could have quantifiable impacts on reducing greenhouse gas
+emissions. In Section 6.2, each proposed measure is identified and described in more
+detail.
+
+Second, you can participate in a series of public
+forums and meetings
+convened by DDOE to
+gather input and comments on the proposed
+Government Operations
+Plan (Section 6.1) and
+the Community Discussion Draft (Section 6.2).
+More information on the
+climate engagement
+process can be found at
+www.green.dc.gov,
+by e-mailing
+climate.plan@dc.gov, or
+calling 202-535-2600.
+
+Reviewing this Draft Plan
+This Draft Climate Action Plan is organized in eight sections. Sections 2 through 5
+present background information on climate change and provide data specific to the
+District of Columbia. Section 6.1 presents a draft blueprint for greenhouse gas emissions reductions from District Government Operations. It includes targets for emissions reductions within short, medium and long-term timelines, and proposes the key
+actions that will make these commitments a reality.
+Section 6.2 presents a discussion draft of measures aimed at reducing greenhouse
+gas emissions from the entire community. These include policies and programs already in place, like the Green Building Act and Clean and Affordable Energy Act, and
+others that could be put in place to achieve significant energy savings and emissions
+reductions in the short, medium and long-term. Although many forward-looking actions aimed at increasing energy efficiency and reducing greenhouse gas emissions are
+currently underway across the city, the community portion of this plan is intended to
+spur a wide-ranging dialogue and initiate a public process to develop comprehensive,
+community-wide targets and actions to reduce greenhouse gas emissions.
+
+8
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+Table ES.4 Draft for Public Review and Comment: Government Operations Emissions Reduction Measures
+Reductions in CO2e represent total cumulative reductions for the year indicated
+Category
+
+Measure Name
+
+Measure No.
+
+Description
+
+Street Lighting
+
+Street Lighting
+Retrofits
+
+6.1.3.1
+
+Buildings
+
+School Facilities
+Modernization
+
+6.1.1.1
+
+Buildings
+
+Renewable
+Electricity
+Contract
+
+6.1.1.2
+
+Buildings
+
+Public Housing
+Retrofits
+
+6.1.1.3
+
+Buildings
+
+Building
+Management
+Systems &
+Commissioning
+
+6.1.1.4
+
+Buildings
+
+Staff Education
+& Training to
+Reduce Plug
+Load
+
+6.1.1.5
+
+Buildings
+
+Leased Space
+Efficiency
+Improvements
+
+6.1.1.6
+
+Buildings
+
+Server Consolidation
+
+6.1.1.7
+
+Conversion of all alley and
+street lights (not covered by
+federal highway regulations)
+to high efficiency lightemitting diode fixtures (LEDs)
+Over 5-8 years, the District
+Government will systematically update all District Public
+School facilities to meet US
+Green Building Council
+Leadership in Energy and
+Environmental Design (LEED)
+Silver standard or higher.
+The District Government will
+continue to purchase
+electricity from renewable
+sources and will increase the
+renewable energy share.
+The District Housing Authority
+will continue efforts to improve
+energy and water efficiency of
+public housing through heating
+and air conditioning upgrades,
+window restorations/
+replacements, and building
+envelope improvements.
+The District Government will
+install and implement building
+management systems to
+conserve energy and create a
+more comfortable indoor
+environment at Districtowned buildings.
+District Government agencies
+will increase education efforts
+and commit to more
+consistent enforcement of
+limits on personal electronic
+items in workspaces.
+The Department of Real
+Estate Services is managing
+a significant turnover of
+leased space that will reduce
+the number of leased
+facilities, reduce energy
+consumption, and simplify
+administration.
+The Office of the Chief
+Technology Officer will
+migrate equipment to new
+high efficiency servers that
+are approximately 30% more
+efficient than conventional
+servers.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+mTons CO2e Reduction in:
+2020
+2050
+2012
+1,619
+
+10,791
+
+32,374
+
+14,993
+
+26,226
+
+59,781
+
+40,459
+
+111,636
+
+236,201
+
+3,239
+
+9,668
+
+31,454
+
+23,017
+
+49,959
+
+123,319
+
+222
+
+1,112
+
+1,112
+
+272
+
+1,049
+
+4,094
+
+1,116
+
+1,116
+
+1,815
+
+9
+
+
+
+Category
+
+Measure Name
+
+Measure No.
+
+Description
+
+Buildings
+
+Computer
+Workstation
+Efficiency Projects
+
+6.1.1.8
+
+Waste and
+Recycling
+
+Recycling in District
+Government
+Facilities
+
+6.1.5.1
+
+Wastewater
+Treatment
+
+Blue Plains Fine
+Bubble Diffuser
+Retrofit
+
+6.1.4.1
+
+Wastewater
+Treatment
+
+Blue Plains
+Anaerobic Digester
+Project
+
+6.1.4.2
+
+Wastewater
+Treatment
+
+Tidal Gate
+Improvements
+
+6.1.4.3
+
+Vehicle Fleet
+and Employee
+Commute
+
+District
+Government
+Employee
+Commute Benefit
+
+6.1.2.1
+
+Vehicle Fleet
+and Employee
+Commute
+
+District
+Government
+Employee Car
+Sharing Program
+
+6.1.2.2
+
+Vehicle Fleet
+and Employee
+Commute
+
+Electric Vehicle
+Usage
+
+6.1.2.3
+
+Vehicle Fleet
+and Employee
+Commute
+
+Metropolitan Police
+Department Cruiser
+Fleet Right-Sizing
+
+6.1.2.4
+
+District Government specifications require purchase of
+ENERGY STAR computers and
+government wide software will
+allow central control and
+shutdown of an increasing
+number of units.
+District Government agencies
+will improve recycling rates to
+meet and exceed the 45%
+diversion requirement.
+DC Water will install more
+efficient diffusers for use in its
+aerated wastewater treatment
+processes at Blue Plains.
+DC Water will convert sewage
+organic matter to methane and
+generate an estimated 10
+megawatts of electricity,
+offsetting its purchase from
+outside electric suppliers.
+DC Water will install more
+efficient diffusers for use in its
+aerated wastewater treatment
+processes at the Blue Plains
+wastewater treatment facility.
+The District Government will
+support use of alternative
+transportation modes and
+flexible work schedules among
+its employees to reduce vehicle
+miles traveled.
+District Government agencies
+will increase car sharing use,
+visibility, convenience, and
+availability to District Government employees.
+The District Government will
+pilot and expand use of electric
+vehicles and development of
+electric charging infrastructure.
+The District Department of
+Transportation and other
+agencies will begin pilots with
+commercially available electric
+vehicles.
+The Metropolitan Police
+Department will downsize its
+cruiser fleet from V8-powered
+Ford Crown Victorias to more
+efficient V6-powered sedans
+and increase alternative vehicle
+use.
+
+10
+
+mTons CO2e Reduction in:
+2020
+2050
+2012
+572
+
+1,144
+
+4,577
+
+240
+
+400
+
+400
+
+--
+
+37,096
+
+64,706
+
+36,746
+
+36,746
+
+64,706
+
+17
+
+17
+
+17
+
+4,674
+
+9,349
+
+14,490
+
+658
+
+1,280
+
+3,611
+
+61
+
+69
+
+193
+
+780
+
+2,601
+
+4,878
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+Table ES.5 Draft for Discussion and Public Engagement: Community Emissions Reductions Measures
+Category
+
+Measure Name
+
+Description
+
+Buildings
+
+Green Building Act
+
+Starting in 2012, the Green Building Act will require all buildings over
+50,000 square feet to meet the US Green Building Council Leadership in
+Energy and Environmental Design (LEED) Certified standard.
+
+Buildings
+
+Sustainable Energy
+Utility
+
+The Clean and Affordable Energy Act of 2008 redirects utility assessment
+fees to finance a new Sustainable Energy Utility to promote efficiency and
+demand reduction projects throughout the city.
+
+Buildings
+
+Renewable Portfolio
+Standard
+
+The Clean and Affordable Energy Act of 2008 requires all suppliers selling
+electric power into the District to use renewable sources in an amount that
+will increase to 20% in 2020.
+
+Buildings
+
+Greening the
+Building Code
+
+The District has adopted the latest international energy efficiency codes
+for commercial buildings and a requirement that residential properties be
+30% more efficient than base codes. Codes will be greened further in the
+2010 and regularly thereafter.
+
+Buildings
+
+Property Assessed
+Clean Energy (PACE)
+
+The District will offer long-term loans to property owners, to be repaid on
+their property tax bills, to finance energy efficiency retrofits of residential,
+multi-family, and commercial properties citywide.
+
+Buildings
+
+Office and Residential Energy Efficiency
+Retrofits and
+Weatherization
+
+The District Department of the Environment plans to offer ongoing
+programs that promote energy savings in homes through retrofits and
+weatherization.
+
+Buildings
+
+Energy Efficiency
+Improvements for
+Federal Buildings
+
+President Obama’s Executive Order 13514 requires all federal agencies to
+set energy efficiency and greenhouse gas reduction goals. This requirement will affect millions of square feet of office space in the District.
+
+Buildings
+
+Green Building and
+Energy “Challenges”
+to Key Sectors
+
+The District will promote lead-by-example competition within key sectors
+(e.g. universities, international institutions, federal agencies) through
+challenges that catalyze large scale efficiency improvements.
+
+Buildings
+
+“District” Heating
+and Energy Systems
+
+The District has a number of “district”, or centralized, heating and energy
+systems that service major institutions and the government. Energy
+savings could be achieved by increasing the efficiency of these central
+power plants or expanding their service areas.
+
+Buildings
+
+Solar Co-ops and
+other Micro-Utilities
+
+Solar cooperatives have already helped expand the use of renewable
+energy (particularly solar) in the District. Using and expanding the
+cooperative model will promote installation of renewable energy on
+rooftops, parking, yards, parks, rights of way, streets, and other space.
+
+Buildings
+
+Power Purchase
+Agreements (PPAs)
+
+Renewable energy providers are using PPAs to fund installation of on-site
+generation (particularly solar photovoltaic systems) on roofs and other
+space “rented” from private parties. PPA agreements give consumers
+fixed rate power and, after the term of the agreement, ownership of the
+renewable energy system.
+
+Buildings
+
+Purchase of
+Renewable Power
+
+Consumers in the District already have the choice to purchase up to 100%
+renewable-source electric power. Education and cooperative purchasing
+can promote expanded renewable purchasing by residents, businesses
+and institutions.
+
+Buildings
+
+Green and Reflective
+“Cool” Roofing
+
+Use of green and reflective “cool roofs” can greatly reduce the energy
+used to cool buildings and make the buildings more comfortable for users
+at a relatively low cost. Cool roofs can also help combat the urban heat
+island effect, which keeps the inner city hotter than other areas throughout
+the year.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+11
+
+
+
+Category
+
+Measure Name
+
+Description
+
+Buildings
+
+Industrial Scale
+Renewable
+Co-Generation
+
+As older, dirtier power plants in the District go off-line, there is an
+opportunity to develop facilities as clean power sources using a combination of renewable power sources, natural gas, or other options.
+
+Buildings
+
+Federal Light Bulb
+Efficiency
+Standards
+
+The Energy Independence and Security Act of 2007 mandates that all light
+bulbs use 25% to 30% less energy by 2012 to 2014. The phase-in will
+start with 100-watt bulbs in January 2012 and end with 40-watt bulbs in
+January 2014. By 2020, bulbs must be 70% more efficient.
+
+Transportation
+
+Bus Rapid Transit
+Expansion
+
+Continued expansion of bus-rapid-transit routes will service more
+residents in the coming years, reducing the energy consumed by vehicles.
+
+Transportation
+
+Streetcar Project
+
+The District Department of Transportation is now installing the Anacostia
+and Benning Road Streetcar lines and will expand this system in phases
+to provide rail mass transit service to neighborhoods not served by Metro.
+
+Transportation
+
+Bike Share
+Program Expansion
+
+Continued expansion of the Capital Bikeshare system will provide
+convenient bike transit options to residents and visitors and reduce
+vehicle miles traveled.
+
+Transportation
+
+Bicycle Master
+Plan Implementation
+
+Continued expansion of cycling facilities and bike lanes under the Bicycle
+Master Plan will increase the percent of commuters bicycling and reduce
+vehicle miles traveled.
+
+Transportation
+
+Performance
+Based Parking
+
+Increasing the cost of parking in high demand areas reduces congestion
+and encourages drivers to use mass transit, bicycling, or walking.
+
+Transportation
+
+Incentives for
+Hybrid Vehicles
+
+The District’s incentives for hybrid vehicles have and will continue to
+speed adoption of hybrid vehicles and improve the collective fuel
+economy of cars in the city.
+
+Transportation
+
+Electric Vehicle
+Plug-In Stations
+
+Installation of infrastructure to support electric vehicle charging at
+businesses, institutions, and homes will facilitate adoption of plug-in
+electric vehicles.
+
+Transportation
+
+Fuel Efficient Tour
+Buses and
+Anti-Idling
+
+The District will promote education and infrastructure options to encourage use of fuel efficient and clean running tour buses and reduce
+unnecessary idling of vehicles.
+
+Transportation
+
+Promotion of Car
+Sharing Programs
+
+Car-sharing is already well established in the District and further efforts by
+businesses, institutions, and individuals can reduce reliance on cars and
+reduce vehicle miles traveled.
+
+Transportation
+
+Federal CAFE
+Standards
+
+New federal combined average fuel economy (CAFE) standards will
+increase the overall fuel economy of vehicles in the District and reduce
+vehicle emissions.
+
+Land Use
+
+Land Use Patterns
+That Increase
+Transportation
+Choices
+
+The District of Columbia’s Comprehensive Plan supports compact, transit
+oriented development. Efficient land use policies bring residents closer to
+their destinations and transit opportunities, therefore increasing opportunities for walking, biking, and public transit trips to replace motor vehicle
+trips
+
+Land Use
+
+Small Area Plans
+
+Small Area Plans guide development in more climate friendly patterns.
+Increasing the number and diversity of end-uses in a small area with
+compact and mixed-use buildings increases opportunities for district
+heating systems and co-generation.
+
+Land Use
+
+Increase Tree
+Canopy in the
+District
+
+Urban trees save energy and reduce emissions by shading buildings and
+reducing stormwater that would require treatment at the Blue Plains
+wastewater treatment plant.
+
+12
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+Category
+
+Measure Name
+
+Description
+
+Land Use
+
+Green and Sustainable
+Land Use Patterns and
+Development Practices
+
+The District actively supports the use of green building methods, like green
+roofs, in new construction and rehabilitation projects, as well as public
+realm designs that favor tree boxes, planting areas on public sidewalks,
+and reduction of impervious surfaces.
+
+Land Use
+
+Sustainable Zoning
+
+The Office of Planning has recommended changes to the zoning code to
+increase considerations of climate change; energy conservation and
+renewable energy production; integrating land use and mobility; water
+conservation and greywater; slopes, streams, stormwater and hydrology;
+food production/security and community health; and sustainable business
+and green jobs.
+
+Waste
+
+Increase Commercial
+Recycling
+
+The Department of Public Works will expand programs for property
+managers and tenants to improve commercial recycling rates and reduce
+emissions.
+
+Waste
+
+Increase Residential
+Recycling
+
+The District plans to increase residential recycling through outreach and
+expansion of programs that make residential recycling more appealing.
+
+Waste
+
+Waste to Energy
+
+A portion of the District’s municipal waste is incinerated in a waste-toenergy plant, reducing greenhouse gas (methane) emissions from landfills.
+
+Waste
+
+Organic Waste
+Composting
+
+Increasing the amount of leaf matter, yard waste, and food waste collected
+for composting reduces greenhouse gas (methane) emissions from
+landfills.
+
+CrossCutting
+
+Local Climate
+Offset/Benefit Fund
+
+A voluntary program would allow businesses, institutions or individuals to
+“purchase” additional greenhouse gas emissions through private donations
+to support projects that reduce greenhouse gas emissions within the
+District’s boundaries. Donations could be official carbon offsets or
+unofficial carbon benefits.
+
+CrossCutting
+
+Green Purchasing
+
+The use of these products reduces environmental impacts associated with
+the manufacture, use and disposal of many items in common daily use.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+13
+
+
+
+2 Introduction
+The District of Columbia is well positioned to play a leadership role in addressing the
+causes and effects of climate change through actions at both the community and government operations levels. The Government of the District of Columbia is committed to
+reducing greenhouse gas emissions from its operations, and is emerging as a national
+leader in climate mitigation best practices such as green building, renewable energy, and alternative transportation. The District Government’s
+policies, practices and programs will contribute to a city-wide effort to
+Milestone 1
+dramatically reduce greenhouse gas emissions and help prepare the
+Inventory
+District of Columbia for the anticipated impacts of climate change.
+Emissions
+
+Outside of the District Government, individuals,
+businesses and institutions are taking action to
+reduce emissions across the community, leading by example to demonstrate how greenMilestone 2
+house gas emissions reductions makes sense
+Establish
+for our environment and for the bottom line.
+Target
+Achieving significant reductions in emissions
+will require leadership from all sectors of the
+community, including businesses, environmental
+and public health organizations, neighborhood
+groups and associations, and from each of us as individual citizens.
+
+Milestone 5
+Monitor/
+Evaluate
+Progress
+Leadership
+Commitment
+
+Milestone 4
+Implement
+Climate
+Action Plan
+
+Milestone 3
+Develop
+Climate
+Action Plan
+
+The District Government is using a climate
+planning process developed by ICLEI—Local
+Governments for Sustainability. A non-profit
+membership organization representing over
+500 cities and local governments, ICLEI has
+global expertise in assessing climate impacts, devising specific measures to reduce
+emissions, and providing local jurisdictions
+with comprehensive Climate Action Plans. In
+January 2010, the District reached Milestone
+1 with the release of the Greenhouse Gas Inventory detailing our “carbon footprint,”
+against which our efforts to reduce climate
+emissions will be measured. This draft Climate Action Plan represents progress toward Milestones 2 and 3.
+
+14
+
+Climate Change Science Background
+and Forecasted Local and Regional Impacts
+
+The balance of naturally occurring gases dispersed in
+the Earth’s atmosphere determines our climate by trapping solar radiation—a phenomenon known as the
+greenhouse effect. Overwhelming evidence indicates that
+modern human activity is artificially intensifying the greenhouse gas effect, and that global average surface temperatures
+are rising. This intensification is caused by natural processes and
+human activities that release carbon dioxide and other greenhouse gases into the atmosphere—most notably the burning of
+fossil fuels for transportation, electricity, and heat generation. iii
+Over the past 100 years, there have been noticeable effects of
+global climate change in the District of Columbia. Increasing temperatures, sea and river level rise, altered precipitation trends and
+more frequent and severe storms have all been recorded in the
+District, and are projected to continue into the future. This section
+summarizes environmental trends such as temperature and precipitation in and around the District.
+Since 1907, average annual temperatures in the District have increased by approximately 3.3°F. These local temperature trends
+coincide with regional trends, although the magnitude of change
+in the Washington metro area is greater. Based on the average
+temperatures and depending on the emissions scenario, the en-
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+tire Mid-Atlantic region is expected to warm by 2-3°F by
+2030 and 4-10°F by the end of
+the century. Temperature increases in the District of Columbia are likely to be higher
+than those in the surrounding
+region due to the urban heat
+island effect. iv
+While there has been very little
+change in the amount of average annual precipitation in the
+District over the last 100 years,
+less precipitation is falling as
+snow. Both Maryland and Virginia have experienced trends
+of increasing precipitation over
+the past 100 years, with
+growth rates of 0.27 inches per
+decade and 0.31 inches per
+decade, respectively. v Finally,
+the increasing intensity and
+frequency of extreme weather
+events may be the most dramatic indicator of global climate change. Relative to the
+previous century, there have been 12% to 20% more major weather events in the MidAtlantic region. vi
+
+Source: http://www.epa.gov/
+climatechange/downloads/
+Climate_Basics.pdf
+
+The global rate of sea level elevation, another ongoing result of global climate change,
+is 0.08 inches per year, while the Chesapeake Bay rate is 0.14 inches per year. vii The
+higher rate of sea level rise is the result of land subsidence or the erosion of land into
+the sea, which accounts for roughly half the Mid-Atlantic regional sea level rise. The Potomac River has risen about one foot since 1933, most noticeably around the Tidal
+Basin. viii Sea level rise is projected to increase by 24-48 inches over the next century
+along the Chesapeake Bay as a result of the melting of polar ice caps combined with
+the thermal expansion of sea water. A commensurate rise in sea level will occur along
+the Potomac and Anacostia Rivers as well as Rock Creek over the next century, as all
+three waterways are tidal and respond to rises in sea levels. ix, x Between 1.74-2.55
+square miles of District land lies below 40 inches in elevation, land that is highly vulnerable to sea level rise and could potentially become inundated by the year 2100. A
+total of 3.42 square miles are below 140 inches in elevation, and this land will be more
+susceptible to episodic flooding and storm surges. xi For instance, land around the Tidal
+Basin and the Jefferson Memorial in particular is in danger of inundation if long-term
+projections are realized.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+15
+
+
+
+Figure 3.1 2006 Community Emissions by Sector
+Transit – Metro 2%
+
+3 The Greenhouse Gas
+Emissions Inventory
+
+Waste 2%
+
+Residential
+Buildings
+14%
+Vehicles 22%
+
+Federal
+Buildings
+9%
+
+Non-Residential
+Buildings 51%
+
+Table 3.1 2006 Community
+Emissions by Sector
+Sector Total
+(metric tons
+Sector
+CO2e)
+Non-Residential
+5,401,510
+Vehicle Miles Traveled
+2,261,338
+Residential
+1,517,011
+Federal - GSA
+963,178
+Solid Waste
+185,991
+Transit – Metro
+176,918
+
+Figure 3.2 Community Emissions by Source
+VMT – diesel 3%
+
+Municipal Solid Waste 2%
+
+VMT –
+gasoline
+18%
+
+Fuel oil 4%
+Electricity 58%
+Natural
+Gas
+15%
+
+The District Department of the Environment, in partnership
+with ICLEI and sister agencies across the government,
+completed a District Greenhouse Gas Emissions Inventory
+in January 2010. Also known as a “carbon footprint,” the Inventory estimates the total amount of carbon dioxide and
+other greenhouse gas emissions released into the atmosphere as a result of energy consumption, vehicle use and
+other activities. Evaluating our greenhouse gas inventory is
+best understood as placing a “bubble” over the city and
+counting greenhouse gas emissions attributed to activities
+that occur within the bubble (i.e., the District’s boundaries).
+The Inventory estimates emissions attributed to both government operations and broader community activities
+within the District during calendar year 2006 (selected as
+our “baseline” year because of superior data quality and
+accuracy). The community inventory includes estimated
+greenhouse gas emissions from all building energy use, vehicles fuel use and transportation, and emissions from
+waste streams. The government operations inventory,
+which is a subset of the community inventory, provides a
+much more in-depth analysis of emissions from the District
+Government, including government-operated facilities and
+streetlights, vehicle fleet and off-road equipment, and
+waste generated by government operations.
+
+3.1 Community Emissions Summary
+In calendar year 2006, our city-wide greenhouse gas emissions from electricity consumption and other direct sources
+totaled 10.5 million metric tons of carbon dioxide equivalents (CO2e), or 18 tons per resident. This amount is below
+the U.S. Environmental Protection Agency’s national average of 19.7 tons per person, but higher than other major
+cities. Figure 3.1 provides a breakdown of emissions by
+sector, including: buildings (residential, non-residential, and
+federal); vehicles (indicated as VMT or vehicle miles traveled); mass transit (Metro); and waste. With 75% of our
+greenhouse gas emissions linked to buildings, our most effective emissions reduction actions will target comprehensive energy use reduction in buildings. Figure 3.2 provides
+a breakdown of the specific energy sources of our greenhouse gas emissions, including electricity, natural gas, fuel
+oil, vehicle fuel (gasoline and diesel), kerosene, and emissions from solid waste. Electricity consumption is our
+largest driver of greenhouse gas emissions.
+Of the total emissions accounted for in this inventory, emissions from the Non-Residential sector were the largest
+(51% as shown in Table 3.1 and Figure 3.1). The Residen-
+
+16
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+tial sector was responsible for 14% of community emissions, with a total of 1.5 million metric tons of CO2e. Federal facilities managed by GSA accounted for 9% of
+emissions, with a total of 963,000 metric tons of CO2e. Between Residential, Non-Residential, and Federal facilities,
+emissions from buildings consisted of 74% of community
+emissions. Emissions from the Vehicles sector were 2.3 million metric tons of CO2e, or 22% of total community emissions. Emissions from Metro were culled from the
+Non-Residential sector and were 2% of the community
+total, with 177,000 metric tons of CO2e. Finally, emissions
+from the Solid Waste sector accounted for an estimated
+186,000 metric tons of CO2e, also 2% of the community
+total.
+
+Figure 3.3 Government Operations Emissions by Sector
+Vehicle Fleet 7% Employee Commute 5% Solid Waste 0.1%
+Streetlights
+and Traffic
+Signals
+6%
+
+Wastewater
+Facilities
+23%
+
+Buildings
+and Other
+Facilities 59%
+
+3.2 Government Operations Emissions
+During the 2006 calendar year, the District’s government
+operations direct emissions, emissions from electricity consumption, and select indirect sources totaled 720,000 metric tons of CO2e. xii Of the total emissions accounted for in
+this inventory, the greatest levels of emissions were from Buildings & Other Facilities
+(at 59%) and wastewater facilities (at 23%) of government operations emissions.
+District Government agencies that reported costs and DC Water spent a cumulative
+$124,420,635 on energy for their operations in 2006 (the true figure is higher as cost information was not universally reported). Of this total, 59% ($82,953,877) resulted from
+Buildings & Other Facilities. See figures 3.3, 3.4, 3.5 and Table 3.2 for more detailed information.
+
+Table 3.2 2006 District Government Operations Emissions by Sector
+Sector Total
+Percentage
+(metric tons
+of Total
+CO2e)
+Emissions
+Buildings & Other Facilities
+429,301
+59%
+Wastewater Facilities
+163,454
+23%
+Streetlights & Traffic Signals
+45,586
+6%
+Vehicle Fleet & Off-Road Equipment
+47,829
+7%
+Employee Commute
+33,101
+5%
+Government-Generated Solid Waste
+625
+0.1%
+Totals
+719,896
+100%
+
+Annual Cost
+$82,953,877
+$26,178,745
+$6,371,499
+$8,916,514
+n/a
+n/a
+$124,420,635
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+17
+
+
+
+Figure 3.4 Government Operations Emissions by Source
+Fuel Oil 3%
+
+Wastewater Treatment 1%
+
+Refrigerants 0.2%
+Compressed
+Natural Gas 0.2%
+
+Diesel 3%
+Steam 5%
+
+Solid Waste
+0.1%
+
+Figure 3.5 2006 District Government Operations
+Energy Costs per Source
+Vehicle Fuels
+$8,916,514 9%
+
+Street Lighting and Traffic Signals
+$6,371,499 6%
+
+Steam
+$2,799,071
+3%
+
+Gasoline
+8%
+Electricity
+$40,422,830
+42%
+
+Natural Gas
+18%
+
+Electricity 63%
+
+Natural Gas
+$36,811,079
+37%
+Fuel Oil
+$2,920,897
+3%
+
+In addition to reducing greenhouse gases, any future reductions in municipal energy
+consumption will have the potential to reduce these costs, enabling the District to reallocate funds toward other municipal services to support future energy conservation
+and environmental protection activities.
+Foreground: The National
+Association of Realtors
+Headquarters, a LEED certified
+green building.
+
+18
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+4 Emissions Growth Forecasts
+Forecasting emissions growth is an essential component of developing an emissions inventory —without a projection of emissions growth it is impossible to make the informed
+decisions required to set reduction targets and develop a specific climate action plan.
+Emissions forecasts assume a “business as usual” scenario in which emissions per unit
+of energy stay constant, but overall emissions increase as population and employment
+growth is factored in. Thus, any changes to vehicle fuel efficiency or electricity emissions
+factors, such as through the provision of renewable energy, are not included in the business as usual forecast. Rather, these measures are accounted for as part of the climate
+action plan to meet the emissions reduction target.
+
+4.1 Community Forecast
+The District’s 2006 community emissions were estimated as a total of 10.5 million metric tons of CO2e. Table 4.1 and Figure 4.1 show projected growth in these emissions
+Table 4.1 Forecasted Community Greenhouse Gas Emissions (Metric Tons CO2e)
+2006
+2012
+2020
+2050
+Non-Residential Buildings
+5,401,510
+5,694,599 6,136,174 7,099,214
+Vehicles
+2,261,338
+2,379,896 2,596,876 3,232,046
+Residential Buildings
+1,517,011
+1,596,545 1,742,106 2,168,208
+Federal Buildings
+963,178
+1,015,441 1,094,181 1,265,907
+Solid Waste
+185,991
+195,742
+213,588
+265,830
+Transit - Metro
+176,918
+186,194
+203,170
+252,863
+Totals
+10,505,946 11,068,416 11,986,095 14,284,067
+
+Figure 4.1 Business as Usual Forecast for Community Greenhouse Gas Emissions
+(metric tons CO2e)
+15
+
+■ Non-residential buildings ■ Vehicles ■ Residential buildings
+■ Federal buildings ■ Solid waste ■ Transit–metro
+
+14,284,067
+
+Millions of metric tons CO2e
+
+11,986,095
+12
+
+10,505,946
+
+11,068,416
+
+9
+
+3
+
+0
+
+District
+Population
+
+2006
+
+2012
+
+2020
+
+2050
+
+588,292
+
+619,135
+
+675,582
+
+840,824
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+19
+
+
+
+Table 4.2 Forecasted Greenhouse Gas Emissions for District Government Operations
+(Metric Tons CO2e)
+2006
+2012
+2020
+2050
+District Population
+588,292
+619,135
+675,583 840,824
+District Government Emissions –
+Low Growth Scenario
+719,896
+731,087
+737,421 794,866
+District Government Emissions –
+Medium Growth Scenario
+719,896
+742,178
+763,788 887,659
+District Government Emissions –
+High Growth Scenario
+719,896
+753,408
+791,028 991,011
+
+Figure 4.2 Forecasted Greenhouse Gas Emissions for District Government Operations
+(metric tons CO2e)
+
+Metric tons CO2e (x100,000)
+
+10
+Low Efficiency Scenario
+Medium Efficiency Scenario
+High Efficiency Scenario
+
+8
+
+6
+District
+Population
+
+2006
+
+2012
+
+2020
+
+2050
+
+588,292
+
+619,135
+
+675,582
+
+840,824
+
+through 2050. Emissions are forecasted to increase by 2050 to 14 million metric tons
+of CO2e, an increase of approximately 23% under a “business as usual” scenario. The
+growth scenarios shown are based on projections of increases population, employment and vehicle use developed by the Washington Metropolitan Council of Governments.
+
+4.2 Government Operations Forecast
+The District’s 2006 government operations emissions were estimated as a total of
+720,000 metric tons of CO2e. Table 4.2 and Figure 4.2 show projected growth in these
+emissions through 2050 using high, medium and low efficiency scenarios that incorporate growth in population. Under the medium efficiency scenario, emissions are forecasted to increase by 2050 to 888,000 metric tons of CO2e, an increase of
+approximately 27% under a “business as usual” scenario. xiii
+The three growth scenarios shown in Table 4.2 are based, in part, on projections of increases in employee efficiency – 0.5% annually under high efficiency, 0.25% under
+medium efficiency, and no increase in efficiency under the low efficiency scenario.
+
+20
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+5 Greenhouse Gas Emissions
+Reduction Targets
+Setting emissions reduction targets is Milestone 2 of ICLEI’s Five Milestones for Climate Protection. The emissions reduction target is the percentage by which a local
+government plans to reduce greenhouse gas emissions from government operations
+below base year levels by selected future target years. The District has chosen to set
+aggressive short-term, mid-term and long-term targets. Short-term targets help to
+closely monitor progress and build momentum, while long-term targets set the bar for
+the ultimate achievement in emissions reductions.
+
+Table 5.1 Government Operations Emissions Reduction Target Comparison to Other Cities
+Baseline
+Jurisdiction
+Year
+Short Term
+Mid Term
+Long Term
+New York City
+2005
+n/a
+30% by 2030
+n/a
+Seattle
+1990
+7% by 2012
+30% by 2024
+80% by 2050
+Boston
+1990
+7% by 2012
+n/a
+80% by 2050
+Baltimore
+2007
+15% by 2015
+n/a
+n/a
+Washington, DC
+2006
+20% by 2012
+30% by 2020
+80% by 2050
+Denver
+2004
+n/a
+30% by 2020
+80% by 2050
+Metropolitan
+2005
+10% by 2012
+20% by 2020
+80% by 2050
+Washington Council
+of Governments
+
+The District’s proposed Government Operations plan would reduce emissions by
+20% below 2006 levels by 2012, 30% below 2006 levels by 2020, and 80% below
+2006 levels by 2050. These target years are consistent with local and national target
+years. The reduction targets are more aggressive than many peer jurisdictions in the
+short term, and consistent with current scientific estimates of necessary emissions reductions in the long term. The 2012 and 2020 targets are aggressive but achievable
+based on measures the District Government has implemented, planned or proposed.
+Figure 5.1 (next page) depicts the relationship between the forecasted growth in emissions from 2006 to 2050 and the estimated impact the climate action plan measures
+will have on reducing emissions.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+21
+
+
+
+Figure 5.1 Forecasted Emissions Growth and Impact of Government Operations Actions
+1
+887,659
+
+Metric tons CO2e (millions)
+
+0.8
+
+742,178
+763,788
+719,896
+
+0.6
+568,414
+
+440,740
+
+0.4
+Forecasted Growth
+Impact of Actions
+0.2
+217,262
+
+0
+2006
+
+2012
+
+2020
+
+2050
+
+What are the realistic options for community targets and mitigation measures? These
+are the answers we will develop together during the community engagement process.
+There are, however, examples and guidelines for us to refer to. Based on the assumptions and measures discussed in the report, the District as a community could strive
+to meet or exceed the regional goals already adopted by Metropolitan Washington
+Council of Governments to reduce emissions by 10% in 2012, 20% in 2020, and 80%
+in 2050. xiv
+Figure 5.2 Forecasted Emissions Growth and Impact of Community Actions
+1.6
+14,284,067
+1.4
+
+Metric tons CO2e (millions)
+
+1.2
+
+11,068,416
+10,505,946
+
+11,986,095
+
+1
+8,404,757
+9,455,351
+
+0.8
+0.6
+0.4
+
+Forecasted Growth
+Impact of Actions
+
+0.2
+2,101,189
+0
+
+22
+
+2006
+
+2012
+
+2020
+
+2050
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+6 The Climate Action Plan
+Through the actions detailed in this plan, the District can reduce its emissions, become more energy independent, and ensure resiliency in the face of the climate change
+that is already underway. The District Government has direct control over many sources
+of emissions that result from the daily operation of government buildings, vehicles,
+water and wastewater treatment facilities, street lights, and waste disposal. The District Government is pursuing number of progressive initiatives, and this plan focuses on the high-impact efforts that will allow the District of Columbia to meet
+government operations emissions reduction targets of 20% by 2012, 30% by
+2020, and 80% by 2050.
+
+6.1 Government Operations Measures to Reduce Emissions
+The Draft Climate Action Plan includes a combination of existing policies and programs and new ideas based on best practices from around the country. They are divided into five categories that correspond to sectors examined as part of the District’s
+Greenhouse Gas Emissions Inventory:
+•
+•
+•
+•
+•
+
+Buildings
+Transportation
+Street Lighting
+Water and Wastewater
+Solid Waste
+
+Government operations measures are specific to the day-to-day operations of the District Government. They apply to buildings the District Government owns or leases, vehicles used to provide services such as police protection and waste collection, lighting
+of roadways, water distribution and treatment of wastewater, and disposal of solid
+waste generated at District Government facilities. Collectively, these activities resulted
+in emissions totaling 720,000 metric tons of CO2e in the 2006 base year.
+The impact of the measures in each sector varies with the size of the sector. Table 6.1
+shows the relative impact of each sector towards the District Government’s overall reduction. The figures below are for 2020, and the percentages for 2012 and 2050 are
+comparable. As Table 6.1 indicates, the emissions reductions projected to be achieved
+by this draft plan in each sector are roughly proportional to the contribution of each
+sector towards the emissions baseline (shown in Table 4.1 and Figure 4.1).
+
+Table 6.1 Comparison of Government Operations Emissions Profile to Emission
+Reductions Achieved by Proposed Mitigation Measures
+Government
+Proposed
+Greenhouse Gas
+Greenhouse Gas
+Source
+Emissions %
+Reduction Measures %
+Buildings
+59
+63
+Vehicle Fleet and Employee Commute
+12
+11
+Street Lights & Traffic Signals
+6
+3
+Wastewater Treatment
+23
+23
+Waste and Recycling
+0.1
+0.1
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+23
+
+
+
+6.1.1 Buildings
+As demonstrated in the District Greenhouse Gas Inventory, District Government building energy use accounted for the largest source of greenhouse gas emissions (59%).
+To achieve significant reductions, therefore, District Government efforts must focus on
+building-related variables including occupant behavior modification and education, efficient buildings systems, building envelope, plug load, maintenance, codes, and green
+procurement.
+Increasing building efficiency will help the District Government adapt to some of the
+likely effects of climate change that are already underway. By operating buildings that
+are more efficient to heat and cool, the District Government can realize year round energy savings, as well as savings in energy use during peak periods of use caused by
+intense or prolonged hot or cold waves. Managing peak demand can help utility
+providers avoid disruption in service if the utility grid becomes strained under these
+conditions.
+20 M Street, SE, a LEED certified
+green building.
+
+The eight building measures listed in this section are projected to result in savings of
+86,000 metric tons of CO2e in 2012, 204,000 in 2020, and 462,000 in 2050. Projections
+are based on the impacts of proposed federal energy legislation and the continued
+ramp-up of renewable energy purchases. xv
+6.1.1.1 DCPS Facilities Modernization Program
+District of Columbia Public Schools (DCPS) operates the largest number of buildings
+(approximately 125) among District agencies, and has the highest emissions from the
+buildings sector (123,000 metric tons of CO2e in 2006). The facilities modernization
+program being undertaken by the Office of Public Education Facilities Modernization
+(OPEFM) will comprehensively update all schools to achieve, at a minimum, the US
+Green Building Council Leadership in Energy and Environmental Design (LEED) for
+Schools – Silver designation within 5 to 8 years. LEED Silver complies with the District’s
+Green Building Act, but some schools will exceed this standard by achieving LEED
+Gold or Platinum status. The school modernization program is being phased so that
+high schools will receive full modernization first, with updates ranging from new construction to major renovations (replacement of all major mechanical, electrical, and
+plumbing systems; window and roof restoration or replacements; and introduction of
+efficient technologies (such as smart boards, computers, cable and wireless internet
+access). Updates to elementary and middle schools will be similar in scope, but will be
+phased in by first focusing on upgrades to classroom conditions (air quality, lighting,
+acoustics, technology, and ergonomics/furnishings), followed later by major system
+upgrades.
+Emissions Reduction Modeling Approach:
+The emission reductions associated with this measure are based on expected efficiency gains due to the LEED Silver or greater rating of the modernized facilities. A
+25% reduction in total DCPS building energy use was phased in over a 7-year period,
+assuming a consistent number of modernizations will be completed annually.
+
+24
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+6.1.1.2 50 Percent Renewable Electricity Contract
+The Municipal Aggregation Program (MAP) is a reverse auction that allows District
+agencies and DC Water to buy electricity jointly. The current MAP is a two year contract that expires at the end of calendar year 2011. For a very small cost premium, the
+current power contract boosts purchase of renewable electricity from the previous rate
+of 10% to 50%. The rate of renewable energy uptake beyond 2011 is not known.
+Emissions Reduction Modeling Approach:
+The MAP was modeled at four different levels of renewable purchases – 5%, 10%,
+25%, and 50%. Emissions savings were arrived at by altering the eGRID emissions
+factor for the RFC East sub-region to increase the renewable energy proportion of the
+electricity grid mix to a rate corresponding to the percentage purchased under the
+MAP. For calculation purposes, it was assumed that the renewable capacity being purchased under the MAP was being generated within the RFC East eGRID sub-region.
+6.1.1.3 Public Housing Retrofits
+As the District’s largest landlord, the District of Columbia Housing Authority (DCHA) has
+undertaken an aggressive campaign to improve the energy efficiency of its 8,000 residential units. To date, the program, begun in 2004, has resulted in the retrofitting of approximately 5,400 units in 31 properties.
+Retrofits have included updated energy efficient boilers and chillers, low flow showerheads and faucets, replacement or restored windows, low VOC paint, energy star appliances, and high efficiency lighting. Additionally, one green roof with rain cisterns
+and photovoltaic water heat has been installed (at Regency House in Northwest). The
+projected energy savings from these improvements include a 13% reduction in electricity usage, a 30% reduction in water usage, and a 26% reduction in gas usage, resulting in as much as $3.9 million in annual average utility savings. Projected operations
+and maintenance savings from these improvements are projected to be $2.4 million.”
+Emissions Reduction Modeling Approach:
+The emission reductions associated with this measure are based on measured efficiency gains of the modernized facilities, and projects that all 8,000 units will be modernized to the same standards by 2020.
+
+Hains Point and the Washington
+Canal, SW
+
+6.1.1.4 Building Management Systems & Commissioning
+This measure capitalizes on American Reinvestment and Recovery Act (ARRA) funding that the District Government has
+received. Under ARRA, the District will receive more than $30
+million in energy efficiency and conservation funding including
+$22,022,000 through the State Energy Program (SEP), and
+$9,593,500 through the Energy Efficiency and Conservation
+Block Grant program (EECBG). Of the combined funds,
+$23,729,690 will go to District Government agencies with
+buildings and other infrastructure in their capital portfolios that
+are in need of energy efficiency improvements.
+The Department of Real Estate Services has contracted to conduct energy audits of all buildings in the District government
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+25
+
+
+
+portfolio by 2012. During the second phase of this measure upgrades and retrofits of
+building systems will be designed and installed.
+Emissions Reduction Modeling Approach:
+This measure was modeled by compiling energy consumption for all District Government buildings (excluding DCHA and DC Water) and reducing consumption by 10%
+against the 2006 baseline in 2012 to reflect the impact of the SEP/EECBG funding.
+For 2020, the energy consumption was reduced by 25% against the 2006 baseline to
+reflect capital expenditures that could result from the findings of these comprehensive
+audits.
+6.1.1.5 Staff Training & Education to Reduce Plug Load
+District Government employees have a direct impact on the amount of energy being
+used in the office environment, as employees can control the lights, computers and
+other electronic equipment at their work stations. More than a third of the District Government's energy use comes from electronic equipment plugged into wall sockets, including devices such as fans and personal heaters that use significantly more energy
+than efficient desktop computers and desk lamps. This measure builds on training programs managed by the Department of Real Estate Services (DRES) that are already underway to encourages occupant behavior modifications that encourage employees,
+teachers and students to reduce their energy consumption in District facilities. The
+focus of the DRES Energy Conservation Campaign is to reduce the number of personal items being used in workspaces.
+Emissions Reduction Modeling Approach:
+This measure was modeled based on a 50% reduction in plug load from personal devices in DRES facilities by 2020, or a 5% reduction annually. Personal devices were assumed to represent 5% of overall plug load.
+6.1.1.6 Leased Space Efficiency Improvements
+The Department of Real Estate Services (DRES) leases approximately four million
+square feet of office space to house District Government personnel. The average length
+of a lease is ten years, so when leases expire there are opportunities to relocate staff
+into more efficient office space. In 2010 and beyond, there will be significant turnover
+in District government office space, providing opportunities to improve efficiency
+through the leasing of more energy efficient buildings.
+Emissions Reduction Modeling Approach:
+DRES will be moving District Government staff into more than 518,000 square feet of
+LEED office space in 2010, which is roughly 13% of total leased square footage. It is
+assumed that this space will be 25% more efficient than the space it is replacing. The
+total amount of LEED leased space is modeled to increase to 50% in 2020 and 100%
+in 2050, yielding additional savings as new leases replace leases in less energy-efficient
+properties.
+6.1.1.7 Server Consolidation
+Currently the District Government maintains information technology (IT) data servers
+in five locations throughout the city. An initiative currently underway will consolidate
+these servers into two data centers, using new, highly efficient servers that will use
+26
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+Watts Branch in Marvin
+Gaye Park, NE
+
+approximately 30% less energy. District Government staff will also have tighter control
+over the servers, resulting in better energy management as servers can be cycled off
+when not being utilized and cooling systems can be configured more efficiently.
+Emissions Reduction Modeling Approach:
+The quantification for this measure considers only the savings that will occur as a result of installing more energy efficient IT servers. While other energy savings are anticipated with the consolidation, it is not possible to estimate these using available data.
+These estimated savings are considered conservative, since only a portion of the potential energy savings are included. The estimated energy savings are based upon calculating the existing server count and the expected consumption of each standard
+server, and applying a 30% reduction to that figure to compute the energy savings.
+6.1.1.8 Computer Workstation Efficiency Projects
+Since 2007, new computers purchased by the District Government are required to be
+ENERGY STAR rated as part of the District’s Environmentally Preferable Purchasing Policy. When in use, these computers save substantial amounts of energy compared to standard units. In addition, the Office of the Chief Technology Officer (OCTO) has initiated the
+LanDesk program, providing the capability to remotely enable any participating District
+agency computer’s “sleep” settings, or to power down the machine completely during periods of disuse. The combined effect of these two measures will be to substantially reduce
+the energy used for District government computing during working hours, and to eliminate as much energy use as possible from computers that are not in operation.
+Emissions Reduction Modeling Approach:
+Quantification of this measure takes into account the efficiency of the various types of
+machines (from desktop to laptop models) and the amount of time they typically spend
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+27
+
+
+
+in use. The calculation for determining the total reductions from ENERGY STAR computers calculates the difference in the average wattage ENERGY STAR computers
+draw in active mode (compared to a standard computer) and multiplies that amount by
+the number of computers and the annual working hours per machine.
+For the LanDesk program, reductions are based on totaling the number of computers
+in the program and calculating the difference in power consumption from “active” to
+“sleep” mode (during the period between 5:00am and 9:00pm), and the difference in
+power consumption from “sleep” mode to “off” (between 9:00pm and 5:00am) for each
+workday and 24 hours for all non-workdays in a year. This calculation assumes that the
+number of users who had previously enabled the sleep settings on their computers
+was 36% of the total, consistent with EPA assumptions. It also assumes that the program only affects desktop computers at each agency, since this is likely the majority
+of participating computers and exact figures are not known. This model recognizes
+the fact that as the District Government purchases more efficient computers, the marginal benefit of this program will lessen, even though it still contributes to substantial
+savings. Emissions benefits are calculated by applying the emissions factor for grid
+electricity in the District to the amount of electricity saved.
+
+6.1.2 Transportation
+During the 2006 calendar year, emissions from the District Government vehicle fleet
+and mobile equipment were 48,000 metric tons of CO2e (7% of the total for all government operations). Emissions from the Employee Commute sector (personal vehicles
+used by District Government staff to commute to and from work) were estimated at
+33,000 metric tons of CO2e (5% of government emissions).
+Strategies to reduce emissions from District Government vehicles can include reducing the size of the fleet, increasing fuel
+efficiency, and reducing miles traveled. The District Government is currently undertaking initiatives that pursue each of
+these strategies, and has made significant progress in reducing emissions from the vehicles sector. The widespread availability of transit in the District makes that mode an attractive
+alternative for employee commuting. Vehicle trips for District
+government business average approximately 12 miles per trip,
+which makes electrification of the District Government’s lightduty fleet an attractive option once that technology matures
+and becomes more cost-effective.
+The five measures listed in the transportation section of this
+plan are projected to result in savings of 29,000 metric tons of
+CO2e in 2012, 36,000 in 2020, and 44,000 in 2050. Projections
+are based on the impacts of tightened CAFE standards (and the continued ramp-up of
+renewable fuels purchases). The savings enumerated above include measures that will
+impact both the vehicles and employee commute.
+
+Kenilworth Aquatic Gardens, NE
+
+28
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+6.1.2.1 District Government Employee Commute Benefit
+District of Columbia Human Resources (DCHR) provides transit incentives, flexible
+work schedules, virtual meetings/work-from-home options, carpool/vanpools, enhanced bicycle access and parking and other
+measures to provide attractive alternatives to
+single-car-occupant driving and parking. District
+agencies will continue to choose locations that
+are near mass transit to encourage more commuting by bus, rail and streetcar, and will include
+Capital Bikeshare stations near their leased and
+owned properties to encourage employee participation in the bike sharing network for us for
+short trips. Financial incentives may include reduced or free transit passes, reduced or free
+parking for carpools, vanpools, and electric or
+hybrid vehicles.
+Emissions Reduction Modeling Approach:
+Emissions reductions for this measure calculate
+the amount of commuting vehicle miles traveled
+per year by District employees, using data from
+the District Government Employee Commute
+Survey, and projecting mode shifting by those individuals in the amounts of 20% by 2012, 40%
+by 2020, and 62% by 2050, eventually matching the current participation rate among
+union employees to which the program is currently available.
+
+Phelps High School Wind
+Generation Pilot, NE
+
+6.1.2.2 Employee Car Sharing Program
+The District Government now utilizes a Fleetshare vehicle sharing program for District
+business travel, but can also facilitate private car sharing by District employees with
+access to street and public space parking and maintenance. The District can increase
+car sharing through collaboration with car sharing organizations like Zipcar to make car
+sharing more visible, convenient, and available. Identification of the most appropriate
+locations for the cars based on demand and proximity to public transportation hubs will
+help to grow the program. The District can further help by contributing start-up funds,
+assisting in promotion, and by providing increased free parking spaces.
+Emissions Reduction Modeling Approach:
+For this calculation, reductions in total vehicle miles traveled (VMT) are estimated by
+increasing the number of District employee carshare participants to 3,600 by year
+2050, multiplied by average commute length and the average percent reduction in driving that carshare participants achieve when they give up owning a car. Emissions savings in each analysis year are driven by both the reduction in VMT and the average fuel
+economy of the cars in that year, totaling 658 metric tons CO2e in 2012. Projections to
+2020 and 2050 reflect higher anticipated fuel economy in those years which creates a
+smaller reduction per person. However with the number of anticipated additional participants in those years the total emissions reduction figures continue to grow to 861
+and 1,962 metric tons CO2e in 2020 and 2050 respectively.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+29
+
+
+
+6.1.2.3 Electric Vehicle Usage
+The District Government will pilot and expand use of electric vehicles and development
+of electric charging infrastructure. The District Department of Transportation and other
+agencies will begin pilots when electric vehicles are commercially available. DC Water
+plans to replace 79 utility vehicles used on the Blue Plains campus with neighborhood
+electric vehicles (NEVs). To date, 10 utility vehicles have been converted, 20 are budgeted for conversion in 2010, and 20 more in 2011, bringing the total conversion to
+about 65% of the utility vehicles by 2012. For this calculation it is projected that there
+will have been 200 replacements by 2020 and 350 replacements by 2050 throughout
+the rest of the District Government Fleet.
+Emissions Reduction Modeling Approach:
+Calculations for this measure include first determining the amount of gasoline related
+emissions that would be saved by replacing gasoline powered vehicles with electric
+ones. For this estimation, the 2012 calculation is based on the average annual mileage
+of District fleet vehicles and their current average fuel economy. The reduction in gasoline emissions is tempered by increased emissions associated with using electricity
+as a substitute fuel. This is calculated using the same number of miles traveled and an
+gasoline equivalent miles per gallon of an electric vehicle in terms of kWh per mile.
+The total reduction in 2012 is estimated at 61 metric tons of CO2e. In projecting to
+2020 and 2050, changes in the base fuel economy of the vehicles replaced as well as
+the carbon intensity of grid electricity must be included. The best reference for both of
+these changes comes from the VISION model from Argonne National Labs. In 2020, the
+base vehicle fuel economy increases to 28.22 mpg, while there is no significant change
+reported in the carbon intensity of the grid. The result is that the incremental benefit of
+each vehicle replacement is less and thus the total reduction (69 metric tons of CO2e)
+is only slightly more with now 200 electric vehicles than it was for the 79 initial vehicles. In 2050 the VISION model projects an average on road mpg of 34.98. Under the
+“renewables” scenario, which is in line with other projections in this report, the carbon
+content of grid electricity has decreased by 61%. With cleaner grid electricity, the
+downside of increasing electricity use is much less, which explains the much more
+significant impact of 193 metric tons of CO2e from the action in 2050.
+6.1.2.4 Metropolitan Police Department Cruiser Fleet Right-Sizing
+The Metropolitan Police Department (MPD) operates the largest fleet in the District
+government, both in terms of absolute number of vehicles (1,686 in 2006) and gallons
+of fuel consumed (1,714,000 gallons of gasoline). This measure addresses marked and
+unmarked cruisers (1,184 in 2006) in the patrol fleet that use the majority of the fuel
+(1,350,000 gallons of gasoline). The “right-sizing” of this fleet consists of replacing V8powered Ford Crown Victoria cruisers with more fuel efficient V6-powered Chevrolet
+Impalas, and with more fuel efficient models in future years.
+Emissions Reduction Modeling Approach:
+Several assumptions were made in modeling the emissions reductions associated with
+this measure. It was assumed that 85% of the MPD cruiser fleet in 2006 was comprised
+of Ford Crown Victorias, and that 30% of Crown Victorias would be phased out in 2012,
+increasing to 100% by 2020. Additionally, reductions in fuel use were calculated by applying the difference in EPA average fuel efficiency between the two models (Impalas are
+26% more efficient) to the projected vehicle mix in a given year.
+30
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+Wind energy pilot at the U.S.
+Botanical Garden, SW
+
+6.1.3 Street Lighting
+During the 2006 calendar year, streetlights and traffic signals accounted for 6% of the
+total District Government operations direct emissions (46,000 metric tons of CO2e). A
+number of innovative emerging technologies, such as induction, light-emitting diode
+(LED) and solar lighting, have the potential to cut street lighting energy use substantially over time. Reductions in street lighting may be comparable to those seen when
+the District converted to LED traffic signals in 2005. The lighting conversion process
+is projected to result in savings of 1,700 metric tons of CO2e in 2012, 10,800 in 2020,
+and 32,000 in 2050. As a result of these conversions, emissions from street lighting are
+estimated to decrease by over 70%, but the exact reductions will depend on the mix
+of technologies selected by the District Department of Transportation (DDOT) at the
+conclusion of the current pilot programs being conducted.
+6.1.3.1 Street Lighting Retrofits
+The District Department of Transportation (DDOT) is responsible for the installation and
+repair of all street lighting in the District and is currently engaged in a pilot program to
+identify the next-generation lighting technology it will deploy to replace the current mix
+of high pressure sodium, incandescent, mercury vapor, and metal halide street lights.
+Emissions Reduction Modeling Approach:
+The model assumes that the replacement lighting technology will be 70% more efficient than the existing technology mix, a conservative figure that gives DDOT flexibility in choosing the best technology for a given application. The model projects 5%
+conversion in 2012, 33% conversion in 2020, and 100% conversion in 2050.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+31
+
+
+
+6.1.4 Water and Wastewater
+In 2006, wastewater facilities were responsible for 23% of government operations emissions, with a total of 163,000 metric tons of CO2e. Emissions from wastewater treatment
+can be reduced by decreasing flow volumes, reducing energy consumption through
+process innovation, and finding ways to re-use process by-products.
+Upgrades to the water distribution and wastewater treatment systems are projected to
+result in savings of 36,700 metric tons of CO2e in 2012, 73,800 in 2020, and 129,500 in
+2050. The actions listed in this plan highlight several major initiatives being undertaken
+by DC Water, but the authority is beginning a comprehensive, organization-wide assessment of energy use that is likely to identify further opportunities. Even so, the items
+listed in this plan will cut emissions from DC Water facilities by nearly 50% by 2020.
+6.1.4.1 Blue Plains Fine Bubble Diffuser Retrofit
+DC Water has installed highly efficient fine bubble diffusers for use in its aerated wastewater treatment processes at Blue Plains. With finer bubbles, more of the oxygen supplied to the process will dissolve into the water and facilitate the treatment process.
+With more effective aeration, less overall pumping of air is needed to achieve the same
+treatment effect. This change will conserve an estimated 70 gigawatt hours of electricity per year.
+
+32
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+Emissions Reduction Modeling Approach:
+The energy savings for this measure were computed by DC Water as part of an engineering study for the project. The emission factor for electricity generation is then applied to the energy savings to compute the emissions reduction.
+6.1.4.2 Blue Plains Anaerobic Digester Project
+DC Water plans to implement an anaerobic digestion system to further treat biosolids
+and sludge from the Blue Plains Wastewater Treatment Facility. Anaerobic digestion utilizes microbes to breakdown the solids, producing several beneficial by-products while
+considerably reducing the volume of solids that must be hauled away and landfilled.
+Digested sludge material is safer to handle, and can be marketed as a soil amendment rather than disposed of as a hazardous waste product. In addition, the volume
+of sludge material is reduced by approximately 50%, requiring substantially less truck
+traffic to transport it. Another by-product of
+anaerobic digestion is methane gas which
+can then be burned to provide heat for the
+facility and to run a turbine to create nonfossil fuel electricity.
+Emissions Reduction Modeling Approach:
+Engineering studies of the co-generation
+potential proposed by DC Water project
+that the methane produced will generate a
+minimum of 10 megawatts of electricity.
+Emissions reductions are calculated by applying the emissions factor for grid electricity in the District to that amount of
+electricity that would not need to be produced by the fossil fuel based electricity
+grid.
+
+6.1.5 Solid Waste
+Emissions from government-generated
+solid waste accounted for an estimated
+625 metric tons of CO2e during the 2006
+calendar year, just 0.1% of the District government operations total of 720,000 metric
+tons of CO2e. For many reasons that go beyond the direct climate emissions reductions goals of this report, the District Government is engaging in a widespread effort
+to provide receptacles, educate staff, and improve tracking that will significantly increase recycling participation rates.
+
+Expanded growth and improved
+green space helps cool the city
+
+6.1.5.1 Recycling in District Government Facilities
+Greenhouse gas emissions from solid waste occur when organic material degrades
+anaerobically in a landfill resulting in the formation of methane, a potent greenhouse gas.
+By increasing the recycling rate, less of this material will be entering the landfill and cre-
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+33
+
+
+
+ating emissions. Currently the District Government facilities are recycling at an average
+rate of at 22%. The goal is to increase this rate to 30% by 2012 and 50% by 2020.
+
+We Want Your
+Comments and Input
+This document is a Draft
+for Community Discussion. You can contribute
+to the District’s climate
+planning effort by providing input in two ways:
+First, the District Department of the Environment (DDOE) is asking
+for public comments on
+the list of proposed
+Government Operations
+Actions (Section 6.1) by
+November 15, 2010. You
+can submit comments
+via e-mail to
+climate.plan@dc.gov or
+by mail to DDOE, Climate Action Comments,
+1200 First St NE, 5th
+Floor, Washington, DC
+20002.
+Second, you can participate in a series of public
+forums and meetings
+convened by DDOE to
+gather input and comments on the proposed
+Government Operations
+Plan (Section 6.1) and
+the Community Discussion Draft (Section 6.2).
+More information on the
+climate engagement
+process can be found at
+www.green.dc.gov,
+by e-mailing
+climate.plan@dc.gov, or
+calling 202-535-2600.
+
+34
+
+Emissions Reduction Modeling Approach:
+Due to a lack of data on the subject, it is assumed that the composition of District facility waste is similar to other commercial waste streams. It is also assumed that recycling occurs for each material type in proportion to the generation rate for that material
+type. With increasing recycling rates the methane producing portions of the waste
+stream are reduced from what was headed for a landfill, avoiding those emissions.
+
+6.2 Community Measures to Reduce Emissions
+Section 6.1 provides a detailed proposal for reducing emissions from the operations
+of the District Government. However, the District Government’s share of our total emissions from the District of Columbia community is only 6%. It will take an effective and
+extensive partnership between government and all sectors of our community to address the 94% of emissions coming from actions not under the direct control of the
+District Government. The District Government has a role to play – by setting policies
+and establishing programs to reduce energy use and greenhouse gas emissions in our
+city – but the solution to the challenges of climate change will require everyone’s participation.
+
+6.2.1 Community Engagement
+This Draft Climate Action Plan provides a starting point for dialog to identify community-wide measures that, together with the government operations measures described
+in this report, will allow the District to meet emissions reduction targets. Over the coming months, the District Government will convene public forums to engage community
+members, businesses, institutions, and other stakeholders in the effort to establish
+community reduction targets and identify specific measures and commitments needed
+to achieve those targets.
+The goal of the public engagement process is to identify how each member of our
+community, from the individual resident to the largest institutions, can do their part to
+reduce greenhouse gas emissions. The District Government will do its part to encourage emissions reductions across the community by establishing policies and programs
+that promote efficient building design, reduce energy consumption, provide transportation alternatives, encourage smart land use patterns, provide waste management
+alternatives, and allocation of District Government and federal financial resources
+wisely.
+
+6.2.2 Community Target Setting
+An emissions reduction target represents the percentage by which a community will reduce total greenhouse gas emissions below its base year levels. What are the realistic options for community targets and mitigation measures? These are the options we
+will develop together during the community engagement process. There are, however,
+examples and guidelines for us to refer to. Employing the measures discussed in the
+report (and others identified during the public planning process), the District as a com-
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+munity should strive to meet or exceed the Metropolitan Washington Council of Governments recommended regional goals of reducing emissions by 10% in 2012, 20%
+in 2020, and 80% in 2050. xvi
+Typically, several reduction targets are selected to correspond with a series of future
+target years. Setting targets for the District of Columbia community will first require an
+estimation of future emissions totals, which is presented below under “business as
+usual” projections. Second, estimates of the impacts of actions that are already underway, combined with the effects of external factors such as the
+carbon intensity of the electric utility grid, national fuel economy
+standards for automobiles, and technology improvements, are taken
+into account. Third, through the community engagement process,
+residents, government and private sector experts, businesses and
+institutions will explore the potential impacts of actions they can take
+to reduce climate emissions Emission reduction goals for the Community will be set based on the overall assessment of these three
+factors.
+As depicted in Table 4.1 and Figure 4.1, “business as usual” projections anticipate that the District’s community greenhouse gas
+emissions will grow by approximately 3.7 million annual tons (or
+35%) by the year 2050. Reducing emissions to a point below the
+2006 baseline will require additional emissions reductions to counter anticipated increases in emissions over time.
+
+Wooded lands along the C&O
+Canal, NW
+
+Table ES.5 summarizes proposed community-wide measures that can reduce the District’s greenhouse gas emissions. Some of the measures listed have already been initiated and are in the process of implementation, such as the DC Green Building Act,
+the Clean and Affordable Energy Act, and the updated 2008 Building Code. Others
+represent programs now being planned or discussed, such as further greening of the
+Building Code, programs for financing energy efficiency retrofits (also known as
+“PACE”), and expanded mass transit, bicycle and pedestrian options. Others represent
+best practices taken from other private sector or community-wide actions in other jurisdictions that could be considered for application here within the District.
+
+How was the proposed list of Community measures developed?
+The list of proposed measures to reduce community emissions was derived
+from a review of the actions and commitments in the Green DC Agenda and a
+review of best practices from other cities. This list was refined to isolate measures that would provide the most significant emissions reductions. Significant
+input and guidance also came from the work of the Metropolitan Washington
+Council of Governments (MWCOG), whose Board approved regional climate
+guidance in December 2008.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+35
+
+
+
+6.2.3 Proposed Measures for Discussion
+Buildings
+Buildings are responsible for 75% of greenhouse gas emissions in the District and are
+therefore the right place to start making reductions. Many factors determine how much
+energy a building uses, including building construction, usage,
+energy systems and load and occupant behavior. The actions
+taken at the community scale will help to address all of these aspects to significantly reduce building energy consumption within
+the District.
+
+The District is a national leader in
+Green and Cool Roof installation.
+
+As the District works to mitigate climate change by reducing its
+emissions, these same measures occasionally have adaptation
+benefits for changes in climate that will occur even with preventative measures. For example, creating high performance buildings throughout the District will do a great deal to insulate the
+businesses and residents from the financial effects of extreme
+weather events such as heat waves. Measures aimed at vulnerable populations will help to reduce the human impact of such
+extreme events. By increasing efficiency broadly, utility providers
+will be better able to manage peak loads during extreme weather
+events and help to avoid service disruption at critical times. With
+less spending on energy for businesses and residents in the District, more money will
+be available for other purposes, improving the local economic outlook.
+Green Building Act (GBA)
+The GBA will require that beginning in 2012 non-residential new construction over
+50,000 square feet in size meet the LEED Certified standard. This measure will be implemented as new large scale developments occur within the District. The benefit of
+this measure is largely dependent on the amount of development that is likely to occur
+under these guidelines. Looking towards 2050, the GBA is likely to be revisited and
+strengthened in the future.
+Clean and Affordable Energy Act of 2008 (CAEA)
+Sustainable Energy Utility: the CAEA redirects existing utility assessment fees to a new
+Sustainable Energy Trust Fund that will be used to promote and catalyze energy efficiency projects throughout the city. These projects are aimed at efficiency, renewable
+generation, peak load management, and the creation of green-collar jobs. Specific target areas include energy intensive enterprises and services for low-income residents.
+Renewable Portfolio Standard: the CAEA sets a standard for the amount of renewable
+energy that all electricity suppliers to the District must meet. The percentage of renewable energy increases each year up to 20% in 2020.
+Greening the Building Code
+By revising our building codes to include higher energy and water efficiency standards,
+the District will ensure that all new buildings and redevelopment will be more efficient,
+including buildings that are smaller than the 50,000 square feet threshold of the Green
+Building Act. In 2008, the District became one of the few jurisdictions to adopt the lat-
+
+36
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+est energy and water conservation codes, and the District will revise the codes again
+in 2010 and regularly after that.
+Property Assessed Clean Energy (PACE)
+The District will offer long-term loans to property owners, to be repaid on their property tax bills, to finance energy efficiency retrofits of residential, multi-family, and commercial properties citywide.
+With recent passage of legislation to authorize a property assessed clean energy
+(“PACE”) program and authorize issuance of $250 million of non-recourse bonds, the
+District is poised to lead the nation in implementing a major retrofit finance program
+that will save properties owners millions of dollars on energy, improve the comfort,
+condition and marketability of properties across our city, and create green jobs and
+business opportunities for District residents.
+Office and Residential Energy Efficiency Retrofits and Weatherization
+The District Department of the Environment offers programs that promote energy savings in homes through retrofits and weatherization. The energy and climate emissions
+savings that will result from these programs will be dependent upon the number and
+type of retrofit actions that will occur under the program. This information, combined
+with published reports on how these measures have performed under similar programs, will be used to compute the total energy savings.
+Energy Efficiency Improvements for Federal Buildings in the District
+Federal Executive Orders require all federal agencies to reach a minimum 30% reduction in energy intensity (a measure of energy use) by 2015, while significantly increasing the amount of energy derived from renewable sources. A target of 16% reduction
+in water consumption is also required. These orders apply to all federal buildings in the
+District, and represent a significant component of our overall community emissions.
+Green Building and Energy Challenges to Key Sectors
+Competition motivates people to change their ways. There are a number of examples
+of climate reduction challenges among business sectors, universities and other institutions, and neighborhoods that have delivered significant reductions in energy use.
+The District Government will help facilitate these sector challenges building on the
+leadership of sector leaders citywide.
+“District” Heating and Energy Systems
+The District already has a several “district,” or centralized, heating and energy systems in place (for example, the federal General Services Administration, Soldiers and
+Airmen’s Home, U.S. Capitol complex, White House/Old Executive Office Building ,
+and several universities). District heating or energy systems use a central plant to produce heat, chilled water, or energy for distribution across many buildings. Increasing
+the efficiency of these large heating and cooling systems could save energy. In other
+communities, particularly in Europe, cities are promoting expansion of these district
+systems to provide efficient heating and cooling to other buildings nearby.
+Solar Co-ops and Other Micro-utilities
+Use of renewable electric systems, high efficiency heating or other efficient practices
+can be promoted through co-ops at the neighborhood-level. Rooftops, parking lots,
+yards, parks, rights of way, streets, and other public and private space can be utilized
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+37
+
+
+
+in very creative means to create decentralized power sources across the District. Coordinated design, community organization, and implementation models are key to success on a site/neighborhood basis. A strong foundation for this work exists in the
+citizen-organized solar co-ops already in place. These efforts could be enhanced and
+facilitated by an effective and replicable financing plan and streamlined administrative
+processing.
+Power Purchase Agreements
+A Power Purchase Agreement, or PPA, is a long-term contract to buy power from a
+specific energy provider. Solar PPAs are agreements between a home or business
+property owner and a buyer who will purchase solar power generated at the property
+at a long-term rate, often equal to or less than market rates. Under a PPA, a solar electric facility is installed on a customer’s roof without the customer needing to purchase
+any hardware—making going solar as easy as paying a regular power bill. District government can take a leading role in easing the adoption of PPAs within the commercial
+and residential sectors.
+Purchase of Renewable Power
+Consumers in the District already have the choice to purchase up to 100% renewablesource electric power through several vendors. Education and cooperative purchasing can promote expanded renewable purchasing by residents, businesses and
+institutions. Information is available at www.greenenergy.dc.gov.
+Green and Reflective “Cool” Roofing
+Use of green and reflective “cool” roofs can greatly reduce the energy needed to cool
+buildings and make buildings more comfortable for occupants at a relatively low cost.
+Cool roofs can also help combat the urban “heat island effect,” which keeps the inner
+city hotter than surrounding areas due to heat retention of pavement and roofing ma-
+
+38
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+terials. The District Building Code now incorporates cool roof requirements, but education and incentives can help to speed adoption of these technologies.
+Industrial Scale Renewable Co-Generation
+Several small generation plants in the District are scheduled to go off-line in the next
+several years. Exploring opportunities to open cleaner burning facilities using natural
+gas or a combination of renewable sources could provide opportunities for expansion
+of high efficiency, locally-generated power to provide cleaner, more reliable power for
+the District.
+Federal Light Bulb Efficiency Standards
+Under the Energy Independence and Security Act of 2007, all light bulbs must use
+25% to 30% less energy than today's products by 2012 to 2014. The phase-in will
+start with 100-watt bulbs in January 2012 and end with 40-watt bulbs in January 2014.
+By 2020, bulbs must be 70% more efficient. Compact fluorescent bulbs already meet
+the 70% efficiency standard. The average U.S. household has more than 40 sockets
+for light bulbs, ranging from table lamps to ceiling fixtures. Larger homes can have
+even more. In Washington, DC, our 285,000 homes could have as many as 11,400,000
+light bulbs. Lighting accounts for about 20% of annual household electricity bills, or
+over $200 per year in the average household. Replacing incandescent bulbs with ENERGY STAR qualified light bulbs provides significant benefits for consumers.
+Transportation
+Transportation emissions represent the second largest emissions class in the District,
+accounting for nearly one quarter of all emissions. The District’s transportation emissions come from a wide array of sources, including vehicles driven by District residents, hundreds of thousands of daily commuters from outside of the city, and visiting
+tourists and business travelers. By expanding opportunities for both residents and
+commuters to take public transit and encouraging fuel efficient vehicles, the District
+can both reduce vehicle emissions and create a healthier environment.
+Bus Rapid Transit Expansion
+Through a number of individual projects and initiatives, the Washington Area Metropolitan Transit Authority (WMATA) and the District Department of Transportation will
+expand Bus Rapid Transit routes such as express buses and the Circulator system
+throughout the city and provide a higher level of transit service to an increased number of residents. Parts of this system are already in place. By 2030, an additional
+118,000 weekday riders are expected to use public transit.
+Streetcar Project
+The Anacostia Streetcar Project represents the first step in the District’s commitment
+to redevelop streetcar lines along some of the city’s highly-traveled corridors. Streetcar lines will bring a high level of service transit system to areas of the District previously poorly connected to the rest of the Metro and other parts of the transit system.
+The first segment of the Anacostia streetcar line is expected to begin revenue service
+by late 2012, with the H Street/Benning Road streetcar line starting shortly thereafter.
+The remainder of the system plan will be implemented as funding becomes available.
+Capital Bikeshare Program Expansion
+The District is among the first cities in North America to launch a publicly available, self-
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+39
+
+
+
+serve bike sharing program. The Introduction and expansion of bike sharing increases
+the number of alternative transportation modes available to District residents and allows for people to be able to take transit to the city core while having the mobility to
+run short errands throughout the day. Currently the program is expanding from 100 to
+more than 1,000 bikes and from 10 stations to more than 100 in the District and Northern Virginia. According to a survey of bike share program users, approximately 16% of
+the trips taken on a smart bike were replacing a car trip.
+Bicycle Master Plan Implementation
+The District Bicycle Master Plan has been in place for more than 10 years and has
+made significant improvements in cycling conditions. With better routes, facilities and
+more options for parking bikes in safe and convenient locations, more District residents are expected to take advantage of the low cost and health benefits of bicycle
+commuting. The District Government has already begun implementation of the master plan. In 2009 the number of miles of bike lanes in the District rose to 39.5 miles and
+there are at least 1,000 public racks available. In 2009, the Union Station Bike Station
+opened, providing premium parking, retail and repair services, and bike rentals.
+Performance Based Parking
+In order to move more trips to transit and active transportation, the District Department of Transportation will continue to implement “performance based parking” with
+increased rates during high demand periods and areas to
+support further adoption of other modes of travel and reduce congestion.
+Incentives for Hybrid Vehicles
+Increasing the rate of hybrid vehicle adoption will reduce
+emissions by improving the collective fuel economy of
+the vehicles in the District. The District Government already has incentives in place to encourage hybrid vehicle purchases including the elimination of sales tax on
+hybrids and a 50% discount in registration fees.
+
+Restored wetlands along
+the Anacostia River, NE
+
+Electric Vehicle Plug-In Stations
+Expansion of public and private infrastructure to support
+electric vehicle charging in various stations around the
+city will facilitate the adoption of plug-in electric vehicles.
+As residents and companies shift to electric vehicles, reductions in gasoline consumption will result in lower emissions from the passenger car sector. Net emissions
+reductions from this measure can be calculated by estimating the increased amount
+of grid electricity that will be consumed and subtracting the resultant emissions from
+the reduction in gasoline consumption.
+Fuel Efficient Tour Buses and Anti-Idling
+Working with the wide variety of tour bus operators from within and outside of the city,
+the District can provide incentives for fuel efficient and clean running tour buses to reduce the impact of tourism related emissions in the District.
+Promotion of Car Sharing Programs
+The District already has one of the highest rates of car share participation in the country and opportunity for expansion. The District Department of Transportation facilitates
+
+40
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+usage by providing car share parking spaces at key locations across the city. Public education and promotion by
+government and business will help drive demand and increase usage.
+Federal CAFE Standards
+The National Highway Traffic Safety Administration and the
+Environmental Protection Agency (EPA) have proposed an increase in the Corporate Average Fuel Economy (CAFE) standards for all passenger and light truck models for 2012 to
+2016. Current CAFE standards are set at 27.5 MPG. The new
+CAFE standards require an estimated combined average
+miles per gallon (MPG) of 34.1 by 2016. Improving fuel economy will reduce the District's greenhouse gas emissions as vehicles use less fuel. As
+vehicles are regularly replaced on a variable timeframe, it is estimated that the full effects
+of implementing a federal CAFE standard will not be experienced for 8 to 10 years.
+
+Preserving green space
+benefits residents and the
+environment
+
+Land Use
+The way that the District has developed over time has shaped where residents live,
+work and play in the city. Smart growth policies, such as mixed-use development, can
+bring these destinations closer together, and provide more transportation choices for
+residents, like walking, biking or transit. Land use practices that favor walkable communities and development near transit can reduce vehicle miles traveled, which helps
+mitigate greenhouse gas emissions while also improving air quality and health outcomes.
+Efficient land use practices in the city and measures that increase vegetation can increase the environmental performance of the urban environment. Green space and
+urban trees provide cooling benefits that reduce energy costs and render the city more
+resilient to the urban heat island effect and heat waves.
+Land Use Patterns That Increase Transportation Choices
+The District of Columbia’s Comprehensive Plan supports compact, transit oriented
+development. Efficient land use policies bring residents closer to their destinations and
+transit opportunities, therefore increasing opportunities for walking, biking, and public
+transit trips to replace motor vehicle trips.
+Small Area Plans
+The District of Columbia is in the process of implementing 20 Small Area Plans (SAPs)
+city-wide. These plans, along with other planning documents like the Comprehensive
+Plan, guide development in more climate friendly patterns. Increasing the number and
+diversity of end-uses in a small area with compact and mixed-use buildings increases
+opportunities for district heating systems and co-generation.
+Increased Tree Canopy in the District
+Mature trees serve to shade buildings and act as wind breaks, reducing energy use in
+the District. Trees also reduce the amount of stormwater runoff that is generated during large rain events, and by reducing the water treatment load on the Blue Plains
+wastewater treatment facility thereby reducing energy use at the facility. The District’s
+goal is to increase its urban tree canopy to 40% by 2036.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+41
+
+
+
+Green and Sustainable Land Use Patterns and Development Practices
+To promote green development, the District of Columbia actively supports the use of
+green building methods, like green roofs, in new construction and rehabilitation projects. Green roofs not only insulate buildings and subsequently reduce energy usage
+for heating and cooling, but they also absorb and reduce the flow of storm water into
+the sewer system. Additionally, public realm designs in the District favor tree boxes,
+planting areas on public sidewalks, and reduction in impervious surfaces.
+Sustainable Zoning
+The comprehensive update process for the District of Columbia’s zoning code included
+an in-depth examination of elements of sustainability. In order to enable and encourage sustainability through the regulations guiding the built environment of the District,
+the Office of Planning has recommended changes to the zoning code. Major topics
+covered include climate change; energy conservation and renewable energy production; integrating land use and mobility; water conservation and greywater; slopes,
+streams, stormwater and hydrology; food production/security and community health;
+and sustainable business and ‘green’ jobs.
+Waste and Recycling
+Municipal solid waste results in greenhouse gas emissions when organic material degrades in a landfill. These waste measures divert material entering the landfill and thus
+prevent emissions that would have been released from the degradation process.
+Increase Commercial Recycling
+The majority of the District’s waste comes from the commercial sector. The Department
+of Public Works will expand programs to work with both property managers and tenants to improve commercial recycling rates to 45% diversion. Reductions calculations
+in this case will be based upon the amount of organic material that would be diverted
+from the landfill by increasing overall diversion rates to 45%. Emissions reductions are
+based upon the amount of methane materials would have generated in the landfill had
+they not been diverted.
+Increase Residential Recycling
+Current residential recycling rates are at 24%. The District plans to increase this percentage to 45% by 2050 through outreach and other programs (such as expanding
+material collected and incentives for recycling).
+Waste to Energy
+Beginning in 2007, a portion of the District’s municipal waste has been incinerated in
+a waste-to-energy plant rather than landfilled. Burning municipal solid waste (MSW)
+produces energy and emissions, which offset alternative emissions from utility electricity production.
+Organic Waste Composting
+Organic matter such as yard waste is the key component of solid waste that leads to
+the formation of methane in landfills. By increasing the amount of leaf matter that is collected for composting rather than being landfilled, these emissions are avoided. The
+District plans to increase the diversion of leaves and Christmas trees from current levels of 54% to 100% by 2050.
+
+42
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+Cross-Cutting Efforts
+Climate Benefit Program
+Other cities around the nation have established voluntary programs to allow businesses, institutions or individuals to “purchase” additional greenhouse gas
+emissions through private donations to support projects
+that reduce greenhouse gas emissions within the District’s boundaries. Donations could be official carbon offsets or unofficial carbon benefits and are run in some
+cases by governments or in others by private non-profit
+entities. Local actions that could be funded could include
+weatherization of low income properties, installation of
+solar energy systems, composting, large scale tree planting projects and more.
+Green Purchasing
+District Government, local businesses and associations, and residents can reduce their
+greenhouse gas emissions by choosing to purchase and use less carbon-intensive
+products. The use of these products reduces environmental impacts associated with
+the manufacture, use and disposal of many items in common daily use. The District
+Government is adopting Environmentally Preferable Purchasing (EPP) practices for
+District Government agencies. A number of government and private sector EPP program models are available to guide businesses and individuals on EPP, such as the EPA
+Comprehensive Procurement Guidelines (CPG) for recycled content, and Energy Star
+and EPEAT Silver ranked computers. Examples of target products include: office supplies; computers and peripherals; copiers; vending machines; lighting; carpet; and
+cleaning supplies and chemicals.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+43
+
+
+
+7 Other Benefits of Climate Protection
+Many of the actions taken to mitigate climate change also contribute other community
+goals, like strengthening the local economy, reducing other types of urban pollution,
+improved health, and increased quality of life.
+As we improve building efficiency and quality with buildings that are more energy efficient, costs will decrease with lower energy and water bills, freeing up money for investment. In 2006, the District Government spent over
+$100 million on energy to power buildings and operate its
+vehicle fleet. Many of the measures in this plan have
+short-term payback periods, and save on both direct and
+indirect costs. For instance, a “right-sized” vehicle fleet
+is less expensive to purchase and fuel, while also being
+less costly to maintain.
+A key side-benefit of climate change mitigation activities
+is enhanced energy security and reliability of locally generated power, an issue that is especially relevant to the
+District given the critical government business that is
+conducted here.
+
+Kingman Island
+Restoration by the
+Mayor’s Green Summer
+Jobs Corps
+
+Green building standards and codes that enhance energy efficiency and reduce costs also improve indoor air
+quality, which can reduce occupants’ exposure to harmful chemicals and other irritants. Improved air quality, along with increased natural light,
+has been shown to improve productivity among workers and students which will in
+turn yield positive economic benefits.
+As Washington, DC, invests in safe and convenient forms of alternative transportation,
+and becomes less dependent on the automobile, the flow of local dollars out of the District to pay for fuel (often from foreign suppliers) will decrease. Automobiles are a significant source of local air pollution including ozone, particulate matter, and carbon
+monoxide, which have negative health effects and can lead to asthma and other
+breathing disorders. Less automobile dependence is correlated with an increased number of people choosing active lifestyles that include regular walking and cycling to
+reach their destinations. Investments in alternative transportation that reduce emissions from commuters will also yield increased mobility benefits in the form of better
+levels of service in transit systems and better viability for modes like walking and biking to reach needed destinations for the 36% of District residents who do not own
+cars. xvii
+Restoring our tree canopy and increasing the amount of green vegetated space will not
+only shade buildings, cool streets and reduce energy usage, but will also reduce
+stormwater runoff, combined sewer overflows and other non-point source water pollution, leading to healthier waterways including the Anacostia and Potomac Rivers,
+Rock Creek and the Chesapeake Bay. Urban trees and green space also create more
+welcoming and memorable locations and have been linked to increases in spending
+in retail locations and overall increased property values. xix
+The effect of these additional benefits is magnified when viewed through the lens of climate adaptation—the steps we can take to prepare for the effects of a changing climate. In light of the considerable past and ongoing emissions of greenhouse gas here
+in the District and worldwide, we have already set the planet on a course for some de-
+
+44
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+gree of climate change. Extreme weather events, volatility in energy prices and reliability, heat driven poor air quality days, and flooding of low-lying areas are all likely to
+increase with climate change. Many of the actions identified here to mitigate greenhouse gas emissions will also help the District’s government, businesses and residents to adapt to a changing climate. For example, extreme and prolonged heat waves
+can put considerable strain on the reliability of energy delivery in peak periods; possibly leading to service disruption during times when cooling is most needed. By increasing efficiency across the city, such service disruptions are less likely and the city
+will be able to better cope with those situations. Additional measures aimed solely at
+climate adaptation, such as modifying flood protection and heat emergency response
+programs will also be addressed in this Draft Climate Action Plan.
+While some of the actions to fight climate change may involve additional upfront costs,
+such expenses are very often outweighed by long-term savings in energy use or provide other significant community benefits to improve quality of life for District residents.
+For example, the State of California has cut the energy use required to cool new homes
+by approximately two thirds since the 1970s through building codes, despite ever increasing home size. Total energy savings achieved are valued at over $30 billion. xx
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+45
+
+
+
+8 Next Steps
+The government operations and community measures described in this plan could establish the District as a national leader in areas of renewable energy, alternative fuels,
+and energy efficient wastewater treatment practices.
+Following the public comment period, the District will finalize the Climate Action Plan
+with final targets and measures. For the final set of Government Operations measures,
+the District Government will refine emissions reductions estimates and, wherever possible, estimate the cost of the measures and related costs savings and projected payback periods.
+To develop a final set of community emissions reduction targets and specific mitigation and adaptation measures, the District Government will engage with community
+members, businesses, institutions, and other stakeholders through public forums and
+meetings, and by gathering comments from the community.
+
+We Want Your Comments and Input
+This document is a Draft for Community Discussion. You can contribute to the
+District’s climate planning effort by providing input in two ways:
+First, the District Department of the Environment (DDOE) is asking for public
+comments on the list of proposed Government Operations Actions (Section
+6.1) by November 15, 2010. You can submit comments via e-mail to
+climate.plan@dc.gov or by mail to DDOE, Climate Action Comments, 1200
+First St NE, 5th Floor, Washington, DC 20002.
+Second, you can participate in a series of public forums and meetings convened by DDOE to gather input and comments on the proposed Government
+Operations Plan (Section 6.1) and the Community Discussion Draft (Section
+6.2). More information on the climate engagement process can be found at
+www.green.dc.gov, by e-mailing climate.plan@dc.gov, or calling 202-535-2600.
+
+46
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+List of Tables and Figures
+Figures
+ES.1
+ES.2
+ES.3
+ES.4
+ES.5
+ES.6
+3.1
+3.2
+3.3
+3.4
+3.5
+4.1
+4.2
+5.1
+5.2
+
+2006 Community Emissions by Sector . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Per Capita CO2e Comparison (metric tons) . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Government Operations Emissions by Sector . . . . . . . . . . . . . . . . . . . . . . . 5
+Forecasted Emissions Growth and Impact
+of Government Operations Actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Community Emissions by Source . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Forecasted Emissions Growth and Impact of Community Actions . . . . . . . 8
+2006 Community Emissions by Sector . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Community Emissions by Source . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Government Operations Emissions by Sector . . . . . . . . . . . . . . . . . . . . . . 17
+Government Operations Emissions by Sector . . . . . . . . . . . . . . . . . . . . . . 18
+2006 District Government Operations Energy Costs per Sector . . . . . . . . 18
+Business as Usual Forecast for Community Greenhouse Gas
+Emissions (metric tons CO2e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Forecasted Greenhouse Gas Emissions for District Government
+Operations (metric tons CO2e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Forecasted Emissions Growth and Impact of Government
+Operations Actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Forecasted Emissions Growth and Impact of Community Actions . . . . . . 22
+
+Tables
+ES.1
+ES.2
+ES.3
+ES.4
+ES.5
+3.1
+3.2
+4.1
+4.2
+5.1
+6.1
+
+Greenhouse Gases and Associated Global Warming Potential . . . . . . . . . . 3
+Government Operations Emissions Reduction Target
+Comparison to Other Cities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Government Operations Emissions Reductions by Sector . . . . . . . . . . . . . . 6
+Draft for Public Review and Comment:
+Government Operations Emissions Reduction Measures . . . . . . . . . . . . . . 9
+Draft for Discussion and Public Engagement:
+Community Emissions Reductions Measures . . . . . . . . . . . . . . . . . . . . . . . 11
+2006 Community Emissions by Sector . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+2006 District Government Operations Emissions by Sector . . . . . . . . . . . . 17
+Forecasted Community Greenhouse Gas Emissions (Metric Tons CO2e) . 19
+Forecasted Greenhouse Gas Emissions
+for District Government Operations (Metric Tons CO2e) . . . . . . . . . . . . . . . 20
+Government Operations Emissions Reduction Target
+Comparison to Other Cities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Comparison of Government Operations Emissions Profile
+to Emission Reductions Achieved by Proposed Mitigation Measures . . . . 23
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+47
+
+
+
+Credits and Acknowledgements
+District of Columbia
+Christophe A.G. Tulou, Acting Director, District Department of the Environment
+Harriet Tregoning, Director, District of Columbia Office of Planning
+Brendan Shane, Chief, Office of Policy and Sustainability, District Department of the
+Environment
+Adriana Hochberg, Special Assistant, District Department of the Environment
+George Hawkins, General Manager, DC Water
+Daniel Barry, Climate Policy Analyst, District Department of the Environment
+Emma Hetnar, Policy Analyst, District Department of the Environment
+ICLEI–Local Governments for Sustainability, USA
+Jennifer Ewing-Thiel, Project Manager
+Jonathan Knauer, Program Officer
+Kara Reeve, Technical Innovation Manager
+Mike Steinhoff, Program Officer
+Brita Pagels, Program Officer
+Jamie O’Connell, Program Associate
+
+48
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+Endnotes
+i
+
+Reduction targets are relative to the forecasted medium-growth scenarios,
+under which greenhouse gas emissions from Government Operations are anticipated to rise to 887,659 metric tons of CO2e or 27% by 2050.
+
+ii
+
+The District’s emissions have been projected out to 2050 under three scenarios:
+low, medium, and high growth. Based on expected growth in the District’s population and employment, it is expected that greenhouse gas emission will increase 14% in the District by 2020 and 35% by 2050. Under the medium
+growth scenario, emissions are forecasted to rise to 14,284,067 metric tons of
+CO2e, an increase of approximately 35% by 2050. These scenarios presume
+greenhouse gas emission levels if the District takes no action to reduce emissions.
+
+iii
+
+Intergovernmental Panel on Climate Change, http://www.ipcc.ch/.
+
+iv
+
+Boesch, D.F. (editor). 2008. Global Warming and the Free State: Comprehensive
+Assessment of Climate Change Impacts in Maryland. Report of the Scientific
+and Technical Working Group of the Maryland Commission on Climate Change.
+University of Maryland Center for Environmental Science, Cambridge, Maryland. This report is a component of the Plan of Action of the Maryland Commission on Climate Change, submitted to the Governor and General Assembly
+pursuant to Executive Order 01.10.2007.07.
+
+v
+
+NOAA. 2008. Satellite and Information Service. Maryland and Virginia. Available
+Online: http://www.ncdc.noaa.gov/oa/climate/research/cag3/md.html.
+
+vi
+
+NOAA. 2004. Service Assessment: Hurricane Isabel, September 18-19, 2003.
+Available Online: http://www.weather.gov/os/assessments/pdfs/isabel.pdf.
+
+vii
+
+Maryland Department of Natural Resources (MDNR). 2008. DNR Answers
+Questions About Sea Level Rise in Response to IPCC Report. Available Online:
+http://www.dnr.state.md.us/dnrnews/infocus/sealevel_rise.asp.
+
+viii National Capital Planning Commission (NCPC). 2008. Report on Flooding and
+Stormwater in Washington, DC, pg. 3. Available Online:
+http://www.ncpc.gov/UserFiles/File/publications_press/Report%20on%20
+Flooding%20and%20Stormwater%20in%20Washington,%20DC_.pdf.
+ix
+
+Parker, G., et al. 2004. Modeling the Effect of Rising Sea Level on River Deltas
+and Long Profiles of Rivers, pg. 10. Available Online:
+http://cee.uiuc.edu/people/parkerg/_private/ConferenceProceedings/
+SeaLevelRiseHiroshima04Cit.pdf.
+
+x
+
+MDNR. 2008. DNR Answers Questions About Sea Level Rise in Response to
+IPCC Report. Available Online:
+http://www.dnr.state.md.us/dnrnews/infocus/sealevel_rise.asp.
+
+xi
+
+Titus, J.G. and Richman, C. 2000. Maps of Lands Vulnerable to Sea Level Rise.
+United States Environmental Protection Agency. Available Online:
+http://yosemite.epa.gov/oar/globalwarming.nsf/content/
+ResourceCenterPublicationsSLRMapsIndex.html.
+
+xii
+
+This number represents a “roll-up” of emissions, and is not intended to represent a complete picture of emissions from the District’s operations. This roll-up
+number should not be used for comparison with other local government roll-up
+numbers without a detailed analysis of the basis for this total.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+49
+
+
+
+xiii For buildings, the forecast uses the Energy Information Administration (EIA) estimate of 1.1% annual increase in commercial building energy consumption.
+The building forecast contains an additional correction to account for the anticipated increase in energy use in modernized school facilities. Vehicles and employee commute emissions are projected to grow at 0.4% annually, according
+to the EIA. DCWASA does not expect its service population to increase, but the
+forecast does account for the energy consumption of known expansions of
+DCWASA operations. Emissions from traffic signals and street lighting are not
+expected to increase, while emissions from solid waste are forecast to increase
+with increases in employment.
+xiv See note ii.
+xv
+
+Savings exceed 100% of the 2006 totals because buildings emissions are projected to grow significantly under a “business as usual scenario”, and also due
+to the renewable energy purchases listed in this section applying to other sectors.
+
+xvi See note ii.
+xvii McGurkin and Srinivasan. 2003. Journey to Work Trends, 1960-2000. Chapter
+5. USDOT, FWHA Publication No. FHWA-EP-03-058. Available Online:
+http://www.fhwa.dot.gov/ctpp/jtw/
+xviii Wolf, Kathleen. 2005. Business District Streetscapes, Trees, and Consumer Response. Journal of Forestry, Vol 103 (8).
+xix Wolf, Kathleen. 2007. City Trees and Property Values. Arborist News. Available
+Online: http://www.cfr.washington.edu/research.envmind/Policy/Hedonics.pdf
+xx
+
+50
+
+American Physical Society. 2008. Energy Future, Think Efficiency. Available Online: http://www.aps.org/energyefficiencyreport/
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+We Want Your Comments and Input
+This document is a Draft for Community Discussion. You can contribute to the
+District’s climate planning effort by providing input in two ways:
+First, the District Department of the Environment (DDOE) is asking for public
+comments on the list of proposed Government Operations Actions (Section
+6.1) by November 15, 2010. You can submit comments via e-mail to
+climate.plan@dc.gov or by mail to DDOE, Climate Action Comments, 1200
+First St NE, 5th Floor, Washington, DC 20002.
+Second, you can participate in a series of public forums and meetings convened by DDOE to gather input and comments on the proposed Government
+Operations Plan (Section 6.1) and the Community Discussion Draft (Section
+6.2). More information on the climate engagement process can be found at
+www.green.dc.gov, by e-mailing climate.plan@dc.gov, or calling 202-535-2600.
+
+Climate of Opportunity: A Climate Action Plan for the District of Columbia
+Draft for Community Discussion
+
+
+
+What You Can Do …
+… to Reduce Greenhouse Gas Emissions (and Save Money)!
+Every kilowatt-hour (kWh) of electricity we avoid using prevents more than 1½
+pounds of carbon dioxide from being pumped into the atmosphere – and saves
+money. Here are some quick tips to help you use your money wisely.
+At Home and at Work
+
+☑ Conduct an energy audit to identify possible energy and water efficiency im☑
+☑
+☑
+☑
+☑
+☑
+☑
+
+provements. Look for free energy audit services offered by the District Department of the Environment!
+Purchase green power generated from wind, solar and hydroelectric. This
+option is available to all District customers – see www.greenenergy.dc.gov
+for more information on “Clean Energy Providers in the District.”
+Weatherize and insulate your space to reduce heating and cooling costs and
+make your home and workspace more comfortable.
+Adjust your thermostat to keep your home or workspace cooler in the winter
+(68° or lower) and warmer in the summer (78° or higher). A programmable
+thermostat or building management system helps to automatically regulate
+temperatures.
+Purchase only ENERGY STAR appliances and electronics; unplug electronics
+including televisions, video and stereo equipment, kitchen appliances and
+chargers when not in use (a smart powerstrip can make this easy).
+Change incandescent light bulbs to compact fluorescent or LED bulbs; install
+motion sensors and timers on switches.
+Lower the temperature on your water heater to 120° and turn it off when leaving for extended periods of time. Electric water heaters can be set on timers;
+gas heaters must be set manually.
+Set refrigerator temperatures between 37° and 40° and clean the coils regularly. Keep the refrigerator stocked; it takes more energy to cool an empty refrigerator.
+
+☑ Walk, bike or use public transportation to enjoy our beautiful city and be
+healthy. Whenever possible, leave the car at home.
+☑ Participate in the Metro SmartBenefits and MWCOG Commuter Connections
+programs to reduce vehicle use.
+☑ Reduce your number of vehicles or vehicle fleet, and convert to alternative
+fuel vehicles.
+☑ Save water by washing only full loads of dishes and clothes (in cold water),
+taking shorter showers, installing low-flow fixtures and capturing rain in rain
+barrels to water lawns and gardens.
+
+

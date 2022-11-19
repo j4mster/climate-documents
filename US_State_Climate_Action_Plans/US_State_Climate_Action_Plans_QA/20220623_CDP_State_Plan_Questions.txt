@@ -1,0 +1,235 @@
+tl;dr
+
+If you're ok with just matching a single sentence from the text to, say, a couple of the more illustrative questions, you could use the following:
+
+0 Arkansas 2008 (5 out of 5 strong match, 10 points)
+Text: Sea level rise will inundate some nearby coastal areas, and related salt-water intrusion, coupled with increased drought stress may impact water supplies.
+Q1: Please describe these current and/or anticipated impacts of climate change.
+Q3: Please detail any compounding factors that may worsen the impacts of climate change in your region.
+Comment: 10/10, plus gets the compound events right
+
+56 Florida 2008 (5 out of 5 strong match, 10 points)
+Text: The afforestation goal is to increase the area of forested lands in the state by 50,000 acres annually through 2025.
+Q1: Please provide the details of your region's target(s).
+Q2: Please provide details of your climate actions in the  Land use sector.
+Comment: 10/10, gives an explicit target, about the Land Use sector.
+
+40 DC 2010 (0 out of 5 match, 0 points)
+Text: A leading driver of these high emissions is the fact that the District’s daytime population swells by 400,000 workers every workday, which is the largest percentage increase in daytime population of any large city in the nation.
+Q4: Please indicate if your region-wide emissions have increased, decreased, or stayed the same since your last emissions inventory, and please describe why.
+Q5: Please report your region-wide base year emissions in the table below.
+Comment: maybe the words "emissions" and the number "400,000" is throwing the algorithm off here.
+
+9 Arizona 2006 (2 strong match, 2 weak match, 1 miss, 6 points)
+Text: The Executive Order also recognized that actions to reduce GHG emissions, including increasing energy efficiency, conserving natural resources and developing renewable energy sources, may have multiple benefits including economic development, job creation, cost savings, and improved air quality.
+Q1: Please indicate the opportunities and describe how the region is positioning itself to take advantage of them.
+Q2: What opportunities due to addressing climate change is your region taking advantage of?
+Comment: I like this one because it's about opportunities.
+
+11 California 2017 (2 strong match, 2 weak match, 1 miss, 6 points)
+Text: California maintains a GHG inventory that is consistent with IPCC practices to allow for comparison of the statewide GHG emissions with those at the national level and with other international GHG inventories. ... Reports from facilities and entities that emit more than 25,000 MTCO2e are verified by a CARB-accredited third-party verification body.
+Q1: Please give the name of the primary protocol, standard, or methodology you have used to calculate your government’s GHG emissions.
+Q3: Please provide the following information about the emissions verification process.
+Comment: Interesting example that captures some technical elements: methodology, verification.
+
+18 California 2014 (1 strong match, 1 weak match, 3 points)
+Text: State law defines environmental justice as the fair treatment of people of all races, cultures, and incomes with respect to the development, adoption, implementation, and enforcement of environmental laws, regulations, and policies. ARB is committed to considering environmental justice in every program and process.
+Q1: Please explain why you do not have policies on deforestation and/or forest degradation.
+Q4: Please provide details of your climate actions in the Governance sector.
+Comment: if you needed another example of the algorithm performing poorly; also interesting because it suggests that the CDP perhaps doesn't ask much about environmental justice.
+
+30 Connecticut 2005 (1 strong match, 1 weak match, 3 points)
+Text: Consider potential funding mechanisms for new transit investments, such as road pricing and the Connecticut Transportation Strategy Board’s fuel tax recommendation.
+Q4: List any emission reduction, adaptation, water related or resilience projects that you have planned within your region for which you hope to attract financing, and provide details on the estimated costs and status of the project.
+Q5: Please provide details of your climate actions in the Transport sector.
+Comment: straight-ahead transportation match, plus good match on funding, on re-reading I would re-score this as 2 strong matches
+
+61 Iowa 2008 (3 strong matches, 2 weak matches, 8 points)
+
+Text: By a majority vote, the ICCAC presents a policy option that, if deemed necessary, would build one new 1200-megawatt nuclear power plant in Iowa by January 1, 2020. 
+Q3: Please provide details of your renewable energy or electricity target(s).
+Q4: Please provide details of your climate actions in the Energy sector.
+Comment: straight-ahead energy sector match, includes an explicit target
+
+If this kind of thing works then I've attached these eight examples as an xlsx file, + all the other columns, like the full text, the full set of questions, etc.
+
+Lmk if you need more than this; I could easily come up with more interesting stuff.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+0 (complete success 5 out of 5 match on impacts)
+
+There are a variety of impacts that are expected to affect Arkansas. These include increases in severe weather events and drought, which, in turn, can be expected to adversely affect agriculture. Floods are expected to increase in frequency with related expansion of floodplains and flood damage. Sea level rise will inundate some nearby coastal areas, and related salt-water intrusion, coupled with increased drought stress may impact water supplies. In areas dependent on snow pack, such as the western United States, water supplies will be more severely affected. Ecosystems and sensitive species could be disrupted as climatic zones move north. Tropical diseases and insects will move north. Heat-related deaths will increase, although cold-related deaths will decrease. Climate change impacts in volatile regions of the world could destabilize these areas and pose a national security threat. There is also a possibility of sudden and dramatic climate change that cannot be predicted, but would have far greater and adverse impacts.
+
+q1 Please describe these current and/or anticipated impacts of climate change.
+q2 Please describe these current and/or future risks due to climate change.
+q3 Please detail any compounding factors that may worsen the impacts of climate change in your region.
+q4 Please detail factors that may increase the severity or probability of climate change impacts in your region.
+q5 Do current and/or anticipated impacts of climate change present significant physical risks to your region?
+
+It's not surprising that the algorithm gets this right. It says it's about impacts in the first sentence.
+
+But particularly impressive to me is that the algorithm matches the text to q3 "compounding factors." In the text: "... salt-water intrusion, coupled with increased drought stress may impact water supplies." Those are some compounding factors.
+
+If you're looking to keep your table on the shorter side, you could extract the single sentence:
+
+"Sea level rise will inundate some nearby coastal areas, and related salt-water intrusion, coupled with increased drought stress may impact water supplies." 
+
+and say it matched to the questions:
+
+"Please detail any compounding factors that may worsen the impacts of climate change in your region." and 
+"Please describe these current and/or future risks due to climate change."
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+56 (example of 5 out of 5 match on forestry)
+
+This recommendation seeks to increase the sequestration potential of the state’s forests by increasing the forest base through afforestation projects, increasing sequestration potential through reforestation (re‐stocking forests), and aggressive urban tree planting programs. The urban tree element of this recommendation has an additional benefit of reducing energy demand through shading of homes and commercial buildings (producing a greater GHG benefit than the sequestration of carbon in these trees). The afforestation goal is to increase the area of forested lands in the state by 50,000 acres annually through 2025. For reforestation, the goal is to implement reforestation activity on all harvested acres by 2025. For urban forestry there are both primary (based on offsetting metropolitan GHG emissions) and secondary (tree canopy cover) goals; both of these could be met through aggressive tree planting goals of 6.7 million trees on average per year through 2025.
+
+q1 Please provide the details of your region's target(s).
+q2 Please provide details of your climate actions in the  Land use sector.
+q3 Please provide details of your policies on deforestation and/or forest degradation.
+q4 Please attach and provide details of your region's forest management plan(s).
+q5 Please provide the details of your region’s target(s) on deforestation and/or forest degradation.
+
+I like this one because q1 asks for details about the target and the text explicitly states three targets:
+
+"The afforestation goal is to increase the area of forested lands in the state by 50,000 acres annually through 2025. For reforestation, the goal is to implement reforestation activity on all harvested acres by 2025. For urban forestry there are both primary (based on offsetting metropolitan GHG emissions) and secondary (tree canopy cover) goals; both of these could be met through aggressive tree planting goals of 6.7 million trees on average per year through 2025."
+
+So, you could include any one of those sentences matched to q1, and q2, say.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+40 (total miss)
+
+Compared to other cities, the District’s per capita emissions are relatively high. A leading driver of these high emissions is the fact that the District’s daytime population swells by 400,000 workers every workday, which is the largest percentage increase in daytime population of any large city in the nation. Carbon emissions are also high because much of the District’s electricity comes from burning coal at distant power plants. This carbon-intensive power must be transmitted to the city over long distances, resulting in distribution losses of energy.	
+
+q1 Please provide the details of your latest inventory’s total region-wide GHG emissions for the accounting year or 12-month period as reported in 3.2.
+q2 Please provide total emissions (Scopes 1 and 2) for your government, and indicate if your emissions have changed since your last reported year.
+q3 Please provide the details of your latest inventory’s total region-wide GHG emissions.
+q4 Please indicate if your region-wide emissions have increased, decreased, or stayed the same since your last emissions inventory, and please describe why.
+q5 Please report your region-wide base year emissions in the table below.
+
+The algorithm sees "per capita emissions" and probably also the number "400,000" so it thinks there's an emissions inventory going on.
+
+It's also a little surprising that the algorithm doesn't ask about energy or electricity specifically, e.g., the question: "Please provide details of your climate actions in the Energy sector."
+
+If I were being a little more generous in my scoring I might have said that q3 was moderately relevant.
+
+So, for this one, if you wanted to keep it brief, maybe you could say it linked the text
+
+"A leading driver of these high emissions is the fact that the District’s daytime population swells by 400,000 workers every workday, which is the largest percentage increase in daytime population of any large city in the nation."
+
+to the questions
+
+q4 Please indicate if your region-wide emissions have increased, decreased, or stayed the same since your last emissions inventory, and please describe why.
+q5 Please report your region-wide base year emissions in the table below.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+9 (short text example of possible opportunities match)
+
+The Executive Order also recognized that “actions to reduce GHG emissions, including increasing energy efficiency, conserving natural resources and developing renewable energy sources, may have multiple benefits including economic development, job creation, cost savings, and improved air quality.”
+
+q1 Please indicate the opportunities and describe how the region is positioning itself to take advantage of them.
+
+I like this example because the question is about opportunities and the text is all about opportunities.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+6 (short text example of physical risks match)
+
+The Executive Order emphasized that “Arizona and other Western States have particular concerns about the impacts of climate change and climate variability on the environment, including the potential for prolonged drought, severe forest fires, warmer temperatures, increased snowmelt, reduced snow pack and other effects.”
+
+q2 Do current and/or anticipated impacts of climate change present significant physical risks to your region?
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+11 (kind of interesting example that captures some technical elements: methodology, verification)
+
+California maintains a GHG inventory that is consistent with IPCC practices to allow for comparison of the statewide GHG emissions with those at the national level and with other international GHG inventories. Statewide GHG emissions are calculated using many data sources. The primary data source is from reports submitted to CARB through the Regulation for the Mandatory Reporting of GHG Emissions (MRR). MRR requires facilities and entities with more than 10,000 metric tons of carbon dioxide equivalent (MTCO2e) of combustion and process emissions, all facilities belonging to certain industries, and all electric power entities to submit an annual GHG emissions data report directly to CARB. Reports from facilities and entities that emit more than 25,000 MTCO2e are verified by a CARB-accredited third-party verification body.
+
+q1 Please give the name of the primary protocol, standard, or methodology you have used to calculate your government’s GHG emissions.
+
+q3 Please provide the following information about the emissions verification process.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+12 (example of getting it mostly right)
+
+The proposed new regulation to achieve a 20 percent GHG reduction in the refinery sector would require all refineries, by 2030, to achieve the benchmark of the most efficient existing refinery on a simple barrel basis. An efficiency benchmark is reflected as GHG emissions per unit of product. This regulation would not limit mass GHG emissions, but would require facilities to become more efficient through any combination of actions such as fuel switching; boiler electrification; onsite investments in newer, more energy efficient technologies; use of lighter crude slates; and any other process efficiencies that would be identified in consultation with local air districts and CARB. As part of the development process for this measure, other metrics such as complexity- weighted barrel may also be evaluated.
+
+q1 through q4 are hits, q5 is a miss
+
+q1 Please describe how the master plan is designed to promote achieving GHG reductions.
+q2 Please provide details of your climate actions in the Energy sector.
+q3 Please provide the details of your energy efficiency target(s).
+q4 Does your region have an energy efficiency target in place at the region-wide level and/or your government operations?
+q5 Please explain why you do not have an energy efficiency target.
+
+The q5 miss is interesting because the algorithm generates this kind of miss fairly frequently: "why haven't you?" "why don't you" "why didn't you" when the text explicitly lays out how the state is doing exactly those things.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+18 (example of a miss on environmental justice)
+
+State law defines environmental justice as the fair treatment of people of all races, cultures, and incomes with respect to the development, adoption, implementation, and enforcement of environmental laws, regulations, and policies. ARB is committed to considering environmental justice in every program and process.
+
+q1 through q3 are misses, q4 is sort of relevant, q5 is more relevant, but this example suggests that, at least in most of the training data, there was no "environmental justice" or "equity" or "fairness" or "justice" question. I'm not sure if this is or isn't in fact the case. If it is the case that most of the CDP questionnaires don't include climate justice then it's kind of an interesting result. (I could imagine that EJ has only recently become a topic for CDP.)
+
+q1 Please explain why you do not have policies on deforestation and/or forest degradation.
+q2 Please provide details of your region's forests-related policies.
+q3 Please complete the table below.
+q4 Please provide details of your climate actions in the Governance sector.
+q5 Report the socio-economic impacts that your region faces as a result of climate-related risks and describe the actions taken to reduce these risks.
+
+My guess is that the algorithm sees the word "environmental" and thinks "forest" but that's just a guess. q3 is an example of a question that should be removed from a future cleaner implementation. q4 and q5 are sort of relevant, but not really.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+65 (example of a Covid miss, there were several of these)
+
+The positive economic outcomes are largely due to policies that would replace imports of coal, oil, and natural gas with in-state investments in renewable energy and energy efficiency measures. Dollars that would otherwise be exported to out-of-state companies are instead invested in Illinois. Although electricity rates would increase modestly due to compliance costs for fossil fuel electric power plants, the amount of the rate increases is reduced over time. In addition, the rate increases are more than offset by the energy efficiency measures that would reduce overall energy costs through energy savings for homes and businesses as noted above.
+
+q1 Please provide information on the overall impact of COVID-19 on climate action in your region.
+q2 Please provide the details of your region’s current, historical and projected GDP in the currency reported in question 1.1.
+q3 Please indicate the opportunities and describe how the region is positioning itself to take advantage of them.
+q4 What opportunities due to addressing climate change is your region taking advantage of?
+q5 Please provide information specifically on the impact of the COVID-19 economic response on climate action in your region and synergies between COVID-19 recovery interventions and climate action.
+
+So, almost all of the state climate action plans were written pre-Covid, so I think it's a little odd that we got so many matches to Covid questions (15 of the 100 * 5 questions I reviewed). I'd be interested to read through some of the CDP answers to the Covid questions to try to figure out what it's picking up on.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+38 (example of a straight-ahead match with Finance and Economy)
+
+A carbon fee policy represents the greatest opportunity to raise revenue while reducing economy-wide GHG emissions. A carbon fee charges a fee based on the amount of CO2 emissions released through fossil fuel combustion. A properly priced carbon fee will provide a strong, systematic monetary incentive to transition away from fossil fuels toward a more innovative, clean energy economy.33 Revenues generated from a carbon fee can be reinvested in climate change adaptation and mitigation efforts that provide meaningful local and state economic, environmental, and public health benefits.34 In addition, because carbon fees increase according to a predetermined schedule, they provide market certainty allowing companies and consumers alike to effectively plan how to adjust their operations and behaviors. Carbon fees can also be set in a manner that protects low-and moderate-income households from higher costs, and supports a just transition for impacted workers, communities and businesses.
+
+q5 Please provide details of your climate actions in the Finance & Economy sector.
+q1 List any emission reduction, adaptation, water related or resilience projects that you have planned within your region for which you hope to attract financing, and provide details on the estimated costs and status of the project.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+39 (example of a straight-ahead match with Transportation + mismatch on Covid)
+
+Congestion pricing is a travel-demand-management strategy to reduce wasted time and energy associated with traffic congestion. According to the Federal Highway Administration there are four main types of pricing strategies: Variably priced lanes — variable tolls on separated lanes within a highway, such as express toll lanes or high occupancy toll Lanes. Variable tolls on entire roadways — both on toll roads and bridges, as well as on existing toll-free facilities during rush hours. Cordon charges — either variable or fixed charges to drive within or into a congested area within a city. Area-wide charges — per-mile charges on all roads within an area that may vary by level of congestion.
+
+q5 Please provide details of your climate actions in the Transport sector.
+q1 Please provide information specifically on the impact of the COVID-19 economic response on climate action in your region and synergies between COVID-19 recovery interventions and climate action.
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+61
+
+By a majority vote, the ICCAC presents a policy option that, if deemed necessary, would build one new 1200-megawatt nuclear power plant in Iowa by January 1, 2020. It is currently estimated that it would take approximately 10–12 years to design, permit, and construct a new nuclear power plant. Therefore, steps should be taken today if Iowa chooses to employ nuclear power as part of a balanced and diversified energy portfolio that achieves Iowa’s long-term carbon emission reduction goals. The focus of this particular option is to determine the economic feasibility of nuclear power in a carbon-constrained environment, and to define specific state legislative and regulatory actions to facilitate licensing, financing, and construction of a new nuclear power plant in Iowa. There are considerable uncertainties about the cost characteristics of new nuclear power. The latest numbers for nuclear power, based on an average of data prepared by Progress Energy Florida and Florida Power and Light, estimate the total levelized unit cost of nuclear power is $100/MWh ($2006 dollars) generated.2 This is nearly double the $52/MWh used in the quantification for CRE-7 in Iowa.
+
+q1 Please comment on the plan, detailing any progress towards achieving the plan's objectives and its level of integration within your broader region-wide mitigation policies and/or climate action strategy.
+q2 Does your region have a renewable energy or electricity target in place at the region-wide level and/or your government operations?
+q3 Please provide details of your renewable energy or electricity target(s).
+q4 Please provide details of your climate actions in the Energy sector.
+q5 List any emission reduction, adaptation, water related or resilience projects that you have planned within your region for which you hope to attract financing, and provide details on the estimated costs and status of the project. If your region does not have any relevant projects, please select “No relevant projects” under Project Area.
+

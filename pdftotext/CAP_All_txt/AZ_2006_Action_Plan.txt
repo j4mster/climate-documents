@@ -1,0 +1,859 @@
+
+
+
+
+Climate Change Advisory Group
+Membership
+Sandy Bahr
+Conservation Outreach Director
+Sierra Club
+Grand Canyon Chapter
+David Berry
+Vice President
+Public Affairs
+Swift Transportation
+Mike Boyd
+Director
+Western Wind Energy
+Roger Clark
+Director
+Air and Energy Program
+Grand Canyon Trust
+Margaret Cook
+Director
+Department of
+Environmental Quality
+Gila River Indian Community
+James W. Crosswhite
+Rancher
+EC Bar Ranch
+Nutrioso, AZ
+Dannion Cunning
+President and
+Chief Executive Officer
+Lake Havasu City Convention &
+Visitors Bureau
+Cosimo De Masi
+Manager
+Corporate Environmental Services
+Tucson Electric Power
+Kara Downey
+Manager
+Environmental, Safety and
+Health Services
+Arizona Electric Power
+Cooperative
+Rob Elliott
+Arizona Raft Adventures
+Kirsten Engel
+Professor of Law
+James E. Rogers College of Law
+University of Arizona
+Stephen Etsitty
+Director
+Environmental Protection Agency
+Navajo Nation
+
+Edward Fox
+Vice President
+Communications,
+Environment and Safety
+Pinnacle West/
+Arizona Public Service
+Grady Gammage, Jr.
+Attorney
+Gammage & Burnham PLC
+Steve Gatewood
+Director
+Greater Flagstaff Forest
+Partnership
+Richard Hayslip
+Assistant General Manager
+Environmental, Land, Risk
+Management and Telecom
+Salt River Project
+Jim Henness
+Farmer
+Casa Grande, AZ
+Jeff Homer
+Environmental,
+Health and Safety
+General Dynamics
+Kevin Kinsall
+Vice President
+Government Relations
+Phelps Dodge
+Ursula Kramer
+Director
+Pima County Department of
+Environmental Quality
+Willis Martin
+Vice President
+Land Acquisition
+Pulte Homes and Communities
+of Del Webb
+R. Glenn McGinnis
+Chief Executive Officer
+Arizona Clean Fuels Yuma, LLC
+Tim Mohin
+Director
+Sustainable Development
+Intel Corporation
+Don Netko
+Director, Arizona Site Services,
+Issues Management and
+Corporate EHS
+Freescale Semiconductor
+
+y
+ii
+
+Karen O’Regan
+Manager
+Environmental Programs
+City of Phoenix
+Steve Owens
+Director
+Arizona Department of
+Environmental Quality
+Bill Pfeifer
+President and
+Chief Executive Officer
+American Lung Association
+of Arizona
+Suzanne Pfister
+Vice President
+Marketing, Communications
+and Public Relations
+St. Joseph’s Hospital
+Bobby Ramirez
+Manager
+Cultural and Environmental
+Services
+Salt River Pima-Maricopa
+Indian Community
+Jeff Schlegel
+Arizona Representative
+Southwest Energy Efficiency
+Project
+George Seitts
+Director
+Arizona Department of Weights
+and Measures
+Sean Seitz
+President
+Arizona Solar Energy Industry
+Association
+Thomas Swetnam
+Professor
+Laboratory of
+Tree-Ring Research
+University of Arizona
+Penny Allee Taylor
+Administrator
+Corporate Public Affairs
+Southwest Gas Corporation
+Richard W. Tobin II
+Attorney
+Lewis and Roca LLP
+
+
+
+Executive Summary
+Executive Order 2005-02
+
+On February 2, 2005, Governor Janet Napolitano signed Executive Order
+2005-02 establishing the Climate Change Advisory Group (CCAG). Appointed
+by the Governor, the 35-member CCAG comprised a diverse group of stakeholders
+who brought broad perspective and expertise to the topic of climate change
+in Arizona. The Governor’s Executive Order directed the CCAG, under the
+coordination of the Arizona Department of Environmental Quality (ADEQ), to:
+1) prepare an inventory and forecast of Arizona greenhouse gas (GHG)
+emissions; and
+2) develop a Climate Change Action Plan with recommendations for
+reducing GHG emissions in Arizona.
+The Executive Order emphasized that “Arizona and other Western States
+have particular concerns about the impacts of climate change and climate
+variability on the environment, including the potential for prolonged drought,
+severe forest fires, warmer temperatures, increased snowmelt, reduced snow
+pack and other effects.”
+The Executive Order also recognized that “actions to reduce GHG emissions,
+including increasing energy efficiency, conserving natural resources and
+developing renewable energy sources, may have multiple benefits including
+economic development, job creation, cost savings, and improved air quality.”
+
+The CCAG Process
+
+The CCAG held its first meeting on July 14, 2005, followed by a year of
+intensive fact-finding and consensus building, facilitated by the Center for
+Climate Strategies (CCS). The CCAG met six times during this period, and five
+sector-based technical work groups (TWGs) of the CCAG — Energy Supply (ES);
+Residential, Commercial, Industrial and Waste Management (RCI);
+Transportation and Land Use (TLU); Agriculture and Forestry (AF); and CrossCutting Issues (CC) – met a total of 40 times via teleconference.
+The recommendations adopted by the CCAG underwent two levels of
+screening. First, a potential policy option being considered by a TWG was
+accepted as a “priority for analysis” and developed for full analysis only if it
+had a supermajority of support from CCAG members (with a “supermajority”
+defined as five or fewer “no” votes or objections). Second, after the analyses
+were conducted, only policy options that received at least majority support
+from CCAG members were adopted as recommendations by the CCAG and
+included in this report.
+Of the 49 policy recommendations adopted by the CCAG, 45 received
+unanimous consent, two (2) received a supermajority of support, and two (2)
+received a majority of support.
+
+y
+E1
+
+
+
+Emissions Inventory and Forecast
+
+Prior to the first meeting of the CCAG, a preliminary inventory and forecast
+of GHG emissions for Arizona for years 1990 through 2020 was produced pursuant to Executive Order 2005-02.
+The inventory provided several critical findings, including:
+• Between 1990 and 2005 Arizona’s net GHG emissions increased by
+nearly 56%, from an estimated 59.3 million metric tons carbon dioxide
+equivalent (MMtCO2e) to an estimated 92.6 MMtCO2e.
+• Arizona’s GHG emissions are forecasted to increase by 148% from 1990
+to 2020, taking into account the effects of recent energy efficiency
+actions adopted by the State. Without these actions emissions growth
+in 2020 would be forecasted to increase by 159% over 1990 levels.
+• The transportation and electricity sectors account for more than threefourths – roughly 77% -- of Arizona’s total GHG emissions.
+Figure E-1 below shows the relative amount of GHG emissions contributed
+by each sector in 2000.
+Figure E-1
+
+Arizona Greenhouse Gas (GHG) Emissions in 2000
+
+y
+E2
+
+
+
+Figure E-2 below shows how Arizona’s projected growth in GHG emissions
+compares to the growth rates in other states with climate action plans.
+Figure E-2
+
+Comparison of 1990-2020 GHG Emissions Growth
+for States with Climate Plans
+
+While Arizona’s high emissions growth rate presents challenges, it also
+provides major opportunities. Because more than three-fourths of Arizona’s
+GHG emissions are directly related to energy and transportation, the opportunity
+exists for Arizona to reduce its GHG emissions while continuing its strong
+economic growth by being more energy efficient, using more renewable energy
+sources, building new infrastructure “right” in the first place to produce lower
+GHG emissions and increasing the use of cleaner transportation modes,
+technologies and fuels.
+
+The CCAG’s Recommended Policy Options
+
+The CCAG is recommending a comprehensive set of 49 policy options to
+reduce GHG emissions in Arizona. The CCAG strongly recommends early and
+aggressive implementation of the recommendations and a corresponding set
+of incentives to promote their early adoption. The CCAG believes that early
+action and implementation of its policy recommendations are critical to put
+Arizona quickly on the path toward significant emissions reductions. The CCAG
+also urges that the policy options be implemented as a set, to the greatest
+extent practicable, to achieve the maximum GHG emissions reductions possible.
+Overarching Recommendation: Set a State Goal to Reduce Arizona’s GHG
+Emissions to 2000 Levels by 2020 and to 50% below 2000 Levels by 2040.
+As an overarching policy matter, the CCAG recommends that Arizona
+establish a statewide goal of reducing future GHG emissions to a level equal
+to 2000 emissions by the year 2020 and to 50% below the 2000 emissions
+level by the year 2040.
+
+y
+E3
+
+
+
+The recommended goal for reductions in Arizona’s GHG emissions reflects
+the CCAG’s policy options recommendations. In fact, the CCAG’s recommended
+policy options, if fully implemented, could reduce GHG emissions in Arizona by
+several million metric tons more than the amounts called for in the
+recommended goal. The CCAG’s policy options could cut Arizona’s GHG emissions
+by more than 69 MMtCO2e in 2020, reducing GHG emissions to more than
+five percent (5%) below the 2000 level. Cumulative GHG emissions reductions
+from 2007-2020 for all the policy options combined could total more than
+485 MMtCO2e (adjusted for overlap to avoid double-counting of reductions).
+Figure E-3 below shows the annual GHG reductions that could be achieved
+by sector through the CCAG’s recommended policy options from 2010 to 2020.
+As Figure E-3 illustrates, a significant portion of the achievable reductions are
+associated with energy efficiency and renewable energy policy options in the
+residential, commercial, and industrial sectors.
+Figure E-3
+
+2010 through 2020 GHG Reductions, by Sector
+
+AF – Agriculture and Forestry
+TLU – Transportation and Land Use
+ES – Energy Supply
+RCI – Residential Commercial Industrial (fuel use)
+
+y
+E4
+
+
+
+The recommended goal for Arizona is consistent with the goals set by other
+states, including those in the West, that are implementing GHG reduction strategies:
+AZ
+
+2000 levels by 2020; 50 percent below 2000 levels by 2040
+
+CA
+
+2000 levels by 2010; 1990 levels by 2020;
+80 percent below 1990 levels by 2050
+
+CT
+
+1990 levels by 2010; 10 percent below by 2020; 75 percent below by 2100
+
+MA
+
+1990 levels by 2010; 10 percent below by 2020; 75 percent below by 2100
+
+ME
+
+1990 levels by 2010; 10 percent below by 2020; 75 percent below by 2100
+
+NJ
+
+3.5 percent below 1990 levels by 2005
+
+NM
+
+2000 levels by 2012; 10 percent below by 2020; 75 percent below 2050
+
+NY
+
+5 percent below 1990 by 2010; 10 percent below 1990 levels by 2020
+
+OR
+
+1990 levels by 2010; 10 percent below by 2020; 75 percent by 2050
+
+RI
+
+1990 levels by 2010; 10 percent below by 2020; 75 percent by 2100
+
+WA
+
+1990 levels by 2020; 70-80 percent below 1990 levels by 2050
+
+(Puget Sound)
+
+Reducing Arizona’s GHG emissions to the recommended levels through
+full implementation of all of the CCAG’s recommendations also would result in
+significant economic benefits for the state, including substantial economic
+cost savings, new job creation and enhanced economic development. The
+Center for Climate Strategies (CCS) has calculated overall net economic cost
+savings from the CCAG’s recommendations of more than $5.5 billion between
+2007-2020, with additional significant cost savings also expected between
+2020-2040 (although not calculated by CCS). The CCS also has calculated an
+average net economic cost savings of nearly $13 per ton of GHG emisssions
+reduced under the CCAG’s recommended policy options (if fully implemented).
+
+y
+E5
+
+
+
+The Policy Options
+
+The CCAG is recommending a comprehensive set of forty-nine (49)
+policy options:
+Cross-Cutting (CC) Issues
+The CCAG is recommending five (5) policy options to facilitate reductions
+in Arizona’s GHG emissions across economic sectors and address issues
+associated with climate change. These policy options include:
+•Set a State GHG Reduction Goal (as stated above) (CC-1)
+•Establish a GHG Emissions Reporting Mechanism (CC-2)
+•Establish a GHG Emissions Registry (CC-3)
+•Undertake Climate Action Education and Outreach (CC-4)
+•Develop a State Climate Change Adaptation Strategy (CC-5)
+Residential, Commercial, Industrial and Waste Management (RCI) Sectors
+The CCAG is recommending a set of twelve (12) policy options to reduce
+emissions from the RCI sector, including improving energy efficiency, substituting lower-emissions energy resources, and strategies to reduce emissions
+from the production of electricity consumed by the RCI sector. The state’s
+rapid growth and limited pursuit of energy efficiency to date offers particularly
+strong opportunities to reduce emissions through improving the efficiency of
+buildings, appliances and industrial practices. The RCI policy options include:
+•Set Demand-Side Efficiency Goals and Establish Funds, Incentives, and
+Programs to Achieve Them (RCI-1)
+•Establish State Leadership Programs to Achieve Energy Savings and
+Promote Clean Energy (RCI-2)
+•Implement Enhanced Appliance Efficiency Standards (RCI-3)
+•Adopt Building Standards/Codes/Design Incentives for Energy Efficiency
+and Smart Growth (RCI-4 & RCI 5)
+•Encourage Distributed Generation of Renewable Energy and Combined
+Heat and Power (RCI-6 & RCI 7)
+•Implement Electricity Pricing Strategies that Support Energy
+Conservation (RCI-8)
+•Promote Low-Global-Warming-Potential Refrigerants in Commercial
+Operations (RCI-9)
+•Provide Incentives for Consumers to Switch to Low GHG Energy Sources
+(RCI-10)
+•Increase Recycling and Solid Waste Management and Reduction (RCI-12)
+•Increase Water Use Efficiency and Promote Energy Efficiency and
+Renewable Energy Production from Water and Wastewater Management
+(RCI-13)
+
+y
+E6
+
+
+
+Energy Supply (ES) Sector
+The CCAG is recommending a set of eight (8) policy options to significantly
+reduce GHG emissions from the ES sector. The principal challenge in addressing GHG emissions from Arizona’s electricity sector is the state’s extraordinary
+growth rate and the accompanying projected increase in energy demand.
+New policies are needed to increase utilization of Arizona’s renewable energy
+resources, like solar, wind, biomass and geothermal, and reduce reliance on
+pulverized coal technology. The ES policy options include:
+•Increase the Environmental Portfolio Standard by 1% each year through
+2025 (ES-1)
+•Provide Incentives for and Encourage Investment in Renewable Energy
+(ES-3)
+•Explore Development of a National or Regional GHG Cap and Trade
+Program (ES-4)
+•Implement Carbon Intensity Targets (ES-6)
+•Reduce Barriers to Renewables and Distributed Generation of Clean
+Energy (ES-9)
+•Implement Net Metering and Advanced Metering for Energy
+Consumption (ES-10)
+•Implement Pricing Strategies to Promote Energy Conservation and Use
+of Renewable Energy (ES-11)
+•Implement Integrated Resource Planning (ES-12)
+Transportation and Land Use (TLU) Sector
+The CCAG is recommending a set of thirteen (13) policy options to reduce
+GHG emissions reductions from the TLU sector, including improved vehicle
+fuel efficiency, increased usage of lower-emissions fuels, greater use of loweremissions means of travel and land use and other strategies to decrease the
+growth in fuel use and vehicle miles traveled (VMT). GHG emissions from the
+TLU sector, which are expected to more than double by 2020 (over 1990
+levels), are influenced by transportation technologies and fuels, along with
+population, economic growth and land use policies that affect the demand for
+transportation services. The TLU policy options include:
+•Adopt the Clean Car Program (TLU-1)
+•Implement Policies to Promote Smart Growth Planning, Infill, Increased
+Density and Transit-Oriented/Pedestrian Friendly Development (TLU-2)
+•Promote Multi-Modal Transit (TLU-3)
+•Reduce Vehicle Idling (TLU-4)
+•Set Standards for Alternative Fuels (TLU-5)
+•Provide Incentives for Hybrid Vehicles (TLU-7)
+•Explore Feebates (TLU-8)
+•Implement a Pilot Program for Pay-As-You-Drive Insurance (TLU-9)
+
+y
+E7
+
+
+
+•Encourage Low Rolling Resistance Tires and Promote Proper Tire
+Inflation (TLU-10)
+•Provide Incentives for Accelerated Replacement/Retirement of
+High-Emitting Diesel Vehicles (TLU-11)
+•Increase the Use of Biodiesel (TLU-12)
+•Implement Practices and Procurement Policies to Achieve a Lower-GHGEmitting State Vehicle Fleet (TLU-13)
+•Reduce the Speed Limit to 60 mph for Commercial Trucks on
+Highways/Freeways (TLU-14)
+Agriculture and Forestry (AF) Sectors
+The CCAG is recommending eleven (11) policy options for the AF sectors.
+While the AF sectors are directly responsible for only a small amount of
+Arizona’s current GHG emissions, there are opportunities for GHG reductions
+in the sectors, as well as reductions in overall GHG emissions in the state by
+increased carbon sequestration through new policies and practices in the AF
+sectors. The AF policy options include:
+•Use Manure Digesters to Reduce Methane Emissions from Livestock
+Operations and Promote Energy Use of the Captured Methane (A-1)
+•Use Biomass Feedstocks for Electricity or Steam Production (A-2)
+•Increase Ethanol Production and Use (A-3)
+•Convert Agricultural Land to Grassland or Forest to Increase Carbon
+Sequestration (A-7)
+•Reduce Conversion of Farm and Rangelands to Developed Uses (A-8)
+•Promote Consumption of Locally Produced Agricultural Commodities to
+Reduce Transportation Emissions (A-9)
+•Decrease the Conversion of Forestland to Developed Uses (F-1)
+•Increase Reforestation and Restoration of Forestland (F-2)
+•Improve Forest Ecosystem Management (F-3a & 3b)
+•Improve Commercialization of Biomass Gasification and Combined Cycle
+Technologies (F-4)
+
+GHG Reductions from the Recommended Policy Options
+Figure E-4 below shows the amount of GHG emissions reductions achievable
+under each individual, quantified policy option cumulatively from 2007-2020,
+ranked by its GHG reduction potential. The CCS was able to quantify the GHG
+emissions reduction potential for 35 of the 49 total recommended policy options.
+
+y
+E8
+
+
+
+CCAG Recommended Policy Options,
+by Quantified Indvidual GHG Reduction 2007-2020
+140
+
+120
+
+2007-2020 MMtCO2e
+
+100
+
+80
+
+60
+
+40
+
+20
+
+U
+
+-9
+
+2
+F-
+
+A
+
+-8
+
+3
+
+A
+U
+TL
+
+F-
+
+1
+F-
+
+-2
+A
+
+-1
+
+TL
+
+C
+R
+
+3b
+
+-1
+1
+
+A
+
+-1
+
+a
+
+I-2
+
+0
+
+3
+U
+
+-1
+
+I-1
+
+-1
+U
+TL
+
+-1
+U
+
+TL
+
+TL
+
+R
+4
+
+C
+
+F2
+
+C
+
+3a
+
+I-3
+
+I-7
+I-1
+C
+R
+
+-3
+
+-4
+U
+TL
+
+ES
+
+I-4
+C
+R
+
+ES
+
+-9
+
+0
+
+R
+
+-9
+U
+
+-1
+1
+
+C
+R
+
+TL
+
+I-8
+
+ES
+
+I-5
+
+C
+R
+
+-3
+
+C
+R
+
+A
+I-6
+
+-2
+U
+
+C
+
+U
+
+-1
+R
+
+TL
+
+-6
+ES
+
+-1
+
+2
+
+ES
+
+ES
+2
+I-1
+C
+R
+
+I-1
+C
+
+TL
+
+-1
+
+0
+
+R
+
+Figure E-4
+
+AZ CCAG Policy Option
+
+Policy Option
+
+MMtCO2e
+
+Environmental Portfolio Standard/Renewable Energy Standard and Tariff (ES-1)
+
+116.00
+
+Demand-Side Efficiency Goals, Funds, Incentives, and Programs (RCI-1)
+
+103.00
+
+Carbon Intensity Targets (ES-6)
+
+70.40
+
+Solid Waste Management (RCI-12)
+
+36.00
+
+State Clean Car Program (TLU-1)
+
+32.50
+
+Integrated Resource Planning (ES-12)
+
+28.00
+
+Ethanol Production and Use (A-3)
+
+28.00
+
+Smart Growth Bundle of Options (TLU-2)
+
+26.70
+
+“Beyond Code” Building Design Incentives and Programs for Smart Growth (RCI-5)
+
+18.00
+
+Distributed Generation/Combined Heat and Power (RCI-6)
+
+16.00
+
+Electricity Pricing Strategies (RCI-8)
+
+16.00
+
+Reduce Barriers to Renewables and Clean Distributed Generation (ES-9)
+
+16.00
+
+Pricing Strategies (ES-11)
+
+16.00
+
+Building Standards/Codes for Smart Growth (RCI-4)
+
+14.00
+
+Pay-As-You-Drive Insurance (TLU-9)
+
+12.30
+
+Reduction of Vehicle Idling (TLU-4)
+
+11.80
+
+Distributed Generation/Renewable Energy Applications (RCI-7)
+
+10.00
+
+Direct Renewable Energy Support (ES-3)
+(including Tax Credits and Incentives, R&D, and siting/zoning)
+
+10.00
+
+Appliance Standards (RCI-3)
+
+7.00
+
+Demand-Side Fuel Switching (RCI-10)
+
+7.00
+
+Forest Ecosystem Management – Residential Lands (F-3a)
+
+6.40
+
+y
+E9
+
+
+
+Policy Option
+
+MMtCO2e
+
+Biodiesel Implementation (TLU-12)
+
+6.20
+
+Water Use and Wastewater Management (RCI-13)
+
+6.00
+
+60 mph Speed Limit for Commercial Trucks (TLU-14)
+
+5.20
+
+Low Rolling Resistance Tires and Tire Inflation (TLU-10)
+
+4.80
+
+Biomass Feedstocks for Electricity or Steam Production (A-2)
+
+4.54
+
+Manure Management – Manure Digesters (A-1)
+
+3.82
+
+Forestland Protection from Developed Uses (F-1)
+
+3.73
+
+State Leadership Programs (RCI-2)
+
+3.00
+
+Forest Ecosystem Management – Other Lands (F-3b)
+
+2.90
+
+Reduce Conversion of Farm and Rangelands to Developed Uses (A-8)
+
+1.59
+
+Accelerated Replacement/ Retirement of High-Emitting Diesel Fleet (TLU-11)
+
+1.20
+
+Reforestation/Restoration of Forestland (F-2)
+
+0.65
+
+State Lead-By-Example (via Procurement and SmartWay) (TLU-13)
+
+0.40
+
+Programs to Support Local Farming/Buy Local (A-9)
+
+0.15
+
+The data presented illustrate the potential “stand alone” GHG emissions
+reductions achievable separately under each individual policy option if the
+option was implemented solely by itself and not in conjunction with other policy
+options. The potential GHG emissions reduction figures do not account for overlaps that could occur between reductions achievable under individual policy
+options if the options were implemented together.
+For example, while Figure E-4 shows cumulative GHG emissions reductions
+of 116 MMtCO2e for policy option ES-1 as a “stand alone” option, the total
+would become 70.3 MMtCO2e if the option were implemented in conjunction
+with all of the other recommended policy options, due to overlaps (especially
+with the RCI sector). See pages H-3 to H-4 in Appendix H. The same principle
+applies for ES-6, which changes from 70.4 MMtCO2e to 50.3 MMtCO2e. See
+page H-18 in Appendix H. When adjusted for overlaps to avoid double counting,
+the cumulative GHG emissions reductions potentially achievable from 20072020 through full implementation of all of the CCAG’s recommended policy
+options is 485.4 MMtCO2e. See Table 1-3 on page 24 and footnote 15.
+
+y
+E10
+
+
