@@ -8,7 +8,7 @@
 
 ## html cleaning
 * script to clean all the img tags from a washed html file
-* currently only cleans 1 file at a time. working on 
+* currently only cleans 1 file at a time. working on editing it to clean all the documents in a folder
 
 ## cloudconvert
 * all the pdf->plaintext documents i got from converting using cloudconvert
