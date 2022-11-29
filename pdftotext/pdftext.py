@@ -1,14 +1,13 @@
 import os
 import pdftotext
 
-# dir = r'/Users/jxc/PycharmProjects/internship/Orig_CAP_5_pdf'
-# newdir = r'/Users/jxc/PycharmProjects/internship/pdftotext/CAP_5_txt'
+# dir = r'/../climate_documents/Orig_CAP_5_pdf'
+# newdir = r'/../climate_documents/pdftotext/CAP_5_txt'
+# dir = path
+
 path = input('What is the path to the folder with the original documents? ')
 fin = input('What is the path to the folder that you want the final documents in? ')
 
-# dir = path
-# dir = r'Users/jxc/PycharmProjects/internship/Orig_CAP_5_pdf'
-# newdir = r'/Users/jxc/PycharmProjects/internship/pdftotext/CAP_5_txt'
 print(os.getcwd())
 for x in os.scandir(path):
     if x.is_file():
