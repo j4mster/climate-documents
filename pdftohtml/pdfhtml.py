@@ -1,4 +1,3 @@
-import aspose.words as aw
+from PDFNetPython3 import *
 
-doc = aw.Document("Input.pdf")
-doc.save("Output.html")
+Convert.ToHtml(filename, output_filename)
