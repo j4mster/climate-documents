@@ -1,8 +1,8 @@
 import re
 
 
-path = '/Users/jxc/PycharmProjects/internship/htmlcleaner/AZhtmlwashed.html'
-newpath = '/Users/jxc/PycharmProjects/internship/htmlcleaner/AZhtmlcleaned.html'
+path = '/Users/jxc/Documents/GitHub/climate-documents/pdfhtml_test_simple/AR_2008_Action_Plan-html-washed.html'
+newpath = '/Users/jxc/Documents/GitHub/climate-documents/pdfhtml_test_simple/AR_2008_Action_Plan-html-cleaned.html'
 file = open(path, 'r', encoding='utf-8')
 text = file.read()
 
